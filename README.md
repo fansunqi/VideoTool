@@ -11,7 +11,7 @@ This repository is the official implementation of [Tool-Augmented Spatiotemporal
 
 - [ ] Release all video tools and test scripts
 
-- [ ] Release toolChain algorithm (STAR)
+- [ ] Release toolchain algorithm (STAR)
 
 - [ ] Release evaluating scripts
 
