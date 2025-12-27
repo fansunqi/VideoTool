@@ -91,19 +91,3 @@ Generalist Solution:
   git clone git@github.com:doc-doc/NExT-QA.git
   ```
   specify your data path in ```config/nextqa.yaml```
-
-## Configs
-
-
-## Run and evaluate
-
-Specify your config file and run:
-```
-python main.py
-```
-
-Evaluate:
-
-```
-python eval.py
-```
