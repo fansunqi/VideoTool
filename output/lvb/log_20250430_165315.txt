@@ -1,0 +1,313 @@
+
+Building lvb dataset...
+
+
+Processing: CGngv8vTQOs
+/mnt/Shared_03/fsq/LongVideoBench/videos/CGngv8vTQOs.mp4
+922.48
+Input prompt:  What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left, E.Falling vertically down.
+VideoQA inference input: What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left, E.Falling vertically down.
+Output Answer:  C. Flying straight up
+
+
+Processing: @kerstinong-7197781091162279169
+/mnt/Shared_03/fsq/LongVideoBench/videos/7197781091162279169.mp4
+19.266666666666666
+Input prompt:  What change happens to this woman? Choose your answer from below options: A.The gray shorts change to black shorts., B.She goes from not wearing sunglasses to wearing sunglasses., C.The white short-sleeved top changes to a pink plaid long-sleeved top., D.She goes from not wearing a hat to wearing a hat., E.Her hair changes from black to yellow..
+VideoQA inference input: What change happens to this woman? Choose your answer from below options: A.The gray shorts change to black shorts., B.She goes from not wearing sunglasses to wearing sunglasses., C.The white short-sleeved top changes to a pink plaid long-sleeved top., D.She goes from not wearing a hat to wearing a hat., E.Her hair changes from black to yellow..
+Output Answer:  C. The white short-sleeved top changes to a pink plaid long-sleeved top.
+
+
+Processing: Lc7RikDaa30
+/mnt/Shared_03/fsq/LongVideoBench/videos/Lc7RikDaa30.mp4
+191.88
+Input prompt:  Which of the following concepts is mentioned first? Choose your answer from below options: A.The COE prices in Singapore have always been high, B.COE prices are determined by supply and demand, C.Using cars is the real issue, D.We need a rational and accurate road pricing system, E.More Singaporeans can own cars.
+VideoQA inference input: Which of the following concepts is mentioned first? Choose your answer from below options: A.The COE prices in Singapore have always been high, B.COE prices are determined by supply and demand, C.Using cars is the real issue, D.We need a rational and accurate road pricing system, E.More Singaporeans can own cars.
+Output Answer:  A. The COE prices in Singapore have always been high.
+
+
+Processing: mS1QPVgBDQo
+/mnt/Shared_03/fsq/LongVideoBench/videos/mS1QPVgBDQo.mp4
+1950.7154333333333
+Input prompt:  What change occurs to the woman in the middle, who is wearing a red and blue checkered shirt and has white hair? Choose your answer from below options: A.She put on a white hat, B.She put on a black hat, C.Her hair turned black, D.She tied a black ribbon around her head, E.She changed into a white suit.
+VideoQA inference input: What change occurs to the woman in the middle, who is wearing a red and blue checkered shirt and has white hair? Choose your answer from below options: A.She put on a white hat, B.She put on a black hat, C.Her hair turned black, D.She tied a black ribbon around her head, E.She changed into a white suit.
+Output Answer:  A. She put on a white hat.
+
+
+Processing: M7YSCIkUaNw
+/mnt/Shared_03/fsq/LongVideoBench/videos/M7YSCIkUaNw.mp4
+522.897375
+Input prompt:  Lin, what item appears on the screen? Choose your answer from below options: A.A burning white candle, B.A little girl, C.A courier paper box, D.Santa Claus mug, E.Two books.
+VideoQA inference input: Lin, what item appears on the screen? Choose your answer from below options: A.A burning white candle, B.A little girl, C.A courier paper box, D.Santa Claus mug, E.Two books.
+Output Answer:  A. A burning white candle
+
+
+Processing: -Xg2-SUq6wo
+/mnt/Shared_03/fsq/LongVideoBench/videos/-Xg2-SUq6wo.mp4
+405.84
+Input prompt:  What object is present in the broadcast room? Choose your answer from below options: A.necklace, B.plant, C.doll, D.microphone, E.desk lamp.
+VideoQA inference input: What object is present in the broadcast room? Choose your answer from below options: A.necklace, B.plant, C.doll, D.microphone, E.desk lamp.
+Output Answer:  D. microphone
+
+
+Processing: T57jVsvVVR0
+/mnt/Shared_03/fsq/LongVideoBench/videos/T57jVsvVVR0.mp4
+263.96
+Input prompt:  What color is the clothing? Choose your answer from below options: A.black, B.blue, C.red, D.yellow, E.white.
+VideoQA inference input: What color is the clothing? Choose your answer from below options: A.black, B.blue, C.red, D.yellow, E.white.
+Output Answer:  A. black
+
+
+Processing: UbcWAfHo5j0
+/mnt/Shared_03/fsq/LongVideoBench/videos/UbcWAfHo5j0.mp4
+47.0
+Input prompt:  What kind of skirts are they wearing? Choose your answer from below options: A.Super short skirt, B.Pleated short skirt, C.Dress, D.Knee-length skirt, E.Ankle-length skirt.
+VideoQA inference input: What kind of skirts are they wearing? Choose your answer from below options: A.Super short skirt, B.Pleated short skirt, C.Dress, D.Knee-length skirt, E.Ankle-length skirt.
+Output Answer:  The students in the video are wearing knee-length skirts. Therefore, the correct answer is:
+
+D. Knee-length skirt.
+
+
+Processing: @jonijawne-7305901654417706246
+/mnt/Shared_03/fsq/LongVideoBench/videos/7305901654417706246.mp4
+10.266666666666667
+Input prompt:  In the video, which of the following characters appears first? Choose your answer from below options: A.A woman wearing a navy blue hooded jacket, B.A man wearing a gray coat, earphones, and with short black hair, C.A woman wearing a white T-shirt, D.A man wearing a white shirt, E.A woman wearing a dark orange coat.
+VideoQA inference input: In the video, which of the following characters appears first? Choose your answer from below options: A.A woman wearing a navy blue hooded jacket, B.A man wearing a gray coat, earphones, and with short black hair, C.A woman wearing a white T-shirt, D.A man wearing a white shirt, E.A woman wearing a dark orange coat.
+Output Answer:  B. A man wearing a gray coat, earphones, and with short black hair.
+
+
+Processing: kONR5_mHofA
+/mnt/Shared_03/fsq/LongVideoBench/videos/kONR5_mHofA.mp4
+13.980647313980647
+Input prompt:  What change occurs on the screen when this is mentioned? Choose your answer from below options: A.The green character below the brown character is labeled '8th place', B.The green character below the brown character is labeled '11th place', C.The green character below the brown character is labeled '9th place', D.The green character below the brown character is labeled '10th place', E.The green character below the brown character is labeled '12th place'.
+VideoQA inference input: What change occurs on the screen when this is mentioned? Choose your answer from below options: A.The green character below the brown character is labeled '8th place', B.The green character below the brown character is labeled '11th place', C.The green character below the brown character is labeled '9th place', D.The green character below the brown character is labeled '10th place', E.The green character below the brown character is labeled '12th place'.
+Output Answer:  A. The green character below the brown character is labeled '8th place'.
+
+
+Processing: j7kxn5CsHnw
+/mnt/Shared_03/fsq/LongVideoBench/videos/j7kxn5CsHnw.mp4
+35.0
+Input prompt:  ? Choose your answer from below options: A.Meat buns were once popular in the USA and the UK, B.The situation in the UK is the same, C.They ultimately lost green onions, D.Sharing some information about meat buns, E.Music.
+VideoQA inference input: ? Choose your answer from below options: A.Meat buns were once popular in the USA and the UK, B.The situation in the UK is the same, C.They ultimately lost green onions, D.Sharing some information about meat buns, E.Music.
+Output Answer:  The video content does not provide any information related to meat buns or their popularity in the USA and the UK. The video shows a plate with food remnants, a decorative setup with a stuffed rabbit, and chickens eating from a pumpkin. Therefore, none of the provided options (A, B, C, D, E) directly relate to the content of the video. If you have any questions about the video itself, feel free to ask!
+
+
+Processing: yFAuXmcGk2Y
+/mnt/Shared_03/fsq/LongVideoBench/videos/yFAuXmcGk2Y.mp4
+3128.5666666666666
+Input prompt:  What changes occur to the '只' character in the bottom left corner at this time? Choose your answer from below options: A.Green characters and sketches appeared above the '只' character, B.The '只' character turned black, C.The '只' character turned green, D.The bottom part of the '只' character disappeared, E.Blue characters and sketches appeared above the '只' character.
+VideoQA inference input: What changes occur to the '只' character in the bottom left corner at this time? Choose your answer from below options: A.Green characters and sketches appeared above the '只' character, B.The '只' character turned black, C.The '只' character turned green, D.The bottom part of the '只' character disappeared, E.Blue characters and sketches appeared above the '只' character.
+Output Answer:  C. The '只' character turned green.
+
+
+Processing: ZGMGQsnSdLE
+/mnt/Shared_03/fsq/LongVideoBench/videos/ZGMGQsnSdLE.mp4
+2376.5408333333335
+Input prompt:  What change occurs to the flames? Choose your answer from below options: A.It extinguishes., B.Its color changes to blue., C.Its color changes to orange., D.Its color changes to red., E.Its color changes to purple..
+VideoQA inference input: What change occurs to the flames? Choose your answer from below options: A.It extinguishes., B.Its color changes to blue., C.Its color changes to orange., D.Its color changes to red., E.Its color changes to purple..
+Output Answer:  B. Its color changes to blue.
+
+
+Processing: uJgZo4KxoZw
+/mnt/Shared_03/fsq/LongVideoBench/videos/uJgZo4KxoZw.mp4
+13.96997497914929
+Input prompt:  What is the shape of this decoration? Choose your answer from below options: A.Heart, B.Square, C.Triangle, D.Circle, E.Rectangle.
+VideoQA inference input: What is the shape of this decoration? Choose your answer from below options: A.Heart, B.Square, C.Triangle, D.Circle, E.Rectangle.
+Output Answer:  The decoration in the image appears to be shaped like a triangle. Therefore, the correct answer is:
+
+C.Triangle
+
+
+Processing: JhlzvoqKOc8
+/mnt/Shared_03/fsq/LongVideoBench/videos/JhlzvoqKOc8.mp4
+592.2917
+Input prompt:  What action did she take? Choose your answer from below options: A.Picked up the white clothes, B.Threw the white clothes into the fire, C.Threw the white clothes into the river, D.Threw the white clothes on the ground, E.Put the white clothes on.
+VideoQA inference input: What action did she take? Choose your answer from below options: A.Picked up the white clothes, B.Threw the white clothes into the fire, C.Threw the white clothes into the river, D.Threw the white clothes on the ground, E.Put the white clothes on.
+Output Answer:  B. Threw the white clothes into the fire
+
+
+Processing: 60oHeCZHtvI
+/mnt/Shared_03/fsq/LongVideoBench/videos/60oHeCZHtvI.mp4
+965.0
+Input prompt:  What is the color of the traveling armored vehicle? Choose your answer from below options: A.Red, B.Camouflage, C.White, D.Pink, E.Black.
+VideoQA inference input: What is the color of the traveling armored vehicle? Choose your answer from below options: A.Red, B.Camouflage, C.White, D.Pink, E.Black.
+Output Answer:  B. Camouflage
+
+
+Processing: d-GKQeu4S6M
+/mnt/Shared_03/fsq/LongVideoBench/videos/d-GKQeu4S6M.mp4
+1257.6897666666666
+Input prompt:  What does she do? Choose your answer from below options: A.Yawns, B.Brushes her hair with both hands, C.Stands up, D.Adjusts her glasses, E.Takes off her glasses.
+VideoQA inference input: What does she do? Choose your answer from below options: A.Yawns, B.Brushes her hair with both hands, C.Stands up, D.Adjusts her glasses, E.Takes off her glasses.
+Output Answer:  B.Brushes her hair with both hands
+
+
+Processing: GwcXYTX2GmA
+/mnt/Shared_03/fsq/LongVideoBench/videos/GwcXYTX2GmA.mp4
+31.02585487906589
+Input prompt:  Which of the following subtitles was displayed at the same time? Choose your answer from below options: A.population belonging to the next biggest, B.group the beija people in the east, C.have ancestral roots actually to arabs, D.that leaves about four percent of the .
+VideoQA inference input: Which of the following subtitles was displayed at the same time? Choose your answer from below options: A.population belonging to the next biggest, B.group the beija people in the east, C.have ancestral roots actually to arabs, D.that leaves about four percent of the .
+Output Answer:  The subtitle that was displayed at the same time is:
+
+D. that leaves about four percent of the.
+
+
+Processing: UO_6TQnnOxM
+/mnt/Shared_03/fsq/LongVideoBench/videos/UO_6TQnnOxM.mp4
+3573.96
+Input prompt:  What type of guitar is the man holding while singing into the microphone? Choose your answer from below options: A.black wood guitar, B.orange wood guitar, C.white electric guitar, D.yellow electric guitar, E.black electric guitar.
+VideoQA inference input: What type of guitar is the man holding while singing into the microphone? Choose your answer from below options: A.black wood guitar, B.orange wood guitar, C.white electric guitar, D.yellow electric guitar, E.black electric guitar.
+Output Answer:  B. orange wood guitar
+
+
+Processing: 0WEnmqVVbHo
+/mnt/Shared_03/fsq/LongVideoBench/videos/0WEnmqVVbHo.mp4
+479.4794794794795
+Input prompt:  What item does she put into the washing machine? Choose your answer from below options: A.laundry powder, B.clothes, C.laundry pods, D.plush toy, E.laundry detergent.
+VideoQA inference input: What item does she put into the washing machine? Choose your answer from below options: A.laundry powder, B.clothes, C.laundry pods, D.plush toy, E.laundry detergent.
+Output Answer:  B. clothes
+
+
+Processing: @placesunleashed-7297652941551439109
+/mnt/Shared_03/fsq/LongVideoBench/videos/7297652941551439109.mp4
+14.466666666666667
+Input prompt:  What did the kangaroo do the first time it appeared? Choose your answer from below options: A.Crossing, B.Jumping, C.Fighting, D.Walking, E.Drinking water.
+VideoQA inference input: What did the kangaroo do the first time it appeared? Choose your answer from below options: A.Crossing, B.Jumping, C.Fighting, D.Walking, E.Drinking water.
+Output Answer:  The kangaroo in the video is shown walking on the beach. Therefore, the correct answer is:
+
+D. Walking
+
+
+Processing: WpbB_swXHkc
+/mnt/Shared_03/fsq/LongVideoBench/videos/WpbB_swXHkc.mp4
+526.8333333333334
+Input prompt:  Which subtitles have appeared together with this woman? Choose your answer from below options: A.all right that’s the fun part of the day, B.is just bam it’s kind of slaps, C.Is this a special treatment for members?, D.It’s seven o’clock, did you hear?, E.if you take a deep breath and keep it.
+VideoQA inference input: Which subtitles have appeared together with this woman? Choose your answer from below options: A.all right that’s the fun part of the day, B.is just bam it’s kind of slaps, C.Is this a special treatment for members?, D.It’s seven o’clock, did you hear?, E.if you take a deep breath and keep it.
+Output Answer:  E. if you take a deep breath and keep it.
+
+
+Processing: BRiFXVCr1Ak
+/mnt/Shared_03/fsq/LongVideoBench/videos/BRiFXVCr1Ak.mp4
+377.24353333333335
+Input prompt:  Which of the following sequences of scenes is correct? Choose your answer from below options: A.First is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., B.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him., C.First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., D.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a man wearing headphones is seated in a gaming chair, with light strips on the wall behind him., E.First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Finally, a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones..
+VideoQA inference input: Which of the following sequences of scenes is correct? Choose your answer from below options: A.First is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., B.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him., C.First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., D.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a man wearing headphones is seated in a gaming chair, with light strips on the wall behind him., E.First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Finally, a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones..
+Output Answer:  B. First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him.
+
+
+Processing: qbA42wQoWAs
+/mnt/Shared_03/fsq/LongVideoBench/videos/qbA42wQoWAs.mp4
+454.7459583333333
+Input prompt:  ... who among the following is participating? Choose your answer from below options: A.A man with white hair, B.A woman with long hair, C.A child, D.An elderly man with white hair, E.A woman with green hair.
+VideoQA inference input: ... who among the following is participating? Choose your answer from below options: A.A man with white hair, B.A woman with long hair, C.A child, D.An elderly man with white hair, E.A woman with green hair.
+Output Answer:  B. A woman with long hair
+
+
+Processing: I2Fyzav8MxE
+/mnt/Shared_03/fsq/LongVideoBench/videos/I2Fyzav8MxE.mp4
+21.976647206005005
+Input prompt:  What appears first? Choose your answer from below options: A.A man wearing a black short-sleeve shirt and black pants, B.A piece of fabric with yellow paint, C.A man wearing a black short-sleeve shirt and white pants, D.A piece of fabric with red paint, E.A man wearing a white short-sleeve shirt and black pants.
+VideoQA inference input: What appears first? Choose your answer from below options: A.A man wearing a black short-sleeve shirt and black pants, B.A piece of fabric with yellow paint, C.A man wearing a black short-sleeve shirt and white pants, D.A piece of fabric with red paint, E.A man wearing a white short-sleeve shirt and black pants.
+Output Answer:  A. A man wearing a black short-sleeve shirt and black pants
+
+
+Processing: Efuyl2Anehg
+/mnt/Shared_03/fsq/LongVideoBench/videos/Efuyl2Anehg.mp4
+511.63612499999994
+Input prompt:  What subtitle appeared at the same time as this man? Choose your answer from below options: A.The next morning, B.And it comes with my own Arabic TV., C.And if you can see, it's written in Arabic., D.It's a little after 10 and I just made it to Bahrain., E.You golta buy tulip bulbs..
+VideoQA inference input: What subtitle appeared at the same time as this man? Choose your answer from below options: A.The next morning, B.And it comes with my own Arabic TV., C.And if you can see, it's written in Arabic., D.It's a little after 10 and I just made it to Bahrain., E.You golta buy tulip bulbs..
+Output Answer:  A. The next morning.
+
+
+Processing: rZq-8Bq3mkU
+/mnt/Shared_03/fsq/LongVideoBench/videos/rZq-8Bq3mkU.mp4
+515.1813333333333
+Input prompt:  What is the person in blue protective clothing doing the first time they appear? Choose your answer from below options: A.Using a cotton swab to treat a wound of the person with short blonde hair, B.Putting a mask on the person with short blonde hair, C.Using a bandage to wrap the person with short blonde hair, D.Taking a photo of the person with short blonde hair using a phone, E.Taking the temperature of the person with short blonde hair with a thermometer.
+VideoQA inference input: What is the person in blue protective clothing doing the first time they appear? Choose your answer from below options: A.Using a cotton swab to treat a wound of the person with short blonde hair, B.Putting a mask on the person with short blonde hair, C.Using a bandage to wrap the person with short blonde hair, D.Taking a photo of the person with short blonde hair using a phone, E.Taking the temperature of the person with short blonde hair with a thermometer.
+Error during inference: [17:06:11] /github/workspace/src/video/video_reader.cc:444: [/mnt/Shared_03/fsq/LongVideoBench/videos/rZq-8Bq3mkU.mp4]Unable to handle EOF because it takes too long to retrieve last few frames and `DECORD_EOF_RETRY_MAX=10240`. You may override the limit by `export DECORD_EOF_RETRY_MAX=20480` for example to allow more EOF retry attempts, exit...
+
+
+Processing: OMJc43wUPLM
+/mnt/Shared_03/fsq/LongVideoBench/videos/OMJc43wUPLM.mp4
+1078.3
+Input prompt:  What changes occur to the red square? Choose your answer from below options: A.It changes from red to green, and the number of small X's inside the box changes from two to one., B.It changes from red to green, and the number of small X's inside the box changes from two to four., C.It changes from red to green, and the number of small X's inside the box changes from two to three., D.It changes from red to green, and the number of small X's inside the box changes from two to six., E.It changes from red to green, and the number of small X's inside the box changes from two to five..
+VideoQA inference input: What changes occur to the red square? Choose your answer from below options: A.It changes from red to green, and the number of small X's inside the box changes from two to one., B.It changes from red to green, and the number of small X's inside the box changes from two to four., C.It changes from red to green, and the number of small X's inside the box changes from two to three., D.It changes from red to green, and the number of small X's inside the box changes from two to six., E.It changes from red to green, and the number of small X's inside the box changes from two to five..
+Error during inference: CUDA out of memory. Tried to allocate 13.10 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.13 GiB is free. Including non-PyTorch memory, this process has 14.51 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.78 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: yXXhrMqfMlk
+/mnt/Shared_03/fsq/LongVideoBench/videos/yXXhrMqfMlk.mp4
+317.90091666666666
+Input prompt:  What object is present in the scene? Choose your answer from below options: A.a round hat, B.a top hat, C.a duckbill cap, D.a black car, E.a pair of black-framed glasses.
+VideoQA inference input: What object is present in the scene? Choose your answer from below options: A.a round hat, B.a top hat, C.a duckbill cap, D.a black car, E.a pair of black-framed glasses.
+Output Answer:  C.
+
+
+Processing: Fw1rirubXiU
+/mnt/Shared_03/fsq/LongVideoBench/videos/Fw1rirubXiU.mp4
+3128.8257
+Input prompt:  What change occurs to him? Choose your answer from below options: A.He has an additional pair of gold-framed glasses on his face, B.He has an additional hat on his head, C.He has an additional pair of silver-framed glasses on his face, D.His hair changes to black, E.He has an additional pair of sunglasses on his face.
+VideoQA inference input: What change occurs to him? Choose your answer from below options: A.He has an additional pair of gold-framed glasses on his face, B.He has an additional hat on his head, C.He has an additional pair of silver-framed glasses on his face, D.His hair changes to black, E.He has an additional pair of sunglasses on his face.
+Error during inference: CUDA out of memory. Tried to allocate 13.08 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.13 GiB is free. Including non-PyTorch memory, this process has 14.51 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.79 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: @placesunleashed-7289528053112343814
+/mnt/Shared_03/fsq/LongVideoBench/videos/7289528053112343814.mp4
+24.366666666666667
+Input prompt:  Which of the following sequences of scenes is correct? Choose your answer from below options: A.First, a shot of the sea with a mountain in the background appears, then a scene of a waterfall appears, and finally, it concludes with the appearance of a frog., B.First, a scene of a waterfall appears, then a frog appears, and finally, it concludes with a shot of the sea with a mountain in the background., C.First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog., D.First, a frog appears, then a shot of the sea with a mountain in the background appears, and finally, it concludes with a scene of a waterfall..
+VideoQA inference input: Which of the following sequences of scenes is correct? Choose your answer from below options: A.First, a shot of the sea with a mountain in the background appears, then a scene of a waterfall appears, and finally, it concludes with the appearance of a frog., B.First, a scene of a waterfall appears, then a frog appears, and finally, it concludes with a shot of the sea with a mountain in the background., C.First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog., D.First, a frog appears, then a shot of the sea with a mountain in the background appears, and finally, it concludes with a scene of a waterfall..
+Output Answer:  The sequence of scenes in the video is as follows:
+
+1. The video starts with a scene of a waterfall.
+2. It then transitions to a shot of the sea with a mountain in the background.
+3. Finally, it concludes with the appearance of a frog.
+
+Therefore, the correct sequence is:
+
+C. First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog.
+
+
+Processing: @kerstinong-6900436106790194434
+/mnt/Shared_03/fsq/LongVideoBench/videos/6900436106790194434.mp4
+13.733333333333333
+Input prompt:  What change occurs to the woman who is working out? Choose your answer from below options: A.The woman's hands holding the equipment change to being crossed in front of her chest, B.The woman's hands holding the equipment change to being on her waist, C.The woman's hands holding the equipment change to being raised, D.The woman's spread-apart legs spread even wider, E.The woman's spread-apart legs change to being crossed together.
+VideoQA inference input: What change occurs to the woman who is working out? Choose your answer from below options: A.The woman's hands holding the equipment change to being crossed in front of her chest, B.The woman's hands holding the equipment change to being on her waist, C.The woman's hands holding the equipment change to being raised, D.The woman's spread-apart legs spread even wider, E.The woman's spread-apart legs change to being crossed together.
+Output Answer:  C. The woman's hands holding the equipment change to being raised.
+
+
+Processing: b__dUom9AcQ
+/mnt/Shared_03/fsq/LongVideoBench/videos/b__dUom9AcQ.mp4
+2454.9191333333333
+Input prompt:  What objects are present in this screen? Choose your answer from below options: A.helicopter, B.green stone lion, C.black car, D.traffic light, E.handgun.
+VideoQA inference input: What objects are present in this screen? Choose your answer from below options: A.helicopter, B.green stone lion, C.black car, D.traffic light, E.handgun.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.13 GiB is free. Including non-PyTorch memory, this process has 14.51 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.79 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: pJI5ZU6wxqg
+/mnt/Shared_03/fsq/LongVideoBench/videos/pJI5ZU6wxqg.mp4
+1261.12
+Input prompt:  What happens next? Choose your answer from below options: A.A tall man is carrying a young girl, B.Two women are holding an umbrella, walking forward in the water, C.An elderly person is being carried by a rescue team member, D.A rescue dog appears, E.A woman wearing a red hat is moving forward in the water.
+VideoQA inference input: What happens next? Choose your answer from below options: A.A tall man is carrying a young girl, B.Two women are holding an umbrella, walking forward in the water, C.An elderly person is being carried by a rescue team member, D.A rescue dog appears, E.A woman wearing a red hat is moving forward in the water.
+Error during inference: CUDA out of memory. Tried to allocate 13.08 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.13 GiB is free. Including non-PyTorch memory, this process has 14.51 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.79 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: @jess.morg-7203120578537049386
+/mnt/Shared_03/fsq/LongVideoBench/videos/7203120578537049386.mp4
+20.166666666666668
+Input prompt:  Which of the following scene sequences in the video is correct? Choose your answer from below options: A.First, flipping the menu on a wooden table in a dining room, then showing a phone to a mirror in a car, and finally showing a black shopping bag to a mirror in a shopping mall., B.First, showing a black shopping bag to a mirror in a shopping mall, then showing a phone to a mirror in a car, and finally flipping the menu on a wooden table in a dining room., C.First, showing a phone to a mirror in a car, then showing a black shopping bag to a mirror in a shopping mall, and finally flipping the menu on a wooden table in a dining room., D.First, flipping the menu on a wooden table in a dining room, then showing a black shopping bag to a mirror in a shopping mall, and finally showing a phone to a mirror in a car., E.First, showing a phone to a mirror in a car, then flipping the menu on a wooden table in a dining room, and finally showing a black shopping bag to a mirror in a shopping mall..
+VideoQA inference input: Which of the following scene sequences in the video is correct? Choose your answer from below options: A.First, flipping the menu on a wooden table in a dining room, then showing a phone to a mirror in a car, and finally showing a black shopping bag to a mirror in a shopping mall., B.First, showing a black shopping bag to a mirror in a shopping mall, then showing a phone to a mirror in a car, and finally flipping the menu on a wooden table in a dining room., C.First, showing a phone to a mirror in a car, then showing a black shopping bag to a mirror in a shopping mall, and finally flipping the menu on a wooden table in a dining room., D.First, flipping the menu on a wooden table in a dining room, then showing a black shopping bag to a mirror in a shopping mall, and finally showing a phone to a mirror in a car., E.First, showing a phone to a mirror in a car, then flipping the menu on a wooden table in a dining room, and finally showing a black shopping bag to a mirror in a shopping mall..
+Output Answer:  E. First, showing a phone to a mirror in a car, then flipping the menu on a wooden table in a dining room, and finally showing a black shopping bag to a mirror in a shopping mall.
+
+
+Processing: HvSEKzpSdzw
+/mnt/Shared_03/fsq/LongVideoBench/videos/HvSEKzpSdzw.mp4
+38.03169307756464
+Input prompt:  What is this young man doing in the room? Choose your answer from below options: A.Reaching into the box, B.Stepping on the box, C.Throwing the box away, D.Cutting the box with a knife.
+VideoQA inference input: What is this young man doing in the room? Choose your answer from below options: A.Reaching into the box, B.Stepping on the box, C.Throwing the box away, D.Cutting the box with a knife.
+Output Answer:  D. Cutting the box with a knife.
+
+
+Processing: pJI5ZU6wxqg
+/mnt/Shared_03/fsq/LongVideoBench/videos/pJI5ZU6wxqg.mp4
+1261.12
+Input prompt:  What happens after? Choose your answer from below options: A.A white car appears, B.An elderly person holding a palm fan appears, C.A little girl with a backpack appears, D.A large truck appears, E.A person wearing a helmet appears riding a motorcycle.
+VideoQA inference input: What happens after? Choose your answer from below options: A.A white car appears, B.An elderly person holding a palm fan appears, C.A little girl with a backpack appears, D.A large truck appears, E.A person wearing a helmet appears riding a motorcycle.

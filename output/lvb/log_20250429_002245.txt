@@ -1,0 +1,11 @@
+
+Building lvb dataset...
+
+
+Processing: CGngv8vTQOs
+/mnt/Shared_03/fsq/LongVideoBench/videos/CGngv8vTQOs.mp4
+922.48
+Input prompt:  What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left.
+Output Answer:  C.Flying straight up
+
+1 results saved

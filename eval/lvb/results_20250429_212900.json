@@ -1,0 +1,3346 @@
+[
+    {
+        "quid": "CGngv8vTQOs",
+        "uid": "CGngv8vTQOs",
+        "qid": "CGngv8vTQOs",
+        "q_type": "S2E",
+        "question": "What is it doing?",
+        "optionA": "Spiraling upwards",
+        "optionB": "Flying to the right",
+        "optionC": "Flying straight up",
+        "options": [
+            "Spiraling upwards",
+            "Flying to the right",
+            "Flying straight up",
+            "Flying to the left",
+            "Falling vertically down"
+        ],
+        "question_w_options": "What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left, E.Falling vertically down.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/CGngv8vTQOs.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/CGngv8vTQOs_en.json",
+        "optionD": "Flying to the left",
+        "optionE": "Falling vertically down",
+        "answers": [
+            "C.Flying straight up"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "@kerstinong-7197781091162279169",
+        "uid": "@kerstinong-7197781091162279169",
+        "qid": "@kerstinong-7197781091162279169",
+        "q_type": "TAA",
+        "question": "What change happens to this woman?",
+        "optionA": "The gray shorts change to black shorts.",
+        "optionB": "She goes from not wearing sunglasses to wearing sunglasses.",
+        "optionC": "The white short-sleeved top changes to a pink plaid long-sleeved top.",
+        "options": [
+            "The gray shorts change to black shorts.",
+            "She goes from not wearing sunglasses to wearing sunglasses.",
+            "The white short-sleeved top changes to a pink plaid long-sleeved top.",
+            "She goes from not wearing a hat to wearing a hat.",
+            "Her hair changes from black to yellow."
+        ],
+        "question_w_options": "What change happens to this woman? Choose your answer from below options: A.The gray shorts change to black shorts., B.She goes from not wearing sunglasses to wearing sunglasses., C.The white short-sleeved top changes to a pink plaid long-sleeved top., D.She goes from not wearing a hat to wearing a hat., E.Her hair changes from black to yellow..",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7197781091162279169.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7197781091162279169_en.json",
+        "optionD": "She goes from not wearing a hat to wearing a hat.",
+        "optionE": "Her hair changes from black to yellow.",
+        "answers": [
+            "A. The gray shorts change to black shorts."
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "Lc7RikDaa30",
+        "uid": "Lc7RikDaa30",
+        "qid": "Lc7RikDaa30",
+        "q_type": "O3O",
+        "question": "Which of the following concepts is mentioned first?",
+        "optionA": "The COE prices in Singapore have always been high",
+        "optionB": "COE prices are determined by supply and demand",
+        "optionC": "Using cars is the real issue",
+        "options": [
+            "The COE prices in Singapore have always been high",
+            "COE prices are determined by supply and demand",
+            "Using cars is the real issue",
+            "We need a rational and accurate road pricing system",
+            "More Singaporeans can own cars"
+        ],
+        "question_w_options": "Which of the following concepts is mentioned first? Choose your answer from below options: A.The COE prices in Singapore have always been high, B.COE prices are determined by supply and demand, C.Using cars is the real issue, D.We need a rational and accurate road pricing system, E.More Singaporeans can own cars.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Lc7RikDaa30.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Lc7RikDaa30_en.json",
+        "optionD": "We need a rational and accurate road pricing system",
+        "optionE": "More Singaporeans can own cars",
+        "answers": [
+            "A"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "mS1QPVgBDQo",
+        "uid": "mS1QPVgBDQo",
+        "qid": "mS1QPVgBDQo",
+        "q_type": "SAA",
+        "question": "What change occurs to the woman in the middle, who is wearing a red and blue checkered shirt and has white hair?",
+        "optionA": "She put on a white hat",
+        "optionB": "She put on a black hat",
+        "optionC": "Her hair turned black",
+        "options": [
+            "She put on a white hat",
+            "She put on a black hat",
+            "Her hair turned black",
+            "She tied a black ribbon around her head",
+            "She changed into a white suit"
+        ],
+        "question_w_options": "What change occurs to the woman in the middle, who is wearing a red and blue checkered shirt and has white hair? Choose your answer from below options: A.She put on a white hat, B.She put on a black hat, C.Her hair turned black, D.She tied a black ribbon around her head, E.She changed into a white suit.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/mS1QPVgBDQo.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/mS1QPVgBDQo_en.json",
+        "optionD": "She tied a black ribbon around her head",
+        "optionE": "She changed into a white suit",
+        "answers": [
+            "D.She tied a black ribbon around her head."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "M7YSCIkUaNw",
+        "uid": "M7YSCIkUaNw",
+        "qid": "M7YSCIkUaNw",
+        "q_type": "T3O",
+        "question": "Lin, what item appears on the screen?",
+        "optionA": "A burning white candle",
+        "optionB": "A little girl",
+        "optionC": "A courier paper box",
+        "options": [
+            "A burning white candle",
+            "A little girl",
+            "A courier paper box",
+            "Santa Claus mug",
+            "Two books"
+        ],
+        "question_w_options": "Lin, what item appears on the screen? Choose your answer from below options: A.A burning white candle, B.A little girl, C.A courier paper box, D.Santa Claus mug, E.Two books.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/M7YSCIkUaNw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/M7YSCIkUaNw_en.json",
+        "optionD": "Santa Claus mug",
+        "optionE": "Two books",
+        "answers": [
+            "E."
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "-Xg2-SUq6wo",
+        "uid": "-Xg2-SUq6wo",
+        "qid": "-Xg2-SUq6wo",
+        "q_type": "T2O",
+        "question": "What object is present in the broadcast room?",
+        "optionA": "necklace",
+        "optionB": "plant",
+        "optionC": "doll",
+        "options": [
+            "necklace",
+            "plant",
+            "doll",
+            "microphone",
+            "desk lamp"
+        ],
+        "question_w_options": "What object is present in the broadcast room? Choose your answer from below options: A.necklace, B.plant, C.doll, D.microphone, E.desk lamp.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/-Xg2-SUq6wo.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/-Xg2-SUq6wo_en.json",
+        "optionD": "microphone",
+        "optionE": "desk lamp",
+        "answers": [
+            "D. microphone"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "T57jVsvVVR0",
+        "uid": "T57jVsvVVR0",
+        "qid": "T57jVsvVVR0",
+        "q_type": "T2A",
+        "question": "What color is the clothing?",
+        "optionA": "black",
+        "optionB": "blue",
+        "optionC": "red",
+        "options": [
+            "black",
+            "blue",
+            "red",
+            "yellow",
+            "white"
+        ],
+        "question_w_options": "What color is the clothing? Choose your answer from below options: A.black, B.blue, C.red, D.yellow, E.white.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/T57jVsvVVR0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/T57jVsvVVR0_en.json",
+        "optionD": "yellow",
+        "optionE": "white",
+        "answers": [
+            "A. black"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "UbcWAfHo5j0",
+        "uid": "UbcWAfHo5j0",
+        "qid": "UbcWAfHo5j0",
+        "q_type": "S2A",
+        "question": "What kind of skirts are they wearing?",
+        "optionA": "Super short skirt",
+        "optionB": "Pleated short skirt",
+        "optionC": "Dress",
+        "options": [
+            "Super short skirt",
+            "Pleated short skirt",
+            "Dress",
+            "Knee-length skirt",
+            "Ankle-length skirt"
+        ],
+        "question_w_options": "What kind of skirts are they wearing? Choose your answer from below options: A.Super short skirt, B.Pleated short skirt, C.Dress, D.Knee-length skirt, E.Ankle-length skirt.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/UbcWAfHo5j0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/UbcWAfHo5j0_en.json",
+        "optionD": "Knee-length skirt",
+        "optionE": "Ankle-length skirt",
+        "answers": [
+            "D.Knee-length skirt"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "@jonijawne-7305901654417706246",
+        "uid": "@jonijawne-7305901654417706246",
+        "qid": "@jonijawne-7305901654417706246",
+        "q_type": "O3O",
+        "question": "In the video, which of the following characters appears first?",
+        "optionA": "A woman wearing a navy blue hooded jacket",
+        "optionB": "A man wearing a gray coat, earphones, and with short black hair",
+        "optionC": "A woman wearing a white T-shirt",
+        "options": [
+            "A woman wearing a navy blue hooded jacket",
+            "A man wearing a gray coat, earphones, and with short black hair",
+            "A woman wearing a white T-shirt",
+            "A man wearing a white shirt",
+            "A woman wearing a dark orange coat"
+        ],
+        "question_w_options": "In the video, which of the following characters appears first? Choose your answer from below options: A.A woman wearing a navy blue hooded jacket, B.A man wearing a gray coat, earphones, and with short black hair, C.A woman wearing a white T-shirt, D.A man wearing a white shirt, E.A woman wearing a dark orange coat.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7305901654417706246.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7305901654417706246_en.json",
+        "optionD": "A man wearing a white shirt",
+        "optionE": "A woman wearing a dark orange coat",
+        "answers": [
+            "B. A man wearing a gray coat, earphones, and with short black hair."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "kONR5_mHofA",
+        "uid": "kONR5_mHofA",
+        "qid": "kONR5_mHofA",
+        "q_type": "TAA",
+        "question": "What change occurs on the screen when this is mentioned?",
+        "optionA": "The green character below the brown character is labeled '8th place'",
+        "optionB": "The green character below the brown character is labeled '11th place'",
+        "optionC": "The green character below the brown character is labeled '9th place'",
+        "options": [
+            "The green character below the brown character is labeled '8th place'",
+            "The green character below the brown character is labeled '11th place'",
+            "The green character below the brown character is labeled '9th place'",
+            "The green character below the brown character is labeled '10th place'",
+            "The green character below the brown character is labeled '12th place'"
+        ],
+        "question_w_options": "What change occurs on the screen when this is mentioned? Choose your answer from below options: A.The green character below the brown character is labeled '8th place', B.The green character below the brown character is labeled '11th place', C.The green character below the brown character is labeled '9th place', D.The green character below the brown character is labeled '10th place', E.The green character below the brown character is labeled '12th place'.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/kONR5_mHofA.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/kONR5_mHofA_en.json",
+        "optionD": "The green character below the brown character is labeled '10th place'",
+        "optionE": "The green character below the brown character is labeled '12th place'",
+        "answers": [
+            "A"
+        ],
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "j7kxn5CsHnw",
+        "uid": "j7kxn5CsHnw",
+        "qid": "j7kxn5CsHnw",
+        "q_type": "TOS",
+        "question": "?",
+        "optionA": "Meat buns were once popular in the USA and the UK",
+        "optionB": "The situation in the UK is the same",
+        "optionC": "They ultimately lost green onions",
+        "options": [
+            "Meat buns were once popular in the USA and the UK",
+            "The situation in the UK is the same",
+            "They ultimately lost green onions",
+            "Sharing some information about meat buns",
+            "Music"
+        ],
+        "question_w_options": "? Choose your answer from below options: A.Meat buns were once popular in the USA and the UK, B.The situation in the UK is the same, C.They ultimately lost green onions, D.Sharing some information about meat buns, E.Music.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/j7kxn5CsHnw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/j7kxn5CsHnw_en.json",
+        "optionD": "Sharing some information about meat buns",
+        "optionE": "Music",
+        "answers": [
+            "D. Sharing some information about meat buns"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "yFAuXmcGk2Y",
+        "uid": "yFAuXmcGk2Y",
+        "qid": "yFAuXmcGk2Y",
+        "q_type": "SAA",
+        "question": "What changes occur to the '\u53ea' character in the bottom left corner at this time?",
+        "optionA": "Green characters and sketches appeared above the '\u53ea' character",
+        "optionB": "The '\u53ea' character turned black",
+        "optionC": "The '\u53ea' character turned green",
+        "options": [
+            "Green characters and sketches appeared above the '\u53ea' character",
+            "The '\u53ea' character turned black",
+            "The '\u53ea' character turned green",
+            "The bottom part of the '\u53ea' character disappeared",
+            "Blue characters and sketches appeared above the '\u53ea' character"
+        ],
+        "question_w_options": "What changes occur to the '\u53ea' character in the bottom left corner at this time? Choose your answer from below options: A.Green characters and sketches appeared above the '\u53ea' character, B.The '\u53ea' character turned black, C.The '\u53ea' character turned green, D.The bottom part of the '\u53ea' character disappeared, E.Blue characters and sketches appeared above the '\u53ea' character.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/yFAuXmcGk2Y.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/yFAuXmcGk2Y_en.json",
+        "optionD": "The bottom part of the '\u53ea' character disappeared",
+        "optionE": "Blue characters and sketches appeared above the '\u53ea' character",
+        "answers": [
+            "A"
+        ],
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "ZGMGQsnSdLE",
+        "uid": "ZGMGQsnSdLE",
+        "qid": "ZGMGQsnSdLE",
+        "q_type": "TAA",
+        "question": "What change occurs to the flames?",
+        "optionA": "It extinguishes.",
+        "optionB": "Its color changes to blue.",
+        "optionC": "Its color changes to orange.",
+        "options": [
+            "It extinguishes.",
+            "Its color changes to blue.",
+            "Its color changes to orange.",
+            "Its color changes to red.",
+            "Its color changes to purple."
+        ],
+        "question_w_options": "What change occurs to the flames? Choose your answer from below options: A.It extinguishes., B.Its color changes to blue., C.Its color changes to orange., D.Its color changes to red., E.Its color changes to purple..",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/ZGMGQsnSdLE.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/ZGMGQsnSdLE_en.json",
+        "optionD": "Its color changes to red.",
+        "optionE": "Its color changes to purple.",
+        "answers": [
+            "B. Its color changes to blue."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "uJgZo4KxoZw",
+        "uid": "uJgZo4KxoZw",
+        "qid": "uJgZo4KxoZw",
+        "q_type": "S2A",
+        "question": "What is the shape of this decoration?",
+        "optionA": "Heart",
+        "optionB": "Square",
+        "optionC": "Triangle",
+        "options": [
+            "Heart",
+            "Square",
+            "Triangle",
+            "Circle",
+            "Rectangle"
+        ],
+        "question_w_options": "What is the shape of this decoration? Choose your answer from below options: A.Heart, B.Square, C.Triangle, D.Circle, E.Rectangle.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/uJgZo4KxoZw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/uJgZo4KxoZw_en.json",
+        "optionD": "Circle",
+        "optionE": "Rectangle",
+        "answers": [
+            "D. Circle"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "JhlzvoqKOc8",
+        "uid": "JhlzvoqKOc8",
+        "qid": "JhlzvoqKOc8",
+        "q_type": "T2E",
+        "question": "What action did she take?",
+        "optionA": "Picked up the white clothes",
+        "optionB": "Threw the white clothes into the fire",
+        "optionC": "Threw the white clothes into the river",
+        "options": [
+            "Picked up the white clothes",
+            "Threw the white clothes into the fire",
+            "Threw the white clothes into the river",
+            "Threw the white clothes on the ground",
+            "Put the white clothes on"
+        ],
+        "question_w_options": "What action did she take? Choose your answer from below options: A.Picked up the white clothes, B.Threw the white clothes into the fire, C.Threw the white clothes into the river, D.Threw the white clothes on the ground, E.Put the white clothes on.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/JhlzvoqKOc8.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/JhlzvoqKOc8_en.json",
+        "optionD": "Threw the white clothes on the ground",
+        "optionE": "Put the white clothes on",
+        "answers": [
+            "D.Threw the white clothes on the ground"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "60oHeCZHtvI",
+        "uid": "60oHeCZHtvI",
+        "qid": "60oHeCZHtvI",
+        "q_type": "S2A",
+        "question": "What is the color of the traveling armored vehicle?",
+        "optionA": "Red",
+        "optionB": "Camouflage",
+        "optionC": "White",
+        "options": [
+            "Red",
+            "Camouflage",
+            "White",
+            "Pink",
+            "Black"
+        ],
+        "question_w_options": "What is the color of the traveling armored vehicle? Choose your answer from below options: A.Red, B.Camouflage, C.White, D.Pink, E.Black.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/60oHeCZHtvI.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/60oHeCZHtvI_en.json",
+        "optionD": "Pink",
+        "optionE": "Black",
+        "answers": [
+            "B."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "d-GKQeu4S6M",
+        "uid": "d-GKQeu4S6M",
+        "qid": "d-GKQeu4S6M",
+        "q_type": "T3E",
+        "question": "What does she do?",
+        "optionA": "Yawns",
+        "optionB": "Brushes her hair with both hands",
+        "optionC": "Stands up",
+        "options": [
+            "Yawns",
+            "Brushes her hair with both hands",
+            "Stands up",
+            "Adjusts her glasses",
+            "Takes off her glasses"
+        ],
+        "question_w_options": "What does she do? Choose your answer from below options: A.Yawns, B.Brushes her hair with both hands, C.Stands up, D.Adjusts her glasses, E.Takes off her glasses.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/d-GKQeu4S6M.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/d-GKQeu4S6M_en.json",
+        "optionD": "Adjusts her glasses",
+        "optionE": "Takes off her glasses",
+        "answers": [
+            "D.Adjusts her glasses."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "GwcXYTX2GmA",
+        "uid": "GwcXYTX2GmA",
+        "qid": "GwcXYTX2GmA",
+        "q_type": "TOS",
+        "question": "Which of the following subtitles was displayed at the same time?",
+        "optionA": "population belonging to the next biggest",
+        "optionB": "group the beija people in the east",
+        "optionC": "have ancestral roots actually to arabs",
+        "options": [
+            "population belonging to the next biggest",
+            "group the beija people in the east",
+            "have ancestral roots actually to arabs",
+            "that leaves about four percent of the "
+        ],
+        "question_w_options": "Which of the following subtitles was displayed at the same time? Choose your answer from below options: A.population belonging to the next biggest, B.group the beija people in the east, C.have ancestral roots actually to arabs, D.that leaves about four percent of the .",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/GwcXYTX2GmA.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/GwcXYTX2GmA_en.json",
+        "optionD": "that leaves about four percent of the ",
+        "answers": [
+            "D. that leaves about four percent of the ."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "UO_6TQnnOxM",
+        "uid": "UO_6TQnnOxM",
+        "qid": "UO_6TQnnOxM",
+        "q_type": "S2A",
+        "question": "What type of guitar is the man holding while singing into the microphone?",
+        "optionA": "black wood guitar",
+        "optionB": "orange wood guitar",
+        "optionC": "white electric guitar",
+        "options": [
+            "black wood guitar",
+            "orange wood guitar",
+            "white electric guitar",
+            "yellow electric guitar",
+            "black electric guitar"
+        ],
+        "question_w_options": "What type of guitar is the man holding while singing into the microphone? Choose your answer from below options: A.black wood guitar, B.orange wood guitar, C.white electric guitar, D.yellow electric guitar, E.black electric guitar.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/UO_6TQnnOxM.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/UO_6TQnnOxM_en.json",
+        "optionD": "yellow electric guitar",
+        "optionE": "black electric guitar",
+        "answers": [
+            "B."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "0WEnmqVVbHo",
+        "uid": "0WEnmqVVbHo",
+        "qid": "0WEnmqVVbHo",
+        "q_type": "E2O",
+        "question": "What item does she put into the washing machine?",
+        "optionA": "laundry powder",
+        "optionB": "clothes",
+        "optionC": "laundry pods",
+        "options": [
+            "laundry powder",
+            "clothes",
+            "laundry pods",
+            "plush toy",
+            "laundry detergent"
+        ],
+        "question_w_options": "What item does she put into the washing machine? Choose your answer from below options: A.laundry powder, B.clothes, C.laundry pods, D.plush toy, E.laundry detergent.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/0WEnmqVVbHo.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/0WEnmqVVbHo_en.json",
+        "optionD": "plush toy",
+        "optionE": "laundry detergent",
+        "answers": [
+            "B."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "@placesunleashed-7297652941551439109",
+        "uid": "@placesunleashed-7297652941551439109",
+        "qid": "@placesunleashed-7297652941551439109",
+        "q_type": "O2E",
+        "question": "What did the kangaroo do the first time it appeared?",
+        "optionA": "Crossing",
+        "optionB": "Jumping",
+        "optionC": "Fighting",
+        "options": [
+            "Crossing",
+            "Jumping",
+            "Fighting",
+            "Walking",
+            "Drinking water"
+        ],
+        "question_w_options": "What did the kangaroo do the first time it appeared? Choose your answer from below options: A.Crossing, B.Jumping, C.Fighting, D.Walking, E.Drinking water.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7297652941551439109.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7297652941551439109_en.json",
+        "optionD": "Walking",
+        "optionE": "Drinking water",
+        "answers": [
+            "B. Jumping"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "WpbB_swXHkc",
+        "uid": "WpbB_swXHkc",
+        "qid": "WpbB_swXHkc",
+        "q_type": "TOS",
+        "question": "Which subtitles have appeared together with this woman?",
+        "optionA": "all right that\u2019s the fun part of the day",
+        "optionB": "is just bam it\u2019s kind of slaps",
+        "optionC": "Is this a special treatment for members?",
+        "options": [
+            "all right that\u2019s the fun part of the day",
+            "is just bam it\u2019s kind of slaps",
+            "Is this a special treatment for members?",
+            "It\u2019s seven o\u2019clock, did you hear?",
+            "if you take a deep breath and keep it"
+        ],
+        "question_w_options": "Which subtitles have appeared together with this woman? Choose your answer from below options: A.all right that\u2019s the fun part of the day, B.is just bam it\u2019s kind of slaps, C.Is this a special treatment for members?, D.It\u2019s seven o\u2019clock, did you hear?, E.if you take a deep breath and keep it.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/WpbB_swXHkc.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/WpbB_swXHkc_en.json",
+        "optionD": "It\u2019s seven o\u2019clock, did you hear?",
+        "optionE": "if you take a deep breath and keep it",
+        "answers": [
+            "D"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "BRiFXVCr1Ak",
+        "uid": "BRiFXVCr1Ak",
+        "qid": "BRiFXVCr1Ak",
+        "q_type": "SSS",
+        "question": "Which of the following sequences of scenes is correct?",
+        "optionA": "First is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man.",
+        "optionB": "First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him.",
+        "optionC": "First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man.",
+        "options": [
+            "First is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man.",
+            "First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him.",
+            "First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man.",
+            "First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a man wearing headphones is seated in a gaming chair, with light strips on the wall behind him.",
+            "First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Finally, a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones."
+        ],
+        "question_w_options": "Which of the following sequences of scenes is correct? Choose your answer from below options: A.First is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., B.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him., C.First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., D.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a man wearing headphones is seated in a gaming chair, with light strips on the wall behind him., E.First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Finally, a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones..",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/BRiFXVCr1Ak.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/BRiFXVCr1Ak_en.json",
+        "optionD": "First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a man wearing headphones is seated in a gaming chair, with light strips on the wall behind him.",
+        "optionE": "First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Finally, a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones.",
+        "answers": [
+            "C"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "qbA42wQoWAs",
+        "uid": "qbA42wQoWAs",
+        "qid": "qbA42wQoWAs",
+        "q_type": "E2O",
+        "question": "... who among the following is participating?",
+        "optionA": "A man with white hair",
+        "optionB": "A woman with long hair",
+        "optionC": "A child",
+        "options": [
+            "A man with white hair",
+            "A woman with long hair",
+            "A child",
+            "An elderly man with white hair",
+            "A woman with green hair"
+        ],
+        "question_w_options": "... who among the following is participating? Choose your answer from below options: A.A man with white hair, B.A woman with long hair, C.A child, D.An elderly man with white hair, E.A woman with green hair.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/qbA42wQoWAs.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/qbA42wQoWAs_en.json",
+        "optionD": "An elderly man with white hair",
+        "optionE": "A woman with green hair",
+        "answers": [
+            "B"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "I2Fyzav8MxE",
+        "uid": "I2Fyzav8MxE",
+        "qid": "I2Fyzav8MxE",
+        "q_type": "O3O",
+        "question": "What appears first?",
+        "optionA": "A man wearing a black short-sleeve shirt and black pants",
+        "optionB": "A piece of fabric with yellow paint",
+        "optionC": "A man wearing a black short-sleeve shirt and white pants",
+        "options": [
+            "A man wearing a black short-sleeve shirt and black pants",
+            "A piece of fabric with yellow paint",
+            "A man wearing a black short-sleeve shirt and white pants",
+            "A piece of fabric with red paint",
+            "A man wearing a white short-sleeve shirt and black pants"
+        ],
+        "question_w_options": "What appears first? Choose your answer from below options: A.A man wearing a black short-sleeve shirt and black pants, B.A piece of fabric with yellow paint, C.A man wearing a black short-sleeve shirt and white pants, D.A piece of fabric with red paint, E.A man wearing a white short-sleeve shirt and black pants.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/I2Fyzav8MxE.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/I2Fyzav8MxE_en.json",
+        "optionD": "A piece of fabric with red paint",
+        "optionE": "A man wearing a white short-sleeve shirt and black pants",
+        "answers": [
+            "A. A man wearing a black short-sleeve shirt and black pants."
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "Efuyl2Anehg",
+        "uid": "Efuyl2Anehg",
+        "qid": "Efuyl2Anehg",
+        "q_type": "TOS",
+        "question": "What subtitle appeared at the same time as this man?",
+        "optionA": "The next morning",
+        "optionB": "And it comes with my own Arabic TV.",
+        "optionC": "And if you can see, it's written in Arabic.",
+        "options": [
+            "The next morning",
+            "And it comes with my own Arabic TV.",
+            "And if you can see, it's written in Arabic.",
+            "It's a little after 10 and I just made it to Bahrain.",
+            "You golta buy tulip bulbs."
+        ],
+        "question_w_options": "What subtitle appeared at the same time as this man? Choose your answer from below options: A.The next morning, B.And it comes with my own Arabic TV., C.And if you can see, it's written in Arabic., D.It's a little after 10 and I just made it to Bahrain., E.You golta buy tulip bulbs..",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Efuyl2Anehg.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Efuyl2Anehg_en.json",
+        "optionD": "It's a little after 10 and I just made it to Bahrain.",
+        "optionE": "You golta buy tulip bulbs.",
+        "answers": [
+            "C"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "rZq-8Bq3mkU",
+        "uid": "rZq-8Bq3mkU",
+        "qid": "rZq-8Bq3mkU",
+        "q_type": "O2E",
+        "question": "What is the person in blue protective clothing doing the first time they appear?",
+        "optionA": "Using a cotton swab to treat a wound of the person with short blonde hair",
+        "optionB": "Putting a mask on the person with short blonde hair",
+        "optionC": "Using a bandage to wrap the person with short blonde hair",
+        "options": [
+            "Using a cotton swab to treat a wound of the person with short blonde hair",
+            "Putting a mask on the person with short blonde hair",
+            "Using a bandage to wrap the person with short blonde hair",
+            "Taking a photo of the person with short blonde hair using a phone",
+            "Taking the temperature of the person with short blonde hair with a thermometer"
+        ],
+        "question_w_options": "What is the person in blue protective clothing doing the first time they appear? Choose your answer from below options: A.Using a cotton swab to treat a wound of the person with short blonde hair, B.Putting a mask on the person with short blonde hair, C.Using a bandage to wrap the person with short blonde hair, D.Taking a photo of the person with short blonde hair using a phone, E.Taking the temperature of the person with short blonde hair with a thermometer.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/rZq-8Bq3mkU.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/rZq-8Bq3mkU_en.json",
+        "optionD": "Taking a photo of the person with short blonde hair using a phone",
+        "optionE": "Taking the temperature of the person with short blonde hair with a thermometer",
+        "answers": [
+            "E.Taking the temperature of the person with short blonde hair with a thermometer."
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "OMJc43wUPLM",
+        "uid": "OMJc43wUPLM",
+        "qid": "OMJc43wUPLM",
+        "q_type": "SAA",
+        "question": "What changes occur to the red square?",
+        "optionA": "It changes from red to green, and the number of small X's inside the box changes from two to one.",
+        "optionB": "It changes from red to green, and the number of small X's inside the box changes from two to four.",
+        "optionC": "It changes from red to green, and the number of small X's inside the box changes from two to three.",
+        "options": [
+            "It changes from red to green, and the number of small X's inside the box changes from two to one.",
+            "It changes from red to green, and the number of small X's inside the box changes from two to four.",
+            "It changes from red to green, and the number of small X's inside the box changes from two to three.",
+            "It changes from red to green, and the number of small X's inside the box changes from two to six.",
+            "It changes from red to green, and the number of small X's inside the box changes from two to five."
+        ],
+        "question_w_options": "What changes occur to the red square? Choose your answer from below options: A.It changes from red to green, and the number of small X's inside the box changes from two to one., B.It changes from red to green, and the number of small X's inside the box changes from two to four., C.It changes from red to green, and the number of small X's inside the box changes from two to three., D.It changes from red to green, and the number of small X's inside the box changes from two to six., E.It changes from red to green, and the number of small X's inside the box changes from two to five..",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/OMJc43wUPLM.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/OMJc43wUPLM_en.json",
+        "optionD": "It changes from red to green, and the number of small X's inside the box changes from two to six.",
+        "optionE": "It changes from red to green, and the number of small X's inside the box changes from two to five.",
+        "answers": [
+            "A"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "yXXhrMqfMlk",
+        "uid": "yXXhrMqfMlk",
+        "qid": "yXXhrMqfMlk",
+        "q_type": "T2O",
+        "question": "What object is present in the scene?",
+        "optionA": "a round hat",
+        "optionB": "a top hat",
+        "optionC": "a duckbill cap",
+        "options": [
+            "a round hat",
+            "a top hat",
+            "a duckbill cap",
+            "a black car",
+            "a pair of black-framed glasses"
+        ],
+        "question_w_options": "What object is present in the scene? Choose your answer from below options: A.a round hat, B.a top hat, C.a duckbill cap, D.a black car, E.a pair of black-framed glasses.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/yXXhrMqfMlk.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/yXXhrMqfMlk_en.json",
+        "optionD": "a black car",
+        "optionE": "a pair of black-framed glasses",
+        "answers": [
+            "C."
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "Fw1rirubXiU",
+        "uid": "Fw1rirubXiU",
+        "qid": "Fw1rirubXiU",
+        "q_type": "SAA",
+        "question": "What change occurs to him?",
+        "optionA": "He has an additional pair of gold-framed glasses on his face",
+        "optionB": "He has an additional hat on his head",
+        "optionC": "He has an additional pair of silver-framed glasses on his face",
+        "options": [
+            "He has an additional pair of gold-framed glasses on his face",
+            "He has an additional hat on his head",
+            "He has an additional pair of silver-framed glasses on his face",
+            "His hair changes to black",
+            "He has an additional pair of sunglasses on his face"
+        ],
+        "question_w_options": "What change occurs to him? Choose your answer from below options: A.He has an additional pair of gold-framed glasses on his face, B.He has an additional hat on his head, C.He has an additional pair of silver-framed glasses on his face, D.His hair changes to black, E.He has an additional pair of sunglasses on his face.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Fw1rirubXiU.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Fw1rirubXiU_en.json",
+        "optionD": "His hair changes to black",
+        "optionE": "He has an additional pair of sunglasses on his face",
+        "answers": [
+            "C"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "@placesunleashed-7289528053112343814",
+        "uid": "@placesunleashed-7289528053112343814",
+        "qid": "@placesunleashed-7289528053112343814",
+        "q_type": "SSS",
+        "question": "Which of the following sequences of scenes is correct?",
+        "optionA": "First, a shot of the sea with a mountain in the background appears, then a scene of a waterfall appears, and finally, it concludes with the appearance of a frog.",
+        "optionB": "First, a scene of a waterfall appears, then a frog appears, and finally, it concludes with a shot of the sea with a mountain in the background.",
+        "optionC": "First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog.",
+        "options": [
+            "First, a shot of the sea with a mountain in the background appears, then a scene of a waterfall appears, and finally, it concludes with the appearance of a frog.",
+            "First, a scene of a waterfall appears, then a frog appears, and finally, it concludes with a shot of the sea with a mountain in the background.",
+            "First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog.",
+            "First, a frog appears, then a shot of the sea with a mountain in the background appears, and finally, it concludes with a scene of a waterfall."
+        ],
+        "question_w_options": "Which of the following sequences of scenes is correct? Choose your answer from below options: A.First, a shot of the sea with a mountain in the background appears, then a scene of a waterfall appears, and finally, it concludes with the appearance of a frog., B.First, a scene of a waterfall appears, then a frog appears, and finally, it concludes with a shot of the sea with a mountain in the background., C.First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog., D.First, a frog appears, then a shot of the sea with a mountain in the background appears, and finally, it concludes with a scene of a waterfall..",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7289528053112343814.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7289528053112343814_en.json",
+        "optionD": "First, a frog appears, then a shot of the sea with a mountain in the background appears, and finally, it concludes with a scene of a waterfall.",
+        "answers": [
+            "C"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "@kerstinong-6900436106790194434",
+        "uid": "@kerstinong-6900436106790194434",
+        "qid": "@kerstinong-6900436106790194434",
+        "q_type": "TAA",
+        "question": "What change occurs to the woman who is working out?",
+        "optionA": "The woman's hands holding the equipment change to being crossed in front of her chest",
+        "optionB": "The woman's hands holding the equipment change to being on her waist",
+        "optionC": "The woman's hands holding the equipment change to being raised",
+        "options": [
+            "The woman's hands holding the equipment change to being crossed in front of her chest",
+            "The woman's hands holding the equipment change to being on her waist",
+            "The woman's hands holding the equipment change to being raised",
+            "The woman's spread-apart legs spread even wider",
+            "The woman's spread-apart legs change to being crossed together"
+        ],
+        "question_w_options": "What change occurs to the woman who is working out? Choose your answer from below options: A.The woman's hands holding the equipment change to being crossed in front of her chest, B.The woman's hands holding the equipment change to being on her waist, C.The woman's hands holding the equipment change to being raised, D.The woman's spread-apart legs spread even wider, E.The woman's spread-apart legs change to being crossed together.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/6900436106790194434.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/6900436106790194434_en.json",
+        "optionD": "The woman's spread-apart legs spread even wider",
+        "optionE": "The woman's spread-apart legs change to being crossed together",
+        "answers": [
+            "Answer: E.The woman's spread-apart legs change to being crossed together."
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "b__dUom9AcQ",
+        "uid": "b__dUom9AcQ",
+        "qid": "b__dUom9AcQ",
+        "q_type": "S2O",
+        "question": "What objects are present in this screen?",
+        "optionA": "helicopter",
+        "optionB": "green stone lion",
+        "optionC": "black car",
+        "options": [
+            "helicopter",
+            "green stone lion",
+            "black car",
+            "traffic light",
+            "handgun"
+        ],
+        "question_w_options": "What objects are present in this screen? Choose your answer from below options: A.helicopter, B.green stone lion, C.black car, D.traffic light, E.handgun.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/b__dUom9AcQ.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/b__dUom9AcQ_en.json",
+        "optionD": "traffic light",
+        "optionE": "handgun",
+        "answers": [
+            "B. green stone lion"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "pJI5ZU6wxqg",
+        "uid": "pJI5ZU6wxqg",
+        "qid": "pJI5ZU6wxqg",
+        "q_type": "E3E",
+        "question": "What happens next?",
+        "optionA": "A tall man is carrying a young girl",
+        "optionB": "Two women are holding an umbrella, walking forward in the water",
+        "optionC": "An elderly person is being carried by a rescue team member",
+        "options": [
+            "A tall man is carrying a young girl",
+            "Two women are holding an umbrella, walking forward in the water",
+            "An elderly person is being carried by a rescue team member",
+            "A rescue dog appears",
+            "A woman wearing a red hat is moving forward in the water"
+        ],
+        "question_w_options": "What happens next? Choose your answer from below options: A.A tall man is carrying a young girl, B.Two women are holding an umbrella, walking forward in the water, C.An elderly person is being carried by a rescue team member, D.A rescue dog appears, E.A woman wearing a red hat is moving forward in the water.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/pJI5ZU6wxqg.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/pJI5ZU6wxqg_en.json",
+        "optionD": "A rescue dog appears",
+        "optionE": "A woman wearing a red hat is moving forward in the water",
+        "answers": [
+            "B"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "@jess.morg-7203120578537049386",
+        "uid": "@jess.morg-7203120578537049386",
+        "qid": "@jess.morg-7203120578537049386",
+        "q_type": "SSS",
+        "question": "Which of the following scene sequences in the video is correct?",
+        "optionA": "First, flipping the menu on a wooden table in a dining room, then showing a phone to a mirror in a car, and finally showing a black shopping bag to a mirror in a shopping mall.",
+        "optionB": "First, showing a black shopping bag to a mirror in a shopping mall, then showing a phone to a mirror in a car, and finally flipping the menu on a wooden table in a dining room.",
+        "optionC": "First, showing a phone to a mirror in a car, then showing a black shopping bag to a mirror in a shopping mall, and finally flipping the menu on a wooden table in a dining room.",
+        "options": [
+            "First, flipping the menu on a wooden table in a dining room, then showing a phone to a mirror in a car, and finally showing a black shopping bag to a mirror in a shopping mall.",
+            "First, showing a black shopping bag to a mirror in a shopping mall, then showing a phone to a mirror in a car, and finally flipping the menu on a wooden table in a dining room.",
+            "First, showing a phone to a mirror in a car, then showing a black shopping bag to a mirror in a shopping mall, and finally flipping the menu on a wooden table in a dining room.",
+            "First, flipping the menu on a wooden table in a dining room, then showing a black shopping bag to a mirror in a shopping mall, and finally showing a phone to a mirror in a car.",
+            "First, showing a phone to a mirror in a car, then flipping the menu on a wooden table in a dining room, and finally showing a black shopping bag to a mirror in a shopping mall."
+        ],
+        "question_w_options": "Which of the following scene sequences in the video is correct? Choose your answer from below options: A.First, flipping the menu on a wooden table in a dining room, then showing a phone to a mirror in a car, and finally showing a black shopping bag to a mirror in a shopping mall., B.First, showing a black shopping bag to a mirror in a shopping mall, then showing a phone to a mirror in a car, and finally flipping the menu on a wooden table in a dining room., C.First, showing a phone to a mirror in a car, then showing a black shopping bag to a mirror in a shopping mall, and finally flipping the menu on a wooden table in a dining room., D.First, flipping the menu on a wooden table in a dining room, then showing a black shopping bag to a mirror in a shopping mall, and finally showing a phone to a mirror in a car., E.First, showing a phone to a mirror in a car, then flipping the menu on a wooden table in a dining room, and finally showing a black shopping bag to a mirror in a shopping mall..",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7203120578537049386.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7203120578537049386_en.json",
+        "optionD": "First, flipping the menu on a wooden table in a dining room, then showing a black shopping bag to a mirror in a shopping mall, and finally showing a phone to a mirror in a car.",
+        "optionE": "First, showing a phone to a mirror in a car, then flipping the menu on a wooden table in a dining room, and finally showing a black shopping bag to a mirror in a shopping mall.",
+        "answers": [
+            "E"
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "HvSEKzpSdzw",
+        "uid": "HvSEKzpSdzw",
+        "qid": "HvSEKzpSdzw",
+        "q_type": "S2E",
+        "question": "What is this young man doing in the room?",
+        "optionA": "Reaching into the box",
+        "optionB": "Stepping on the box",
+        "optionC": "Throwing the box away",
+        "options": [
+            "Reaching into the box",
+            "Stepping on the box",
+            "Throwing the box away",
+            "Cutting the box with a knife"
+        ],
+        "question_w_options": "What is this young man doing in the room? Choose your answer from below options: A.Reaching into the box, B.Stepping on the box, C.Throwing the box away, D.Cutting the box with a knife.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/HvSEKzpSdzw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/HvSEKzpSdzw_en.json",
+        "optionD": "Cutting the box with a knife",
+        "answers": [
+            "D.Cutting the box with a knife."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "pJI5ZU6wxqg",
+        "uid": "pJI5ZU6wxqg",
+        "qid": "pJI5ZU6wxqg",
+        "q_type": "E3E",
+        "question": "What happens after?",
+        "optionA": "A white car appears",
+        "optionB": "An elderly person holding a palm fan appears",
+        "optionC": "A little girl with a backpack appears",
+        "options": [
+            "A white car appears",
+            "An elderly person holding a palm fan appears",
+            "A little girl with a backpack appears",
+            "A large truck appears",
+            "A person wearing a helmet appears riding a motorcycle"
+        ],
+        "question_w_options": "What happens after? Choose your answer from below options: A.A white car appears, B.An elderly person holding a palm fan appears, C.A little girl with a backpack appears, D.A large truck appears, E.A person wearing a helmet appears riding a motorcycle.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/pJI5ZU6wxqg.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/pJI5ZU6wxqg_en.json",
+        "optionD": "A large truck appears",
+        "optionE": "A person wearing a helmet appears riding a motorcycle",
+        "answers": [
+            "A.A white car appears,"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "aqUisZS9Ruw",
+        "uid": "aqUisZS9Ruw",
+        "qid": "aqUisZS9Ruw",
+        "q_type": "TOS",
+        "question": "In which subtitles has this woman appeared together with these words?",
+        "optionA": "hope you want to",
+        "optionB": "museums I saw my first dog just",
+        "optionC": "please take please take my car s if they",
+        "options": [
+            "hope you want to",
+            "museums I saw my first dog just",
+            "please take please take my car s if they",
+            "people here also really nice especially",
+            "be spending all the night Moon"
+        ],
+        "question_w_options": "In which subtitles has this woman appeared together with these words? Choose your answer from below options: A.hope you want to, B.museums I saw my first dog just, C.please take please take my car s if they, D.people here also really nice especially, E.be spending all the night Moon.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/aqUisZS9Ruw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/aqUisZS9Ruw_en.json",
+        "optionD": "people here also really nice especially",
+        "optionE": "be spending all the night Moon",
+        "answers": [
+            "Answer: D. people here also really nice especially"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "PQRyGacBRA4",
+        "uid": "PQRyGacBRA4",
+        "qid": "PQRyGacBRA4",
+        "q_type": "SOS",
+        "question": "In which of the following scenes does this man appear?",
+        "optionA": "On top of a building with a lot of reporters, and the roof is red.",
+        "optionB": "On a viewing platform without the Union Jack flag.",
+        "optionC": "In front of a building with black rectangular tiles, a white carved door frame, black double doors, and surrounded by windows.",
+        "options": [
+            "On top of a building with a lot of reporters, and the roof is red.",
+            "On a viewing platform without the Union Jack flag.",
+            "In front of a building with black rectangular tiles, a white carved door frame, black double doors, and surrounded by windows.",
+            "On a road surrounded by trees with cars around.",
+            "On a circular stage with many people below."
+        ],
+        "question_w_options": "In which of the following scenes does this man appear? Choose your answer from below options: A.On top of a building with a lot of reporters, and the roof is red., B.On a viewing platform without the Union Jack flag., C.In front of a building with black rectangular tiles, a white carved door frame, black double doors, and surrounded by windows., D.On a road surrounded by trees with cars around., E.On a circular stage with many people below..",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/PQRyGacBRA4.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/PQRyGacBRA4_en.json",
+        "optionD": "On a road surrounded by trees with cars around.",
+        "optionE": "On a circular stage with many people below.",
+        "answers": [
+            "Answer: C. In front of a building with black rectangular tiles, a white carved door frame, black double doors, and surrounded by windows."
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "zk6fgbXI5AE",
+        "uid": "zk6fgbXI5AE",
+        "qid": "zk6fgbXI5AE",
+        "q_type": "T3O",
+        "question": "What appears first on the screen?",
+        "optionA": "A man wearing black clothes with a green bookbag and holding hands with a child",
+        "optionB": "A man wearing a red floral outfit with a green bookbag and holding hands with a child",
+        "optionC": "A woman wearing black clothes with a red bookbag and holding hands with a child",
+        "options": [
+            "A man wearing black clothes with a green bookbag and holding hands with a child",
+            "A man wearing a red floral outfit with a green bookbag and holding hands with a child",
+            "A woman wearing black clothes with a red bookbag and holding hands with a child",
+            "A woman wearing a red floral dress with a pink bookbag and holding hands with a child",
+            "A woman wearing a red floral dress with a yellow bookbag and holding hands with a child"
+        ],
+        "question_w_options": "What appears first on the screen? Choose your answer from below options: A.A man wearing black clothes with a green bookbag and holding hands with a child, B.A man wearing a red floral outfit with a green bookbag and holding hands with a child, C.A woman wearing black clothes with a red bookbag and holding hands with a child, D.A woman wearing a red floral dress with a pink bookbag and holding hands with a child, E.A woman wearing a red floral dress with a yellow bookbag and holding hands with a child.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/zk6fgbXI5AE.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/zk6fgbXI5AE_en.json",
+        "optionD": "A woman wearing a red floral dress with a pink bookbag and holding hands with a child",
+        "optionE": "A woman wearing a red floral dress with a yellow bookbag and holding hands with a child",
+        "answers": [
+            "D"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "_hODR1cR9lo",
+        "uid": "_hODR1cR9lo",
+        "qid": "_hODR1cR9lo",
+        "q_type": "TOS",
+        "question": "With which of the following subtitles did she appear together?",
+        "optionA": "\"I like to wear it when I sleep\"",
+        "optionB": "\"which i am wearing right now and i have\"",
+        "optionC": "\"This style is particularly comfortable to wear\"",
+        "options": [
+            "\"I like to wear it when I sleep\"",
+            "\"which i am wearing right now and i have\"",
+            "\"This style is particularly comfortable to wear\"",
+            "\"There are a lot of people who like to wear this\"",
+            "\"I really like this style\""
+        ],
+        "question_w_options": "With which of the following subtitles did she appear together? Choose your answer from below options: A.\"I like to wear it when I sleep\", B.\"which i am wearing right now and i have\", C.\"This style is particularly comfortable to wear\", D.\"There are a lot of people who like to wear this\", E.\"I really like this style\".",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/_hODR1cR9lo.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/_hODR1cR9lo_en.json",
+        "optionD": "\"There are a lot of people who like to wear this\"",
+        "optionE": "\"I really like this style\"",
+        "answers": [
+            "B. \"which i am wearing right now and i have\""
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "Z-1lgAXOEc8",
+        "uid": "Z-1lgAXOEc8",
+        "qid": "Z-1lgAXOEc8",
+        "q_type": "SOS",
+        "question": "In which other scenes does this man appear?",
+        "optionA": "In a green photo green ceiling with two storefront pizza shops.",
+        "optionB": "In a place with blue sky and white clouds, red buildings on both sides, a crosswalk on the road, and traffic lights hanging on a pole.",
+        "optionC": "In a place with orange pillars and glass doors with PIZZA stickers, at the top of the storefront, there is a grid-style pizza shop sign.",
+        "options": [
+            "In a green photo green ceiling with two storefront pizza shops.",
+            "In a place with blue sky and white clouds, red buildings on both sides, a crosswalk on the road, and traffic lights hanging on a pole.",
+            "In a place with orange pillars and glass doors with PIZZA stickers, at the top of the storefront, there is a grid-style pizza shop sign.",
+            "In a long corridor covered with photos.",
+            "In an open kitchen with white cabinets and a black stove, there is also a white door nearby."
+        ],
+        "question_w_options": "In which other scenes does this man appear? Choose your answer from below options: A.In a green photo green ceiling with two storefront pizza shops., B.In a place with blue sky and white clouds, red buildings on both sides, a crosswalk on the road, and traffic lights hanging on a pole., C.In a place with orange pillars and glass doors with PIZZA stickers, at the top of the storefront, there is a grid-style pizza shop sign., D.In a long corridor covered with photos., E.In an open kitchen with white cabinets and a black stove, there is also a white door nearby..",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Z-1lgAXOEc8.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Z-1lgAXOEc8_en.json",
+        "optionD": "In a long corridor covered with photos.",
+        "optionE": "In an open kitchen with white cabinets and a black stove, there is also a white door nearby.",
+        "answers": [
+            "E"
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "UUaiqR1I454",
+        "uid": "UUaiqR1I454",
+        "qid": "UUaiqR1I454",
+        "q_type": "TOS",
+        "question": "With which subtitles does this man appear together?",
+        "optionA": "still blanketed darkness\u4e0eothers weren\u2019t so lucky",
+        "optionB": "still blanketed darkness\u4e0ethey did not surrender",
+        "optionC": "still blanketed in darkness\u4e0ealmost eclipsed the morning sun his",
+        "options": [
+            "still blanketed darkness\u4e0eothers weren\u2019t so lucky",
+            "still blanketed darkness\u4e0ethey did not surrender",
+            "still blanketed in darkness\u4e0ealmost eclipsed the morning sun his",
+            "others weren\u2019t so lucky\u4e0ealmost eclipsed the morning sun his",
+            "they did not surrender\u4e0ealmost eclipsed the morning sun his"
+        ],
+        "question_w_options": "With which subtitles does this man appear together? Choose your answer from below options: A.still blanketed darkness\u4e0eothers weren\u2019t so lucky, B.still blanketed darkness\u4e0ethey did not surrender, C.still blanketed in darkness\u4e0ealmost eclipsed the morning sun his, D.others weren\u2019t so lucky\u4e0ealmost eclipsed the morning sun his, E.they did not surrender\u4e0ealmost eclipsed the morning sun his.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/UUaiqR1I454.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/UUaiqR1I454_en.json",
+        "optionD": "others weren\u2019t so lucky\u4e0ealmost eclipsed the morning sun his",
+        "optionE": "they did not surrender\u4e0ealmost eclipsed the morning sun his",
+        "answers": [
+            "Answer: D. others weren\u2019t so lucky\u4e0ealmost eclipsed the morning sun his,"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "qYnloYaeQA8",
+        "uid": "qYnloYaeQA8",
+        "qid": "qYnloYaeQA8",
+        "q_type": "S2A",
+        "question": "What kind of hat is this man wearing?",
+        "optionA": "A blue beret",
+        "optionB": "A white ceremonial hat adorned with red flowers",
+        "optionC": "An off-white baseball cap",
+        "options": [
+            "A blue beret",
+            "A white ceremonial hat adorned with red flowers",
+            "An off-white baseball cap",
+            "A black baseball cap with a white design in the middle and on the upper side of the ear flaps"
+        ],
+        "question_w_options": "What kind of hat is this man wearing? Choose your answer from below options: A.A blue beret, B.A white ceremonial hat adorned with red flowers, C.An off-white baseball cap, D.A black baseball cap with a white design in the middle and on the upper side of the ear flaps.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/qYnloYaeQA8.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/qYnloYaeQA8_en.json",
+        "optionD": "A black baseball cap with a white design in the middle and on the upper side of the ear flaps",
+        "answers": [
+            "D."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "T15Kv6dtYO0",
+        "uid": "T15Kv6dtYO0",
+        "qid": "T15Kv6dtYO0",
+        "q_type": "S2A",
+        "question": "What color is the liquid inside the bucket in the painting?",
+        "optionA": "yellow",
+        "optionB": "white",
+        "optionC": "red",
+        "options": [
+            "yellow",
+            "white",
+            "red",
+            "black",
+            "blue"
+        ],
+        "question_w_options": "What color is the liquid inside the bucket in the painting? Choose your answer from below options: A.yellow, B.white, C.red, D.black, E.blue.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/T15Kv6dtYO0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/T15Kv6dtYO0_en.json",
+        "optionD": "black",
+        "optionE": "blue",
+        "answers": [
+            "C. red"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "L-XGTMusZvc",
+        "uid": "L-XGTMusZvc",
+        "qid": "L-XGTMusZvc",
+        "q_type": "T3E",
+        "question": "What happened?",
+        "optionA": "A fighter jet crashes from the sky",
+        "optionB": "A fighter jet crashes into the sea",
+        "optionC": "A pilot jumps off the fighter jet",
+        "options": [
+            "A fighter jet crashes from the sky",
+            "A fighter jet crashes into the sea",
+            "A pilot jumps off the fighter jet",
+            "A fighter jet is engaging in ground combat",
+            "A fighter jet is hit by artillery"
+        ],
+        "question_w_options": "What happened? Choose your answer from below options: A.A fighter jet crashes from the sky, B.A fighter jet crashes into the sea, C.A pilot jumps off the fighter jet, D.A fighter jet is engaging in ground combat, E.A fighter jet is hit by artillery.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/L-XGTMusZvc.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/L-XGTMusZvc_en.json",
+        "optionD": "A fighter jet is engaging in ground combat",
+        "optionE": "A fighter jet is hit by artillery",
+        "answers": [
+            "A.A fighter jet crashes from the sky,"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "1D9TgBrW6Sw",
+        "uid": "1D9TgBrW6Sw",
+        "qid": "1D9TgBrW6Sw",
+        "q_type": "TOS",
+        "question": "Which subtitle does the man in the red and white striped shirt appear with in the video?",
+        "optionA": "heart disease,and birth defects including",
+        "optionB": "I know every inch of the 707.",
+        "optionC": "I'm OK.",
+        "options": [
+            "heart disease,and birth defects including",
+            "I know every inch of the 707.",
+            "I'm OK.",
+            "You won't be sorry."
+        ],
+        "question_w_options": "Which subtitle does the man in the red and white striped shirt appear with in the video? Choose your answer from below options: A.heart disease,and birth defects including, B.I know every inch of the 707., C.I'm OK., D.You won't be sorry..",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/1D9TgBrW6Sw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/1D9TgBrW6Sw_en.json",
+        "optionD": "You won't be sorry.",
+        "answers": [
+            "B."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "iJk-HMfO4yQ",
+        "uid": "iJk-HMfO4yQ",
+        "qid": "iJk-HMfO4yQ",
+        "q_type": "O3O",
+        "question": "Who is the first person to pass by behind the officer?",
+        "optionA": "A woman wearing a suit",
+        "optionB": "A woman wearing black clothes with a hat",
+        "optionC": "A man wearing black clothes with a hat",
+        "options": [
+            "A woman wearing a suit",
+            "A woman wearing black clothes with a hat",
+            "A man wearing black clothes with a hat",
+            "A woman wearing a hat and sunglasses",
+            "An elderly person wearing a hat and sunglasses"
+        ],
+        "question_w_options": "Who is the first person to pass by behind the officer? Choose your answer from below options: A.A woman wearing a suit, B.A woman wearing black clothes with a hat, C.A man wearing black clothes with a hat, D.A woman wearing a hat and sunglasses, E.An elderly person wearing a hat and sunglasses.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/iJk-HMfO4yQ.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/iJk-HMfO4yQ_en.json",
+        "optionD": "A woman wearing a hat and sunglasses",
+        "optionE": "An elderly person wearing a hat and sunglasses",
+        "answers": [
+            "C. A man wearing black clothes with a hat."
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "Z6Hx_BAZeUw",
+        "uid": "Z6Hx_BAZeUw",
+        "qid": "Z6Hx_BAZeUw",
+        "q_type": "E3E",
+        "question": "What happens?",
+        "optionA": "The content on the PPT disappears, and a light purple box appears, with CH3OH written at the top of the box.",
+        "optionB": "The content on the PPT disappears, and a light green box appears, with CH3OH written at the top of the box.",
+        "optionC": "The content on the PPT disappears, and a light red box appears, with CH3OH written at the top of the box.",
+        "options": [
+            "The content on the PPT disappears, and a light purple box appears, with CH3OH written at the top of the box.",
+            "The content on the PPT disappears, and a light green box appears, with CH3OH written at the top of the box.",
+            "The content on the PPT disappears, and a light red box appears, with CH3OH written at the top of the box.",
+            "The content on the PPT disappears, and a light yellow box appears, with CH3OH written at the top of the box.",
+            "The content on the PPT disappears, and a light pink box appears, with CH3OH written at the top of the box."
+        ],
+        "question_w_options": "What happens? Choose your answer from below options: A.The content on the PPT disappears, and a light purple box appears, with CH3OH written at the top of the box., B.The content on the PPT disappears, and a light green box appears, with CH3OH written at the top of the box., C.The content on the PPT disappears, and a light red box appears, with CH3OH written at the top of the box., D.The content on the PPT disappears, and a light yellow box appears, with CH3OH written at the top of the box., E.The content on the PPT disappears, and a light pink box appears, with CH3OH written at the top of the box..",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Z6Hx_BAZeUw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Z6Hx_BAZeUw_en.json",
+        "optionD": "The content on the PPT disappears, and a light yellow box appears, with CH3OH written at the top of the box.",
+        "optionE": "The content on the PPT disappears, and a light pink box appears, with CH3OH written at the top of the box.",
+        "answers": [
+            "E"
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "lCvQtGVhUrc",
+        "uid": "lCvQtGVhUrc",
+        "qid": "lCvQtGVhUrc",
+        "q_type": "SAA",
+        "question": "What changes occur to the book?",
+        "optionA": "The book changes from being in the woman's hand to being on the table",
+        "optionB": "The book changes from a black-and-white cover to a colored cover",
+        "optionC": "The book changes from a full shot to a close-up",
+        "options": [
+            "The book changes from being in the woman's hand to being on the table",
+            "The book changes from a black-and-white cover to a colored cover",
+            "The book changes from a full shot to a close-up",
+            "The book changes from brand new to damaged",
+            "The book changes from closed to open"
+        ],
+        "question_w_options": "What changes occur to the book? Choose your answer from below options: A.The book changes from being in the woman's hand to being on the table, B.The book changes from a black-and-white cover to a colored cover, C.The book changes from a full shot to a close-up, D.The book changes from brand new to damaged, E.The book changes from closed to open.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/lCvQtGVhUrc.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/lCvQtGVhUrc_en.json",
+        "optionD": "The book changes from brand new to damaged",
+        "optionE": "The book changes from closed to open",
+        "answers": [
+            "C"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "Ip9DbdOtqF4",
+        "uid": "Ip9DbdOtqF4",
+        "qid": "Ip9DbdOtqF4",
+        "q_type": "O2E",
+        "question": "What did the little girl do the first time she appeared on the scene?",
+        "optionA": "Grabbed the white paper",
+        "optionB": "Raised both hands",
+        "optionC": "Used a tool to imprint a design on the white paper",
+        "options": [
+            "Grabbed the white paper",
+            "Raised both hands",
+            "Used a tool to imprint a design on the white paper",
+            "Bent down and bowed",
+            "Waved her hands left and right"
+        ],
+        "question_w_options": "What did the little girl do the first time she appeared on the scene? Choose your answer from below options: A.Grabbed the white paper, B.Raised both hands, C.Used a tool to imprint a design on the white paper, D.Bent down and bowed, E.Waved her hands left and right.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Ip9DbdOtqF4.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Ip9DbdOtqF4_en.json",
+        "optionD": "Bent down and bowed",
+        "optionE": "Waved her hands left and right",
+        "answers": [
+            "C. Used a tool to imprint a design on the white paper,"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "ixlQX7lV8dc",
+        "uid": "ixlQX7lV8dc",
+        "qid": "ixlQX7lV8dc",
+        "q_type": "T3O",
+        "question": "After the subtitle 'helped it seek out prey, primarily' appears, which animal is shown?",
+        "optionA": "gecko",
+        "optionB": "snake",
+        "optionC": "chipmunk",
+        "options": [
+            "gecko",
+            "snake",
+            "chipmunk",
+            "frog"
+        ],
+        "question_w_options": "After the subtitle 'helped it seek out prey, primarily' appears, which animal is shown? Choose your answer from below options: A.gecko, B.snake, C.chipmunk, D.frog.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/ixlQX7lV8dc.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/ixlQX7lV8dc_en.json",
+        "optionD": "frog",
+        "answers": [
+            "D. frog."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "Y1YCvEip_ko",
+        "uid": "Y1YCvEip_ko",
+        "qid": "Y1YCvEip_ko",
+        "q_type": "SOS",
+        "question": "Where else does this woman appear?",
+        "optionA": "On an escalator at the airport",
+        "optionB": "Inside a hotel",
+        "optionC": "In a taxi",
+        "options": [
+            "On an escalator at the airport",
+            "Inside a hotel",
+            "In a taxi",
+            "On the light yellow sofa inside the room",
+            "On a bus"
+        ],
+        "question_w_options": "Where else does this woman appear? Choose your answer from below options: A.On an escalator at the airport, B.Inside a hotel, C.In a taxi, D.On the light yellow sofa inside the room, E.On a bus.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Y1YCvEip_ko.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Y1YCvEip_ko_en.json",
+        "optionD": "On the light yellow sofa inside the room",
+        "optionE": "On a bus",
+        "answers": [
+            "D"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "yFAuXmcGk2Y",
+        "uid": "yFAuXmcGk2Y",
+        "qid": "yFAuXmcGk2Y",
+        "q_type": "SAA",
+        "question": "What change happens?",
+        "optionA": "Got covered by a yellow layer",
+        "optionB": "Turned red",
+        "optionC": "Moved to the right",
+        "options": [
+            "Got covered by a yellow layer",
+            "Turned red",
+            "Moved to the right",
+            "Got enlarged",
+            "Moved to the left"
+        ],
+        "question_w_options": "What change happens? Choose your answer from below options: A.Got covered by a yellow layer, B.Turned red, C.Moved to the right, D.Got enlarged, E.Moved to the left.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/yFAuXmcGk2Y.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/yFAuXmcGk2Y_en.json",
+        "optionD": "Got enlarged",
+        "optionE": "Moved to the left",
+        "answers": [
+            "A"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "WM78_KqcrSY",
+        "uid": "WM78_KqcrSY",
+        "qid": "WM78_KqcrSY",
+        "q_type": "SSS",
+        "question": "Which of the following scenarios is in the correct order?",
+        "optionA": "First, a map block appears on the left with details, then the left side shows an icon, the right side shows a screen with two icons, and finally, the left shows many small drones and the right side top shows a screen with a few small drones to conclude.",
+        "optionB": "First, the left side shows many small drones, the right side top shows a screen with a few small drones, then a detailed map block appears on the left, and finally, as the conclusion, the left shows an icon and the right shows two icons.",
+        "optionC": "First, a map block appears on the left with details, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows an icon and the right side shows two icons to conclude.",
+        "options": [
+            "First, a map block appears on the left with details, then the left side shows an icon, the right side shows a screen with two icons, and finally, the left shows many small drones and the right side top shows a screen with a few small drones to conclude.",
+            "First, the left side shows many small drones, the right side top shows a screen with a few small drones, then a detailed map block appears on the left, and finally, as the conclusion, the left shows an icon and the right shows two icons.",
+            "First, a map block appears on the left with details, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows an icon and the right side shows two icons to conclude.",
+            "First, the left shows an icon, the right side shows a screen with two icons, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows a detailed map block."
+        ],
+        "question_w_options": "Which of the following scenarios is in the correct order? Choose your answer from below options: A.First, a map block appears on the left with details, then the left side shows an icon, the right side shows a screen with two icons, and finally, the left shows many small drones and the right side top shows a screen with a few small drones to conclude., B.First, the left side shows many small drones, the right side top shows a screen with a few small drones, then a detailed map block appears on the left, and finally, as the conclusion, the left shows an icon and the right shows two icons., C.First, a map block appears on the left with details, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows an icon and the right side shows two icons to conclude., D.First, the left shows an icon, the right side shows a screen with two icons, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows a detailed map block..",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/WM78_KqcrSY.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/WM78_KqcrSY_en.json",
+        "optionD": "First, the left shows an icon, the right side shows a screen with two icons, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows a detailed map block.",
+        "answers": []
+    },
+    {
+        "quid": "GuEptwLiAvs",
+        "uid": "GuEptwLiAvs",
+        "qid": "GuEptwLiAvs",
+        "q_type": "SSS",
+        "question": "Which of the following sequences is correct?",
+        "optionA": "A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside.",
+        "optionB": "A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf.",
+        "optionC": "A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen.",
+        "options": [
+            "A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside.",
+            "A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf.",
+            "A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen.",
+            "A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside.",
+            "A man wearing gray sportswear with black earbuds is running outside; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen."
+        ],
+        "question_w_options": "Which of the following sequences is correct? Choose your answer from below options: A.A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside., B.A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf., C.A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen., D.A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside., E.A man wearing gray sportswear with black earbuds is running outside; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen..",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/GuEptwLiAvs.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/GuEptwLiAvs_en.json",
+        "optionD": "A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside.",
+        "optionE": "A man wearing gray sportswear with black earbuds is running outside; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen.",
+        "answers": [
+            "B"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "JhlzvoqKOc8",
+        "uid": "JhlzvoqKOc8",
+        "qid": "JhlzvoqKOc8",
+        "q_type": "T2E",
+        "question": "What action does this woman perform?",
+        "optionA": "She picks up a gun",
+        "optionB": "She picks up a shield",
+        "optionC": "She picks up a flower",
+        "options": [
+            "She picks up a gun",
+            "She picks up a shield",
+            "She picks up a flower",
+            "She picks up a dagger",
+            "She picks up a sword"
+        ],
+        "question_w_options": "What action does this woman perform? Choose your answer from below options: A.She picks up a gun, B.She picks up a shield, C.She picks up a flower, D.She picks up a dagger, E.She picks up a sword.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/JhlzvoqKOc8.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/JhlzvoqKOc8_en.json",
+        "optionD": "She picks up a dagger",
+        "optionE": "She picks up a sword",
+        "answers": [
+            "D"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "t1nhAnMQBHg",
+        "uid": "t1nhAnMQBHg",
+        "qid": "t1nhAnMQBHg",
+        "q_type": "T3O",
+        "question": "What is the item on the man's head?",
+        "optionA": "A black beret with red and white interlaced text",
+        "optionB": "A black baseball cap with red and white interlaced text",
+        "optionC": "A black top hat with red and white interlaced text",
+        "options": [
+            "A black beret with red and white interlaced text",
+            "A black baseball cap with red and white interlaced text",
+            "A black top hat with red and white interlaced text",
+            "A yellow baseball cap with red and white interlaced text",
+            "A black baseball cap with no text"
+        ],
+        "question_w_options": "What is the item on the man's head? Choose your answer from below options: A.A black beret with red and white interlaced text, B.A black baseball cap with red and white interlaced text, C.A black top hat with red and white interlaced text, D.A yellow baseball cap with red and white interlaced text, E.A black baseball cap with no text.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/t1nhAnMQBHg.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/t1nhAnMQBHg_en.json",
+        "optionD": "A yellow baseball cap with red and white interlaced text",
+        "optionE": "A black baseball cap with no text",
+        "answers": []
+    },
+    {
+        "quid": "XVXczyheik0",
+        "uid": "XVXczyheik0",
+        "qid": "XVXczyheik0",
+        "q_type": "SAA",
+        "question": "What changes occur to this man's position on the screen?",
+        "optionA": "The man disappears from the screen.",
+        "optionB": "The man starts wearing sunglasses.",
+        "optionC": "The man's position on the screen shifts to the bottom-left corner.",
+        "options": [
+            "The man disappears from the screen.",
+            "The man starts wearing sunglasses.",
+            "The man's position on the screen shifts to the bottom-left corner.",
+            "The man's position on the screen shifts to the bottom-right corner.",
+            "The man changes to a white shirt."
+        ],
+        "question_w_options": "What changes occur to this man's position on the screen? Choose your answer from below options: A.The man disappears from the screen., B.The man starts wearing sunglasses., C.The man's position on the screen shifts to the bottom-left corner., D.The man's position on the screen shifts to the bottom-right corner., E.The man changes to a white shirt..",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/XVXczyheik0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/XVXczyheik0_en.json",
+        "optionD": "The man's position on the screen shifts to the bottom-right corner.",
+        "optionE": "The man changes to a white shirt.",
+        "answers": [
+            "A. The man disappears from the screen."
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "vpKtHB8x0js",
+        "uid": "vpKtHB8x0js",
+        "qid": "vpKtHB8x0js",
+        "q_type": "T3E",
+        "question": "What does the woman do?",
+        "optionA": "She is swimming in the water",
+        "optionB": "She assists a person in walking",
+        "optionC": "She is combing her hair",
+        "options": [
+            "She is swimming in the water",
+            "She assists a person in walking",
+            "She is combing her hair",
+            "She wakes up a man lying on the ground",
+            "She is applying lipstick"
+        ],
+        "question_w_options": "What does the woman do? Choose your answer from below options: A.She is swimming in the water, B.She assists a person in walking, C.She is combing her hair, D.She wakes up a man lying on the ground, E.She is applying lipstick.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/vpKtHB8x0js.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/vpKtHB8x0js_en.json",
+        "optionD": "She wakes up a man lying on the ground",
+        "optionE": "She is applying lipstick",
+        "answers": [
+            "D"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "answer full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "-eRimFrm6kQ",
+        "uid": "-eRimFrm6kQ",
+        "qid": "-eRimFrm6kQ",
+        "q_type": "O3O",
+        "question": "Which character appears first in the room?",
+        "optionA": "A man wearing a blue T-shirt with a crew cut",
+        "optionB": "A man wearing a white T-shirt with short hair",
+        "optionC": "A woman with long blonde hair wearing a pink top",
+        "options": [
+            "A man wearing a blue T-shirt with a crew cut",
+            "A man wearing a white T-shirt with short hair",
+            "A woman with long blonde hair wearing a pink top",
+            "A woman with long black hair wearing a white dress",
+            "A man wearing a black T-shirt with curly hair"
+        ],
+        "question_w_options": "Which character appears first in the room? Choose your answer from below options: A.A man wearing a blue T-shirt with a crew cut, B.A man wearing a white T-shirt with short hair, C.A woman with long blonde hair wearing a pink top, D.A woman with long black hair wearing a white dress, E.A man wearing a black T-shirt with curly hair.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/-eRimFrm6kQ.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/-eRimFrm6kQ_en.json",
+        "optionD": "A woman with long black hair wearing a white dress",
+        "optionE": "A man wearing a black T-shirt with curly hair",
+        "answers": [
+            "B"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "9S9i12n0TIw",
+        "uid": "9S9i12n0TIw",
+        "qid": "9S9i12n0TIw",
+        "q_type": "O2E",
+        "question": "What is he doing?",
+        "optionA": "Smiling at the camera",
+        "optionB": "Making a mark on the map",
+        "optionC": "Making a 'Yay' sign towards the camera",
+        "options": [
+            "Smiling at the camera",
+            "Making a mark on the map",
+            "Making a 'Yay' sign towards the camera",
+            "Raising his hand to greet",
+            "Talking to the camera"
+        ],
+        "question_w_options": "What is he doing? Choose your answer from below options: A.Smiling at the camera, B.Making a mark on the map, C.Making a 'Yay' sign towards the camera, D.Raising his hand to greet, E.Talking to the camera.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/9S9i12n0TIw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/9S9i12n0TIw_en.json",
+        "optionD": "Raising his hand to greet",
+        "optionE": "Talking to the camera",
+        "answers": [
+            "B.Making a mark on the map"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "mfS6gyP0mwo",
+        "uid": "mfS6gyP0mwo",
+        "qid": "mfS6gyP0mwo",
+        "q_type": "SAA",
+        "question": "How does the color of the wall change?",
+        "optionA": "White turns to blue",
+        "optionB": "White turns to purple",
+        "optionC": "White turns to green",
+        "options": [
+            "White turns to blue",
+            "White turns to purple",
+            "White turns to green",
+            "White turns to black"
+        ],
+        "question_w_options": "How does the color of the wall change? Choose your answer from below options: A.White turns to blue, B.White turns to purple, C.White turns to green, D.White turns to black.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/mfS6gyP0mwo.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/mfS6gyP0mwo_en.json",
+        "optionD": "White turns to black",
+        "answers": [
+            "B."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "F2OhCCEIOcU",
+        "uid": "F2OhCCEIOcU",
+        "qid": "F2OhCCEIOcU",
+        "q_type": "SOS",
+        "question": "In which other scene does the man wearing the white inner layer appear in the video?",
+        "optionA": "Inside a room",
+        "optionB": "At the seaside",
+        "optionC": "Inside a cargo truck",
+        "options": [
+            "Inside a room",
+            "At the seaside",
+            "Inside a cargo truck",
+            "In a milk tea shop"
+        ],
+        "question_w_options": "In which other scene does the man wearing the white inner layer appear in the video? Choose your answer from below options: A.Inside a room, B.At the seaside, C.Inside a cargo truck, D.In a milk tea shop.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/F2OhCCEIOcU.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/F2OhCCEIOcU_en.json",
+        "optionD": "In a milk tea shop",
+        "answers": [
+            "A. Inside a room."
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "DX-mYMYf8jI",
+        "uid": "DX-mYMYf8jI",
+        "qid": "DX-mYMYf8jI",
+        "q_type": "O2E",
+        "question": "What is the woman doing the first time she appears?",
+        "optionA": "She is picking up other food ingredients",
+        "optionB": "She is putting food into the oven",
+        "optionC": "She is taking items from the refrigerator",
+        "options": [
+            "She is picking up other food ingredients",
+            "She is putting food into the oven",
+            "She is taking items from the refrigerator",
+            "She is introducing the food ingredients on the table"
+        ],
+        "question_w_options": "What is the woman doing the first time she appears? Choose your answer from below options: A.She is picking up other food ingredients, B.She is putting food into the oven, C.She is taking items from the refrigerator, D.She is introducing the food ingredients on the table.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/DX-mYMYf8jI.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/DX-mYMYf8jI_en.json",
+        "optionD": "She is introducing the food ingredients on the table",
+        "answers": [
+            "D"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "mq6L8CnNJXc",
+        "uid": "mq6L8CnNJXc",
+        "qid": "mq6L8CnNJXc",
+        "q_type": "S2A",
+        "question": "In the video, what is the color of the straps on the backpack he is carrying?",
+        "optionA": "Olive",
+        "optionB": "Black",
+        "optionC": "White",
+        "options": [
+            "Olive",
+            "Black",
+            "White",
+            "Gray"
+        ],
+        "question_w_options": "In the video, what is the color of the straps on the backpack he is carrying? Choose your answer from below options: A.Olive, B.Black, C.White, D.Gray.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/mq6L8CnNJXc.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/mq6L8CnNJXc_en.json",
+        "optionD": "Gray",
+        "answers": [
+            "A. Olive"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "0_YDrJoUe8s",
+        "uid": "0_YDrJoUe8s",
+        "qid": "0_YDrJoUe8s",
+        "q_type": "TAA",
+        "question": "What change occurs to the woman onscreen?",
+        "optionA": "The woman walks to admire four artworks.",
+        "optionB": "The woman starts introducing the artworks.",
+        "optionC": "The woman changed her clothes.",
+        "options": [
+            "The woman walks to admire four artworks.",
+            "The woman starts introducing the artworks.",
+            "The woman changed her clothes.",
+            "The woman sits down to admire four artworks.",
+            "The woman's hair was tied up."
+        ],
+        "question_w_options": "What change occurs to the woman onscreen? Choose your answer from below options: A.The woman walks to admire four artworks., B.The woman starts introducing the artworks., C.The woman changed her clothes., D.The woman sits down to admire four artworks., E.The woman's hair was tied up..",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/0_YDrJoUe8s.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/0_YDrJoUe8s_en.json",
+        "optionD": "The woman sits down to admire four artworks.",
+        "optionE": "The woman's hair was tied up.",
+        "answers": [
+            "D. The woman sits down to admire four artworks.,"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "@lisolna-7359951777845775648",
+        "uid": "@lisolna-7359951777845775648",
+        "qid": "@lisolna-7359951777845775648",
+        "q_type": "O3O",
+        "question": "What is the first item placed in the shopping cart in the video?",
+        "optionA": "A box of blueberries",
+        "optionB": "A net of tangerines",
+        "optionC": "A bag of carrots",
+        "options": [
+            "A box of blueberries",
+            "A net of tangerines",
+            "A bag of carrots",
+            "A bag of nuts",
+            "A box of cherry tomatoes"
+        ],
+        "question_w_options": "What is the first item placed in the shopping cart in the video? Choose your answer from below options: A.A box of blueberries, B.A net of tangerines, C.A bag of carrots, D.A bag of nuts, E.A box of cherry tomatoes.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7359951777845775648.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7359951777845775648_en.json",
+        "optionD": "A bag of nuts",
+        "optionE": "A box of cherry tomatoes",
+        "answers": [
+            "C.A bag of carrots"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "sEiyR7-0FOA",
+        "uid": "sEiyR7-0FOA",
+        "qid": "sEiyR7-0FOA",
+        "q_type": "T2A",
+        "question": "What color is the book that the person on the left is holding?",
+        "optionA": "red",
+        "optionB": "green",
+        "optionC": "yellow",
+        "options": [
+            "red",
+            "green",
+            "yellow",
+            "black",
+            "white"
+        ],
+        "question_w_options": "What color is the book that the person on the left is holding? Choose your answer from below options: A.red, B.green, C.yellow, D.black, E.white.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/sEiyR7-0FOA.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/sEiyR7-0FOA_en.json",
+        "optionD": "black",
+        "optionE": "white",
+        "answers": [
+            "D.black"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "@recipesbyanne-7190395053343296774",
+        "uid": "@recipesbyanne-7190395053343296774",
+        "qid": "@recipesbyanne-7190395053343296774",
+        "q_type": "E3E",
+        "question": ", what happened?",
+        "optionA": "The food got burnt",
+        "optionB": "The food formed into cubes",
+        "optionC": "The food formed into long strips",
+        "options": [
+            "The food got burnt",
+            "The food formed into cubes",
+            "The food formed into long strips",
+            "Oats were sprinkled on the food",
+            "Yellow nuts were sprinkled on the food"
+        ],
+        "question_w_options": ", what happened? Choose your answer from below options: A.The food got burnt, B.The food formed into cubes, C.The food formed into long strips, D.Oats were sprinkled on the food, E.Yellow nuts were sprinkled on the food.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7190395053343296774.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7190395053343296774_en.json",
+        "optionD": "Oats were sprinkled on the food",
+        "optionE": "Yellow nuts were sprinkled on the food",
+        "answers": [
+            "B. The food formed into cubes."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "GZFL58_pXPg",
+        "uid": "GZFL58_pXPg",
+        "qid": "GZFL58_pXPg",
+        "q_type": "T2A",
+        "question": "What color appears on the right side of the brain diagram?",
+        "optionA": "The left side of the brain diagram is gray with stained patterns.",
+        "optionB": "The right side of the brain is blue with stains.",
+        "optionC": "The right side of the brain diagram is gray, resembling stains.",
+        "options": [
+            "The left side of the brain diagram is gray with stained patterns.",
+            "The right side of the brain is blue with stains.",
+            "The right side of the brain diagram is gray, resembling stains.",
+            "The left side of the brain is blue with stains."
+        ],
+        "question_w_options": "What color appears on the right side of the brain diagram? Choose your answer from below options: A.The left side of the brain diagram is gray with stained patterns., B.The right side of the brain is blue with stains., C.The right side of the brain diagram is gray, resembling stains., D.The left side of the brain is blue with stains..",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/GZFL58_pXPg.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/GZFL58_pXPg_en.json",
+        "optionD": "The left side of the brain is blue with stains.",
+        "answers": [
+            "C. The right side of the brain diagram is gray, resembling stains."
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "8foMISZGiyw",
+        "uid": "8foMISZGiyw",
+        "qid": "8foMISZGiyw",
+        "q_type": "S2E",
+        "question": "What is this woman doing?",
+        "optionA": "She is mending the cloth bag",
+        "optionB": "She tore the cloth bag",
+        "optionC": "She took a mask out of the cloth bag",
+        "options": [
+            "She is mending the cloth bag",
+            "She tore the cloth bag",
+            "She took a mask out of the cloth bag",
+            "She placed the cloth bag on the ground",
+            "She took a gun out of the cloth bag"
+        ],
+        "question_w_options": "What is this woman doing? Choose your answer from below options: A.She is mending the cloth bag, B.She tore the cloth bag, C.She took a mask out of the cloth bag, D.She placed the cloth bag on the ground, E.She took a gun out of the cloth bag.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/8foMISZGiyw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/8foMISZGiyw_en.json",
+        "optionD": "She placed the cloth bag on the ground",
+        "optionE": "She took a gun out of the cloth bag",
+        "answers": [
+            "E"
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "3zv9RkDPX14",
+        "uid": "3zv9RkDPX14",
+        "qid": "3zv9RkDPX14",
+        "q_type": "T2O",
+        "question": "What objects are present in the scene?",
+        "optionA": "Black gloves",
+        "optionB": "Green and black gloves",
+        "optionC": "White gloves",
+        "options": [
+            "Black gloves",
+            "Green and black gloves",
+            "White gloves",
+            "Green gloves",
+            "Yellow gloves"
+        ],
+        "question_w_options": "What objects are present in the scene? Choose your answer from below options: A.Black gloves, B.Green and black gloves, C.White gloves, D.Green gloves, E.Yellow gloves.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/3zv9RkDPX14.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/3zv9RkDPX14_en.json",
+        "optionD": "Green gloves",
+        "optionE": "Yellow gloves",
+        "answers": [
+            "A. Black gloves"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "RTUFPjliMCU",
+        "uid": "RTUFPjliMCU",
+        "qid": "RTUFPjliMCU",
+        "q_type": "T2A",
+        "question": "What color is the slanted line?",
+        "optionA": "Olive Yellow",
+        "optionB": "Light Yellow",
+        "optionC": "Light Blue",
+        "options": [
+            "Olive Yellow",
+            "Light Yellow",
+            "Light Blue",
+            "Grass Green",
+            "Ink Green"
+        ],
+        "question_w_options": "What color is the slanted line? Choose your answer from below options: A.Olive Yellow, B.Light Yellow, C.Light Blue, D.Grass Green, E.Ink Green.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/RTUFPjliMCU.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/RTUFPjliMCU_en.json",
+        "optionD": "Grass Green",
+        "optionE": "Ink Green",
+        "answers": [
+            "C. Light Blue"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "T15Kv6dtYO0",
+        "uid": "T15Kv6dtYO0",
+        "qid": "T15Kv6dtYO0",
+        "q_type": "S2A",
+        "question": "What is the shape of the hat in the room?",
+        "optionA": "round",
+        "optionB": "square",
+        "optionC": "triangular",
+        "options": [
+            "round",
+            "square",
+            "triangular",
+            "rectangular",
+            "stair-shaped"
+        ],
+        "question_w_options": "What is the shape of the hat in the room? Choose your answer from below options: A.round, B.square, C.triangular, D.rectangular, E.stair-shaped.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/T15Kv6dtYO0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/T15Kv6dtYO0_en.json",
+        "optionD": "rectangular",
+        "optionE": "stair-shaped",
+        "answers": [
+            "A. round"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "NexB4vj8_54",
+        "uid": "NexB4vj8_54",
+        "qid": "NexB4vj8_54",
+        "q_type": "O2E",
+        "question": ", what is the video creator doing?",
+        "optionA": "Eating the cake",
+        "optionB": "Setting the table",
+        "optionC": "Cutting the cake",
+        "options": [
+            "Eating the cake",
+            "Setting the table",
+            "Cutting the cake",
+            "Cleaning the utensils",
+            "Decorating the cake"
+        ],
+        "question_w_options": ", what is the video creator doing? Choose your answer from below options: A.Eating the cake, B.Setting the table, C.Cutting the cake, D.Cleaning the utensils, E.Decorating the cake.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/NexB4vj8_54.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/NexB4vj8_54_en.json",
+        "optionD": "Cleaning the utensils",
+        "optionE": "Decorating the cake",
+        "answers": [
+            "C. Cutting the cake"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "5qMcDQd17Y4",
+        "uid": "5qMcDQd17Y4",
+        "qid": "5qMcDQd17Y4",
+        "q_type": "T2O",
+        "question": "What is behind the man to his right?",
+        "optionA": "cell phone",
+        "optionB": "car",
+        "optionC": "computer",
+        "options": [
+            "cell phone",
+            "car",
+            "computer",
+            "street light"
+        ],
+        "question_w_options": "What is behind the man to his right? Choose your answer from below options: A.cell phone, B.car, C.computer, D.street light.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/5qMcDQd17Y4.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/5qMcDQd17Y4_en.json",
+        "optionD": "street light",
+        "answers": [
+            "D. street light."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "tGiRbGGwRj8",
+        "uid": "tGiRbGGwRj8",
+        "qid": "tGiRbGGwRj8",
+        "q_type": "S2A",
+        "question": "What color is the outfit the woman is wearing?",
+        "optionA": "Black",
+        "optionB": "White",
+        "optionC": "Red",
+        "options": [
+            "Black",
+            "White",
+            "Red",
+            "Gray"
+        ],
+        "question_w_options": "What color is the outfit the woman is wearing? Choose your answer from below options: A.Black, B.White, C.Red, D.Gray.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/tGiRbGGwRj8.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/tGiRbGGwRj8_en.json",
+        "optionD": "Gray",
+        "answers": [
+            "C."
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "aX_HgA5SNLQ",
+        "uid": "aX_HgA5SNLQ",
+        "qid": "aX_HgA5SNLQ",
+        "q_type": "T3O",
+        "question": ", what is the first item that appears?",
+        "optionA": "gold necklace",
+        "optionB": "green coat",
+        "optionC": "white necklace",
+        "options": [
+            "gold necklace",
+            "green coat",
+            "white necklace",
+            "white earphones",
+            "black and gray long tail skirt"
+        ],
+        "question_w_options": ", what is the first item that appears? Choose your answer from below options: A.gold necklace, B.green coat, C.white necklace, D.white earphones, E.black and gray long tail skirt.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/aX_HgA5SNLQ.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/aX_HgA5SNLQ_en.json",
+        "optionD": "white earphones",
+        "optionE": "black and gray long tail skirt",
+        "answers": [
+            "B. green coat"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "Ytv-9RM4e0o",
+        "uid": "Ytv-9RM4e0o",
+        "qid": "Ytv-9RM4e0o",
+        "q_type": "TAA",
+        "question": "What change happens to the man wearing a red and black checkered shirt?",
+        "optionA": "The man's shirt changes from a red and black checkered shirt to a white hoodie",
+        "optionB": "The man's shirt changes from a red and black checkered shirt to a yellow short sleeve",
+        "optionC": "The man's shirt changes from a red and black checkered shirt to a black short sleeve",
+        "options": [
+            "The man's shirt changes from a red and black checkered shirt to a white hoodie",
+            "The man's shirt changes from a red and black checkered shirt to a yellow short sleeve",
+            "The man's shirt changes from a red and black checkered shirt to a black short sleeve",
+            "The man's shirt changes from a red and black checkered shirt to a blue suit",
+            "The man's shirt changes from a red and black checkered shirt to a black hoodie"
+        ],
+        "question_w_options": "What change happens to the man wearing a red and black checkered shirt? Choose your answer from below options: A.The man's shirt changes from a red and black checkered shirt to a white hoodie, B.The man's shirt changes from a red and black checkered shirt to a yellow short sleeve, C.The man's shirt changes from a red and black checkered shirt to a black short sleeve, D.The man's shirt changes from a red and black checkered shirt to a blue suit, E.The man's shirt changes from a red and black checkered shirt to a black hoodie.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Ytv-9RM4e0o.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Ytv-9RM4e0o_en.json",
+        "optionD": "The man's shirt changes from a red and black checkered shirt to a blue suit",
+        "optionE": "The man's shirt changes from a red and black checkered shirt to a black hoodie",
+        "answers": [
+            "E"
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "yn7oTvw8QRY",
+        "uid": "yn7oTvw8QRY",
+        "qid": "yn7oTvw8QRY",
+        "q_type": "O3O",
+        "question": "According to the video, which character appears first?",
+        "optionA": "Boy with short hair and green stripes",
+        "optionB": "Boy with golden hair",
+        "optionC": "Girl in green clothing with loose hair",
+        "options": [
+            "Boy with short hair and green stripes",
+            "Boy with golden hair",
+            "Girl in green clothing with loose hair",
+            "Girl in green clothing with braided hair",
+            "Girl in black and white floral clothing with loose hair"
+        ],
+        "question_w_options": "According to the video, which character appears first? Choose your answer from below options: A.Boy with short hair and green stripes, B.Boy with golden hair, C.Girl in green clothing with loose hair, D.Girl in green clothing with braided hair, E.Girl in black and white floral clothing with loose hair.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/yn7oTvw8QRY.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/yn7oTvw8QRY_en.json",
+        "optionD": "Girl in green clothing with braided hair",
+        "optionE": "Girl in black and white floral clothing with loose hair",
+        "answers": [
+            "E. Girl in black and white floral clothing with loose hair."
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "PCPQToF10IM",
+        "uid": "PCPQToF10IM",
+        "qid": "PCPQToF10IM",
+        "q_type": "T3O",
+        "question": "Who is the character that appears in the video?",
+        "optionA": "A child with black hair wearing a jacket",
+        "optionB": "A bald man wearing a green coat",
+        "optionC": "A woman wearing a yellow headscarf and green coat",
+        "options": [
+            "A child with black hair wearing a jacket",
+            "A bald man wearing a green coat",
+            "A woman wearing a yellow headscarf and green coat",
+            "A man with an afro wearing black clothes",
+            "A woman with blonde hair sitting in a wheelchair"
+        ],
+        "question_w_options": "Who is the character that appears in the video? Choose your answer from below options: A.A child with black hair wearing a jacket, B.A bald man wearing a green coat, C.A woman wearing a yellow headscarf and green coat, D.A man with an afro wearing black clothes, E.A woman with blonde hair sitting in a wheelchair.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/PCPQToF10IM.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/PCPQToF10IM_en.json",
+        "optionD": "A man with an afro wearing black clothes",
+        "optionE": "A woman with blonde hair sitting in a wheelchair",
+        "answers": [
+            "E.A woman with blonde hair sitting in a wheelchair."
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "3u__SZlBLC0",
+        "uid": "3u__SZlBLC0",
+        "qid": "3u__SZlBLC0",
+        "q_type": "E3E",
+        "question": ", what does she do?",
+        "optionA": "Changed into a red coat",
+        "optionB": "Got into a taxi",
+        "optionC": "Squatted down on the ground",
+        "options": [
+            "Changed into a red coat",
+            "Got into a taxi",
+            "Squatted down on the ground",
+            "Got on a motorcycle",
+            "Got on a bicycle"
+        ],
+        "question_w_options": ", what does she do? Choose your answer from below options: A.Changed into a red coat, B.Got into a taxi, C.Squatted down on the ground, D.Got on a motorcycle, E.Got on a bicycle.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/3u__SZlBLC0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/3u__SZlBLC0_en.json",
+        "optionD": "Got on a motorcycle",
+        "optionE": "Got on a bicycle",
+        "answers": [
+            "B"
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "answer full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "AYMdAVxALP4",
+        "uid": "AYMdAVxALP4",
+        "qid": "AYMdAVxALP4",
+        "q_type": "TAA",
+        "question": "What changes occur on the table?",
+        "optionA": "The number of rectangular yellow metal blocks increased by two",
+        "optionB": "The number of rectangular yellow metal blocks increased by one",
+        "optionC": "The number of rectangular yellow metal blocks decreased by two",
+        "options": [
+            "The number of rectangular yellow metal blocks increased by two",
+            "The number of rectangular yellow metal blocks increased by one",
+            "The number of rectangular yellow metal blocks decreased by two",
+            "The number of rectangular yellow metal blocks decreased by one"
+        ],
+        "question_w_options": "What changes occur on the table? Choose your answer from below options: A.The number of rectangular yellow metal blocks increased by two, B.The number of rectangular yellow metal blocks increased by one, C.The number of rectangular yellow metal blocks decreased by two, D.The number of rectangular yellow metal blocks decreased by one.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/AYMdAVxALP4.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/AYMdAVxALP4_en.json",
+        "optionD": "The number of rectangular yellow metal blocks decreased by one",
+        "answers": [
+            "B"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "_ZIa6SEJEyg",
+        "uid": "_ZIa6SEJEyg",
+        "qid": "_ZIa6SEJEyg",
+        "q_type": "T3O",
+        "question": "What object appears in the hand of the woman wearing white?",
+        "optionA": "cup without a straw",
+        "optionB": "milk carton",
+        "optionC": "green cup",
+        "options": [
+            "cup without a straw",
+            "milk carton",
+            "green cup",
+            "coffee beans",
+            "a pen"
+        ],
+        "question_w_options": "What object appears in the hand of the woman wearing white? Choose your answer from below options: A.cup without a straw, B.milk carton, C.green cup, D.coffee beans, E.a pen.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/_ZIa6SEJEyg.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/_ZIa6SEJEyg_en.json",
+        "optionD": "coffee beans",
+        "optionE": "a pen",
+        "answers": [
+            "A. cup without a straw"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "td35F9LNazA",
+        "uid": "td35F9LNazA",
+        "qid": "td35F9LNazA",
+        "q_type": "SAA",
+        "question": "What changes occur to him?",
+        "optionA": "He changed into a grey short-sleeved shirt",
+        "optionB": "He changed into a grey and white long-sleeved shirt",
+        "optionC": "He changed into a grey and white short-sleeved shirt",
+        "options": [
+            "He changed into a grey short-sleeved shirt",
+            "He changed into a grey and white long-sleeved shirt",
+            "He changed into a grey and white short-sleeved shirt",
+            "He changed into a green long-sleeved shirt",
+            "He changed into a white short-sleeved shirt"
+        ],
+        "question_w_options": "What changes occur to him? Choose your answer from below options: A.He changed into a grey short-sleeved shirt, B.He changed into a grey and white long-sleeved shirt, C.He changed into a grey and white short-sleeved shirt, D.He changed into a green long-sleeved shirt, E.He changed into a white short-sleeved shirt.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/td35F9LNazA.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/td35F9LNazA_en.json",
+        "optionD": "He changed into a green long-sleeved shirt",
+        "optionE": "He changed into a white short-sleeved shirt",
+        "answers": [
+            "C"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "u5NAcHhI_Uc",
+        "uid": "u5NAcHhI_Uc",
+        "qid": "u5NAcHhI_Uc",
+        "q_type": "S2E",
+        "question": ", what is this soldier doing?",
+        "optionA": "The soldier is looking upwards",
+        "optionB": "The soldier is saluting",
+        "optionC": "The soldier is looking to the left",
+        "options": [
+            "The soldier is looking upwards",
+            "The soldier is saluting",
+            "The soldier is looking to the left",
+            "The soldier is looking to the right",
+            "The soldier is standing straight"
+        ],
+        "question_w_options": ", what is this soldier doing? Choose your answer from below options: A.The soldier is looking upwards, B.The soldier is saluting, C.The soldier is looking to the left, D.The soldier is looking to the right, E.The soldier is standing straight.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/u5NAcHhI_Uc.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/u5NAcHhI_Uc_en.json",
+        "optionD": "The soldier is looking to the right",
+        "optionE": "The soldier is standing straight",
+        "answers": [
+            "E. The soldier is standing straight."
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "JpjytHmGHZ4",
+        "uid": "JpjytHmGHZ4",
+        "qid": "JpjytHmGHZ4",
+        "q_type": "T2E",
+        "question": "What is this man doing?",
+        "optionA": "Waving to the audience",
+        "optionB": "Making a speech",
+        "optionC": "Performing magic",
+        "options": [
+            "Waving to the audience",
+            "Making a speech",
+            "Performing magic",
+            "Dancing on stage",
+            "Playing the guitar and singing"
+        ],
+        "question_w_options": "What is this man doing? Choose your answer from below options: A.Waving to the audience, B.Making a speech, C.Performing magic, D.Dancing on stage, E.Playing the guitar and singing.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/JpjytHmGHZ4.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/JpjytHmGHZ4_en.json",
+        "optionD": "Dancing on stage",
+        "optionE": "Playing the guitar and singing",
+        "answers": [
+            "E.Playing the guitar and singing."
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "ZsnfXfuGRrg",
+        "uid": "ZsnfXfuGRrg",
+        "qid": "ZsnfXfuGRrg",
+        "q_type": "SAA",
+        "question": "What change occurs to the white tank?",
+        "optionA": "turns black",
+        "optionB": "turns blue",
+        "optionC": "turns red",
+        "options": [
+            "turns black",
+            "turns blue",
+            "turns red",
+            "gets smaller",
+            "gets bigger"
+        ],
+        "question_w_options": "What change occurs to the white tank? Choose your answer from below options: A.turns black, B.turns blue, C.turns red, D.gets smaller, E.gets bigger.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/ZsnfXfuGRrg.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/ZsnfXfuGRrg_en.json",
+        "optionD": "gets smaller",
+        "optionE": "gets bigger",
+        "answers": [
+            "A. turns black"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "@thatrecipe.us-7335998138500648235",
+        "uid": "@thatrecipe.us-7335998138500648235",
+        "qid": "@thatrecipe.us-7335998138500648235",
+        "q_type": "TAA",
+        "question": "What change in state occurs?",
+        "optionA": "It turns into a solid",
+        "optionB": "It turns into a gas",
+        "optionC": "It turns black",
+        "options": [
+            "It turns into a solid",
+            "It turns into a gas",
+            "It turns black",
+            "It turns white",
+            "It turns into a liquid"
+        ],
+        "question_w_options": "What change in state occurs? Choose your answer from below options: A.It turns into a solid, B.It turns into a gas, C.It turns black, D.It turns white, E.It turns into a liquid.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7335998138500648235.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7335998138500648235_en.json",
+        "optionD": "It turns white",
+        "optionE": "It turns into a liquid",
+        "answers": [
+            "A. It turns into a solid."
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "ZRMbh0wSly0",
+        "uid": "ZRMbh0wSly0",
+        "qid": "ZRMbh0wSly0",
+        "q_type": "T2A",
+        "question": "What kind of accessory is the woman on the far left of the screen wearing on her head?",
+        "optionA": "Wearing a red scarf",
+        "optionB": "Wearing a black scarf",
+        "optionC": "Wearing a red hat",
+        "options": [
+            "Wearing a red scarf",
+            "Wearing a black scarf",
+            "Wearing a red hat",
+            "Wearing a black hat"
+        ],
+        "question_w_options": "What kind of accessory is the woman on the far left of the screen wearing on her head? Choose your answer from below options: A.Wearing a red scarf, B.Wearing a black scarf, C.Wearing a red hat, D.Wearing a black hat.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/ZRMbh0wSly0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/ZRMbh0wSly0_en.json",
+        "optionD": "Wearing a black hat",
+        "answers": [
+            "C.Wearing a red hat"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "NMHmqgO04rU",
+        "uid": "NMHmqgO04rU",
+        "qid": "NMHmqgO04rU",
+        "q_type": "T2A",
+        "question": "What is the lighting on the ceiling like?",
+        "optionA": "Round wall lamp",
+        "optionB": "Triangular wall lamp",
+        "optionC": "Square wall lamp",
+        "options": [
+            "Round wall lamp",
+            "Triangular wall lamp",
+            "Square wall lamp",
+            "Gold pendant lamp",
+            "Silver pendant lamp"
+        ],
+        "question_w_options": "What is the lighting on the ceiling like? Choose your answer from below options: A.Round wall lamp, B.Triangular wall lamp, C.Square wall lamp, D.Gold pendant lamp, E.Silver pendant lamp.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/NMHmqgO04rU.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/NMHmqgO04rU_en.json",
+        "optionD": "Gold pendant lamp",
+        "optionE": "Silver pendant lamp",
+        "answers": [
+            "D.Gold pendant lamp"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "xiK00WS0lkE",
+        "uid": "xiK00WS0lkE",
+        "qid": "xiK00WS0lkE",
+        "q_type": "O2E",
+        "question": "What did the man holding the saxophone on the right do when he entered the scene?",
+        "optionA": "Played the piano",
+        "optionB": "Played the flute",
+        "optionC": "Played the saxophone",
+        "options": [
+            "Played the piano",
+            "Played the flute",
+            "Played the saxophone",
+            "Played the guitar"
+        ],
+        "question_w_options": "What did the man holding the saxophone on the right do when he entered the scene? Choose your answer from below options: A.Played the piano, B.Played the flute, C.Played the saxophone, D.Played the guitar.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/xiK00WS0lkE.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/xiK00WS0lkE_en.json",
+        "optionD": "Played the guitar",
+        "answers": [
+            "C. Played the saxophone."
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "eJr-y6UXnRE",
+        "uid": "eJr-y6UXnRE",
+        "qid": "eJr-y6UXnRE",
+        "q_type": "O3O",
+        "question": "What is the color of the first piece of clothing shown in the video?",
+        "optionA": "white",
+        "optionB": "purple",
+        "optionC": "red",
+        "options": [
+            "white",
+            "purple",
+            "red",
+            "olive",
+            "black"
+        ],
+        "question_w_options": "What is the color of the first piece of clothing shown in the video? Choose your answer from below options: A.white, B.purple, C.red, D.olive, E.black.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/eJr-y6UXnRE.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/eJr-y6UXnRE_en.json",
+        "optionD": "olive",
+        "optionE": "black",
+        "answers": [
+            "E."
+        ],
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "mld0TnA2jEs",
+        "uid": "mld0TnA2jEs",
+        "qid": "mld0TnA2jEs",
+        "q_type": "T2O",
+        "question": "What objects are present in this scene?",
+        "optionA": "a black thread",
+        "optionB": "an umbrella",
+        "optionC": "a potted plant",
+        "options": [
+            "a black thread",
+            "an umbrella",
+            "a potted plant",
+            "a watch",
+            "a necklace"
+        ],
+        "question_w_options": "What objects are present in this scene? Choose your answer from below options: A.a black thread, B.an umbrella, C.a potted plant, D.a watch, E.a necklace.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/mld0TnA2jEs.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/mld0TnA2jEs_en.json",
+        "optionD": "a watch",
+        "optionE": "a necklace",
+        "answers": [
+            "D.a watch"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "yn7oTvw8QRY",
+        "uid": "yn7oTvw8QRY",
+        "qid": "yn7oTvw8QRY",
+        "q_type": "O3O",
+        "question": "According to the video, which of the following pictures appears last?",
+        "optionA": "a small bowl made of clay",
+        "optionB": "a boy with short golden hair wearing a long-sleeve shirt",
+        "optionC": "a boy with short golden hair wearing a short-sleeve shirt",
+        "options": [
+            "a small bowl made of clay",
+            "a boy with short golden hair wearing a long-sleeve shirt",
+            "a boy with short golden hair wearing a short-sleeve shirt",
+            "a pottery jar with a mountain goat design",
+            "a girl wearing green clothing and tying her hair"
+        ],
+        "question_w_options": "According to the video, which of the following pictures appears last? Choose your answer from below options: A.a small bowl made of clay, B.a boy with short golden hair wearing a long-sleeve shirt, C.a boy with short golden hair wearing a short-sleeve shirt, D.a pottery jar with a mountain goat design, E.a girl wearing green clothing and tying her hair.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/yn7oTvw8QRY.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/yn7oTvw8QRY_en.json",
+        "optionD": "a pottery jar with a mountain goat design",
+        "optionE": "a girl wearing green clothing and tying her hair",
+        "answers": [
+            "D"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "to7vCdkLi4s",
+        "uid": "to7vCdkLi4s",
+        "qid": "to7vCdkLi4s",
+        "q_type": "TOS",
+        "question": "Alongside which subtitles does this screen appear?",
+        "optionA": "whatever 300 points in this Walker if and okay crop is the most the most effective",
+        "optionB": "frames then you can decide on a on a\n",
+        "optionC": "quite grandiose so we'll dive into it",
+        "options": [
+            "whatever 300 points in this Walker if and okay crop is the most the most effective",
+            "frames then you can decide on a on a\n",
+            "quite grandiose so we'll dive into it",
+            "across the stacked frames so basically"
+        ],
+        "question_w_options": "Alongside which subtitles does this screen appear? Choose your answer from below options: A.whatever 300 points in this Walker if and okay crop is the most the most effective, B.frames then you can decide on a on a\n, C.quite grandiose so we'll dive into it, D.across the stacked frames so basically.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/to7vCdkLi4s.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/to7vCdkLi4s_en.json",
+        "optionD": "across the stacked frames so basically",
+        "answers": [
+            "D.across the stacked frames so basically."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "@movie.explained6-7268936523481943297",
+        "uid": "@movie.explained6-7268936523481943297",
+        "qid": "@movie.explained6-7268936523481943297",
+        "q_type": "TOS",
+        "question": ", at the same time, what subtitles appear with the little girl?",
+        "optionA": "He told me.",
+        "optionB": "h",
+        "optionC": "thanks",
+        "options": [
+            "He told me.",
+            "h",
+            "thanks",
+            "thank you",
+            "so"
+        ],
+        "question_w_options": ", at the same time, what subtitles appear with the little girl? Choose your answer from below options: A.He told me., B.h, C.thanks, D.thank you, E.so.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7268936523481943297.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7268936523481943297_en.json",
+        "optionD": "thank you",
+        "optionE": "so",
+        "answers": [
+            "A. He told me."
+        ],
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "b__dUom9AcQ",
+        "uid": "b__dUom9AcQ",
+        "qid": "b__dUom9AcQ",
+        "q_type": "S2O",
+        "question": "What object is not present in this scene?",
+        "optionA": "table",
+        "optionB": "tie",
+        "optionC": "glass cup",
+        "options": [
+            "table",
+            "tie",
+            "glass cup",
+            "red lamp",
+            "car"
+        ],
+        "question_w_options": "What object is not present in this scene? Choose your answer from below options: A.table, B.tie, C.glass cup, D.red lamp, E.car.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/b__dUom9AcQ.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/b__dUom9AcQ_en.json",
+        "optionD": "red lamp",
+        "optionE": "car",
+        "answers": [
+            "D"
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "answer full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "AxciimuEZAc",
+        "uid": "AxciimuEZAc",
+        "qid": "AxciimuEZAc",
+        "q_type": "T2A",
+        "question": "What kind of shoes is the woman wearing?",
+        "optionA": "White sneakers with black edges",
+        "optionB": "White slippers with black edges",
+        "optionC": "White high heels with black edges",
+        "options": [
+            "White sneakers with black edges",
+            "White slippers with black edges",
+            "White high heels with black edges",
+            "White leather shoes with black edges",
+            "White straw shoes with black edges"
+        ],
+        "question_w_options": "What kind of shoes is the woman wearing? Choose your answer from below options: A.White sneakers with black edges, B.White slippers with black edges, C.White high heels with black edges, D.White leather shoes with black edges, E.White straw shoes with black edges.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/AxciimuEZAc.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/AxciimuEZAc_en.json",
+        "optionD": "White leather shoes with black edges",
+        "optionE": "White straw shoes with black edges",
+        "answers": [
+            "A. White sneakers with black edges"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "quid": "CGngv8vTQOs",
+        "uid": "CGngv8vTQOs",
+        "qid": "CGngv8vTQOs",
+        "q_type": "S2E",
+        "question": "What is it doing?",
+        "optionA": "Spiraling upwards",
+        "optionB": "Flying to the right",
+        "optionC": "Flying straight up",
+        "optionD": "Flying to the left",
+        "options": [
+            "Spiraling upwards",
+            "Flying to the right",
+            "Flying straight up",
+            "Flying to the left",
+            "Falling vertically down"
+        ],
+        "question_w_options": "What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/CGngv8vTQOs.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/CGngv8vTQOs_en.json",
+        "answers": [
+            "C.Flying straight up"
+        ]
+    }
+]

@@ -1,0 +1,1764 @@
+Creating LLM cache: cache/gpt35_cache_new_tool_8.pkl...
+
+
+Initializing Patch Zoomer Tool with model: gpt-4o, sys_prompt: None
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-QA Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-Select Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Summarizer Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing Frame Selection Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing eval-LLM for rephrase, model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Building videomme dataset...
+
+Processing: 001-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/fFjv93ACGo8.mp4
+Video duration: 74.31 seconds
+Question: When demonstrating the germany modern christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number? Choose your answer from below options: A.Apples, B.Candles, C.Berries, D.The three kinds are of the same number.
+
+Visible Frames: add 16 frames to visible frames: [0, 148, 297, 445, 594, 742, 890, 1039, 1187, 1336, 1484, 1632, 1781, 1929, 2078, 2226]
+
+image_grid_qa_output: A.Apples
+
+ToolChainOutput: A.Apples
+
+Processing: 001-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/fFjv93ACGo8.mp4
+Video duration: 74.31 seconds
+Question: What is the genre of this video? Choose your answer from below options: A.It is a news report that introduces the history behind Christmas decorations, B.It is a documentary on the evolution of Christmas holiday recipes, C.It is a travel vlog exploring Christmas markets around the world, D.It is a tutorial on DIY Christmas ornament crafting.
+
+Visible Frames: add 16 frames to visible frames: [0, 148, 297, 445, 594, 742, 890, 1039, 1187, 1336, 1484, 1632, 1781, 1929, 2078, 2226]
+
+image_grid_qa_output: A.It is a news report that introduces the history behind Christmas decorations.
+
+ToolChainOutput: A.It is a news report that introduces the history behind Christmas decorations.
+
+Processing: 001-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/fFjv93ACGo8.mp4
+Video duration: 74.31 seconds
+Question: How many red socks are above the fireplace at the end of this video? Choose your answer from below options: A.1, B.4, C.2, D.3.
+
+Visible Frames: add 16 frames to visible frames: [0, 148, 297, 445, 594, 742, 890, 1039, 1187, 1336, 1484, 1632, 1781, 1929, 2078, 2226]
+
+image_grid_qa_output: B.4
+
+ToolChainOutput: B.4
+
+Processing: 002-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/N1cdUjctpG8.mp4
+Video duration: 86.33 seconds
+Question: Which of the following features/items is not discussed in the video in relation to the tomb? Choose your answer from below options: A.Inkstone, B.Niche, C.Jade, D.Sacrificial table.
+
+Visible Frames: add 16 frames to visible frames: [0, 173, 345, 518, 690, 863, 1036, 1208, 1381, 1553, 1726, 1899, 2071, 2244, 2416, 2589]
+
+image_grid_qa_output: C.Jade
+
+ToolChainOutput: C.Jade
+
+Processing: 002-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/N1cdUjctpG8.mp4
+Video duration: 86.33 seconds
+Question: Which of the following reasons motivated the archaeologists to excavate the tomb? Choose your answer from below options: A.Because it's from Ming Dynasty and of specific archaeological significance, B.Because a new railway line will be built nearby, C.Because there were treasures inside the tomb, D.Highway realignment.
+
+Visible Frames: add 16 frames to visible frames: [0, 173, 345, 518, 690, 863, 1036, 1208, 1381, 1553, 1726, 1899, 2071, 2244, 2416, 2589]
+
+image_grid_qa_output: A.Because it's from Ming Dynasty and of specific archaeological significance
+
+ToolChainOutput: A.Because it's from Ming Dynasty and of specific archaeological significance
+
+Processing: 002-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/N1cdUjctpG8.mp4
+Video duration: 86.33 seconds
+Question: How many porcelain jars were discovered in the niches located in the primary chamber of the tomb? Choose your answer from below options: A.4, B.9, C.5, D.13.
+
+Visible Frames: add 16 frames to visible frames: [0, 173, 345, 518, 690, 863, 1036, 1208, 1381, 1553, 1726, 1899, 2071, 2244, 2416, 2589]
+
+image_grid_qa_output: B.9
+
+ToolChainOutput: B.9
+
+Processing: 003-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/HIjX8OPuf-w.mp4
+Video duration: 113.11 seconds
+Question: How many national flags appear in the video? Choose your answer from below options: A.3, B.4, C.2, D.5.
+
+Visible Frames: add 16 frames to visible frames: [0, 181, 361, 542, 723, 904, 1084, 1265, 1446, 1627, 1807, 1988, 2169, 2350, 2530, 2711]
+
+image_grid_qa_output: D.5
+
+ToolChainOutput: D.5
+
+Processing: 003-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/HIjX8OPuf-w.mp4
+Video duration: 113.11 seconds
+Question: What is the video telling when the burger placed in the upper right corner at the end of the video first appears? Choose your answer from below options: A.Beef with spices came from Russia to Germany, B.The steak began to be sandwiched between two pieces of bread, C.Steak burgers spread throughout the United States, D.The standardization of hamburgers.
+
+Visible Frames: add 16 frames to visible frames: [0, 181, 361, 542, 723, 904, 1084, 1265, 1446, 1627, 1807, 1988, 2169, 2350, 2530, 2711]
+
+image_grid_qa_output: C.Steak burgers spread throughout the United States
+
+ToolChainOutput: C.Steak burgers spread throughout the United States
+
+Processing: 003-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/HIjX8OPuf-w.mp4
+Video duration: 113.11 seconds
+Question: In which country is the food featured in the video recognized worldwide? Choose your answer from below options: A.Mongolia, B.Russia, C.Germany, D.United States.
+
+Visible Frames: add 16 frames to visible frames: [0, 181, 361, 542, 723, 904, 1084, 1265, 1446, 1627, 1807, 1988, 2169, 2350, 2530, 2711]
+
+image_grid_qa_output: D. United States
+
+ToolChainOutput: D. United States
+
+Processing: 004-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/HwnB8aCn8yE.mp4
+Video duration: 97.12 seconds
+Question: According to the video, which of the following is considered the earliest stage of human evolution? Choose your answer from below options: A.Ramapithecus, B.Dryopithecus, C.Ardipithecus Ramidus, D.Homo Sapiens.
+
+Visible Frames: add 16 frames to visible frames: [0, 162, 324, 485, 647, 809, 971, 1133, 1294, 1456, 1618, 1780, 1942, 2103, 2265, 2427]
+
+image_grid_qa_output: B.Dryopithecus
+
+ToolChainOutput: B.Dryopithecus
+
+Processing: 004-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/HwnB8aCn8yE.mp4
+Video duration: 97.12 seconds
+Question: According to the video, in which state did human's ancestors first begin to walk on two legs? Choose your answer from below options: A.Dryopithecus, B.Ramapithecus, C.Ardipithecus Ramidus, D.Homo Habilis.
+
+Visible Frames: add 16 frames to visible frames: [0, 162, 324, 485, 647, 809, 971, 1133, 1294, 1456, 1618, 1780, 1942, 2103, 2265, 2427]
+
+image_grid_qa_output: C.Ardipithecus Ramidus
+
+ToolChainOutput: C.Ardipithecus Ramidus
+
+Processing: 004-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/HwnB8aCn8yE.mp4
+Video duration: 97.12 seconds
+Question: Given the information provided by the video, during which stage of human evolution did the regression of body hair occur rapidly? Choose your answer from below options: A.Dryopithecus, B.Homo Sapiens, C.Ardipithecus Ramidus, D.Homo Sapiens Neanderthalensi.
+
+Visible Frames: add 16 frames to visible frames: [0, 162, 324, 485, 647, 809, 971, 1133, 1294, 1456, 1618, 1780, 1942, 2103, 2265, 2427]
+
+image_grid_qa_output: B.Homo Sapiens
+
+ToolChainOutput: B.Homo Sapiens
+
+Processing: 005-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/24i4ncHuf6A.mp4
+Video duration: 111.44 seconds
+Question: According to the video, how many individuals were in the car when archduke franz ferdinand was assassinated? Choose your answer from below options: A.Three, B.Two, C.One, D.Four.
+
+Visible Frames: add 16 frames to visible frames: [0, 186, 371, 557, 743, 928, 1114, 1300, 1485, 1671, 1857, 2042, 2228, 2414, 2599, 2785]
+
+image_grid_qa_output: D.Four
+
+ToolChainOutput: D.Four
+
+Processing: 005-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/24i4ncHuf6A.mp4
+Video duration: 111.44 seconds
+Question: What's the trigger that set off the war mentioned in the video? Choose your answer from below options: A.Militarisim, B.The assasination of Archduke Franze Fredinand, C.King Edward III of England's claim to the French throne, D.Germany's blitzkrieg against Poland.
+
+Visible Frames: add 16 frames to visible frames: [0, 186, 371, 557, 743, 928, 1114, 1300, 1485, 1671, 1857, 2042, 2228, 2414, 2599, 2785]
+
+image_grid_qa_output: B.The assasination of Archduke Franze Fredinand
+
+ToolChainOutput: B.The assasination of Archduke Franze Fredinand
+
+Processing: 005-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/24i4ncHuf6A.mp4
+Video duration: 111.44 seconds
+Question: Which of the following options is incorrect regarding the events in sarajevo depicted in the video? Choose your answer from below options: A.It was organized by the Black Hand in Serbia, B.Ferdinand was sitting on the left side of the car, C.Ferdinand was wearing a white hat, D.The killer was wearing black suit.
+
+Visible Frames: add 16 frames to visible frames: [0, 186, 371, 557, 743, 928, 1114, 1300, 1485, 1671, 1857, 2042, 2228, 2414, 2599, 2785]
+
+image_grid_qa_output: D.The killer was wearing black suit.
+
+ToolChainOutput: D.The killer was wearing black suit.
+
+Processing: 006-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/40BlVzjxu-I.mp4
+Video duration: 107.01 seconds
+Question: What is one of the symbols of the festival that is introduced by the video? Choose your answer from below options: A.Turkey, B.Moose, C.Moon cake, D.Shamrock.
+
+Visible Frames: add 16 frames to visible frames: [0, 214, 427, 641, 855, 1069, 1282, 1496, 1710, 1924, 2137, 2351, 2565, 2779, 2992, 3206]
+
+image_grid_qa_output: D.Shamrock
+
+ToolChainOutput: D.Shamrock
+
+Processing: 006-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/40BlVzjxu-I.mp4
+Video duration: 107.01 seconds
+Question: What happened when irish imiggrants brought the tradition of st. patrick's day to america? Choose your answer from below options: A.They began to center around drinking and celebrating the festival, B.St. Patrick moved to America, C.They celebrated St. Patrick's birth instead, D.They attended the church and gather for feasts.
+
+Visible Frames: add 16 frames to visible frames: [0, 214, 427, 641, 855, 1069, 1282, 1496, 1710, 1924, 2137, 2351, 2565, 2779, 2992, 3206]
+
+image_grid_qa_output: A.They began to center around drinking and celebrating the festival.
+
+ToolChainOutput: A.They began to center around drinking and celebrating the festival.
+
+Processing: 006-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/40BlVzjxu-I.mp4
+Video duration: 107.01 seconds
+Question: What is special about the celebration in new york according to the video? Choose your answer from below options: A.Hosting large parades, B.Dressing in green and dyeing the river to green, C.Drinking a lot, D.Planting shamrocks.
+
+Visible Frames: add 16 frames to visible frames: [0, 214, 427, 641, 855, 1069, 1282, 1496, 1710, 1924, 2137, 2351, 2565, 2779, 2992, 3206]
+
+image_grid_qa_output: B.Dressing in green and dyeing the river to green.
+
+ToolChainOutput: B.Dressing in green and dyeing the river to green.
+
+Processing: 007-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/0ay2Qy3wBe8.mp4
+Video duration: 75.98 seconds
+Question: How is the smoke generated by the man depicted in the video? Choose your answer from below options: A.By burning a piece of cloth, B.By lighting a torch, C.By smoking, D.By lighting a bonefire.
+
+Visible Frames: add 16 frames to visible frames: [0, 152, 303, 455, 607, 759, 910, 1062, 1214, 1366, 1517, 1669, 1821, 1973, 2124, 2276]
+
+image_grid_qa_output: C.By smoking
+
+ToolChainOutput: C.By smoking
+
+Processing: 007-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/0ay2Qy3wBe8.mp4
+Video duration: 75.98 seconds
+Question: What kind of communication is listed before semaphore? Choose your answer from below options: A.Telephone, B.Homing pigeon, C.Telegraph, D.Pony express.
+
+Visible Frames: add 16 frames to visible frames: [0, 152, 303, 455, 607, 759, 910, 1062, 1214, 1366, 1517, 1669, 1821, 1973, 2124, 2276]
+
+image_grid_qa_output: D.Pony express.
+
+ToolChainOutput: D.Pony express.
+
+Processing: 007-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/0ay2Qy3wBe8.mp4
+Video duration: 75.98 seconds
+Question: What is the specific sentence in the smart phone that makes the man embarrassed? Choose your answer from below options: A.BTW...you got something in your teeth, B.Dude! You gotta come toBigStuf Camps, C.Smoke Sig 2.0, D.Last but not least.
+
+Visible Frames: add 16 frames to visible frames: [0, 152, 303, 455, 607, 759, 910, 1062, 1214, 1366, 1517, 1669, 1821, 1973, 2124, 2276]
+
+image_grid_qa_output: A.BTW...you got something in your teeth
+
+ToolChainOutput: A.BTW...you got something in your teeth
+
+Processing: 008-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/_tvmjsKXTu8.mp4
+Video duration: 114.66 seconds
+Question: In the video, what color pen did the author use when he wrote "guitar" for the second time? Choose your answer from below options: A.Brown, B.Blue, C.Black, D.Pink.
+
+Visible Frames: add 16 frames to visible frames: [0, 183, 366, 550, 733, 916, 1099, 1282, 1466, 1649, 1832, 2015, 2198, 2382, 2565, 2748]
+
+image_grid_qa_output: A.Brown
+
+ToolChainOutput: A.Brown
+
+Processing: 008-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/_tvmjsKXTu8.mp4
+Video duration: 114.66 seconds
+Question: How many different guitar-shaped instruments are there in the video? Choose your answer from below options: A.2, B.7, C.3, D.11.
+
+Visible Frames: add 16 frames to visible frames: [0, 183, 366, 550, 733, 916, 1099, 1282, 1466, 1649, 1832, 2015, 2198, 2382, 2565, 2748]
+
+image_grid_qa_output: C.3
+
+ToolChainOutput: C.3
+
+Processing: 008-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/_tvmjsKXTu8.mp4
+Video duration: 114.66 seconds
+Question: What does the second half of the video show? Choose your answer from below options: A.An advertisement for a music software, B.A tutorial on how to practice guitar on electronic devices, C.The history of guitar software on electronic devices, D.An advertisement for a tablet computer.
+
+Visible Frames: add 16 frames to visible frames: [0, 183, 366, 550, 733, 916, 1099, 1282, 1466, 1649, 1832, 2015, 2198, 2382, 2565, 2748]
+
+image_grid_qa_output: B.A tutorial on how to practice guitar on electronic devices
+
+ToolChainOutput: B.A tutorial on how to practice guitar on electronic devices
+
+Processing: 009-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/sUDY-SMREtA.mp4
+Video duration: 76.66 seconds
+Question: Which color of clothes is quyuan wearing in the video? Choose your answer from below options: A.White, B.Blue, C.Brown, D.Yellow.
+
+Visible Frames: add 16 frames to visible frames: [0, 122, 245, 367, 490, 612, 735, 857, 980, 1102, 1225, 1347, 1470, 1592, 1715, 1837]
+
+image_grid_qa_output: A.White
+
+ToolChainOutput: A.White
+
+Processing: 009-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/sUDY-SMREtA.mp4
+Video duration: 76.66 seconds
+Question: Based on the video, which day does the festival fall on the lunar calendar? Choose your answer from below options: A.January 1th, B.May 5th, C.September 9th, D.May 15th.
+
+Visible Frames: add 16 frames to visible frames: [0, 122, 245, 367, 490, 612, 735, 857, 980, 1102, 1225, 1347, 1470, 1592, 1715, 1837]
+
+image_grid_qa_output: B.May 5th
+
+ToolChainOutput: B.May 5th
+
+Processing: 009-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/sUDY-SMREtA.mp4
+Video duration: 76.66 seconds
+Question: According to the video, which of the following is the main reason why people commemorate qu yuan? Choose your answer from below options: A.Because people love Zongzi, B.Because he committed suicide by drowing himself in Miluo River, C.Because he brought peace and prosperity to the state, D.Because he was exile.
+
+Visible Frames: add 16 frames to visible frames: [0, 122, 245, 367, 490, 612, 735, 857, 980, 1102, 1225, 1347, 1470, 1592, 1715, 1837]
+
+image_grid_qa_output: B.Because he committed suicide by drowing himself in Miluo River.
+
+ToolChainOutput: B.Because he committed suicide by drowing himself in Miluo River.
+
+Processing: 010-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/PSt_op3fQck.mp4
+Video duration: 115.00 seconds
+Question: What can be learned from this video? Choose your answer from below options: A.The history of intercultural conflicts and disputes, B.Quick ways to grasp the fundamentals of intercultural communication. understanding, C.Techniques for mastering a foreign language in a short period of time, D.Strategies for resolving international political conflicts.
+
+Visible Frames: add 16 frames to visible frames: [0, 192, 383, 575, 766, 958, 1150, 1341, 1533, 1724, 1916, 2108, 2299, 2491, 2682, 2874]
+
+image_grid_qa_output: B.Quick ways to grasp the fundamentals of intercultural communication. understanding
+
+ToolChainOutput: B.Quick ways to grasp the fundamentals of intercultural communication. understanding
+
+Processing: 010-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/PSt_op3fQck.mp4
+Video duration: 115.00 seconds
+Question: What is the pattern on the clothing of the staff who is behaving informally at the airline counter? Choose your answer from below options: A.A flower, B.A coconut tree, C.A flying bird, D.None of the above.
+
+Visible Frames: add 16 frames to visible frames: [0, 192, 383, 575, 766, 958, 1150, 1341, 1533, 1724, 1916, 2108, 2299, 2491, 2682, 2874]
+
+image_grid_qa_output: A.A flower
+
+ToolChainOutput: A.A flower
+
+Processing: 010-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/PSt_op3fQck.mp4
+Video duration: 115.00 seconds
+Question: At the end of the animation, which place does not the copilot travel to? Choose your answer from below options: A.The White House, B.The Big Ben, C.The Egyptian Pyramids, D.The Eiffel Tower.
+
+Visible Frames: add 16 frames to visible frames: [0, 192, 383, 575, 766, 958, 1150, 1341, 1533, 1724, 1916, 2108, 2299, 2491, 2682, 2874]
+
+image_grid_qa_output: A.The White House
+
+ToolChainOutput: A.The White House
+
+Processing: 011-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/OE5S-NbNsro.mp4
+Video duration: 118.16 seconds
+Question: What is the kind of the dance in the video? Choose your answer from below options: A.Hip hop, B.Jazz, C.Ballet, D.Folk dance.
+
+Visible Frames: add 16 frames to visible frames: [0, 189, 378, 566, 755, 944, 1133, 1322, 1510, 1699, 1888, 2077, 2266, 2454, 2643, 2832]
+
+image_grid_qa_output: C.Ballet
+
+ToolChainOutput: C.Ballet
+
+Processing: 011-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/OE5S-NbNsro.mp4
+Video duration: 118.16 seconds
+Question: What's the color of the cosmos introduced by the video? Choose your answer from below options: A.White, B.Black, C.Navy blue, D.Dark purple.
+
+Visible Frames: add 16 frames to visible frames: [0, 189, 378, 566, 755, 944, 1133, 1322, 1510, 1699, 1888, 2077, 2266, 2454, 2643, 2832]
+
+image_grid_qa_output: B.Black
+
+ToolChainOutput: B.Black
+
+Processing: 011-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/OE5S-NbNsro.mp4
+Video duration: 118.16 seconds
+Question: What are the moves in the last scene of this dance? Choose your answer from below options: A.Kneel down on one knee and lean back, B.Passe and then chasse, C.Releve and then pirouette, D.Passe and then Grand jete.
+
+Visible Frames: add 16 frames to visible frames: [0, 189, 378, 566, 755, 944, 1133, 1322, 1510, 1699, 1888, 2077, 2266, 2454, 2643, 2832]
+
+image_grid_qa_output: D.Passe and then Grand jete.
+
+ToolChainOutput: D.Passe and then Grand jete.
+
+Processing: 012-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/qvwfWyU9Gfc.mp4
+Video duration: 56.88 seconds
+Question: Based on the video, which of the following describes the reason why the student ate the banana? Choose your answer from below options: A.Because the banana looks tasty, B.Because he considered the process of eating a banana is art, C.Because he didn't think the  banana worth $120,000, D.Because he wanted to followed the man who ate a banana in a exhibition in 2019.
+
+Visible Frames: add 16 frames to visible frames: [0, 95, 189, 284, 379, 474, 568, 663, 758, 853, 947, 1042, 1137, 1232, 1326, 1421]
+
+image_grid_qa_output: C.Because he didn't think the banana worth $120,000
+
+ToolChainOutput: C.Because he didn't think the banana worth $120,000
+
+Processing: 012-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/qvwfWyU9Gfc.mp4
+Video duration: 56.88 seconds
+Question: What did the student do after eating the banana in the video? Choose your answer from below options: A.He ate a banana in exhibition again in 2019, B.He throwed the skin of banana, C.He reattached the skin of banana using the same tape, D.The action of eating a banana was considered art.
+
+Visible Frames: add 16 frames to visible frames: [0, 95, 189, 284, 379, 474, 568, 663, 758, 853, 947, 1042, 1137, 1232, 1326, 1421]
+
+image_grid_qa_output: D.The action of eating a banana was considered art.
+
+ToolChainOutput: D.The action of eating a banana was considered art.
+
+Processing: 012-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/qvwfWyU9Gfc.mp4
+Video duration: 56.88 seconds
+Question: What's the color of the tape in the video? Choose your answer from below options: A.Green, B.Black, C.Yellow, D.Gray.
+
+Visible Frames: add 16 frames to visible frames: [0, 95, 189, 284, 379, 474, 568, 663, 758, 853, 947, 1042, 1137, 1232, 1326, 1421]
+
+image_grid_qa_output: D.Gray
+
+ToolChainOutput: D.Gray
+
+Processing: 013-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5wLv3pCqZ9o.mp4
+Video duration: 72.72 seconds
+Question: Which of the following is visible in the background of the video when the miniature bottle is shown empty? Choose your answer from below options: A.Water, B.Cork, C.Shells, D.Star.
+
+Visible Frames: add 16 frames to visible frames: [0, 121, 242, 363, 485, 606, 727, 848, 969, 1090, 1211, 1332, 1454, 1575, 1696, 1817]
+
+image_grid_qa_output: C.Shells
+
+ToolChainOutput: C.Shells
+
+Processing: 013-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5wLv3pCqZ9o.mp4
+Video duration: 72.72 seconds
+Question: According to the video, which of the following ingredients is not used in the artwork? Choose your answer from below options: A.Shell, B.Glue, C.Blue Food Dye, D.Oil.
+
+Visible Frames: add 16 frames to visible frames: [0, 121, 242, 363, 485, 606, 727, 848, 969, 1090, 1211, 1332, 1454, 1575, 1696, 1817]
+
+image_grid_qa_output: A.Shell
+
+ToolChainOutput: A.Shell
+
+Processing: 013-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5wLv3pCqZ9o.mp4
+Video duration: 72.72 seconds
+Question: What was the next step taken by the operator after filling the bottle with oil? Choose your answer from below options: A.Applied glue to cork, B.Added blue food dye, C.Added 1/3 water, D.Put the cork on the bottle.
+
+Visible Frames: add 16 frames to visible frames: [0, 121, 242, 363, 485, 606, 727, 848, 969, 1090, 1211, 1332, 1454, 1575, 1696, 1817]
+
+image_grid_qa_output: A.Applied glue to cork
+
+ToolChainOutput: A.Applied glue to cork
+
+Processing: 014-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/uqILuTcux_o.mp4
+Video duration: 116.00 seconds
+Question: Which of the following can be identified as susan white-oakes' most recent art piece, based on the video? Choose your answer from below options: A.A tiger, B.A bird, C.A fish, D.A pangolin.
+
+Visible Frames: add 16 frames to visible frames: [0, 193, 387, 580, 773, 966, 1160, 1353, 1546, 1739, 1933, 2126, 2319, 2512, 2706, 2899]
+
+image_grid_qa_output: D.A pangolin.
+
+ToolChainOutput: D.A pangolin.
+
+Processing: 014-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/uqILuTcux_o.mp4
+Video duration: 116.00 seconds
+Question: Based on the video, what is susan white-oakes' latest art work made of? Choose your answer from below options: A.Silver, B.Iron, C.Bronze, D.Copper.
+
+Visible Frames: add 16 frames to visible frames: [0, 193, 387, 580, 773, 966, 1160, 1353, 1546, 1739, 1933, 2126, 2319, 2512, 2706, 2899]
+
+image_grid_qa_output: D.Copper
+
+ToolChainOutput: D.Copper
+
+Processing: 014-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/uqILuTcux_o.mp4
+Video duration: 116.00 seconds
+Question: What does susan white-oakes often do before polishing the whole body? Choose your answer from below options: A.She sculptures the legs, B.She attaches the copper scales to the body, C.She decides what size the head should be, D.She shapes the claws.
+
+Visible Frames: add 16 frames to visible frames: [0, 193, 387, 580, 773, 966, 1160, 1353, 1546, 1739, 1933, 2126, 2319, 2512, 2706, 2899]
+
+image_grid_qa_output: B.She attaches the copper scales to the body
+
+ToolChainOutput: B.She attaches the copper scales to the body
+
+Processing: 015-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/eXKE0nAMmg4.mp4
+Video duration: 102.67 seconds
+Question: Which elements are depicted in the painting introduced by the video? Choose your answer from below options: A.A little girl and a red balloon, B.A little boy and a red balloon, C.A little girl and a blue balloon, D.An adult and a blue balloon.
+
+Visible Frames: add 16 frames to visible frames: [0, 205, 410, 615, 820, 1025, 1230, 1435, 1641, 1846, 2051, 2256, 2461, 2666, 2871, 3076]
+
+image_grid_qa_output: A.A little girl and a red balloon
+
+ToolChainOutput: A.A little girl and a red balloon
+
+Processing: 015-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/eXKE0nAMmg4.mp4
+Video duration: 102.67 seconds
+Question: Based on the video, what happened when the painting was sold? Choose your answer from below options: A.Someone put a shredder inside the painting, B.The buyer was very happy because it got more worthy, C.It disapeared, D.It shredded into pieces.
+
+Visible Frames: add 16 frames to visible frames: [0, 205, 410, 615, 820, 1025, 1230, 1435, 1641, 1846, 2051, 2256, 2461, 2666, 2871, 3076]
+
+image_grid_qa_output: D.It shredded into pieces.
+
+ToolChainOutput: D.It shredded into pieces.
+
+Processing: 015-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/eXKE0nAMmg4.mp4
+Video duration: 102.67 seconds
+Question: Based on the information provided by the video, which of the following statements is not correct? Choose your answer from below options: A.The painting got more expensive because it shredded, B.The buyer put a shredder inside the painting many years ago, C.People in the auction house were stunned when the painting shredded, D.Banksky considered the shredding of painting is part of art.
+
+Visible Frames: add 16 frames to visible frames: [0, 205, 410, 615, 820, 1025, 1230, 1435, 1641, 1846, 2051, 2256, 2461, 2666, 2871, 3076]
+
+image_grid_qa_output: B.The buyer put a shredder inside the painting many years ago.
+
+ToolChainOutput: B.The buyer put a shredder inside the painting many years ago.
+
+Processing: 016-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5_fXicEnKKk.mp4
+Video duration: 91.13 seconds
+Question: When was the painting mentioned in the video painted? Choose your answer from below options: A.1998, B.1889, C.1899, D.1988.
+
+Visible Frames: add 16 frames to visible frames: [0, 182, 364, 547, 729, 911, 1093, 1275, 1458, 1640, 1822, 2004, 2186, 2369, 2551, 2733]
+
+image_grid_qa_output: B.1889
+
+ToolChainOutput: B.1889
+
+Processing: 016-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5_fXicEnKKk.mp4
+Video duration: 91.13 seconds
+Question: Which of the following elements does not appear in the paintings primarily mentioned in the video? Choose your answer from below options: A.Van Gogh' tragic life, B.The Van Gogh's artistic attainments, C.The value of the painting, D.The hope that led Van Gogh into success.
+
+Visible Frames: add 16 frames to visible frames: [0, 182, 364, 547, 729, 911, 1093, 1275, 1458, 1640, 1822, 2004, 2186, 2369, 2551, 2733]
+
+image_grid_qa_output: D.The hope that led Van Gogh into success.
+
+ToolChainOutput: D.The hope that led Van Gogh into success.
+
+Processing: 016-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5_fXicEnKKk.mp4
+Video duration: 91.13 seconds
+Question: Which of the following elements is not present in the "starry sky"? Choose your answer from below options: A.Houses, B.Stars, C.Castle, D.Moon.
+
+Visible Frames: add 16 frames to visible frames: [0, 182, 364, 547, 729, 911, 1093, 1275, 1458, 1640, 1822, 2004, 2186, 2369, 2551, 2733]
+
+image_grid_qa_output: C.Castle
+
+ToolChainOutput: C.Castle
+
+Processing: 017-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/O0qVPW1fUn4.mp4
+Video duration: 96.67 seconds
+Question: Based on the information provided by the video, what is the maximum number of fingers required to play this piece of music? Choose your answer from below options: A.Three, B.Ten, C.Four, D.Five.
+
+Visible Frames: add 16 frames to visible frames: [0, 193, 387, 580, 773, 966, 1160, 1353, 1546, 1739, 1933, 2126, 2319, 2512, 2706, 2899]
+
+image_grid_qa_output: A.Three
+
+ToolChainOutput: A.Three
+
+Processing: 017-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/O0qVPW1fUn4.mp4
+Video duration: 96.67 seconds
+Question: What do the characters in this video mean? Choose your answer from below options: A.Volume, B.Scale, C.Note, D.Strength of pressing the piano keys.
+
+Visible Frames: add 16 frames to visible frames: [0, 193, 387, 580, 773, 966, 1160, 1353, 1546, 1739, 1933, 2126, 2319, 2512, 2706, 2899]
+
+image_grid_qa_output: D.Strength of pressing the piano keys.
+
+ToolChainOutput: D.Strength of pressing the piano keys.
+
+Processing: 017-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/O0qVPW1fUn4.mp4
+Video duration: 96.67 seconds
+Question: In this video, why some keys are blue while others are green? Choose your answer from below options: A.Because it indicates the hand to play them, B.Because it can help to make the video more colorful, C.Because the YouTuber love these two colors, D.Because keys on the special piano are eithor blue or green.
+
+Visible Frames: add 16 frames to visible frames: [0, 193, 387, 580, 773, 966, 1160, 1353, 1546, 1739, 1933, 2126, 2319, 2512, 2706, 2899]
+
+image_grid_qa_output: A.Because it indicates the hand to play them.
+
+ToolChainOutput: A.Because it indicates the hand to play them.
+
+Processing: 018-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/tX8a00l_Dfs.mp4
+Video duration: 81.96 seconds
+Question: According to the video, which finger does not need to press the strings when playing em9? Choose your answer from below options: A.Index finger, B.Middle finger, C.Ring finger, D.Little finger.
+
+Visible Frames: add 16 frames to visible frames: [0, 131, 262, 393, 524, 655, 786, 917, 1047, 1178, 1309, 1440, 1571, 1702, 1833, 1964]
+
+image_grid_qa_output: D.Little finger.
+
+ToolChainOutput: D.Little finger.
+
+Processing: 018-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/tX8a00l_Dfs.mp4
+Video duration: 81.96 seconds
+Question: How many kinds of chords are played in the video? Choose your answer from below options: A.Eight, B.Seven, C.Fourteen, D.Six.
+
+Visible Frames: add 16 frames to visible frames: [0, 131, 262, 393, 524, 655, 786, 917, 1047, 1178, 1309, 1440, 1571, 1702, 1833, 1964]
+
+image_grid_qa_output: B.Seven
+
+ToolChainOutput: B.Seven
+
+Processing: 018-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/tX8a00l_Dfs.mp4
+Video duration: 81.96 seconds
+Question: What did the youtuber do at the latter part of the video? Choose your answer from below options: A.He played his favorite tune, B.He claimed that he loves the chords mentioned above, C.He played some complex chords, D.He strung many chords.
+
+Visible Frames: add 16 frames to visible frames: [0, 131, 262, 393, 524, 655, 786, 917, 1047, 1178, 1309, 1440, 1571, 1702, 1833, 1964]
+
+image_grid_qa_output: D. He strung many chords.
+
+ToolChainOutput: D. He strung many chords.
+
+Processing: 019-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/mVIXU0x9ocI.mp4
+Video duration: 106.76 seconds
+Question: What is the author's intention in presenting a scene where all birds fly away except for one on the branch? Choose your answer from below options: A.The bird feels tired of flying, B.The bird likes to stay on the branch, C.The bird might get used to being alone, D.The bird is dead.
+
+Visible Frames: add 16 frames to visible frames: [0, 178, 356, 534, 711, 889, 1067, 1245, 1423, 1601, 1779, 1957, 2134, 2312, 2490, 2668]
+
+image_grid_qa_output: C.The bird might get used to being alone.
+
+ToolChainOutput: C.The bird might get used to being alone.
+
+Processing: 019-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/mVIXU0x9ocI.mp4
+Video duration: 106.76 seconds
+Question: What is the raven doing in the video? Choose your answer from below options: A.Eating, B.Flying, C.Walking, D.Sleeping.
+
+Visible Frames: add 16 frames to visible frames: [0, 178, 356, 534, 711, 889, 1067, 1245, 1423, 1601, 1779, 1957, 2134, 2312, 2490, 2668]
+
+image_grid_qa_output: C.Walking
+
+ToolChainOutput: C.Walking
+
+Processing: 019-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/mVIXU0x9ocI.mp4
+Video duration: 106.76 seconds
+Question: Whom is the poem in the video written by? Choose your answer from below options: A.Michael, B.Alone, C.Edgar, D.Shakespeare.
+
+Visible Frames: add 16 frames to visible frames: [0, 178, 356, 534, 711, 889, 1067, 1245, 1423, 1601, 1779, 1957, 2134, 2312, 2490, 2668]
+
+image_grid_qa_output: C.Edgar
+
+ToolChainOutput: C.Edgar
+
+Processing: 020-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/YPaLGP_xr-w.mp4
+Video duration: 104.10 seconds
+Question: Based on the video, which of the following statements provides the most accurate explanation for why the statue of liberty is green in color? Choose your answer from below options: A.Because the copper is rusty, B.Because she was painted green, C.Because people didn't like her original color, D.Because she is not the origin one any more.
+
+Visible Frames: add 16 frames to visible frames: [0, 166, 333, 499, 665, 832, 998, 1164, 1331, 1497, 1663, 1830, 1996, 2162, 2329, 2495]
+
+image_grid_qa_output: A.Because the copper is rusty.
+
+ToolChainOutput: A.Because the copper is rusty.
+
+Processing: 020-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/YPaLGP_xr-w.mp4
+Video duration: 104.10 seconds
+Question: How did the photographer who took pictures of the three tourists in the video take the photo? Choose your answer from below options: A.By standing at the foot of the statue, B.By going up to the crown of the statue, C.By asking the vistor to lie down, D.By lying down himself.
+
+Visible Frames: add 16 frames to visible frames: [0, 166, 333, 499, 665, 832, 998, 1164, 1331, 1497, 1663, 1830, 1996, 2162, 2329, 2495]
+
+image_grid_qa_output: A.By standing at the foot of the statue.
+
+ToolChainOutput: A.By standing at the foot of the statue.
+
+Processing: 020-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/YPaLGP_xr-w.mp4
+Video duration: 104.10 seconds
+Question: Based on the information provided by the video, where is the best spot for tourists to take aerial photos of the sculpture mentioned in the video? Choose your answer from below options: A.At her feet, B.At her crown, C.Taken from the sea in the distance, D.At her neck.
+
+Visible Frames: add 16 frames to visible frames: [0, 166, 333, 499, 665, 832, 998, 1164, 1331, 1497, 1663, 1830, 1996, 2162, 2329, 2495]
+
+image_grid_qa_output: C.Taken from the sea in the distance
+
+ToolChainOutput: C.Taken from the sea in the distance
+
+Processing: 021-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TbaCxIJ_VP4.mp4
+Video duration: 83.88 seconds
+Question: Which of the following accurately describes the content of the video? Choose your answer from below options: A.How mRNA vaccines work, B.Production process and specifications of mRNA vaccines, C.Application market of mRNA vaccine, D.Possible side effects of mRNA vaccines.
+
+Visible Frames: add 16 frames to visible frames: [0, 134, 268, 402, 537, 671, 805, 939, 1073, 1207, 1341, 1475, 1610, 1744, 1878, 2012]
+
+image_grid_qa_output: A.How mRNA vaccines work
+
+ToolChainOutput: A.How mRNA vaccines work
+
+Processing: 021-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TbaCxIJ_VP4.mp4
+Video duration: 83.88 seconds
+Question: Where does mrna come from in the video? Choose your answer from below options: A.Cells, B.Vaccines, C.COVID-19 virus, D.Antibodies.
+
+Visible Frames: add 16 frames to visible frames: [0, 134, 268, 402, 537, 671, 805, 939, 1073, 1207, 1341, 1475, 1610, 1744, 1878, 2012]
+
+image_grid_qa_output: B.Vaccines
+
+ToolChainOutput: B.Vaccines
+
+Processing: 021-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TbaCxIJ_VP4.mp4
+Video duration: 83.88 seconds
+Question: What color is the cell membrane of the virus-invaded cell in the video? Choose your answer from below options: A.Black, B.Yellow, C.Red, D.Blue.
+
+Visible Frames: add 16 frames to visible frames: [0, 134, 268, 402, 537, 671, 805, 939, 1073, 1207, 1341, 1475, 1610, 1744, 1878, 2012]
+
+image_grid_qa_output: B.Yellow
+
+ToolChainOutput: B.Yellow
+
+Processing: 022-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/n3IYmdy6d4Y.mp4
+Video duration: 94.97 seconds
+Question: According to the video, how long should one wait before cracking the same knuckle again? Choose your answer from below options: A.About 25 minutes, B.About 20 minutes, C.About 15 minutes, D.About 23 minutes.
+
+Visible Frames: add 16 frames to visible frames: [0, 152, 303, 455, 607, 759, 910, 1062, 1214, 1366, 1517, 1669, 1821, 1973, 2124, 2276]
+
+image_grid_qa_output: A.About 25 minutes
+
+ToolChainOutput: A.About 25 minutes
+
+Processing: 022-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/n3IYmdy6d4Y.mp4
+Video duration: 94.97 seconds
+Question: What detail does the caption provide about the term "synovial" at the beginning of the video? Choose your answer from below options: A.It is derived from the Latin word for 'egg', B.It is a term used to describe a type of joint movement, C.It refers to a type of bone tissue, D.It indicates a condition related to the joints.
+
+Visible Frames: add 16 frames to visible frames: [0, 152, 303, 455, 607, 759, 910, 1062, 1214, 1366, 1517, 1669, 1821, 1973, 2124, 2276]
+
+image_grid_qa_output: A.It is derived from the Latin word for 'egg'
+
+ToolChainOutput: A.It is derived from the Latin word for 'egg'
+
+Processing: 022-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/n3IYmdy6d4Y.mp4
+Video duration: 94.97 seconds
+Question: Which of the following could be the main topic of the video segment? Choose your answer from below options: A.The surgical procedure for joint replacement, B.The nutritional requirements for healthy bones, C.The explanation of how joint lubrication works, D.What happens to your knuckles when you crack them.
+
+Visible Frames: add 16 frames to visible frames: [0, 152, 303, 455, 607, 759, 910, 1062, 1214, 1366, 1517, 1669, 1821, 1973, 2124, 2276]
+
+image_grid_qa_output: D. What happens to your knuckles when you crack them.
+
+ToolChainOutput: D. What happens to your knuckles when you crack them.
+
+Processing: 023-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/iZYLeIJwe4w.mp4
+Video duration: 88.68 seconds
+Question: Which option best describes the main topic of the video? Choose your answer from below options: A.Bacteria are replicating inside a cell, B.A cell is being infected by a virus, C.An immune cell is destroying pathogens, D.A platelet is clotting blood.
+
+Visible Frames: add 16 frames to visible frames: [0, 148, 295, 443, 591, 739, 886, 1034, 1182, 1330, 1477, 1625, 1773, 1921, 2068, 2216]
+
+image_grid_qa_output: C.An immune cell is destroying pathogens.
+
+ToolChainOutput: C.An immune cell is destroying pathogens.
+
+Processing: 023-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/iZYLeIJwe4w.mp4
+Video duration: 88.68 seconds
+Question: What is the mechanism/process that can break down bacteria according to the video? Choose your answer from below options: A.Special digestive enzymes: such as proteases or nucleases, which can break down bacterial proteins or nucleic acids under specific conditions, B.Medical surgical instruments: e.g. scalpels, dissecting scissors, grinding equipment, etc., used for handling bacteria in surgery or cell culture, C.Environmental disinfectants: Certain disinfectants, such as alcohol or hydrogen peroxide, are capable of disrupting the cell walls and membranes of bacteria, causing them to lyse, D.Autoclaves: Autoclaving kills microorganisms, including bacteria, in medical devices or sample processing.
+
+Visible Frames: add 16 frames to visible frames: [0, 148, 295, 443, 591, 739, 886, 1034, 1182, 1330, 1477, 1625, 1773, 1921, 2068, 2216]
+
+image_grid_qa_output: A.Special digestive enzymes: such as proteases or nucleases, which can break down bacterial proteins or nucleic acids under specific conditions.
+
+ToolChainOutput: A.Special digestive enzymes: such as proteases or nucleases, which can break down bacterial proteins or nucleic acids under specific conditions.
+
+Processing: 023-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/iZYLeIJwe4w.mp4
+Video duration: 88.68 seconds
+Question: Which cell shown in the video is of the same type as the white cell scrolling at the beginning? Choose your answer from below options: A.The green cells in the middle of the video, devour a red cell, B.The devoured green cells at the beginning of the video, C.Tiny dense cells in blue at the beginning of the video, D.It is impossible to extrapolate.
+
+Visible Frames: add 16 frames to visible frames: [0, 148, 295, 443, 591, 739, 886, 1034, 1182, 1330, 1477, 1625, 1773, 1921, 2068, 2216]
+
+image_grid_qa_output: A.The green cells in the middle of the video, devour a red cell,
+
+ToolChainOutput: A.The green cells in the middle of the video, devour a red cell,
+
+Processing: 024-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/jkNxmTrrZSk.mp4
+Video duration: 102.79 seconds
+Question: What does the video depict? Choose your answer from below options: A.A virus attacks a cell, B.The replication of DNA, C.A neuron sends a signal, D.White blood cells attacking a pathogen.
+
+Visible Frames: add 16 frames to visible frames: [0, 164, 329, 493, 658, 822, 986, 1151, 1315, 1480, 1644, 1808, 1973, 2137, 2302, 2466]
+
+image_grid_qa_output: A.A virus attacks a cell
+
+ToolChainOutput: A.A virus attacks a cell
+
+Processing: 024-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/jkNxmTrrZSk.mp4
+Video duration: 102.79 seconds
+Question: Which object is depicted as a small flying black dot at the start of the video? Choose your answer from below options: A.Dust mites in the lungs, B.Virus, C.Protein Receptors, D.Black bacteria.
+
+Visible Frames: add 16 frames to visible frames: [0, 164, 329, 493, 658, 822, 986, 1151, 1315, 1480, 1644, 1808, 1973, 2137, 2302, 2466]
+
+image_grid_qa_output: B.Virus
+
+ToolChainOutput: B.Virus
+
+Processing: 024-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/jkNxmTrrZSk.mp4
+Video duration: 102.79 seconds
+Question: What might be the primary focus of the video? Choose your answer from below options: A.The process by which viruses are eliminated by the body's immune response, B.Mechanisms of viral infection, C.Production and spread of viruses, D.Types of viruses and the most harmful ones.
+
+Visible Frames: add 16 frames to visible frames: [0, 164, 329, 493, 658, 822, 986, 1151, 1315, 1480, 1644, 1808, 1973, 2137, 2302, 2466]
+
+image_grid_qa_output: B.Mechanisms of viral infection
+
+ToolChainOutput: B.Mechanisms of viral infection
+
+Processing: 025-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/ebzbKa32kuk.mp4
+Video duration: 70.12 seconds
+Question: What structure is primarily depicted in the video? Choose your answer from below options: A.A model of a human lung, B.A model of a human heart, C.A model of a human liver, D.A model of a human kidney.
+
+Visible Frames: add 16 frames to visible frames: [0, 117, 234, 350, 467, 584, 701, 818, 934, 1051, 1168, 1285, 1402, 1518, 1635, 1752]
+
+image_grid_qa_output: B.A model of a human heart
+
+ToolChainOutput: B.A model of a human heart
+
+Processing: 025-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/ebzbKa32kuk.mp4
+Video duration: 70.12 seconds
+Question: Which of the following features is not visible on the model of the heart in the video? Choose your answer from below options: A.Coronary arteries, B.Pulmonary veins, C.Hepatic veins, D.Aortic valve.
+
+Visible Frames: add 16 frames to visible frames: [0, 117, 234, 350, 467, 584, 701, 818, 934, 1051, 1168, 1285, 1402, 1518, 1635, 1752]
+
+image_grid_qa_output: C.Hepatic veins
+
+ToolChainOutput: C.Hepatic veins
+
+Processing: 025-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/ebzbKa32kuk.mp4
+Video duration: 70.12 seconds
+Question: Which of the following best describes the purpose of the content shown in the video? Choose your answer from below options: A.For medical education, B.For psychological prevention and treatment, C.For diagnosis of special cases, D.To guide home exercise programmes.
+
+Visible Frames: add 16 frames to visible frames: [0, 117, 234, 350, 467, 584, 701, 818, 934, 1051, 1168, 1285, 1402, 1518, 1635, 1752]
+
+image_grid_qa_output: A.For medical education
+
+ToolChainOutput: A.For medical education
+
+Processing: 026-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/XWfqBKeC0g8.mp4
+Video duration: 30.83 seconds
+Question: What type of cells are highlighted in the video? Choose your answer from below options: A.Lung cancer cells, B.Brain cancer cells, C.Pancreatic cancer cells, D.Stomach cancer cells.
+
+Visible Frames: add 16 frames to visible frames: [0, 49, 99, 148, 197, 246, 296, 345, 394, 443, 493, 542, 591, 640, 690, 739]
+
+image_grid_qa_output: C.Pancreatic cancer cells
+
+ToolChainOutput: C.Pancreatic cancer cells
+
+Processing: 026-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/XWfqBKeC0g8.mp4
+Video duration: 30.83 seconds
+Question: What level of magnification is used to view the cells in the video? Choose your answer from below options: A.2000x magnification, B.1500x magnification, C.1000x magnification, D.500x magnification.
+
+Visible Frames: add 16 frames to visible frames: [0, 49, 99, 148, 197, 246, 296, 345, 394, 443, 493, 542, 591, 640, 690, 739]
+
+image_grid_qa_output: A.2000x magnification
+
+ToolChainOutput: A.2000x magnification
+
+Processing: 026-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/XWfqBKeC0g8.mp4
+Video duration: 30.83 seconds
+Question: What process might these cells be undergoing? Choose your answer from below options: A.Amitosis, B.Photosynthesis, C.Enzymatic reactions, D.Mitosis.
+
+Visible Frames: add 16 frames to visible frames: [0, 49, 99, 148, 197, 246, 296, 345, 394, 443, 493, 542, 591, 640, 690, 739]
+
+image_grid_qa_output: D.Mitosis
+
+ToolChainOutput: D.Mitosis
+
+Processing: 027-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/tS4a6I4-Yjo.mp4
+Video duration: 109.76 seconds
+Question: Why does the woman need to drink water at the beginning of the video? Choose your answer from below options: A.Because she is preparing for a medical examination, B.Because she went through an operation and needed to be hydrated, C.Because she is sick and takes medication that requires a lot of water for adequate reflection, D.Instead of water, she drinks a special medicine.
+
+Visible Frames: add 16 frames to visible frames: [0, 183, 366, 549, 731, 914, 1097, 1280, 1463, 1646, 1829, 2012, 2194, 2377, 2560, 2743]
+
+image_grid_qa_output: A.Because she is preparing for a medical examination.
+
+ToolChainOutput: A.Because she is preparing for a medical examination.
+
+Processing: 027-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/tS4a6I4-Yjo.mp4
+Video duration: 109.76 seconds
+Question: Which organization is responsible for publishing the video? Choose your answer from below options: A.UCLA Medical Center, B.Eye Research USA, C.Cancer Research UK, D.South Africa Medical Center.
+
+Visible Frames: add 16 frames to visible frames: [0, 183, 366, 549, 731, 914, 1097, 1280, 1463, 1646, 1829, 2012, 2194, 2377, 2560, 2743]
+
+image_grid_qa_output: C.Cancer Research UK
+
+ToolChainOutput: C.Cancer Research UK
+
+Processing: 027-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/tS4a6I4-Yjo.mp4
+Video duration: 109.76 seconds
+Question: Which of the following statements can be inferred from the video? Choose your answer from below options: A.The patient is undergoing an ECG, B.The patient is undergoing a CT scan, C.The healthcare worker is teaching a medical student, D.The healthcare worker is conducting a medical experiment.
+
+Visible Frames: add 16 frames to visible frames: [0, 183, 366, 549, 731, 914, 1097, 1280, 1463, 1646, 1829, 2012, 2194, 2377, 2560, 2743]
+
+image_grid_qa_output: B.The patient is undergoing a CT scan.
+
+ToolChainOutput: B.The patient is undergoing a CT scan.
+
+Processing: 028-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TVkck1ACKDQ.mp4
+Video duration: 30.88 seconds
+Question: What organ did the woman in the video remove from the medical model? Choose your answer from below options: A.She removed the liver, B.She removed the lungs, C.She removed the kidney, D.She removed the heart.
+
+Visible Frames: add 16 frames to visible frames: [0, 51, 103, 154, 206, 257, 308, 360, 411, 463, 514, 565, 617, 668, 720, 771]
+
+image_grid_qa_output: D.She removed the heart.
+
+ToolChainOutput: D.She removed the heart.
+
+Processing: 028-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TVkck1ACKDQ.mp4
+Video duration: 30.88 seconds
+Question: What is the purpose of the video? Choose your answer from below options: A.Promotion for a hospital, B.Admissions brochure for a school, C.Introduction of a newly established medical laboratory, D.Introduction of excellent characters.
+
+Visible Frames: add 16 frames to visible frames: [0, 51, 103, 154, 206, 257, 308, 360, 411, 463, 514, 565, 617, 668, 720, 771]
+
+image_grid_qa_output: B.Admissions brochure for a school
+
+ToolChainOutput: B.Admissions brochure for a school
+
+Processing: 028-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TVkck1ACKDQ.mp4
+Video duration: 30.88 seconds
+Question: How many different people appear in the video? Choose your answer from below options: A.3, B.4, C.1, D.2.
+
+Visible Frames: add 16 frames to visible frames: [0, 51, 103, 154, 206, 257, 308, 360, 411, 463, 514, 565, 617, 668, 720, 771]
+
+image_grid_qa_output: D.2
+
+ToolChainOutput: D.2
+
+Processing: 029-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/JbDRs0ja3PE.mp4
+Video duration: 30.00 seconds
+Question: Which human organ is visible in the video? Choose your answer from below options: A.Stomach, B.Liver, C.Lungs, D.Kidneys.
+
+Visible Frames: add 16 frames to visible frames: [0, 60, 120, 180, 240, 300, 360, 420, 479, 539, 599, 659, 719, 779, 839, 899]
+
+image_grid_qa_output: C.Lungs
+
+ToolChainOutput: C.Lungs
+
+Processing: 029-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/JbDRs0ja3PE.mp4
+Video duration: 30.00 seconds
+Question: What is the purpose of the video? Choose your answer from below options: A.To warn about environmental issues, B.To offer health-related advice, C.To provide a weather update, D.To advertise a new movie.
+
+Visible Frames: add 16 frames to visible frames: [0, 60, 120, 180, 240, 300, 360, 420, 479, 539, 599, 659, 719, 779, 839, 899]
+
+image_grid_qa_output: A.To warn about environmental issues
+
+ToolChainOutput: A.To warn about environmental issues
+
+Processing: 029-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/JbDRs0ja3PE.mp4
+Video duration: 30.00 seconds
+Question: What is the most likely message being conveyed by the video? Choose your answer from below options: A.The beauty of natural phenomena, B.The excitement of scientific discovery, C.The global impact of wildfires, D.The dangers of drug interactions.
+
+Visible Frames: add 16 frames to visible frames: [0, 60, 120, 180, 240, 300, 360, 420, 479, 539, 599, 659, 719, 779, 839, 899]
+
+image_grid_qa_output: D.The dangers of drug interactions.
+
+ToolChainOutput: D.The dangers of drug interactions.
+
+Processing: 030-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/39HTpUG1MwQ.mp4
+Video duration: 102.44 seconds
+Question: What organelle is depicted at the beginning of the video? Choose your answer from below options: A.Mitochondrion, B.Ribosome, C.Chloroplast, D.Golgi apparatus.
+
+Visible Frames: add 16 frames to visible frames: [0, 171, 341, 512, 683, 853, 1024, 1195, 1365, 1536, 1707, 1877, 2048, 2219, 2389, 2560]
+
+image_grid_qa_output: A.Mitochondrion
+
+ToolChainOutput: A.Mitochondrion
+
+Processing: 030-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/39HTpUG1MwQ.mp4
+Video duration: 102.44 seconds
+Question: What color is the atp in the video? Choose your answer from below options: A.Black, B.Green, C.Blue, D.Red.
+
+Visible Frames: add 16 frames to visible frames: [0, 171, 341, 512, 683, 853, 1024, 1195, 1365, 1536, 1707, 1877, 2048, 2219, 2389, 2560]
+
+image_grid_qa_output: D.Red
+
+ToolChainOutput: D.Red
+
+Processing: 030-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/39HTpUG1MwQ.mp4
+Video duration: 102.44 seconds
+Question: Based on the video, what is the main function of the organelle featured in the footage? Choose your answer from below options: A.Protein synthesis, B.Energy production, C.Photosynthesis, D.Lipid metabolism.
+
+Visible Frames: add 16 frames to visible frames: [0, 171, 341, 512, 683, 853, 1024, 1195, 1365, 1536, 1707, 1877, 2048, 2219, 2389, 2560]
+
+image_grid_qa_output: B.Energy production
+
+ToolChainOutput: B.Energy production
+
+Processing: 031-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TPS22HRRY1k.mp4
+Video duration: 114.05 seconds
+Question: Which of the following best describes the types of assets included within will's "assets under management" visual bar in the video, showcasing the composition of the mutual fund's holdings? Choose your answer from below options: A.Real Estate (blue), Precious Metals (red), and Foreign Currencies (yellow), B.Real Estate (blue), Foreign Currencies (red), and Precious Metals (yellow), C.Bonds (blue), Stocks (red), and Cash (yellow), D.Stocks (blue), Bonds (red), and Cash (yellow).
+
+Visible Frames: add 16 frames to visible frames: [0, 228, 456, 683, 911, 1139, 1367, 1595, 1822, 2050, 2278, 2506, 2734, 2961, 3189, 3417]
+
+image_grid_qa_output: C.Bonds (blue), Stocks (red), and Cash (yellow)
+
+ToolChainOutput: C.Bonds (blue), Stocks (red), and Cash (yellow)
+
+Processing: 031-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TPS22HRRY1k.mp4
+Video duration: 114.05 seconds
+Question: Which best summarizes the content of the video? Choose your answer from below options: A.The process of registering a new mutual fund with the regulator and the associated legal requirements, B.A basic explanation of what mutual funds are, and how they work, C.A basic explanation of what national debts are, how they work and some key terms management, D.The benefits and risks of investing in mutual funds as compared to other investment options such as individual stocks and bonds.
+
+Visible Frames: add 16 frames to visible frames: [0, 228, 456, 683, 911, 1139, 1367, 1595, 1822, 2050, 2278, 2506, 2734, 2961, 3189, 3417]
+
+image_grid_qa_output: B.A basic explanation of what mutual funds are, and how they work.
+
+ToolChainOutput: B.A basic explanation of what mutual funds are, and how they work.
+
+Processing: 031-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/TPS22HRRY1k.mp4
+Video duration: 114.05 seconds
+Question: According to the video, which of the following statements is true? Choose your answer from below options: A.People no longer need to choose their own diversified investment portfolio after buying a mutual fund, B.Investors in a closed-ended fund can withdraw their investment without trading to another investor, C.Closed-ended funds can continually accept more funds from outsiders, D.Anyone can set up a mutual fund at will.
+
+Visible Frames: add 16 frames to visible frames: [0, 228, 456, 683, 911, 1139, 1367, 1595, 1822, 2050, 2278, 2506, 2734, 2961, 3189, 3417]
+
+image_grid_qa_output: A.People no longer need to choose their own diversified investment portfolio after buying a mutual fund
+
+ToolChainOutput: A.People no longer need to choose their own diversified investment portfolio after buying a mutual fund
+
+Processing: 032-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/X30VlGh3HwQ.mp4
+Video duration: 96.23 seconds
+Question: What is the video illustrating when there are three buildings appear in the video at the same time? Choose your answer from below options: A.The debt relationship between the federal government, municipalities, and businesses, B.The issuers in the bond market include the federal government, municipalities, and corporations, C.Presentations by and between the federal government, municipalities, and businesses, D.The issuance of bonds to fund the construction of infrastructure.
+
+Visible Frames: add 16 frames to visible frames: [0, 192, 384, 577, 769, 961, 1153, 1345, 1538, 1730, 1922, 2114, 2306, 2499, 2691, 2883]
+
+image_grid_qa_output: B.The issuers in the bond market include the federal government, municipalities, and corporations.
+
+ToolChainOutput: B.The issuers in the bond market include the federal government, municipalities, and corporations.
+
+Processing: 032-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/X30VlGh3HwQ.mp4
+Video duration: 96.23 seconds
+Question: Based on data presented in the video, what was the approximate difference in value between the us bond market and the us stock market as of 2020? Choose your answer from below options: A.$5 trillion, B.$10 trillion, C.$15 trillion, D.$20 trillion.
+
+Visible Frames: add 16 frames to visible frames: [0, 192, 384, 577, 769, 961, 1153, 1345, 1538, 1730, 1922, 2114, 2306, 2499, 2691, 2883]
+
+image_grid_qa_output: C.$15 trillion
+
+ToolChainOutput: C.$15 trillion
+
+Processing: 032-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/X30VlGh3HwQ.mp4
+Video duration: 96.23 seconds
+Question: How many laptops are produced in the company factory in the video animation? Choose your answer from below options: A.9, B.6, C.8, D.7.
+
+Visible Frames: add 16 frames to visible frames: [0, 192, 384, 577, 769, 961, 1153, 1345, 1538, 1730, 1922, 2114, 2306, 2499, 2691, 2883]
+
+image_grid_qa_output: C.8
+
+ToolChainOutput: C.8
+
+Processing: 033-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/zKyWRRJQbkM.mp4
+Video duration: 114.01 seconds
+Question: Which denominations of bills and/or coins are shown in the animation at the beginning of the video, and what is the total value of these denominations? Choose your answer from below options: A.$15.25, including three $5 bills and one quarter, B.$2.25, including two $1 bills and one quarter, C.$7.25, including one $5 bill, two $1 bills and one quarter, D.$10.25, including two $5 bills and one quarter.
+
+Visible Frames: add 16 frames to visible frames: [0, 228, 455, 683, 911, 1139, 1366, 1594, 1822, 2050, 2277, 2505, 2733, 2961, 3188, 3416]
+
+image_grid_qa_output: A.$15.25, including three $5 bills and one quarter.
+
+ToolChainOutput: A.$15.25, including three $5 bills and one quarter.
+
+Processing: 033-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/zKyWRRJQbkM.mp4
+Video duration: 114.01 seconds
+Question: Which historical figure is visually depicted in a framed portrait in the video? Choose your answer from below options: A.Abraham Lincoln, B.George Washington, C.John F. Kennedy, D.Franklin D. Roosevelt.
+
+Visible Frames: add 16 frames to visible frames: [0, 228, 455, 683, 911, 1139, 1366, 1594, 1822, 2050, 2277, 2505, 2733, 2961, 3188, 3416]
+
+image_grid_qa_output: None of the options are depicted in the frames.
+
+ToolChainOutput: None of the options are depicted in the frames.
+
+Processing: 033-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/zKyWRRJQbkM.mp4
+Video duration: 114.01 seconds
+Question: In the video, what visual aid is used to compare the nominal minimum wage with its value in 2019 dollars, demonstrating the impact of inflation? Choose your answer from below options: A.A map of the United States with states color-coded by their minimum wage laws, B.A line graph showing the trend of the federal minimum wage over time, C.A line graph with two lines, D.A side-by-side comparison of a 2019 dollar bill and a 1938 dollar bill.
+
+Visible Frames: add 16 frames to visible frames: [0, 228, 455, 683, 911, 1139, 1366, 1594, 1822, 2050, 2277, 2505, 2733, 2961, 3188, 3416]
+
+image_grid_qa_output: C.A line graph with two lines
+
+ToolChainOutput: C.A line graph with two lines
+
+Processing: 034-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/blSnLEZe-sI.mp4
+Video duration: 104.24 seconds
+Question: What is this video about? Choose your answer from below options: A.Shares, B.Central bank, C.Financial crisis, D.Quantitative easing.
+
+Visible Frames: add 16 frames to visible frames: [0, 174, 347, 521, 695, 868, 1042, 1216, 1389, 1563, 1737, 1910, 2084, 2258, 2431, 2605]
+
+image_grid_qa_output: D.Quantitative easing.
+
+ToolChainOutput: D.Quantitative easing.
+
+Processing: 034-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/blSnLEZe-sI.mp4
+Video duration: 104.24 seconds
+Question: According to the video, which statement is correct? Choose your answer from below options: A.The overall stock market could see stronger gains because of quantitative easing, B.Quantitative easing requires the central bank to print money, C.QE makes those so-called safe assets more attractive, D.Quantitative easing leads to more money in the system.
+
+Visible Frames: add 16 frames to visible frames: [0, 174, 347, 521, 695, 868, 1042, 1216, 1389, 1563, 1737, 1910, 2084, 2258, 2431, 2605]
+
+image_grid_qa_output: D.Quantitative easing leads to more money in the system.
+
+ToolChainOutput: D.Quantitative easing leads to more money in the system.
+
+Processing: 034-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/blSnLEZe-sI.mp4
+Video duration: 104.24 seconds
+Question: What does the combination of a bond certificate and the uk flag most likely symbolize in the video? Choose your answer from below options: A.The UK's dependence on foreign investments, B.The UK's use of bonds for quantitative easing, C.The UK's high national debt, D.The UK's strong bond market.
+
+Visible Frames: add 16 frames to visible frames: [0, 174, 347, 521, 695, 868, 1042, 1216, 1389, 1563, 1737, 1910, 2084, 2258, 2431, 2605]
+
+image_grid_qa_output: B.The UK's use of bonds for quantitative easing.
+
+ToolChainOutput: B.The UK's use of bonds for quantitative easing.
+
+Processing: 035-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/Gh_GtYtQoVI.mp4
+Video duration: 85.84 seconds
+Question: What is the function of the stopwatch in the upper right corner of the video? Choose your answer from below options: A.To indicate the total duration of this video, B.The video author made the annotations in order to explain clearly what finance is within one minute, C.To display the current time when the narrator is sharing financial knowledge, D.It is a countdown timer.
+
+Visible Frames: add 16 frames to visible frames: [0, 143, 286, 429, 572, 715, 858, 1001, 1144, 1287, 1430, 1573, 1716, 1859, 2002, 2145]
+
+image_grid_qa_output: D.It is a countdown timer.
+
+ToolChainOutput: D.It is a countdown timer.
+
+Processing: 035-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/Gh_GtYtQoVI.mp4
+Video duration: 85.84 seconds
+Question: In what direction does the video author draw the various financial institutions? Choose your answer from below options: A.From left to right, B.From right to left, C.From bottom to top, D.From top to bottom.
+
+Visible Frames: add 16 frames to visible frames: [0, 143, 286, 429, 572, 715, 858, 1001, 1144, 1287, 1430, 1573, 1716, 1859, 2002, 2145]
+
+image_grid_qa_output: A.From left to right
+
+ToolChainOutput: A.From left to right
+
+Processing: 035-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/Gh_GtYtQoVI.mp4
+Video duration: 85.84 seconds
+Question: From which aspect does the video describe the role of finance? Choose your answer from below options: A.Business investment, B.Market pricing, C.Resource allocation, D.Structural adjustment.
+
+Visible Frames: add 16 frames to visible frames: [0, 143, 286, 429, 572, 715, 858, 1001, 1144, 1287, 1430, 1573, 1716, 1859, 2002, 2145]
+
+image_grid_qa_output: C.Resource allocation
+
+ToolChainOutput: C.Resource allocation
+
+Processing: 036-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/MXKDvuEkSF0.mp4
+Video duration: 101.48 seconds
+Question: How many new advertising situations are introduced in the video? Choose your answer from below options: A.3, B.1, C.2, D.4.
+
+Visible Frames: add 16 frames to visible frames: [0, 162, 324, 486, 649, 811, 973, 1135, 1297, 1459, 1621, 1783, 1946, 2108, 2270, 2432]
+
+image_grid_qa_output: D.4
+
+ToolChainOutput: D.4
+
+Processing: 036-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/MXKDvuEkSF0.mp4
+Video duration: 101.48 seconds
+Question: How much did sales increase at dunkin' donuts locations situated near the scent marketing dispensers? Choose your answer from below options: A.37%, B.39%, C.27%, D.29%.
+
+Visible Frames: add 16 frames to visible frames: [0, 162, 324, 486, 649, 811, 973, 1135, 1297, 1459, 1621, 1783, 1946, 2108, 2270, 2432]
+
+image_grid_qa_output: D.29%.
+
+ToolChainOutput: D.29%.
+
+Processing: 036-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/MXKDvuEkSF0.mp4
+Video duration: 101.48 seconds
+Question: What is the estimated value of the global marketing industry? Choose your answer from below options: A.$612 billion, B.$45 million, C.$58 million, D.$475 billion.
+
+Visible Frames: add 16 frames to visible frames: [0, 162, 324, 486, 649, 811, 973, 1135, 1297, 1459, 1621, 1783, 1946, 2108, 2270, 2432]
+
+image_grid_qa_output: D.$475 billion
+
+ToolChainOutput: D.$475 billion
+
+Processing: 037-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/EQ-67udZEeg.mp4
+Video duration: 103.97 seconds
+Question: Which of the following companies is not featured in the video? Choose your answer from below options: A.General Electric, B.Starbucks, C.Adobe, D.Pepsi.
+
+Visible Frames: add 16 frames to visible frames: [0, 208, 415, 623, 831, 1038, 1246, 1454, 1661, 1869, 2077, 2284, 2492, 2700, 2907, 3115]
+
+image_grid_qa_output: B.Starbucks
+
+ToolChainOutput: B.Starbucks
+
+Processing: 037-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/EQ-67udZEeg.mp4
+Video duration: 103.97 seconds
+Question: What visual element is used to showcase companies that are included in the dow jones industrial average? Choose your answer from below options: A.Photographs of corporate buildings, B.Animated stock tickers scrolling across the screen, C.Hand-drawn company logos, D.Charts showing stock performance over time.
+
+Visible Frames: add 16 frames to visible frames: [0, 208, 415, 623, 831, 1038, 1246, 1454, 1661, 1869, 2077, 2284, 2492, 2700, 2907, 3115]
+
+image_grid_qa_output: C.Hand-drawn company logos
+
+ToolChainOutput: C.Hand-drawn company logos
+
+Processing: 037-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/EQ-67udZEeg.mp4
+Video duration: 103.97 seconds
+Question: Which of the following is the correct order for the three indices presented in the video? Choose your answer from below options: A.Dow Jones, Nasdaq, S&P 500, B.Nasdaq, S&P 500, Dow Jones, C.S&P 500, Dow Jones, Nasdaq, D.Dow Jones, S&P 500, Nasdaq.
+
+Visible Frames: add 16 frames to visible frames: [0, 208, 415, 623, 831, 1038, 1246, 1454, 1661, 1869, 2077, 2284, 2492, 2700, 2907, 3115]
+
+image_grid_qa_output: D.Dow Jones, S&P 500, Nasdaq.
+
+ToolChainOutput: D.Dow Jones, S&P 500, Nasdaq.
+
+Processing: 038-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/GqeRnxSuLFI.mp4
+Video duration: 53.83 seconds
+Question: Which color of clothing is worn by the first person selling bananas in the video? Choose your answer from below options: A.Blue, B.Purple, C.Black, D.Green.
+
+Visible Frames: add 16 frames to visible frames: [0, 86, 172, 258, 344, 430, 516, 602, 689, 775, 861, 947, 1033, 1119, 1205, 1291]
+
+image_grid_qa_output: A.Blue
+
+ToolChainOutput: A.Blue
+
+Processing: 038-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/GqeRnxSuLFI.mp4
+Video duration: 53.83 seconds
+Question: According to the video, which statement is correct? Choose your answer from below options: A.When supply is less than demand, you can make money by selling bananas, B.You cannot make money by selling bananas, C.You can make money by selling bananas, D.When there are few people selling bananas, you can make money by selling bananas.
+
+Visible Frames: add 16 frames to visible frames: [0, 86, 172, 258, 344, 430, 516, 602, 689, 775, 861, 947, 1033, 1119, 1205, 1291]
+
+image_grid_qa_output: A.When supply is less than demand, you can make money by selling bananas.
+
+ToolChainOutput: A.When supply is less than demand, you can make money by selling bananas.
+
+Processing: 038-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/GqeRnxSuLFI.mp4
+Video duration: 53.83 seconds
+Question: Which best summarizes the content of the video? Choose your answer from below options: A.Supply and demand, B.Bananas supply, C.Business competition, D.Banana selling.
+
+Visible Frames: add 16 frames to visible frames: [0, 86, 172, 258, 344, 430, 516, 602, 689, 775, 861, 947, 1033, 1119, 1205, 1291]
+
+image_grid_qa_output: A.Supply and demand
+
+ToolChainOutput: A.Supply and demand
+
+Processing: 039-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/XOJKiOw8Xqo.mp4
+Video duration: 111.71 seconds
+Question: Which time is displayed on the clock in the video? Choose your answer from below options: A.08:00, B.03:00, C.11:00, D.05:00.
+
+Visible Frames: add 16 frames to visible frames: [0, 223, 446, 669, 893, 1116, 1339, 1562, 1785, 2008, 2231, 2454, 2678, 2901, 3124, 3347]
+
+image_grid_qa_output: C.11:00
+
+ToolChainOutput: C.11:00
+
+Processing: 039-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/XOJKiOw8Xqo.mp4
+Video duration: 111.71 seconds
+Question: What is the color of canada on the map in the video? Choose your answer from below options: A.Orange, B.Yellow, C.Pink, D.Green.
+
+Visible Frames: add 16 frames to visible frames: [0, 223, 446, 669, 893, 1116, 1339, 1562, 1785, 2008, 2231, 2454, 2678, 2901, 3124, 3347]
+
+image_grid_qa_output: C.Pink
+
+ToolChainOutput: C.Pink
+
+Processing: 039-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/XOJKiOw8Xqo.mp4
+Video duration: 111.71 seconds
+Question: What is the topic of this video? Choose your answer from below options: A.Gambling, B.Money laundering, C.Remittance, D.Tax avoidance.
+
+Visible Frames: add 16 frames to visible frames: [0, 223, 446, 669, 893, 1116, 1339, 1562, 1785, 2008, 2231, 2454, 2678, 2901, 3124, 3347]
+
+image_grid_qa_output: D.Tax avoidance.
+
+ToolChainOutput: D.Tax avoidance.
+
+Processing: 040-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5ksVshqVuiM.mp4
+Video duration: 77.92 seconds
+Question: When did the events described in the video take place? Choose your answer from below options: A.Between 2014 and 2016, B.Between 2020 and 2023, C.Between 1997 and 2002, D.Between 2006 and 2008.
+
+Visible Frames: add 16 frames to visible frames: [0, 125, 249, 374, 498, 623, 748, 872, 997, 1121, 1246, 1371, 1495, 1620, 1744, 1869]
+
+image_grid_qa_output: C.Between 1997 and 2002
+
+ToolChainOutput: C.Between 1997 and 2002
+
+Processing: 040-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5ksVshqVuiM.mp4
+Video duration: 77.92 seconds
+Question: What was amazon's stock price at the peak of the dot-com bubble? Choose your answer from below options: A.$7/Share, B.$100/Share, C.$600/Share, D.$300/Share.
+
+Visible Frames: add 16 frames to visible frames: [0, 125, 249, 374, 498, 623, 748, 872, 997, 1121, 1246, 1371, 1495, 1620, 1744, 1869]
+
+image_grid_qa_output: B.$100/Share
+
+ToolChainOutput: B.$100/Share
+
+Processing: 040-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/5ksVshqVuiM.mp4
+Video duration: 77.92 seconds
+Question: What is the main content of this video? Choose your answer from below options: A.Amazon's development, B.The dot-com Bubble, C.Company competition, D.Stock market.
+
+Visible Frames: add 16 frames to visible frames: [0, 125, 249, 374, 498, 623, 748, 872, 997, 1121, 1246, 1371, 1495, 1620, 1744, 1869]
+
+image_grid_qa_output: B.The dot-com Bubble
+
+ToolChainOutput: B.The dot-com Bubble
+
+Processing: 041-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/yl5ZXQmrtP0.mp4
+Video duration: 71.00 seconds
+Question: When is the zodiacal light visible from the video? Choose your answer from below options: A.On March 19, B.On March 24, C.On March 25, D.On March 29.
+
+Visible Frames: add 16 frames to visible frames: [0, 142, 284, 425, 567, 709, 851, 993, 1134, 1276, 1418, 1560, 1702, 1843, 1985, 2127]
+
+image_grid_qa_output: A.On March 19
+
+ToolChainOutput: A.On March 19
+
+Processing: 041-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/yl5ZXQmrtP0.mp4
+Video duration: 71.00 seconds
+Question: How many times is the sun visible in the video? Choose your answer from below options: A.2, B.4, C.3, D.1.
+
+Visible Frames: add 16 frames to visible frames: [0, 142, 284, 425, 567, 709, 851, 993, 1134, 1276, 1418, 1560, 1702, 1843, 1985, 2127]
+
+image_grid_qa_output: C.3
+
+ToolChainOutput: C.3
+
+Processing: 041-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/yl5ZXQmrtP0.mp4
+Video duration: 71.00 seconds
+Question: What is the main topic of the video? Choose your answer from below options: A.Diurnal alternation, B.The relationship between the sun, Earth and moon, C.Seasonal change, D.Astronomical phenomena visible in March.
+
+Visible Frames: add 16 frames to visible frames: [0, 142, 284, 425, 567, 709, 851, 993, 1134, 1276, 1418, 1560, 1702, 1843, 1985, 2127]
+
+image_grid_qa_output: D.Astronomical phenomena visible in March.
+
+ToolChainOutput: D.Astronomical phenomena visible in March.
+
+Processing: 042-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/kRlhlCWplqk.mp4
+Video duration: 110.90 seconds
+Question: How many bodies are created after the collision? Choose your answer from below options: A.2, B.3, C.1, D.4.
+
+Visible Frames: add 16 frames to visible frames: [0, 222, 443, 665, 887, 1109, 1330, 1552, 1774, 1996, 2217, 2439, 2661, 2883, 3104, 3326]
+
+image_grid_qa_output: A.2
+
+ToolChainOutput: A.2
+
+Processing: 042-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/kRlhlCWplqk.mp4
+Video duration: 110.90 seconds
+Question: Which of the following best describes the topic of the video? Choose your answer from below options: A.How is the Mars created, B.How is the Earth created, C.How is the moon created, D.Why does Earth collide with Mars.
+
+Visible Frames: add 16 frames to visible frames: [0, 222, 443, 665, 887, 1109, 1330, 1552, 1774, 1996, 2217, 2439, 2661, 2883, 3104, 3326]
+
+image_grid_qa_output: C.How is the moon created
+
+ToolChainOutput: C.How is the moon created
+
+Processing: 042-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/kRlhlCWplqk.mp4
+Video duration: 110.90 seconds
+Question: How was the video most likely made? Choose your answer from below options: A.Using computer simulation, B.Through special effects production, C.By location shooting, D.Manual model.
+
+Visible Frames: add 16 frames to visible frames: [0, 222, 443, 665, 887, 1109, 1330, 1552, 1774, 1996, 2217, 2439, 2661, 2883, 3104, 3326]
+
+image_grid_qa_output: A.Using computer simulation
+
+ToolChainOutput: A.Using computer simulation
+
+Processing: 043-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/9jjTGpWmc5U.mp4
+Video duration: 113.03 seconds
+Question: Why does the roof object fly? Choose your answer from below options: A.There was an explosion, B.Thrown into the air by a child, C.Tied to a balloon, D.Lunar approach.
+
+Visible Frames: add 16 frames to visible frames: [0, 181, 361, 542, 722, 903, 1084, 1264, 1445, 1625, 1806, 1987, 2167, 2348, 2528, 2709]
+
+image_grid_qa_output: D.Lunar approach.
+
+ToolChainOutput: D.Lunar approach.
+
+Processing: 043-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/9jjTGpWmc5U.mp4
+Video duration: 113.03 seconds
+Question: How many people are watching tv in the video? Choose your answer from below options: A.1, B.3, C.2, D.4.
+
+Visible Frames: add 16 frames to visible frames: [0, 181, 361, 542, 722, 903, 1084, 1264, 1445, 1625, 1806, 1987, 2167, 2348, 2528, 2709]
+
+image_grid_qa_output: A.1
+
+ToolChainOutput: A.1
+
+Processing: 043-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/9jjTGpWmc5U.mp4
+Video duration: 113.03 seconds
+Question: Which type of disaster is portrayed in the video? Choose your answer from below options: A.Man-made disaster, B.Astronomical disaster, C.Meteorological disaster, D.Geological disaster.
+
+Visible Frames: add 16 frames to visible frames: [0, 181, 361, 542, 722, 903, 1084, 1264, 1445, 1625, 1806, 1987, 2167, 2348, 2528, 2709]
+
+image_grid_qa_output: B.Astronomical disaster
+
+ToolChainOutput: B.Astronomical disaster
+
+Processing: 044-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/fo0Hmch2YS0.mp4
+Video duration: 80.31 seconds
+Question: How many people can be seen in the video? Choose your answer from below options: A.2, B.3, C.4, D.1.
+
+Visible Frames: add 16 frames to visible frames: [0, 160, 321, 481, 642, 802, 962, 1123, 1283, 1444, 1604, 1764, 1925, 2085, 2246, 2406]
+
+image_grid_qa_output: A.2
+
+ToolChainOutput: A.2
+
+Processing: 044-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/fo0Hmch2YS0.mp4
+Video duration: 80.31 seconds
+Question: What is the most likely cause of the disaster in the video? Choose your answer from below options: A.Warfare, B.Meteorite attack, C.Lunar impact, D.Alien attack.
+
+Visible Frames: add 16 frames to visible frames: [0, 160, 321, 481, 642, 802, 962, 1123, 1283, 1444, 1604, 1764, 1925, 2085, 2246, 2406]
+
+image_grid_qa_output: B.Meteorite attack
+
+ToolChainOutput: B.Meteorite attack
+
+Processing: 044-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/fo0Hmch2YS0.mp4
+Video duration: 80.31 seconds
+Question: What are the people in the video doing? Choose your answer from below options: A.Exploring the earth, B.Saving the earth, C.Enjoying a meteor shower, D.Escaping from a disaster.
+
+Visible Frames: add 16 frames to visible frames: [0, 160, 321, 481, 642, 802, 962, 1123, 1283, 1444, 1604, 1764, 1925, 2085, 2246, 2406]
+
+image_grid_qa_output: D.Escaping from a disaster.
+
+ToolChainOutput: D.Escaping from a disaster.
+
+Processing: 045-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/990ci2H9BBc.mp4
+Video duration: 75.01 seconds
+Question: What astronomical phenomenon is depicted in the video? Choose your answer from below options: A.Solar flare, B.Observed black hole, C.Total solar eclipse, D.Mirage.
+
+Visible Frames: add 16 frames to visible frames: [0, 150, 300, 449, 599, 749, 899, 1049, 1198, 1348, 1498, 1648, 1798, 1947, 2097, 2247]
+
+image_grid_qa_output: C.Total solar eclipse
+
+ToolChainOutput: C.Total solar eclipse
+
+Processing: 045-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/990ci2H9BBc.mp4
+Video duration: 75.01 seconds
+Question: Which of the following is not known to occur during a total solar eclipse, according to the video? Choose your answer from below options: A.Temperature drop, B.Appearance of snakes, C.Appearance of planets and stars, D.Appearance of rare shadow bands.
+
+Visible Frames: add 16 frames to visible frames: [0, 150, 300, 449, 599, 749, 899, 1049, 1198, 1348, 1498, 1648, 1798, 1947, 2097, 2247]
+
+image_grid_qa_output: B.Appearance of snakes
+
+ToolChainOutput: B.Appearance of snakes
+
+Processing: 045-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/990ci2H9BBc.mp4
+Video duration: 75.01 seconds
+Question: Where were the people in the video located while observing the total solar eclipse? Choose your answer from below options: A.Stadium, B.Nature park, C.Street, D.Rooftop.
+
+Visible Frames: add 16 frames to visible frames: [0, 150, 300, 449, 599, 749, 899, 1049, 1198, 1348, 1498, 1648, 1798, 1947, 2097, 2247]
+
+image_grid_qa_output: B.Nature park
+
+ToolChainOutput: B.Nature park
+
+Processing: 046-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/gD0MvkDGAMg.mp4
+Video duration: 97.56 seconds
+Question: What's the main point of this video? Choose your answer from below options: A.The role of supercomputers in the development of astronomy, B.Astronomy enrollment outreach, C.The role of atmospheric science, D.The role of astronomical disciplines.
+
+Visible Frames: add 16 frames to visible frames: [0, 163, 325, 488, 650, 813, 975, 1138, 1300, 1463, 1625, 1788, 1950, 2113, 2275, 2438]
+
+image_grid_qa_output: B.Astronomy enrollment outreach
+
+ToolChainOutput: B.Astronomy enrollment outreach
+
+Processing: 046-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/gD0MvkDGAMg.mp4
+Video duration: 97.56 seconds
+Question: What is the first celestial object shown in the video? Choose your answer from below options: A.Earth, B.Moon, C.Jupiter, D.Saturn.
+
+Visible Frames: add 16 frames to visible frames: [0, 163, 325, 488, 650, 813, 975, 1138, 1300, 1463, 1625, 1788, 1950, 2113, 2275, 2438]
+
+image_grid_qa_output: A.Earth
+
+ToolChainOutput: A.Earth
+
+Processing: 046-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/gD0MvkDGAMg.mp4
+Video duration: 97.56 seconds
+Question: How many times does the instructor in the video appear in different scenarios? Choose your answer from below options: A.3, B.4, C.5, D.2.
+
+Visible Frames: add 16 frames to visible frames: [0, 163, 325, 488, 650, 813, 975, 1138, 1300, 1463, 1625, 1788, 1950, 2113, 2275, 2438]
+
+image_grid_qa_output: B.4
+
+ToolChainOutput: B.4
+
+Processing: 047-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/WTQ7_e8bnfM.mp4
+Video duration: 42.40 seconds
+Question: Which of the following emotions might the individuals in the video be feeling? Choose your answer from below options: A.Fear from an impending cataclysmic event, B.Excitement about an airshow, C.Admiration of a natural celestial event, D.Appreciation of the natural landscape.
+
+Visible Frames: add 16 frames to visible frames: [0, 85, 169, 254, 339, 424, 508, 593, 678, 763, 847, 932, 1017, 1102, 1186, 1271]
+
+image_grid_qa_output: A.Fear from an impending cataclysmic event
+
+ToolChainOutput: A.Fear from an impending cataclysmic event
+
+Processing: 047-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/WTQ7_e8bnfM.mp4
+Video duration: 42.40 seconds
+Question: What is depicted in the video? Choose your answer from below options: A.A nuclear explosion on Earth viewed from space, B.The impact of a giant asteroid on Earth, C.A volcanic eruption on the Earth's surface, D.The sunrise as seen from space.
+
+Visible Frames: add 16 frames to visible frames: [0, 85, 169, 254, 339, 424, 508, 593, 678, 763, 847, 932, 1017, 1102, 1186, 1271]
+
+image_grid_qa_output: B.The impact of a giant asteroid on Earth.
+
+ToolChainOutput: B.The impact of a giant asteroid on Earth.
+
+Processing: 047-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/WTQ7_e8bnfM.mp4
+Video duration: 42.40 seconds
+Question: What might be the immediate consequence of such an event according to the video? Choose your answer from below options: A.The onset of a new ice age, B.A slight change in weather patterns, C.Global seismic and tidal disturbances, D.An increase in solar radiation entering the atmosphere.
+
+Visible Frames: add 16 frames to visible frames: [0, 85, 169, 254, 339, 424, 508, 593, 678, 763, 847, 932, 1017, 1102, 1186, 1271]
+
+image_grid_qa_output: C.Global seismic and tidal disturbances
+
+ToolChainOutput: C.Global seismic and tidal disturbances
+
+Processing: 048-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/M7WOXFvwbSY.mp4
+Video duration: 120.83 seconds
+Question: Which galaxies are depicted in the video? Choose your answer from below options: A.The Sombrero Galaxy and the Triangulum Galaxy, B.The Milky Way and the Whirlpool Galaxy, C.The Triangulum Galaxy and the Whirlpool Galaxy, D.The Andromeda Galaxy and the Milky Way.
+
+Visible Frames: add 16 frames to visible frames: [0, 242, 483, 725, 966, 1208, 1450, 1691, 1933, 2174, 2416, 2658, 2899, 3141, 3382, 3624]
+
+image_grid_qa_output: D.The Andromeda Galaxy and the Milky Way.
+
+ToolChainOutput: D.The Andromeda Galaxy and the Milky Way.
+
+Processing: 048-2
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/M7WOXFvwbSY.mp4
+Video duration: 120.83 seconds
+Question: What significant event is the number at the bottom of the video referring to? Choose your answer from below options: A.The time until the Andromeda and Milky Way galaxies collide, B.The number of stars in the Milky Way, C.The age of the universe, D.The time remaining before the Sun burns out.
+
+Visible Frames: add 16 frames to visible frames: [0, 242, 483, 725, 966, 1208, 1450, 1691, 1933, 2174, 2416, 2658, 2899, 3141, 3382, 3624]
+
+image_grid_qa_output: A.The time until the Andromeda and Milky Way galaxies collide
+
+ToolChainOutput: A.The time until the Andromeda and Milky Way galaxies collide
+
+Processing: 048-3
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/M7WOXFvwbSY.mp4
+Video duration: 120.83 seconds
+Question: Which of the following statements can be inferred about the triangulum galaxy (m33) based on the information presented in the video about the other two galaxies? Choose your answer from below options: A.It interacts gravitationally with the Andromeda Galaxy (M31), B.It may be a companion galaxy to the Andromeda Galaxy, influenced by its gravity, C.It is a satellite galaxy of the Andromeda Galaxy, D.It is involved in the collision between the Milky Way and Andromeda.
+
+Visible Frames: add 16 frames to visible frames: [0, 242, 483, 725, 966, 1208, 1450, 1691, 1933, 2174, 2416, 2658, 2899, 3141, 3382, 3624]
+
+image_grid_qa_output: B.It may be a companion galaxy to the Andromeda Galaxy, influenced by its gravity.
+
+ToolChainOutput: B.It may be a companion galaxy to the Andromeda Galaxy, influenced by its gravity.
+
+Processing: 049-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/RvnC--JjDBw.mp4
+Video duration: 67.97 seconds
+Question: Which activity is being performed by the astronaut in the video? Choose your answer from below options: A.Boarding a spacecraft, B.Conducting a spacewalk with a tether, C.Using a Manned Maneuvering Unit (MMU) to float free in space, D.Performing maintenance on the exterior of a space station.
+
+Visible Frames: add 16 frames to visible frames: [0, 136, 272, 408, 543, 679, 815, 951, 1087, 1223, 1359, 1495, 1630, 1766, 1902, 2038]

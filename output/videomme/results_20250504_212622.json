@@ -1,0 +1,32 @@
+[
+    {
+        "quid": "159-1",
+        "uid": "159",
+        "qid": "159-1",
+        "q_type": "Object Recognition",
+        "question": "Which of the following players serves from the backcourt?",
+        "optionA": "Forward",
+        "optionB": "Goalkeeper",
+        "optionC": "Midfielder",
+        "optionD": "Defender",
+        "options": [
+            "Forward",
+            "Goalkeeper",
+            "Midfielder",
+            "Defender"
+        ],
+        "question_w_options": "Which of the following players serves from the backcourt? Choose your answer from below options: A.Forward, B.Goalkeeper, C.Midfielder, D.Defender.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/ByUONqA1IJY.mp4",
+        "answers": [
+            "Based on the image sequence, the player serving from the backcourt is the Goalkeeper."
+        ],
+        "video_info": {
+            "total_frames": 2045,
+            "fps": 25.0,
+            "duration": 81.8
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.19559902200489
+    }
+]

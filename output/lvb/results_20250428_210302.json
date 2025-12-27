@@ -1,0 +1,34 @@
+[
+    {
+        "quid": "CGngv8vTQOs",
+        "uid": "CGngv8vTQOs",
+        "qid": "CGngv8vTQOs",
+        "q_type": "S2E",
+        "question": "What is it doing?",
+        "optionA": "Spiraling upwards",
+        "optionB": "Flying to the right",
+        "optionC": "Flying straight up",
+        "optionD": "Flying to the left",
+        "options": [
+            "Spiraling upwards",
+            "Flying to the right",
+            "Flying straight up",
+            "Flying to the left",
+            "Falling vertically down"
+        ],
+        "question_w_options": "What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/CGngv8vTQOs.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/CGngv8vTQOs_en.json",
+        "answers": [
+            "Based on the image sequence and the subtitles, the video is about a rocket launch in a game, likely \"Kerbal Space Program.\" The frames show the rocket being built, launched, and flying through space. The subtitles describe the rocket's trajectory and adjustments being made during the flight.\n\nThe correct answer is: **B. Flying to the right.**\n\nThe images and subtitles indicate that the rocket is being angled and adjusted to fly in a specific direction, which is to the right in the context of the game."
+        ],
+        "video_info": {
+            "total_frames": 23062,
+            "fps": 25.0,
+            "duration": 922.48
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.01734454947532738
+    }
+]

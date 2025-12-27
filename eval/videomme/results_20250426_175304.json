@@ -1,0 +1,3802 @@
+[
+    {
+        "quid": "301-1",
+        "uid": "301",
+        "qid": "301-1",
+        "q_type": "Counting Problem",
+        "question": "According to the video, how many man-made ditches are found recently?",
+        "optionA": "4",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "1",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "question_w_options": "According to the video, how many man-made ditches are found recently? Choose your answer from below options: A.4, B.2, C.3, D.1.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/dphq5X-rMew.mp4",
+        "answers": [
+            "I can't determine the number of man-made ditches from the images alone. You might want to check the video or accompanying text for that specific information."
+        ],
+        "video_info": {
+            "total_frames": 9938,
+            "fps": 23.976023976023978,
+            "duration": 414.49741666666665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.021713042441559246,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "301-2",
+        "uid": "301",
+        "qid": "301-2",
+        "q_type": "Object Reasoning",
+        "question": "Why cusco and tenochtitlan can be easily found while amazonian settlements can not?",
+        "optionA": "Because Amazonian settlements were built with wood and earth ",
+        "optionB": "Because Amazonian settlements were too small",
+        "optionC": "Because Amazonian settlements were in the center of Amazon forest",
+        "optionD": "Because local people all died from diseases",
+        "options": [
+            "Because Amazonian settlements were built with wood and earth ",
+            "Because Amazonian settlements were too small",
+            "Because Amazonian settlements were in the center of Amazon forest",
+            "Because local people all died from diseases"
+        ],
+        "question_w_options": "Why cusco and tenochtitlan can be easily found while amazonian settlements can not? Choose your answer from below options: A.Because Amazonian settlements were built with wood and earth , B.Because Amazonian settlements were too small, C.Because Amazonian settlements were in the center of Amazon forest, D.Because local people all died from diseases.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/dphq5X-rMew.mp4",
+        "answers": [
+            "The most likely answer is A. Because Amazonian settlements were built with wood and earth. \n\nThese materials decompose over time, making it difficult to find remnants of such settlements compared to those built with stone, like Cusco and Tenochtitlan."
+        ],
+        "video_info": {
+            "total_frames": 9938,
+            "fps": 23.976023976023978,
+            "duration": 414.49741666666665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.021713042441559246,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "301-3",
+        "uid": "301",
+        "qid": "301-3",
+        "q_type": "Object Recognition",
+        "question": "Who finally find the lost city?",
+        "optionA": "Terra preta",
+        "optionB": "Fawcett",
+        "optionC": "European expeditions",
+        "optionD": "Dr.Michael Heckenberger",
+        "options": [
+            "Terra preta",
+            "Fawcett",
+            "European expeditions",
+            "Dr.Michael Heckenberger"
+        ],
+        "question_w_options": "Who finally find the lost city? Choose your answer from below options: A.Terra preta, B.Fawcett, C.European expeditions, D.Dr.Michael Heckenberger.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/dphq5X-rMew.mp4",
+        "answers": [
+            "I can't determine who found the lost city based on the images. You might want to consider the context or narrative of the video for clues."
+        ],
+        "video_info": {
+            "total_frames": 9938,
+            "fps": 23.976023976023978,
+            "duration": 414.49741666666665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.021713042441559246,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "302-1",
+        "uid": "302",
+        "qid": "302-1",
+        "q_type": "Object Recognition",
+        "question": "Why does this video mention victor garber?",
+        "optionA": "Because he doesn't believe that the Titanic will sink",
+        "optionB": "Because he is the architect of the Titanic",
+        "optionC": "Because he played Tomas Andrew in the movie",
+        "optionD": "Because he konws the tragic end of the Titanic",
+        "options": [
+            "Because he doesn't believe that the Titanic will sink",
+            "Because he is the architect of the Titanic",
+            "Because he played Tomas Andrew in the movie",
+            "Because he konws the tragic end of the Titanic"
+        ],
+        "question_w_options": "Why does this video mention victor garber? Choose your answer from below options: A.Because he doesn't believe that the Titanic will sink, B.Because he is the architect of the Titanic, C.Because he played Tomas Andrew in the movie, D.Because he konws the tragic end of the Titanic.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/K64wRD8eaus.mp4",
+        "answers": [
+            "The video likely mentions Victor Garber because he played Thomas Andrews in the movie. The correct answer is C."
+        ],
+        "video_info": {
+            "total_frames": 12127,
+            "fps": 23.976023976023978,
+            "duration": 505.7969583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.017793701309822364,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "302-2",
+        "uid": "302",
+        "qid": "302-2",
+        "q_type": "Object Reasoning",
+        "question": "Which of the following statements is not correct?",
+        "optionA": "The Titanic finally sank because 5 adjacent compartments were breached",
+        "optionB": "Despite the lack of lifeboats, the Titanic met all the requirement",
+        "optionC": "People on the Titanic were not rescued in time because its operator was sleeping",
+        "optionD": "The Titanic was equipped with 20 lifeboats",
+        "options": [
+            "The Titanic finally sank because 5 adjacent compartments were breached",
+            "Despite the lack of lifeboats, the Titanic met all the requirement",
+            "People on the Titanic were not rescued in time because its operator was sleeping",
+            "The Titanic was equipped with 20 lifeboats"
+        ],
+        "question_w_options": "Which of the following statements is not correct? Choose your answer from below options: A.The Titanic finally sank because 5 adjacent compartments were breached, B.Despite the lack of lifeboats, the Titanic met all the requirement, C.People on the Titanic were not rescued in time because its operator was sleeping, D.The Titanic was equipped with 20 lifeboats.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/K64wRD8eaus.mp4",
+        "answers": [
+            "Based on the images and annotations provided:\n\nA. The Titanic finally sank because 5 adjacent compartments were breached - This is correct. The Titanic sank because more than four of its watertight compartments were breached.\n\nB. Despite the lack of lifeboats, the Titanic met all the requirements - This is correct. At the time, the Titanic met the legal requirements for lifeboats, even though there were not enough for everyone on board.\n\nC. People on the Titanic were not rescued in time because its operator was sleeping - This is correct. The nearby ship Californian did not respond in time because its radio operator was off duty.\n\nD. The Titanic was equipped with 20 lifeboats - This is correct. The Titanic had 20 lifeboats.\n\nAll statements are correct based on historical accounts. However, if the question is asking for the one that might be misleading or not entirely accurate in context, it could be B, as it implies sufficiency despite the tragic outcome."
+        ],
+        "video_info": {
+            "total_frames": 12127,
+            "fps": 23.976023976023978,
+            "duration": 505.7969583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.017793701309822364,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "302-3",
+        "uid": "302",
+        "qid": "302-3",
+        "q_type": "Counting Problem",
+        "question": "How many ships are shown in the map while the sinking ship sending out message?",
+        "optionA": "3 ",
+        "optionB": "8",
+        "optionC": "11",
+        "optionD": "9",
+        "options": [
+            "3 ",
+            "8",
+            "11",
+            "9"
+        ],
+        "question_w_options": "How many ships are shown in the map while the sinking ship sending out message? Choose your answer from below options: A.3 , B.8, C.11, D.9.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/K64wRD8eaus.mp4",
+        "answers": [
+            "I can't determine the number of ships from the images provided. However, based on the context of the Titanic, the correct answer is likely B. 8."
+        ],
+        "video_info": {
+            "total_frames": 12127,
+            "fps": 23.976023976023978,
+            "duration": 505.7969583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.017793701309822364,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "303-1",
+        "uid": "303",
+        "qid": "303-1",
+        "q_type": "OCR Problems",
+        "question": "When the video talks about sea level rise, what is the time span?",
+        "optionA": "1300 AD - 2016 AD",
+        "optionB": "1200 BC - 2019 AD",
+        "optionC": "1300 BC - 2016 AD",
+        "optionD": "1200 AD - 2019 AD",
+        "options": [
+            "1300 AD - 2016 AD",
+            "1200 BC - 2019 AD",
+            "1300 BC - 2016 AD",
+            "1200 AD - 2019 AD"
+        ],
+        "question_w_options": "When the video talks about sea level rise, what is the time span? Choose your answer from below options: A.1300 AD - 2016 AD, B.1200 BC - 2019 AD, C.1300 BC - 2016 AD, D.1200 AD - 2019 AD.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/kSBB5PsRV-k.mp4",
+        "answers": [
+            "I can't determine the time span for sea level rise from the images alone. You might want to check the video or accompanying text for specific details on the time span mentioned."
+        ],
+        "video_info": {
+            "total_frames": 6842,
+            "fps": 23.97602444278949,
+            "duration": 285.36841111111113
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03153817889288299,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "303-2",
+        "uid": "303",
+        "qid": "303-2",
+        "q_type": "Temporal Reasoning",
+        "question": "What is the accurate sequence for the video to present its content?\n(a) sunken cities.\n(b) sunken ships.\n(c) sunken things used to learn about ancient people.?",
+        "optionA": "(c)(b)(a)",
+        "optionB": "(a)(b)(c)",
+        "optionC": "(a)(c)(b)",
+        "optionD": "(b)(a)(c)",
+        "options": [
+            "(c)(b)(a)",
+            "(a)(b)(c)",
+            "(a)(c)(b)",
+            "(b)(a)(c)"
+        ],
+        "question_w_options": "What is the accurate sequence for the video to present its content?\n(a) sunken cities.\n(b) sunken ships.\n(c) sunken things used to learn about ancient people.? Choose your answer from below options: A.(c)(b)(a), B.(a)(b)(c), C.(a)(c)(b), D.(b)(a)(c).",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/kSBB5PsRV-k.mp4",
+        "answers": [
+            "To determine the accurate sequence for the video content, let's analyze the frames:\n\n1. Frame 1: Underwater scene.\n2. Frame 2: A treasure chest underwater.\n3. Frame 3: A map showing locations.\n4. Frame 4: Underwater ruins.\n5. Frame 5: A Viking ship.\n6. Frame 6: A statue or bust.\n7. Frame 7: Various underwater artifacts.\n8. Frame 8: A sunken structure.\n9. Frame 9: A sunken city.\n\nBased on these observations, the sequence seems to be:\n\n- Sunken cities (Frame 9, Frame 4, Frame 8)\n- Sunken ships (Frame 5)\n- Sunken things used to learn about ancient people (Frame 2, Frame 6, Frame 7)\n\nThus, the correct sequence is: A.(c)(b)(a)."
+        ],
+        "video_info": {
+            "total_frames": 6842,
+            "fps": 23.97602444278949,
+            "duration": 285.36841111111113
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03153817889288299,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "303-3",
+        "uid": "303",
+        "qid": "303-3",
+        "q_type": "Information Synopsis",
+        "question": "What is the primary focus of this video for the audience?",
+        "optionA": "What is there 200 meters below the sea",
+        "optionB": "What have humans discovered from deep-sea archaeology",
+        "optionC": "What is the significance of deep-sea archaeology to the development of modern human society",
+        "optionD": "How much of human history is on the bottom of the ocean",
+        "options": [
+            "What is there 200 meters below the sea",
+            "What have humans discovered from deep-sea archaeology",
+            "What is the significance of deep-sea archaeology to the development of modern human society",
+            "How much of human history is on the bottom of the ocean"
+        ],
+        "question_w_options": "What is the primary focus of this video for the audience? Choose your answer from below options: A.What is there 200 meters below the sea, B.What have humans discovered from deep-sea archaeology, C.What is the significance of deep-sea archaeology to the development of modern human society, D.How much of human history is on the bottom of the ocean.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/kSBB5PsRV-k.mp4",
+        "answers": [
+            "Based on the images, the primary focus of the video seems to be B. What have humans discovered from deep-sea archaeology. The frames show underwater scenes with artifacts, a map, and historical elements, suggesting a focus on discoveries made through deep-sea archaeology."
+        ],
+        "video_info": {
+            "total_frames": 6842,
+            "fps": 23.97602444278949,
+            "duration": 285.36841111111113
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03153817889288299,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "304-1",
+        "uid": "304",
+        "qid": "304-1",
+        "q_type": "Action Reasoning",
+        "question": "Why did the main character in the video put his hand in the coat?",
+        "optionA": "Because his hand was deformed",
+        "optionB": "For public image",
+        "optionC": "Because such action can released stomach pain",
+        "optionD": "For warmth",
+        "options": [
+            "Because his hand was deformed",
+            "For public image",
+            "Because such action can released stomach pain",
+            "For warmth"
+        ],
+        "question_w_options": "Why did the main character in the video put his hand in the coat? Choose your answer from below options: A.Because his hand was deformed, B.For public image, C.Because such action can released stomach pain, D.For warmth.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/QTA8j5wSTx4.mp4",
+        "answers": [
+            "Based on the images, particularly the historical paintings and the context of the hand-in-coat pose, the main character likely put his hand in the coat for public image. This pose was commonly used in portraits to convey a sense of leadership and composure. Therefore, the answer is B. For public image."
+        ],
+        "video_info": {
+            "total_frames": 12020,
+            "fps": 23.976023976023978,
+            "duration": 501.33416666666665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.017952097818986337,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "304-2",
+        "uid": "304",
+        "qid": "304-2",
+        "q_type": "Object Reasoning",
+        "question": "Who started the custom of restraining hand activities in pulic?",
+        "optionA": "Demosthenes",
+        "optionB": "Aeschines",
+        "optionC": "Napoleon",
+        "optionD": "Pizarro",
+        "options": [
+            "Demosthenes",
+            "Aeschines",
+            "Napoleon",
+            "Pizarro"
+        ],
+        "question_w_options": "Who started the custom of restraining hand activities in pulic? Choose your answer from below options: A.Demosthenes, B.Aeschines, C.Napoleon, D.Pizarro.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/QTA8j5wSTx4.mp4",
+        "answers": [
+            "I can't identify people in images, but based on historical context, the custom of restraining hand activities in public, often associated with the \"hand-in-waistcoat\" pose, is linked to Aeschines. He was an ancient Greek orator who reportedly used this gesture to keep his hand still while speaking."
+        ],
+        "video_info": {
+            "total_frames": 12020,
+            "fps": 23.976023976023978,
+            "duration": 501.33416666666665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.017952097818986337,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "304-3",
+        "uid": "304",
+        "qid": "304-3",
+        "q_type": "Spatial Perception",
+        "question": "Which of the following elements isn't mentioned in the painting \"the emperor napoleon in his study at the tuileries\"?",
+        "optionA": "A lamp on the desk",
+        "optionB": "A map on the floor",
+        "optionC": "A clock on the wall",
+        "optionD": "Napoleon Bonaparte with his hand tucked inside his coat",
+        "options": [
+            "A lamp on the desk",
+            "A map on the floor",
+            "A clock on the wall",
+            "Napoleon Bonaparte with his hand tucked inside his coat"
+        ],
+        "question_w_options": "Which of the following elements isn't mentioned in the painting \"the emperor napoleon in his study at the tuileries\"? Choose your answer from below options: A.A lamp on the desk, B.A map on the floor, C.A clock on the wall, D.Napoleon Bonaparte with his hand tucked inside his coat.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/QTA8j5wSTx4.mp4",
+        "answers": [
+            "The element not mentioned in the painting \"The Emperor Napoleon in His Study at the Tuileries\" is:\n\nC. A clock on the wall."
+        ],
+        "video_info": {
+            "total_frames": 12020,
+            "fps": 23.976023976023978,
+            "duration": 501.33416666666665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.017952097818986337,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "305-1",
+        "uid": "305",
+        "qid": "305-1",
+        "q_type": "Object Recognition",
+        "question": "Who embraces the parthenon temple in the video?",
+        "optionA": "Pheidias",
+        "optionB": "Athena",
+        "optionC": "The glory of the Athenians",
+        "optionD": "Pericles",
+        "options": [
+            "Pheidias",
+            "Athena",
+            "The glory of the Athenians",
+            "Pericles"
+        ],
+        "question_w_options": "Who embraces the parthenon temple in the video? Choose your answer from below options: A.Pheidias, B.Athena, C.The glory of the Athenians, D.Pericles.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/tuZcS2Flabw.mp4",
+        "answers": [
+            "Based on the images, the answer is likely B. Athena. The sequence seems to depict elements related to the Parthenon and its association with Athena, who is often symbolically linked to the temple."
+        ],
+        "video_info": {
+            "total_frames": 7991,
+            "fps": 23.976023976023978,
+            "duration": 333.29129166666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.0270034058045571,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "305-2",
+        "uid": "305",
+        "qid": "305-2",
+        "q_type": "Attribute Perception",
+        "question": "Which of the following ideas about the temple's design is not innovative?",
+        "optionA": "Put human's and gods's sculptures side by side",
+        "optionB": "Combine Doric columns with Ionic elements",
+        "optionC": "Integrating traditional elements with modern ones in a harmonious manner.",
+        "optionD": "Incorporate entasis in each colum",
+        "options": [
+            "Put human's and gods's sculptures side by side",
+            "Combine Doric columns with Ionic elements",
+            "Integrating traditional elements with modern ones in a harmonious manner.",
+            "Incorporate entasis in each colum"
+        ],
+        "question_w_options": "Which of the following ideas about the temple's design is not innovative? Choose your answer from below options: A.Put human's and gods's sculptures side by side, B.Combine Doric columns with Ionic elements, C.Integrating traditional elements with modern ones in a harmonious manner., D.Incorporate entasis in each colum.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/tuZcS2Flabw.mp4",
+        "answers": [
+            "The idea that is not innovative is D. Incorporate entasis in each column. \n\nEntasis is a traditional architectural technique used in classical columns, particularly in Greek architecture, to create an optical illusion of straightness."
+        ],
+        "video_info": {
+            "total_frames": 7991,
+            "fps": 23.976023976023978,
+            "duration": 333.29129166666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.0270034058045571,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "305-3",
+        "uid": "305",
+        "qid": "305-3",
+        "q_type": "Temporal Reasoning",
+        "question": "Which of the following events are in correct order?",
+        "optionA": "The Parthenon Temple was completed, Pheidias left thanks to Athena's bless, Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence",
+        "optionB": "Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, the Parthenon Temple was completed, Pheidias left thanks to Athena's bless",
+        "optionC": "The Parthenon Temple was completed, Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, Pheidias left thanks to Athena's bless",
+        "optionD": "The Parthenon Temple was completed, Pheidias left thanks to Athena's bless, Pheidias accounted spending to prove his innocence, Pheidias was accused of embezzlement",
+        "options": [
+            "The Parthenon Temple was completed, Pheidias left thanks to Athena's bless, Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence",
+            "Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, the Parthenon Temple was completed, Pheidias left thanks to Athena's bless",
+            "The Parthenon Temple was completed, Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, Pheidias left thanks to Athena's bless",
+            "The Parthenon Temple was completed, Pheidias left thanks to Athena's bless, Pheidias accounted spending to prove his innocence, Pheidias was accused of embezzlement"
+        ],
+        "question_w_options": "Which of the following events are in correct order? Choose your answer from below options: A.The Parthenon Temple was completed, Pheidias left thanks to Athena's bless, Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, B.Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, the Parthenon Temple was completed, Pheidias left thanks to Athena's bless, C.The Parthenon Temple was completed, Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, Pheidias left thanks to Athena's bless, D.The Parthenon Temple was completed, Pheidias left thanks to Athena's bless, Pheidias accounted spending to prove his innocence, Pheidias was accused of embezzlement.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/tuZcS2Flabw.mp4",
+        "answers": [
+            "Based on the sequence of images, the correct order of events is:\n\nC. The Parthenon Temple was completed, Pheidias was accused of embezzlement, Pheidias accounted spending to prove his innocence, Pheidias left thanks to Athena's bless."
+        ],
+        "video_info": {
+            "total_frames": 7991,
+            "fps": 23.976023976023978,
+            "duration": 333.29129166666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.0270034058045571,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "306-1",
+        "uid": "306",
+        "qid": "306-1",
+        "q_type": "Counting Problem",
+        "question": "How many princesses flew away when the cowherd approached?",
+        "optionA": "Eight",
+        "optionB": "Seven",
+        "optionC": "One",
+        "optionD": "Six",
+        "options": [
+            "Eight",
+            "Seven",
+            "One",
+            "Six"
+        ],
+        "question_w_options": "How many princesses flew away when the cowherd approached? Choose your answer from below options: A.Eight, B.Seven, C.One, D.Six.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/s_TGkDcjBqI.mp4",
+        "answers": [
+            "Based on the images, it appears that seven princesses flew away when the cowherd approached. The sequence shows multiple figures in flight in image 7. Therefore, the answer is B. Seven."
+        ],
+        "video_info": {
+            "total_frames": 7415,
+            "fps": 23.976023976023978,
+            "duration": 309.26729166666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.029101040564290734,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "306-2",
+        "uid": "306",
+        "qid": "306-2",
+        "q_type": "Action Recognition",
+        "question": "What was weaver doing when the cowherd saw her at the first time?",
+        "optionA": "Taking a shower with her sisters",
+        "optionB": "Combing her hair",
+        "optionC": "Exploring the countryside",
+        "optionD": "Teaching her skills to the villagers",
+        "options": [
+            "Taking a shower with her sisters",
+            "Combing her hair",
+            "Exploring the countryside",
+            "Teaching her skills to the villagers"
+        ],
+        "question_w_options": "What was weaver doing when the cowherd saw her at the first time? Choose your answer from below options: A.Taking a shower with her sisters, B.Combing her hair, C.Exploring the countryside, D.Teaching her skills to the villagers.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/s_TGkDcjBqI.mp4",
+        "answers": [
+            "Based on the images, the weaver was taking a shower with her sisters when the cowherd saw her for the first time. The scene in image 3 suggests this activity. So, the answer is A. Taking a shower with her sisters."
+        ],
+        "video_info": {
+            "total_frames": 7415,
+            "fps": 23.976023976023978,
+            "duration": 309.26729166666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.029101040564290734,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "306-3",
+        "uid": "306",
+        "qid": "306-3",
+        "q_type": "Action Reasoning",
+        "question": "How did the cowherd use the bull's magic?",
+        "optionA": "Asked the magpies to form a bridge",
+        "optionB": "Hurtled upwards and tried to wade through the stars",
+        "optionC": "Plucked a golden hairpin and tore through the sky",
+        "optionD": "Hastily placed each child in a basket",
+        "options": [
+            "Asked the magpies to form a bridge",
+            "Hurtled upwards and tried to wade through the stars",
+            "Plucked a golden hairpin and tore through the sky",
+            "Hastily placed each child in a basket"
+        ],
+        "question_w_options": "How did the cowherd use the bull's magic? Choose your answer from below options: A.Asked the magpies to form a bridge, B.Hurtled upwards and tried to wade through the stars, C.Plucked a golden hairpin and tore through the sky, D.Hastily placed each child in a basket.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/s_TGkDcjBqI.mp4",
+        "answers": [
+            "Based on the images, the cowherd used the bull's magic by \"C. Plucked a golden hairpin and tore through the sky.\""
+        ],
+        "video_info": {
+            "total_frames": 7415,
+            "fps": 23.976023976023978,
+            "duration": 309.26729166666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.029101040564290734,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "307-1",
+        "uid": "307",
+        "qid": "307-1",
+        "q_type": "Temporal Reasoning",
+        "question": "Which of the following events happened before 72 bce?",
+        "optionA": "The Senate retaliated with the full force of two legion",
+        "optionB": "Praetor Variniu was ambushed",
+        "optionC": "Crixus died in a battle",
+        "optionD": "Marcus Licinius Crassus had assumed control of the war",
+        "options": [
+            "The Senate retaliated with the full force of two legion",
+            "Praetor Variniu was ambushed",
+            "Crixus died in a battle",
+            "Marcus Licinius Crassus had assumed control of the war"
+        ],
+        "question_w_options": "Which of the following events happened before 72 bce? Choose your answer from below options: A.The Senate retaliated with the full force of two legion, B.Praetor Variniu was ambushed, C.Crixus died in a battle, D.Marcus Licinius Crassus had assumed control of the war.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/8l1NyR6UvxU.mp4",
+        "answers": [
+            "Based on the sequence of events depicted in the images, the event that happened before 72 BCE is:\n\nB. Praetor Varinius was ambushed.\n\nThis event is associated with the early stages of the Third Servile War, which began in 73 BCE."
+        ],
+        "video_info": {
+            "total_frames": 7552,
+            "fps": 23.976023976023978,
+            "duration": 314.98133333333334
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.028573121793460776,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "307-2",
+        "uid": "307",
+        "qid": "307-2",
+        "q_type": "Attribute Perception",
+        "question": "Which of the following features can not describe spartacus?",
+        "optionA": "Thick beard",
+        "optionB": "Curly hair",
+        "optionC": "Strong muscle",
+        "optionD": "Having a bold mind",
+        "options": [
+            "Thick beard",
+            "Curly hair",
+            "Strong muscle",
+            "Having a bold mind"
+        ],
+        "question_w_options": "Which of the following features can not describe spartacus? Choose your answer from below options: A.Thick beard, B.Curly hair, C.Strong muscle, D.Having a bold mind.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/8l1NyR6UvxU.mp4",
+        "answers": [
+            "Based on the image sequence, it is difficult to determine specific physical features such as a thick beard or curly hair. However, the video seems to depict scenes of strength and leadership, which could imply strong muscles and a bold mind. Therefore, the feature that cannot be described from the images is likely:\n\nA. Thick beard"
+        ],
+        "video_info": {
+            "total_frames": 7552,
+            "fps": 23.976023976023978,
+            "duration": 314.98133333333334
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.028573121793460776,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "307-3",
+        "uid": "307",
+        "qid": "307-3",
+        "q_type": "Action Recognition",
+        "question": "What happened when the main character owned an army of about 120,000 soldiers?",
+        "optionA": "The army captured Rome",
+        "optionB": "The army marched beyond Rome's border",
+        "optionC": "The army climbed the Alp",
+        "optionD": "The army turned south",
+        "options": [
+            "The army captured Rome",
+            "The army marched beyond Rome's border",
+            "The army climbed the Alp",
+            "The army turned south"
+        ],
+        "question_w_options": "What happened when the main character owned an army of about 120,000 soldiers? Choose your answer from below options: A.The army captured Rome, B.The army marched beyond Rome's border, C.The army climbed the Alp, D.The army turned south.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/8l1NyR6UvxU.mp4",
+        "answers": [
+            "Based on the sequence of images, the answer is C. The army climbed the Alp."
+        ],
+        "video_info": {
+            "total_frames": 7552,
+            "fps": 23.976023976023978,
+            "duration": 314.98133333333334
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.028573121793460776,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "308-1",
+        "uid": "308",
+        "qid": "308-1",
+        "q_type": "Object Reasoning",
+        "question": "Who is the main character in the video?",
+        "optionA": "Mark Antony",
+        "optionB": "Caesar",
+        "optionC": "Brutus",
+        "optionD": "Gaius Cassius Longinus",
+        "options": [
+            "Mark Antony",
+            "Caesar",
+            "Brutus",
+            "Gaius Cassius Longinus"
+        ],
+        "question_w_options": "Who is the main character in the video? Choose your answer from below options: A.Mark Antony, B.Caesar, C.Brutus, D.Gaius Cassius Longinus.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/wgPymD-NBQU.mp4",
+        "answers": [
+            "I can't determine the main character from the images."
+        ],
+        "video_info": {
+            "total_frames": 8575,
+            "fps": 23.976023976023978,
+            "duration": 357.6489583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.0251643400331447,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "308-2",
+        "uid": "308",
+        "qid": "308-2",
+        "q_type": "Counting Problem",
+        "question": "How many people attended in the assasination of caesar according to the video?",
+        "optionA": "3",
+        "optionB": "Around 20 to 30",
+        "optionC": "About 60",
+        "optionD": "1",
+        "options": [
+            "3",
+            "Around 20 to 30",
+            "About 60",
+            "1"
+        ],
+        "question_w_options": "How many people attended in the assasination of caesar according to the video? Choose your answer from below options: A.3, B.Around 20 to 30, C.About 60, D.1.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/wgPymD-NBQU.mp4",
+        "answers": [
+            "I can't determine the exact number of people from the images alone. However, based on historical accounts, the assassination of Julius Caesar involved about 60 conspirators. So, the most likely answer is C. About 60."
+        ],
+        "video_info": {
+            "total_frames": 8575,
+            "fps": 23.976023976023978,
+            "duration": 357.6489583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.0251643400331447,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "308-3",
+        "uid": "308",
+        "qid": "308-3",
+        "q_type": "Attribute Perception",
+        "question": "Which of the following statements is true?",
+        "optionA": "Dante thought Brutus was a selfless fighter against dictators",
+        "optionB": "Caesar was stingy with his followers",
+        "optionC": "Brutus was Caesar's son",
+        "optionD": "Caesar owned the crowd's support from beginning to end",
+        "options": [
+            "Dante thought Brutus was a selfless fighter against dictators",
+            "Caesar was stingy with his followers",
+            "Brutus was Caesar's son",
+            "Caesar owned the crowd's support from beginning to end"
+        ],
+        "question_w_options": "Which of the following statements is true? Choose your answer from below options: A.Dante thought Brutus was a selfless fighter against dictators, B.Caesar was stingy with his followers, C.Brutus was Caesar's son, D.Caesar owned the crowd's support from beginning to end.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/wgPymD-NBQU.mp4",
+        "answers": [
+            "Based on the images provided, the sequence seems to depict scenes related to Julius Caesar and Brutus, likely referencing the Ides of March and the assassination of Caesar. \n\nThe images show:\n\n- A group of people in Roman attire, possibly indicating a political or public setting.\n- A date that suggests a historical context (15 March 44 BC, the Ides of March).\n- Characters that appear to be in conflict or tension.\n\nGiven this context, the most relevant statement is likely:\n\n**D. Caesar owned the crowd's support from beginning to end.**\n\nThis aligns with historical accounts where Caesar was popular among the Roman populace, although he faced opposition from the Senate and certain political figures, including Brutus."
+        ],
+        "video_info": {
+            "total_frames": 8575,
+            "fps": 23.976023976023978,
+            "duration": 357.6489583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.0251643400331447,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "309-1",
+        "uid": "309",
+        "qid": "309-1",
+        "q_type": "Spatial Reasoning",
+        "question": "How does the video organize the story of che guevara?",
+        "optionA": "By holding a trial trying to evaluating his merits and demerits",
+        "optionB": "By telling his life in flashback",
+        "optionC": "By asking the Judge to tell Che Guevara's story",
+        "optionD": "By debating on whether Che Guevara should be judged by his ideals or outcomes",
+        "options": [
+            "By holding a trial trying to evaluating his merits and demerits",
+            "By telling his life in flashback",
+            "By asking the Judge to tell Che Guevara's story",
+            "By debating on whether Che Guevara should be judged by his ideals or outcomes"
+        ],
+        "question_w_options": "How does the video organize the story of che guevara? Choose your answer from below options: A.By holding a trial trying to evaluating his merits and demerits, B.By telling his life in flashback, C.By asking the Judge to tell Che Guevara's story, D.By debating on whether Che Guevara should be judged by his ideals or outcomes.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/tjrvKA4w9-Y.mp4",
+        "answers": [
+            "The video organizes the story of Che Guevara by **A. By holding a trial trying to evaluate his merits and demerits**. The images show a courtroom-like setting with individuals discussing and presenting information, which suggests a trial format."
+        ],
+        "video_info": {
+            "total_frames": 8808,
+            "fps": 23.976023976023978,
+            "duration": 367.36699999999996
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02449866210084194,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "309-2",
+        "uid": "309",
+        "qid": "309-2",
+        "q_type": "Attribute Perception",
+        "question": "Whose portrait is on the cup of the judge in the video?",
+        "optionA": "The lawyer's",
+        "optionB": "The judge's",
+        "optionC": "Che Guevara's",
+        "optionD": "Castro's",
+        "options": [
+            "The lawyer's",
+            "The judge's",
+            "Che Guevara's",
+            "Castro's"
+        ],
+        "question_w_options": "Whose portrait is on the cup of the judge in the video? Choose your answer from below options: A.The lawyer's, B.The judge's, C.Che Guevara's, D.Castro's.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/tjrvKA4w9-Y.mp4",
+        "answers": [
+            "The portrait on the cup of the judge in the video is of Che Guevara."
+        ],
+        "video_info": {
+            "total_frames": 8808,
+            "fps": 23.976023976023978,
+            "duration": 367.36699999999996
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02449866210084194,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "309-3",
+        "uid": "309",
+        "qid": "309-3",
+        "q_type": "Temporal Reasoning",
+        "question": "What happened when che guevara failed to rally rebels in the congo?",
+        "optionA": "He went to Soviet to rebel once again",
+        "optionB": "He was captured and executed by Congo's government",
+        "optionC": "His action led to the Cuban Missile Crisis",
+        "optionD": "He went to Bolivia to rebel once again",
+        "options": [
+            "He went to Soviet to rebel once again",
+            "He was captured and executed by Congo's government",
+            "His action led to the Cuban Missile Crisis",
+            "He went to Bolivia to rebel once again"
+        ],
+        "question_w_options": "What happened when che guevara failed to rally rebels in the congo? Choose your answer from below options: A.He went to Soviet to rebel once again, B.He was captured and executed by Congo's government, C.His action led to the Cuban Missile Crisis, D.He went to Bolivia to rebel once again.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/tjrvKA4w9-Y.mp4",
+        "answers": [
+            "D. He went to Bolivia to rebel once again."
+        ],
+        "video_info": {
+            "total_frames": 8808,
+            "fps": 23.976023976023978,
+            "duration": 367.36699999999996
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02449866210084194,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "310-1",
+        "uid": "310",
+        "qid": "310-1",
+        "q_type": "Counting Problem",
+        "question": "How many defending layers were there in the barrier in the east of the berlin wall accoridng to the video?",
+        "optionA": "4",
+        "optionB": "3",
+        "optionC": "2",
+        "optionD": "5",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "question_w_options": "How many defending layers were there in the barrier in the east of the berlin wall accoridng to the video? Choose your answer from below options: A.4, B.3, C.2, D.5.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/A9fQPzZ1-hg.mp4",
+        "answers": [
+            "I can't determine the number of defending layers from the images alone. You might want to refer to the video's content or narration for that specific detail."
+        ],
+        "video_info": {
+            "total_frames": 9251,
+            "fps": 23.976023976023978,
+            "duration": 385.8437916666666
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.023325501652169043,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "310-2",
+        "uid": "310",
+        "qid": "310-2",
+        "q_type": "Temporal Reasoning",
+        "question": "Which of the following events happened after the fall of the berlin wall, according to the video?",
+        "optionA": "East Germany tired to defused tension by making travel permits easier to obtain",
+        "optionB": "The disintegration of the soviet union",
+        "optionC": "Mass demonstrations for free travel appeared",
+        "optionD": "Many people fled to West Germany by various methods",
+        "options": [
+            "East Germany tired to defused tension by making travel permits easier to obtain",
+            "The disintegration of the soviet union",
+            "Mass demonstrations for free travel appeared",
+            "Many people fled to West Germany by various methods"
+        ],
+        "question_w_options": "Which of the following events happened after the fall of the berlin wall, according to the video? Choose your answer from below options: A.East Germany tired to defused tension by making travel permits easier to obtain, B.The disintegration of the soviet union, C.Mass demonstrations for free travel appeared, D.Many people fled to West Germany by various methods.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/A9fQPzZ1-hg.mp4",
+        "answers": [
+            "Based on the sequence of images, the event that happened after the fall of the Berlin Wall, according to the video, is B. The disintegration of the Soviet Union. This is suggested by the imagery in frame 8, which appears to depict a significant political change or event related to the Soviet Union."
+        ],
+        "video_info": {
+            "total_frames": 9251,
+            "fps": 23.976023976023978,
+            "duration": 385.8437916666666
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.023325501652169043,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "310-3",
+        "uid": "310",
+        "qid": "310-3",
+        "q_type": "Attribute Perception",
+        "question": "How many people from east germany had fled to west germany by 1961?",
+        "optionA": "About 5 million",
+        "optionB": "About 4 million",
+        "optionC": "About 3.5 million",
+        "optionD": "About 2 million",
+        "options": [
+            "About 5 million",
+            "About 4 million",
+            "About 3.5 million",
+            "About 2 million"
+        ],
+        "question_w_options": "How many people from east germany had fled to west germany by 1961? Choose your answer from below options: A.About 5 million, B.About 4 million, C.About 3.5 million, D.About 2 million.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/A9fQPzZ1-hg.mp4",
+        "answers": [
+            "The answer is C. About 3.5 million."
+        ],
+        "video_info": {
+            "total_frames": 9251,
+            "fps": 23.976023976023978,
+            "duration": 385.8437916666666
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.023325501652169043,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "311-1",
+        "uid": "311",
+        "qid": "311-1",
+        "q_type": "Attribute Perception",
+        "question": "What are the colors of the famous statue of augustus caesar that is supposed to?",
+        "optionA": "Totally white",
+        "optionB": "Mainly white and red",
+        "optionC": "Mainly white and green",
+        "optionD": "Mainly red and green",
+        "options": [
+            "Totally white",
+            "Mainly white and red",
+            "Mainly white and green",
+            "Mainly red and green"
+        ],
+        "question_w_options": "What are the colors of the famous statue of augustus caesar that is supposed to? Choose your answer from below options: A.Totally white, B.Mainly white and red, C.Mainly white and green, D.Mainly red and green.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/4jmMWohs1XM.mp4",
+        "answers": [
+            "Based on the images, particularly frame 8, the statue of Augustus Caesar is depicted with colors that are mainly white and red. Therefore, the answer is B. Mainly white and red."
+        ],
+        "video_info": {
+            "total_frames": 8203,
+            "fps": 23.976023976023978,
+            "duration": 342.1334583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.026305524294065075,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "311-2",
+        "uid": "311",
+        "qid": "311-2",
+        "q_type": "Object Reasoning",
+        "question": "Which of the following statements is not true?",
+        "optionA": "The colors on the Roman scultures faded in Renaissance",
+        "optionB": "\"Laoco\u00f6n and His Sons\" is originally full of color",
+        "optionC": "Artists in the Renaissance liked white marble because they wanted to imitated the Roman sculptures",
+        "optionD": "\"David\" is originally full of color",
+        "options": [
+            "The colors on the Roman scultures faded in Renaissance",
+            "\"Laoco\u00f6n and His Sons\" is originally full of color",
+            "Artists in the Renaissance liked white marble because they wanted to imitated the Roman sculptures",
+            "\"David\" is originally full of color"
+        ],
+        "question_w_options": "Which of the following statements is not true? Choose your answer from below options: A.The colors on the Roman scultures faded in Renaissance, B.\"Laoco\u00f6n and His Sons\" is originally full of color, C.Artists in the Renaissance liked white marble because they wanted to imitated the Roman sculptures, D.\"David\" is originally full of color.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/4jmMWohs1XM.mp4",
+        "answers": [
+            "Based on the images and annotations, the statement that is not true is:\n\nD. \"David\" is originally full of color.\n\nThe video seems to discuss how ancient sculptures were originally colorful, but \"David\" by Michelangelo, created during the Renaissance, was not originally painted."
+        ],
+        "video_info": {
+            "total_frames": 8203,
+            "fps": 23.976023976023978,
+            "duration": 342.1334583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.026305524294065075,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "311-3",
+        "uid": "311",
+        "qid": "311-3",
+        "q_type": "Attribute Perception",
+        "question": "Which of the following methods of revealing the original color of the ancient art work is not mentioned in the video?",
+        "optionA": "By imagining the color that fits in well with the art work",
+        "optionB": "Ultraviolet light",
+        "optionC": "Pigment analysis",
+        "optionD": "Sampling some visible colors",
+        "options": [
+            "By imagining the color that fits in well with the art work",
+            "Ultraviolet light",
+            "Pigment analysis",
+            "Sampling some visible colors"
+        ],
+        "question_w_options": "Which of the following methods of revealing the original color of the ancient art work is not mentioned in the video? Choose your answer from below options: A.By imagining the color that fits in well with the art work, B.Ultraviolet light, C.Pigment analysis, D.Sampling some visible colors.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/4jmMWohs1XM.mp4",
+        "answers": [
+            "The method of revealing the original color of the ancient artwork that is not mentioned in the video is A. By imagining the color that fits in well with the artwork."
+        ],
+        "video_info": {
+            "total_frames": 8203,
+            "fps": 23.976023976023978,
+            "duration": 342.1334583333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.026305524294065075,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "312-1",
+        "uid": "312",
+        "qid": "312-1",
+        "q_type": "Attribute Perception",
+        "question": "What does michael bierut take as an example to illustrate pictoral logos?",
+        "optionA": "Nike's logo",
+        "optionB": "Google's logo",
+        "optionC": "Coca cola'logo",
+        "optionD": "Apple's logo",
+        "options": [
+            "Nike's logo",
+            "Google's logo",
+            "Coca cola'logo",
+            "Apple's logo"
+        ],
+        "question_w_options": "What does michael bierut take as an example to illustrate pictoral logos? Choose your answer from below options: A.Nike's logo, B.Google's logo, C.Coca cola'logo, D.Apple's logo.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/RBTiTcHm_ac.mp4",
+        "answers": [
+            "Based on the image sequence, Michael Bierut uses Apple's logo to illustrate pictorial logos."
+        ],
+        "video_info": {
+            "total_frames": 6830,
+            "fps": 23.976023976023978,
+            "duration": 284.86791666666664
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03159358942667874,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "312-2",
+        "uid": "312",
+        "qid": "312-2",
+        "q_type": "Action Reasoning",
+        "question": "Why does michael bierut mention religious symbols?",
+        "optionA": "Because he thinks that logoss should take in religious elements",
+        "optionB": "Because he believes that religious symbols are logos too",
+        "optionC": "To illustrate that the logo's meaning is expressed by what people come to mind",
+        "optionD": "Because he believes in Christianity",
+        "options": [
+            "Because he thinks that logoss should take in religious elements",
+            "Because he believes that religious symbols are logos too",
+            "To illustrate that the logo's meaning is expressed by what people come to mind",
+            "Because he believes in Christianity"
+        ],
+        "question_w_options": "Why does michael bierut mention religious symbols? Choose your answer from below options: A.Because he thinks that logoss should take in religious elements, B.Because he believes that religious symbols are logos too, C.To illustrate that the logo's meaning is expressed by what people come to mind, D.Because he believes in Christianity.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/RBTiTcHm_ac.mp4",
+        "answers": [
+            "I can't identify people in images, but based on the context you've provided, the most likely answer is:\n\nC. To illustrate that the logo's meaning is expressed by what people come to mind. \n\nThis option aligns with the idea that logos, like religious symbols, derive their meaning from the associations and thoughts they evoke in people."
+        ],
+        "video_info": {
+            "total_frames": 6830,
+            "fps": 23.976023976023978,
+            "duration": 284.86791666666664
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03159358942667874,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "312-3",
+        "uid": "312",
+        "qid": "312-3",
+        "q_type": "Object Reasoning",
+        "question": "What did nike do when a graphic design student submit her work in the video?",
+        "optionA": "They sent her a ring with a Nike swoosh",
+        "optionB": "They associated the product with the idea of athletic",
+        "optionC": "The Nike founders didn't like it",
+        "optionD": "They abandoned her work",
+        "options": [
+            "They sent her a ring with a Nike swoosh",
+            "They associated the product with the idea of athletic",
+            "The Nike founders didn't like it",
+            "They abandoned her work"
+        ],
+        "question_w_options": "What did nike do when a graphic design student submit her work in the video? Choose your answer from below options: A.They sent her a ring with a Nike swoosh, B.They associated the product with the idea of athletic, C.The Nike founders didn't like it, D.They abandoned her work.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/RBTiTcHm_ac.mp4",
+        "answers": [
+            "I can't determine the specific actions of Nike from the image sequence provided. You might want to refer to the video or additional context for the answer."
+        ],
+        "video_info": {
+            "total_frames": 6830,
+            "fps": 23.976023976023978,
+            "duration": 284.86791666666664
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03159358942667874,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "313-1",
+        "uid": "313",
+        "qid": "313-1",
+        "q_type": "Attribute Perception",
+        "question": "What do the two people at the beginning of the video have in common?",
+        "optionA": "The are both piano-learner",
+        "optionB": "They both wear glasses",
+        "optionC": "They are both good at playing the violin",
+        "optionD": "They both wear black shirt",
+        "options": [
+            "The are both piano-learner",
+            "They both wear glasses",
+            "They are both good at playing the violin",
+            "They both wear black shirt"
+        ],
+        "question_w_options": "What do the two people at the beginning of the video have in common? Choose your answer from below options: A.The are both piano-learner, B.They both wear glasses, C.They are both good at playing the violin, D.They both wear black shirt.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/osRzbY_AdaM.mp4",
+        "answers": [
+            "The two people at the beginning of the video both wear glasses. So, the answer is B. They both wear glasses."
+        ],
+        "video_info": {
+            "total_frames": 7893,
+            "fps": 25.0,
+            "duration": 315.72
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.028506271379703532,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "313-2",
+        "uid": "313",
+        "qid": "313-2",
+        "q_type": "Action Reasoning",
+        "question": "What is the teacher's attitude toward the student when the student attempts to play middle c on the violin?",
+        "optionA": "Inspired",
+        "optionB": "Disappointed",
+        "optionC": "Appreciated",
+        "optionD": "Angry",
+        "options": [
+            "Inspired",
+            "Disappointed",
+            "Appreciated",
+            "Angry"
+        ],
+        "question_w_options": "What is the teacher's attitude toward the student when the student attempts to play middle c on the violin? Choose your answer from below options: A.Inspired, B.Disappointed, C.Appreciated, D.Angry.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/osRzbY_AdaM.mp4",
+        "answers": [
+            "I can't determine the teacher's attitude from the images alone."
+        ],
+        "video_info": {
+            "total_frames": 7893,
+            "fps": 25.0,
+            "duration": 315.72
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.028506271379703532,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "313-3",
+        "uid": "313",
+        "qid": "313-3",
+        "q_type": "Action Reasoning",
+        "question": "Which of the following statements about the violin-learner in the video is true?",
+        "optionA": "He keeps improving himself as the video goes on",
+        "optionB": "He has lost confidence in his playing skills",
+        "optionC": "He learned the violin because his neck wasn't that good",
+        "optionD": "He is very enthusiastic when exposed to new playing techniques",
+        "options": [
+            "He keeps improving himself as the video goes on",
+            "He has lost confidence in his playing skills",
+            "He learned the violin because his neck wasn't that good",
+            "He is very enthusiastic when exposed to new playing techniques"
+        ],
+        "question_w_options": "Which of the following statements about the violin-learner in the video is true? Choose your answer from below options: A.He keeps improving himself as the video goes on, B.He has lost confidence in his playing skills, C.He learned the violin because his neck wasn't that good, D.He is very enthusiastic when exposed to new playing techniques.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/osRzbY_AdaM.mp4",
+        "answers": [
+            "Based on the image sequence, the most likely true statement about the violin-learner is:\n\n**A. He keeps improving himself as the video goes on.**\n\nThe sequence shows the learner practicing and engaging with different techniques, suggesting a progression in skill."
+        ],
+        "video_info": {
+            "total_frames": 7893,
+            "fps": 25.0,
+            "duration": 315.72
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.028506271379703532,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "314-1",
+        "uid": "314",
+        "qid": "314-1",
+        "q_type": "Counting Problem",
+        "question": "How many listeners gave busking donations to the girl before she started playing?",
+        "optionA": "One",
+        "optionB": "Two",
+        "optionC": "None",
+        "optionD": "Three",
+        "options": [
+            "One",
+            "Two",
+            "None",
+            "Three"
+        ],
+        "question_w_options": "How many listeners gave busking donations to the girl before she started playing? Choose your answer from below options: A.One, B.Two, C.None, D.Three.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/1pHkv4KUiFY.mp4",
+        "answers": [
+            "Based on the images, it appears that no one gave donations before the girl started playing. The donation box looks empty in the initial frames. The answer is C. None."
+        ],
+        "video_info": {
+            "total_frames": 8007,
+            "fps": 30.0,
+            "duration": 266.9
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03372049456725366,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "314-2",
+        "uid": "314",
+        "qid": "314-2",
+        "q_type": "Object Recognition",
+        "question": "What instrument is the little girl playing in the video?",
+        "optionA": "Violin",
+        "optionB": "Piano",
+        "optionC": "Cello",
+        "optionD": "Guitar",
+        "options": [
+            "Violin",
+            "Piano",
+            "Cello",
+            "Guitar"
+        ],
+        "question_w_options": "What instrument is the little girl playing in the video? Choose your answer from below options: A.Violin, B.Piano, C.Cello, D.Guitar.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/1pHkv4KUiFY.mp4",
+        "answers": [
+            "The little girl is playing the violin. So the answer is A. Violin."
+        ],
+        "video_info": {
+            "total_frames": 8007,
+            "fps": 30.0,
+            "duration": 266.9
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03372049456725366,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "314-3",
+        "uid": "314",
+        "qid": "314-3",
+        "q_type": "Attribute Perception",
+        "question": "What color shoes does the little girl wear?",
+        "optionA": "Yellow",
+        "optionB": "Orange",
+        "optionC": "Pink",
+        "optionD": "Black",
+        "options": [
+            "Yellow",
+            "Orange",
+            "Pink",
+            "Black"
+        ],
+        "question_w_options": "What color shoes does the little girl wear? Choose your answer from below options: A.Yellow, B.Orange, C.Pink, D.Black.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/1pHkv4KUiFY.mp4",
+        "answers": [
+            "I can't determine the color of the shoes from the images provided."
+        ],
+        "video_info": {
+            "total_frames": 8007,
+            "fps": 30.0,
+            "duration": 266.9
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03372049456725366,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "315-1",
+        "uid": "315",
+        "qid": "315-1",
+        "q_type": "Attribute Perception",
+        "question": "What's the color of gabriel garc\u00eda m\u00e1rquez's car in the video?",
+        "optionA": "Green",
+        "optionB": "Black",
+        "optionC": "Orange",
+        "optionD": "Red",
+        "options": [
+            "Green",
+            "Black",
+            "Orange",
+            "Red"
+        ],
+        "question_w_options": "What's the color of gabriel garc\u00eda m\u00e1rquez's car in the video? Choose your answer from below options: A.Green, B.Black, C.Orange, D.Red.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/B2zhLYz4pYo.mp4",
+        "answers": [
+            "I can't determine the color of Gabriel Garc\u00eda M\u00e1rquez's car from the images provided."
+        ],
+        "video_info": {
+            "total_frames": 7920,
+            "fps": 23.976023976023978,
+            "duration": 330.33
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02724548179093634,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "315-2",
+        "uid": "315",
+        "qid": "315-2",
+        "q_type": "Object Reasoning",
+        "question": "Which of the following plots about the book was not mentioned in the video?",
+        "optionA": "Globe-trotting adventure",
+        "optionB": "Civil war",
+        "optionC": "Political intrigue",
+        "optionD": "The main character abruptly turned his car around and went home",
+        "options": [
+            "Globe-trotting adventure",
+            "Civil war",
+            "Political intrigue",
+            "The main character abruptly turned his car around and went home"
+        ],
+        "question_w_options": "Which of the following plots about the book was not mentioned in the video? Choose your answer from below options: A.Globe-trotting adventure, B.Civil war, C.Political intrigue, D.The main character abruptly turned his car around and went home.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/B2zhLYz4pYo.mp4",
+        "answers": [
+            "Based on the images provided, the plot point \"D. The main character abruptly turned his car around and went home\" does not seem to be mentioned in the video. The other options appear to be related to themes or elements depicted in the frames."
+        ],
+        "video_info": {
+            "total_frames": 7920,
+            "fps": 23.976023976023978,
+            "duration": 330.33
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02724548179093634,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "315-3",
+        "uid": "315",
+        "qid": "315-3",
+        "q_type": "Action Reasoning",
+        "question": "Which of the following statements about the author is not correct?",
+        "optionA": "He used to be a journalist",
+        "optionB": "Despite having seen the dark side of the world, he still believed a better world",
+        "optionC": "His writing style was influenced by his maternal grandparent",
+        "optionD": "He growed up in a colonial society",
+        "options": [
+            "He used to be a journalist",
+            "Despite having seen the dark side of the world, he still believed a better world",
+            "His writing style was influenced by his maternal grandparent",
+            "He growed up in a colonial society"
+        ],
+        "question_w_options": "Which of the following statements about the author is not correct? Choose your answer from below options: A.He used to be a journalist, B.Despite having seen the dark side of the world, he still believed a better world, C.His writing style was influenced by his maternal grandparent, D.He growed up in a colonial society.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/B2zhLYz4pYo.mp4",
+        "answers": [
+            "I can't determine specific details about the author from the images alone. However, based on the context of a TED-Ed video, the statement that might not be correct could be related to a common misconception or lesser-known fact about the author. If you have more context or details from the video, that might help in identifying the incorrect statement."
+        ],
+        "video_info": {
+            "total_frames": 7920,
+            "fps": 23.976023976023978,
+            "duration": 330.33
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02724548179093634,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "316-1",
+        "uid": "316",
+        "qid": "316-1",
+        "q_type": "Attribute Perception",
+        "question": "Which of the following features can describe hamlet in the video?",
+        "optionA": "Wearing brown coat",
+        "optionB": "Blonde hair",
+        "optionC": "Thick beard",
+        "optionD": "Long hair",
+        "options": [
+            "Wearing brown coat",
+            "Blonde hair",
+            "Thick beard",
+            "Long hair"
+        ],
+        "question_w_options": "Which of the following features can describe hamlet in the video? Choose your answer from below options: A.Wearing brown coat, B.Blonde hair, C.Thick beard, D.Long hair.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/IaTaaNinolU.mp4",
+        "answers": [
+            "Based on the images provided, Hamlet in the video can be described as having long hair (Option D)."
+        ],
+        "video_info": {
+            "total_frames": 14318,
+            "fps": 29.97002997002997,
+            "duration": 477.74393333333336
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01883854377219372,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "316-2",
+        "uid": "316",
+        "qid": "316-2",
+        "q_type": "Temporal Reasoning",
+        "question": "Which of the following events happened after polonius's death?",
+        "optionA": "The norwegian army intended to invade a small area in polan",
+        "optionB": "Hamlet's mother screamed out for help",
+        "optionC": "Hamlet rebuked Ophelia's advances",
+        "optionD": "Rosencrantz and Guildenstern escorted hamlet on a diplomatic mission",
+        "options": [
+            "The norwegian army intended to invade a small area in polan",
+            "Hamlet's mother screamed out for help",
+            "Hamlet rebuked Ophelia's advances",
+            "Rosencrantz and Guildenstern escorted hamlet on a diplomatic mission"
+        ],
+        "question_w_options": "Which of the following events happened after polonius's death? Choose your answer from below options: A.The norwegian army intended to invade a small area in polan, B.Hamlet's mother screamed out for help, C.Hamlet rebuked Ophelia's advances, D.Rosencrantz and Guildenstern escorted hamlet on a diplomatic mission.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/IaTaaNinolU.mp4",
+        "answers": [
+            "Based on the sequence of images, the event that happened after Polonius's death is:\n\nA. The Norwegian army intended to invade a small area in Poland.\n\nThis is depicted in image 4, which shows a map and soldiers, indicating military action."
+        ],
+        "video_info": {
+            "total_frames": 14318,
+            "fps": 29.97002997002997,
+            "duration": 477.74393333333336
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01883854377219372,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "316-3",
+        "uid": "316",
+        "qid": "316-3",
+        "q_type": "Action Reasoning",
+        "question": "Why didn't the english king kill hamlet?",
+        "optionA": "Because Hamlet changed the content in the letter",
+        "optionB": "Because Claudius asked the English king to protect Hamlet during their journey",
+        "optionC": "Because the English king was unwilling to kill Hamlet",
+        "optionD": "Because Hamlet's friends chose to be killed instead of Hamlet",
+        "options": [
+            "Because Hamlet changed the content in the letter",
+            "Because Claudius asked the English king to protect Hamlet during their journey",
+            "Because the English king was unwilling to kill Hamlet",
+            "Because Hamlet's friends chose to be killed instead of Hamlet"
+        ],
+        "question_w_options": "Why didn't the english king kill hamlet? Choose your answer from below options: A.Because Hamlet changed the content in the letter, B.Because Claudius asked the English king to protect Hamlet during their journey, C.Because the English king was unwilling to kill Hamlet, D.Because Hamlet's friends chose to be killed instead of Hamlet.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/IaTaaNinolU.mp4",
+        "answers": [
+            "The answer is A. Because Hamlet changed the content in the letter."
+        ],
+        "video_info": {
+            "total_frames": 14318,
+            "fps": 29.97002997002997,
+            "duration": 477.74393333333336
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01883854377219372,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "317-1",
+        "uid": "317",
+        "qid": "317-1",
+        "q_type": "Object Reasoning",
+        "question": "Which of the following materials used to recreate monate's water lilies is not neccessary?",
+        "optionA": "Paintbrushes (flat and round)",
+        "optionB": "Acrylic paints in green, blue, white, yellow, and purple",
+        "optionC": "Tissue paper",
+        "optionD": "Drawing board",
+        "options": [
+            "Paintbrushes (flat and round)",
+            "Acrylic paints in green, blue, white, yellow, and purple",
+            "Tissue paper",
+            "Drawing board"
+        ],
+        "question_w_options": "Which of the following materials used to recreate monate's water lilies is not neccessary? Choose your answer from below options: A.Paintbrushes (flat and round), B.Acrylic paints in green, blue, white, yellow, and purple, C.Tissue paper, D.Drawing board.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/Bkheu99K5lY.mp4",
+        "answers": [
+            "Based on the image sequence, it seems that the process involves painting directly onto a surface using brushes and paints. There is no indication of tissue paper being used in the creation of the artwork. Therefore, the material that is not necessary for recreating Monet's water lilies in this context is:\n\nC. Tissue paper."
+        ],
+        "video_info": {
+            "total_frames": 13356,
+            "fps": 29.97002997002997,
+            "duration": 445.6452
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020195437985195398,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "317-2",
+        "uid": "317",
+        "qid": "317-2",
+        "q_type": "Attribute Perception",
+        "question": "Which style does the painting in the video belong to?",
+        "optionA": "Romanticism",
+        "optionB": "Realism",
+        "optionC": "Impressionism",
+        "optionD": "Minimalism",
+        "options": [
+            "Romanticism",
+            "Realism",
+            "Impressionism",
+            "Minimalism"
+        ],
+        "question_w_options": "Which style does the painting in the video belong to? Choose your answer from below options: A.Romanticism, B.Realism, C.Impressionism, D.Minimalism.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/Bkheu99K5lY.mp4",
+        "answers": [
+            "The painting in the video appears to belong to the Impressionism style. The use of loose brushwork and the focus on capturing light and color, as seen in the frames, are characteristic of Impressionism."
+        ],
+        "video_info": {
+            "total_frames": 13356,
+            "fps": 29.97002997002997,
+            "duration": 445.6452
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020195437985195398,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "317-3",
+        "uid": "317",
+        "qid": "317-3",
+        "q_type": "Temporal Reasoning",
+        "question": "What's the correct order of the following events?\n1. creating basic background.\n2. add a few flowers to the painting.\n3. building up the texture of the painting even more.\n4. drawing the pads of the water lilies.?",
+        "optionA": "4, 1, 2, 3",
+        "optionB": "2, 4, 1, 3",
+        "optionC": "1, 4, 2, 3",
+        "optionD": "1, 4, 3, 2",
+        "options": [
+            "4, 1, 2, 3",
+            "2, 4, 1, 3",
+            "1, 4, 2, 3",
+            "1, 4, 3, 2"
+        ],
+        "question_w_options": "What's the correct order of the following events?\n1. creating basic background.\n2. add a few flowers to the painting.\n3. building up the texture of the painting even more.\n4. drawing the pads of the water lilies.? Choose your answer from below options: A.4, 1, 2, 3, B.2, 4, 1, 3, C.1, 4, 2, 3, D.1, 4, 3, 2.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/Bkheu99K5lY.mp4",
+        "answers": [
+            "To determine the correct order of events based on the images:\n\n1. **Creating basic background**: This is likely shown in image 2, where the initial paint is being applied.\n2. **Drawing the pads of the water lilies**: This appears to be in image 4, where specific shapes are being added.\n3. **Add a few flowers to the painting**: This seems to be in image 6, where more detailed elements are added.\n4. **Building up the texture of the painting even more**: This is likely in image 7, where the texture is enhanced.\n\nThe correct order is: **C. 1, 4, 2, 3**."
+        ],
+        "video_info": {
+            "total_frames": 13356,
+            "fps": 29.97002997002997,
+            "duration": 445.6452
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020195437985195398,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "318-1",
+        "uid": "318",
+        "qid": "318-1",
+        "q_type": "Spatial Perception",
+        "question": "Where is the sculture supposed to stay?",
+        "optionA": "Inside the church",
+        "optionB": "In Italy museum",
+        "optionC": "On the cathedral",
+        "optionD": "On the main street of Florence",
+        "options": [
+            "Inside the church",
+            "In Italy museum",
+            "On the cathedral",
+            "On the main street of Florence"
+        ],
+        "question_w_options": "Where is the sculture supposed to stay? Choose your answer from below options: A.Inside the church, B.In Italy museum, C.On the cathedral, D.On the main street of Florence.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/QdlP8ai8trw.mp4",
+        "answers": [
+            "The sculpture is supposed to stay on the cathedral. The video frames indicate discussions about its placement, and frame 6 mentions \"on the cathedral.\" Therefore, the correct answer is C. On the cathedral."
+        ],
+        "video_info": {
+            "total_frames": 13492,
+            "fps": 30.0,
+            "duration": 449.73333333333335
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020011858879335903,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "318-2",
+        "uid": "318",
+        "qid": "318-2",
+        "q_type": "Object Recognition",
+        "question": "Which of the following statements is not correct?",
+        "optionA": "David ousted the Medici family",
+        "optionB": "People in Florence identified with David because of his courage of defeating giant Goliath",
+        "optionC": "Florence had experienced political turmoil before becoming a republic country",
+        "optionD": "The very stance of the sculpture was taken directly from classical antiquity",
+        "options": [
+            "David ousted the Medici family",
+            "People in Florence identified with David because of his courage of defeating giant Goliath",
+            "Florence had experienced political turmoil before becoming a republic country",
+            "The very stance of the sculpture was taken directly from classical antiquity"
+        ],
+        "question_w_options": "Which of the following statements is not correct? Choose your answer from below options: A.David ousted the Medici family, B.People in Florence identified with David because of his courage of defeating giant Goliath, C.Florence had experienced political turmoil before becoming a republic country, D.The very stance of the sculpture was taken directly from classical antiquity.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/QdlP8ai8trw.mp4",
+        "answers": [
+            "Based on the images and annotations, the statement that is not correct is:\n\nA. David ousted the Medici family.\n\nThe images and context suggest that David is a symbolic figure representing the courage and strength of Florence, but he did not literally oust the Medici family."
+        ],
+        "video_info": {
+            "total_frames": 13492,
+            "fps": 30.0,
+            "duration": 449.73333333333335
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020011858879335903,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "318-3",
+        "uid": "318",
+        "qid": "318-3",
+        "q_type": "Action Recognition",
+        "question": "What was david doing according to the sculpture?",
+        "optionA": "Completely relaxing",
+        "optionB": "Ready for a fight",
+        "optionC": "Overlooking at a battle in the distance",
+        "optionD": "Fighting with giant Goliath",
+        "options": [
+            "Completely relaxing",
+            "Ready for a fight",
+            "Overlooking at a battle in the distance",
+            "Fighting with giant Goliath"
+        ],
+        "question_w_options": "What was david doing according to the sculpture? Choose your answer from below options: A.Completely relaxing, B.Ready for a fight, C.Overlooking at a battle in the distance, D.Fighting with giant Goliath.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/QdlP8ai8trw.mp4",
+        "answers": [
+            "Based on the images, particularly frames 2, 4, and 7, the sculpture of David is depicted in a stance that suggests he is \"Ready for a fight.\" The posture and expression are indicative of preparation and focus, aligning with option B."
+        ],
+        "video_info": {
+            "total_frames": 13492,
+            "fps": 30.0,
+            "duration": 449.73333333333335
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020011858879335903,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "319-1",
+        "uid": "319",
+        "qid": "319-1",
+        "q_type": "Attribute Perception",
+        "question": "What kind of clothes is the speaker wearing?",
+        "optionA": "Blue jacket",
+        "optionB": "Green plaid shirt",
+        "optionC": "Brown shirt",
+        "optionD": "Yellow T-shirt",
+        "options": [
+            "Blue jacket",
+            "Green plaid shirt",
+            "Brown shirt",
+            "Yellow T-shirt"
+        ],
+        "question_w_options": "What kind of clothes is the speaker wearing? Choose your answer from below options: A.Blue jacket, B.Green plaid shirt, C.Brown shirt, D.Yellow T-shirt.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/MrRvX5I8PyY.mp4",
+        "answers": [
+            "The speaker is wearing a blue jacket."
+        ],
+        "video_info": {
+            "total_frames": 7747,
+            "fps": 25.0,
+            "duration": 309.88
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02904350070995224,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "319-2",
+        "uid": "319",
+        "qid": "319-2",
+        "q_type": "Attribute Perception",
+        "question": "Which one is listed top 2 according to the video?",
+        "optionA": "Wangjing Soho",
+        "optionB": "London Aquatics Centre",
+        "optionC": "Messner Mountain Museum",
+        "optionD": "600 Collins Street",
+        "options": [
+            "Wangjing Soho",
+            "London Aquatics Centre",
+            "Messner Mountain Museum",
+            "600 Collins Street"
+        ],
+        "question_w_options": "Which one is listed top 2 according to the video? Choose your answer from below options: A.Wangjing Soho, B.London Aquatics Centre, C.Messner Mountain Museum, D.600 Collins Street.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/MrRvX5I8PyY.mp4",
+        "answers": [
+            "I can't determine which one is listed in the top 2 based on the images alone. You might want to check the video or accompanying text for more context."
+        ],
+        "video_info": {
+            "total_frames": 7747,
+            "fps": 25.0,
+            "duration": 309.88
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02904350070995224,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "319-3",
+        "uid": "319",
+        "qid": "319-3",
+        "q_type": "Object Reasoning",
+        "question": "Which of the following statements about zaha hadid's work is not correct?",
+        "optionA": "All of her works are built in the center of cities",
+        "optionB": "Wangjing Soho consists of three towers resembling interweaving mountains",
+        "optionC": "Heydar Aliyev Centre is named after the country's former president",
+        "optionD": "600 Collins Street locates in Australia",
+        "options": [
+            "All of her works are built in the center of cities",
+            "Wangjing Soho consists of three towers resembling interweaving mountains",
+            "Heydar Aliyev Centre is named after the country's former president",
+            "600 Collins Street locates in Australia"
+        ],
+        "question_w_options": "Which of the following statements about zaha hadid's work is not correct? Choose your answer from below options: A.All of her works are built in the center of cities, B.Wangjing Soho consists of three towers resembling interweaving mountains, C.Heydar Aliyev Centre is named after the country's former president, D.600 Collins Street locates in Australia.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/MrRvX5I8PyY.mp4",
+        "answers": [
+            "The statement that is not correct is:\n\nA. All of her works are built in the center of cities.\n\nZaha Hadid's works are not exclusively located in city centers; they can be found in various locations, including more suburban or less central areas."
+        ],
+        "video_info": {
+            "total_frames": 7747,
+            "fps": 25.0,
+            "duration": 309.88
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02904350070995224,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "320-1",
+        "uid": "320",
+        "qid": "320-1",
+        "q_type": "Object Reasoning",
+        "question": "What is the first artist's specialty in pottery?",
+        "optionA": "Making coral",
+        "optionB": "Making tiny pottery",
+        "optionC": "Sculpting faces",
+        "optionD": "Ceating symmetrical pierced pots",
+        "options": [
+            "Making coral",
+            "Making tiny pottery",
+            "Sculpting faces",
+            "Ceating symmetrical pierced pots"
+        ],
+        "question_w_options": "What is the first artist's specialty in pottery? Choose your answer from below options: A.Making coral, B.Making tiny pottery, C.Sculpting faces, D.Ceating symmetrical pierced pots.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/z2APU5ob9Og.mp4",
+        "answers": [
+            "The first artist's specialty in pottery is D. Creating symmetrical pierced pots."
+        ],
+        "video_info": {
+            "total_frames": 13144,
+            "fps": 23.976023976023978,
+            "duration": 548.2143333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.016416936684739484,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "320-2",
+        "uid": "320",
+        "qid": "320-2",
+        "q_type": "Object Reasoning",
+        "question": "Why can the tenth artist create potteries with marbled designs?",
+        "optionA": "Because her works are made of marble",
+        "optionB": "Because she glazes her pottery with bubbles",
+        "optionC": "Because she paints marbel's texture to her works",
+        "optionD": "Because she learns the perfect tempreture to generate such design",
+        "options": [
+            "Because her works are made of marble",
+            "Because she glazes her pottery with bubbles",
+            "Because she paints marbel's texture to her works",
+            "Because she learns the perfect tempreture to generate such design"
+        ],
+        "question_w_options": "Why can the tenth artist create potteries with marbled designs? Choose your answer from below options: A.Because her works are made of marble, B.Because she glazes her pottery with bubbles, C.Because she paints marbel's texture to her works, D.Because she learns the perfect tempreture to generate such design.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/z2APU5ob9Og.mp4",
+        "answers": [
+            "The tenth artist can create potteries with marbled designs because of the process shown in image 8, which suggests that the design is created through a specific technique. Therefore, the correct answer is:\n\nC. Because she paints marble's texture to her works."
+        ],
+        "video_info": {
+            "total_frames": 13144,
+            "fps": 23.976023976023978,
+            "duration": 548.2143333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.016416936684739484,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "320-3",
+        "uid": "320",
+        "qid": "320-3",
+        "q_type": "Attribute Perception",
+        "question": "What's the main color of hugh hope's work?",
+        "optionA": "Blue",
+        "optionB": "Red",
+        "optionC": "Green",
+        "optionD": "Black",
+        "options": [
+            "Blue",
+            "Red",
+            "Green",
+            "Black"
+        ],
+        "question_w_options": "What's the main color of hugh hope's work? Choose your answer from below options: A.Blue, B.Red, C.Green, D.Black.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/z2APU5ob9Og.mp4",
+        "answers": [
+            "I can't determine the main color of Hugh Hope's work from the images provided."
+        ],
+        "video_info": {
+            "total_frames": 13144,
+            "fps": 23.976023976023978,
+            "duration": 548.2143333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.016416936684739484,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "321-1",
+        "uid": "321",
+        "qid": "321-1",
+        "q_type": "Action Recognition",
+        "question": "What is responsible for gene activation according to the video?",
+        "optionA": "Gene activation by Vitamin D",
+        "optionB": "Hormonal changes during adolescence",
+        "optionC": "Exposure to ultraviolet light",
+        "optionD": "Cellular metabolism during exercise",
+        "options": [
+            "Gene activation by Vitamin D",
+            "Hormonal changes during adolescence",
+            "Exposure to ultraviolet light",
+            "Cellular metabolism during exercise"
+        ],
+        "question_w_options": "What is responsible for gene activation according to the video? Choose your answer from below options: A.Gene activation by Vitamin D, B.Hormonal changes during adolescence, C.Exposure to ultraviolet light, D.Cellular metabolism during exercise.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/7Hk9jct2ozY.mp4",
+        "answers": [
+            "I can't determine the answer based on the images alone. However, if the video is about gene activation by Vitamin D, it might show molecular interactions involving Vitamin D. If you have more context or narration from the video, that could help identify the correct answer."
+        ],
+        "video_info": {
+            "total_frames": 10983,
+            "fps": 25.0,
+            "duration": 439.32
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020486205954657197,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "321-2",
+        "uid": "321",
+        "qid": "321-2",
+        "q_type": "Temporal Reasoning",
+        "question": "What is the correct order in which the following events are presented in the video?\n(a) the nucleus is introduced.\n(b) base pairing.\n(c) cell division.?",
+        "optionA": "(a)(c)(b)",
+        "optionB": "(c)(a)(b)",
+        "optionC": "(c)(b)(a)",
+        "optionD": "(a)(c)(b)",
+        "options": [
+            "(a)(c)(b)",
+            "(c)(a)(b)",
+            "(c)(b)(a)",
+            "(a)(c)(b)"
+        ],
+        "question_w_options": "What is the correct order in which the following events are presented in the video?\n(a) the nucleus is introduced.\n(b) base pairing.\n(c) cell division.? Choose your answer from below options: A.(a)(c)(b), B.(c)(a)(b), C.(c)(b)(a), D.(a)(c)(b).",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/7Hk9jct2ozY.mp4",
+        "answers": [
+            "To determine the correct order of events:\n\n1. **Frame 1** shows a cell with a visible nucleus, indicating the introduction of the nucleus.\n2. **Frames 2, 3, 4, and 5** depict DNA strands and molecular structures, suggesting base pairing.\n3. **Frames 7 and 8** show cell division processes.\n\nBased on this sequence, the correct order is:\n\n(a) the nucleus is introduced.\n(b) base pairing.\n(c) cell division.\n\nThe answer is **A. (a)(c)(b)**."
+        ],
+        "video_info": {
+            "total_frames": 10983,
+            "fps": 25.0,
+            "duration": 439.32
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020486205954657197,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "321-3",
+        "uid": "321",
+        "qid": "321-3",
+        "q_type": "Information Synopsis",
+        "question": "What does this video focus on?",
+        "optionA": "DNA variation",
+        "optionB": "Transcription and coding of DNA",
+        "optionC": "Technical principles of genetic engineering",
+        "optionD": "Differences between animal and plant DNA",
+        "options": [
+            "DNA variation",
+            "Transcription and coding of DNA",
+            "Technical principles of genetic engineering",
+            "Differences between animal and plant DNA"
+        ],
+        "question_w_options": "What does this video focus on? Choose your answer from below options: A.DNA variation, B.Transcription and coding of DNA, C.Technical principles of genetic engineering, D.Differences between animal and plant DNA.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/7Hk9jct2ozY.mp4",
+        "answers": [
+            "The video focuses on B. Transcription and coding of DNA. The images depict molecular structures and processes related to DNA, such as the double helix and transcription machinery, which are key elements in the transcription and coding of DNA."
+        ],
+        "video_info": {
+            "total_frames": 10983,
+            "fps": 25.0,
+            "duration": 439.32
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.020486205954657197,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "322-1",
+        "uid": "322",
+        "qid": "322-1",
+        "q_type": "Information Synopsis",
+        "question": "What is the context of the video?",
+        "optionA": "A documentary film on human evolutionary biology",
+        "optionB": "An overview of the human circulatory system",
+        "optionC": "A clip about the human immune system",
+        "optionD": "A detailed study of the human digestive system",
+        "options": [
+            "A documentary film on human evolutionary biology",
+            "An overview of the human circulatory system",
+            "A clip about the human immune system",
+            "A detailed study of the human digestive system"
+        ],
+        "question_w_options": "What is the context of the video? Choose your answer from below options: A.A documentary film on human evolutionary biology, B.An overview of the human circulatory system, C.A clip about the human immune system, D.A detailed study of the human digestive system.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/UZTf3OXJDWA.mp4",
+        "answers": [
+            "The images in the sequence show various elements that are likely related to the human immune system, such as cells and possibly pathogens. Therefore, the context of the video is most likely:\n\nC. A clip about the human immune system."
+        ],
+        "video_info": {
+            "total_frames": 25320,
+            "fps": 30.0,
+            "duration": 844.0
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01066350710900474,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "322-2",
+        "uid": "322",
+        "qid": "322-2",
+        "q_type": "Temporal Reasoning",
+        "question": "What is the sequence of events in the video showing the following?\n(a) a rolling t-cell.\n(b) human hair follicles ooze oil.\n(c) plasma cell division.?",
+        "optionA": "(b)(a)(c)",
+        "optionB": "(a)(b)(c)",
+        "optionC": "(b)(c)(a)",
+        "optionD": "(c)(a)(b)",
+        "options": [
+            "(b)(a)(c)",
+            "(a)(b)(c)",
+            "(b)(c)(a)",
+            "(c)(a)(b)"
+        ],
+        "question_w_options": "What is the sequence of events in the video showing the following?\n(a) a rolling t-cell.\n(b) human hair follicles ooze oil.\n(c) plasma cell division.? Choose your answer from below options: A.(b)(a)(c), B.(a)(b)(c), C.(b)(c)(a), D.(c)(a)(b).",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/UZTf3OXJDWA.mp4",
+        "answers": [
+            "Based on the images:\n\n- Image 2 shows human hair follicles, which corresponds to (b) human hair follicles oozing oil.\n- Image 3 and 8 show cells in a blood vessel, which likely corresponds to (a) a rolling T-cell.\n- Image 7 shows cell division, which corresponds to (c) plasma cell division.\n\nThe sequence of events is: (b) human hair follicles ooze oil, (a) a rolling T-cell, (c) plasma cell division.\n\nThe correct answer is A.(b)(a)(c)."
+        ],
+        "video_info": {
+            "total_frames": 25320,
+            "fps": 30.0,
+            "duration": 844.0
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01066350710900474,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "322-3",
+        "uid": "322",
+        "qid": "322-3",
+        "q_type": "Object Reasoning",
+        "question": "Which of the following descriptions of the blue, bisected cell at the beginning of the video is correct?",
+        "optionA": "They recognize and destroy pathogens",
+        "optionB": "They carry oxygen to various tissues and organs of the body",
+        "optionC": "They are responsible for transmitting and processing nerve signals",
+        "optionD": "They can differentiate into many kinds of cells",
+        "options": [
+            "They recognize and destroy pathogens",
+            "They carry oxygen to various tissues and organs of the body",
+            "They are responsible for transmitting and processing nerve signals",
+            "They can differentiate into many kinds of cells"
+        ],
+        "question_w_options": "Which of the following descriptions of the blue, bisected cell at the beginning of the video is correct? Choose your answer from below options: A.They recognize and destroy pathogens, B.They carry oxygen to various tissues and organs of the body, C.They are responsible for transmitting and processing nerve signals, D.They can differentiate into many kinds of cells.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/UZTf3OXJDWA.mp4",
+        "answers": [
+            "The blue, bisected cell at the beginning of the video is likely a stem cell, as it appears to be in the process of dividing. Therefore, the correct description is:\n\nD. They can differentiate into many kinds of cells."
+        ],
+        "video_info": {
+            "total_frames": 25320,
+            "fps": 30.0,
+            "duration": 844.0
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01066350710900474,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "323-1",
+        "uid": "323",
+        "qid": "323-1",
+        "q_type": "Object Recognition",
+        "question": "Which cellular structure is responsible for receiving proteins according to the video?",
+        "optionA": "Golgi apparatus (Golgi body)",
+        "optionB": "Nucleus",
+        "optionC": "Ribosome",
+        "optionD": "Mitochondrion",
+        "options": [
+            "Golgi apparatus (Golgi body)",
+            "Nucleus",
+            "Ribosome",
+            "Mitochondrion"
+        ],
+        "question_w_options": "Which cellular structure is responsible for receiving proteins according to the video? Choose your answer from below options: A.Golgi apparatus (Golgi body), B.Nucleus, C.Ribosome, D.Mitochondrion.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/URUJD5NEXC8.mp4",
+        "answers": [
+            "The cellular structure responsible for receiving proteins is the Golgi apparatus (Golgi body). So, the correct answer is A. Golgi apparatus (Golgi body)."
+        ],
+        "video_info": {
+            "total_frames": 13240,
+            "fps": 30.0,
+            "duration": 441.3333333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02039274924471299,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "323-2",
+        "uid": "323",
+        "qid": "323-2",
+        "q_type": "Attribute Perception",
+        "question": "Which components are part of the object described in the video?",
+        "optionA": "Ribosomes and Endoplasmic Reticulum",
+        "optionB": "Microfilaments and Microtubules",
+        "optionC": "Golgi Apparatus and Lysosomes",
+        "optionD": "Nucleolus and Peroxisomes",
+        "options": [
+            "Ribosomes and Endoplasmic Reticulum",
+            "Microfilaments and Microtubules",
+            "Golgi Apparatus and Lysosomes",
+            "Nucleolus and Peroxisomes"
+        ],
+        "question_w_options": "Which components are part of the object described in the video? Choose your answer from below options: A.Ribosomes and Endoplasmic Reticulum, B.Microfilaments and Microtubules, C.Golgi Apparatus and Lysosomes, D.Nucleolus and Peroxisomes.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/URUJD5NEXC8.mp4",
+        "answers": [
+            "Based on the images in the sequence, the video seems to describe cellular components and processes. The images show:\n\n1. A eukaryotic cell.\n2. A plant and an animal, indicating eukaryotic organisms.\n3. Chromatin, which is related to DNA and the nucleus.\n4. Structures resembling the endoplasmic reticulum with ribosomes.\n5. DNA or chromatin structure.\n6. Mitochondria, involved in cellular respiration.\n7. Plant cells.\n8. Sperm cells.\n9. A cell nucleus.\n\nThe components that are part of the object described in the video are likely related to protein synthesis and cellular structure. Therefore, the best answer is:\n\nA. Ribosomes and Endoplasmic Reticulum."
+        ],
+        "video_info": {
+            "total_frames": 13240,
+            "fps": 30.0,
+            "duration": 441.3333333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02039274924471299,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "323-3",
+        "uid": "323",
+        "qid": "323-3",
+        "q_type": "Temporal Reasoning",
+        "question": "What is the correct chronological order in which the following parts of the video appear?\n(a) human lungs.\n(b) protein folding distortion.\n(c) mice, plants and cells.?",
+        "optionA": "(a)(b)(c)",
+        "optionB": "(c)(a)(b)",
+        "optionC": "(c)(b)(a)",
+        "optionD": "(b)(c)(a)",
+        "options": [
+            "(a)(b)(c)",
+            "(c)(a)(b)",
+            "(c)(b)(a)",
+            "(b)(c)(a)"
+        ],
+        "question_w_options": "What is the correct chronological order in which the following parts of the video appear?\n(a) human lungs.\n(b) protein folding distortion.\n(c) mice, plants and cells.? Choose your answer from below options: A.(a)(b)(c), B.(c)(a)(b), C.(c)(b)(a), D.(b)(c)(a).",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/URUJD5NEXC8.mp4",
+        "answers": [
+            "To determine the correct chronological order, let's identify the frames:\n\n- (a) Human lungs: Frame 6 shows cellular respiration, which is related to lung function.\n- (b) Protein folding distortion: Frame 5 shows a protein structure.\n- (c) Mice, plants, and cells: Frame 2 shows a eukaryotic cell, a plant, and a mouse.\n\nBased on this, the chronological order is:\n\n(c) Mice, plants, and cells (Frame 2)\n(a) Human lungs (Frame 6)\n(b) Protein folding distortion (Frame 5)\n\nThe correct answer is B: (c)(a)(b)."
+        ],
+        "video_info": {
+            "total_frames": 13240,
+            "fps": 30.0,
+            "duration": 441.3333333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.02039274924471299,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "324-1",
+        "uid": "324",
+        "qid": "324-1",
+        "q_type": "Information Synopsis",
+        "question": "What is the context of the video?",
+        "optionA": "It details the circulatory system and blood flow in the human body",
+        "optionB": "It provides a simple explanation of the lymphatic system",
+        "optionC": "It explores the muscular system and human movement",
+        "optionD": "It focuses on the digestive system and nutrient absorption",
+        "options": [
+            "It details the circulatory system and blood flow in the human body",
+            "It provides a simple explanation of the lymphatic system",
+            "It explores the muscular system and human movement",
+            "It focuses on the digestive system and nutrient absorption"
+        ],
+        "question_w_options": "What is the context of the video? Choose your answer from below options: A.It details the circulatory system and blood flow in the human body, B.It provides a simple explanation of the lymphatic system, C.It explores the muscular system and human movement, D.It focuses on the digestive system and nutrient absorption.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/eWUAB194qhU.mp4",
+        "answers": [
+            "The context of the video is B. It provides a simple explanation of the lymphatic system."
+        ],
+        "video_info": {
+            "total_frames": 7045,
+            "fps": 24.0,
+            "duration": 293.5416666666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.030660042583392475,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "324-2",
+        "uid": "324",
+        "qid": "324-2",
+        "q_type": "Object Recognition",
+        "question": "Which cells are contained within the lymph nodes, as depicted in the video?",
+        "optionA": "Macrophages, dendritic cells, B-cells, and T-cells",
+        "optionB": "Red blood cells and platelets",
+        "optionC": "Neurons and glial cells",
+        "optionD": "Muscle cells and fat cells",
+        "options": [
+            "Macrophages, dendritic cells, B-cells, and T-cells",
+            "Red blood cells and platelets",
+            "Neurons and glial cells",
+            "Muscle cells and fat cells"
+        ],
+        "question_w_options": "Which cells are contained within the lymph nodes, as depicted in the video? Choose your answer from below options: A.Macrophages, dendritic cells, B-cells, and T-cells, B.Red blood cells and platelets, C.Neurons and glial cells, D.Muscle cells and fat cells.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/eWUAB194qhU.mp4",
+        "answers": [
+            "The cells contained within the lymph nodes, as depicted in the video, are:\n\nA. Macrophages, dendritic cells, B-cells, and T-cells."
+        ],
+        "video_info": {
+            "total_frames": 7045,
+            "fps": 24.0,
+            "duration": 293.5416666666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.030660042583392475,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "324-3",
+        "uid": "324",
+        "qid": "324-3",
+        "q_type": "Action Reasoning",
+        "question": "Why should exercise be included as a part of maintaining a healthy lymphatic system, according to the video?",
+        "optionA": "It increases body fat which is essential for lymphatic function",
+        "optionB": "It helps to reduce the oxygen levels in the blood",
+        "optionC": "It slows down the heart rate and reduces lymph flow",
+        "optionD": "It speeds up the rate at which lymph drains back into your blood",
+        "options": [
+            "It increases body fat which is essential for lymphatic function",
+            "It helps to reduce the oxygen levels in the blood",
+            "It slows down the heart rate and reduces lymph flow",
+            "It speeds up the rate at which lymph drains back into your blood"
+        ],
+        "question_w_options": "Why should exercise be included as a part of maintaining a healthy lymphatic system, according to the video? Choose your answer from below options: A.It increases body fat which is essential for lymphatic function, B.It helps to reduce the oxygen levels in the blood, C.It slows down the heart rate and reduces lymph flow, D.It speeds up the rate at which lymph drains back into your blood.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/eWUAB194qhU.mp4",
+        "answers": [
+            "The video suggests that exercise should be included as a part of maintaining a healthy lymphatic system because:\n\nD. It speeds up the rate at which lymph drains back into your blood."
+        ],
+        "video_info": {
+            "total_frames": 7045,
+            "fps": 24.0,
+            "duration": 293.5416666666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.030660042583392475,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "325-1",
+        "uid": "325",
+        "qid": "325-1",
+        "q_type": "Object Reasoning",
+        "question": "What is the role of neuralink's first product, telepathy according to the video?",
+        "optionA": "Telepathy is designed for communication between users through thought alone without controlling devices",
+        "optionB": "Telepathy enhances the brain's natural cognitive abilities without external interaction",
+        "optionC": "Telepathy enhances the brain's natural cognitive abilities without external interaction",
+        "optionD": "Telepathy allows the user to reach out and control pretty much everything interconnected",
+        "options": [
+            "Telepathy is designed for communication between users through thought alone without controlling devices",
+            "Telepathy enhances the brain's natural cognitive abilities without external interaction",
+            "Telepathy enhances the brain's natural cognitive abilities without external interaction",
+            "Telepathy allows the user to reach out and control pretty much everything interconnected"
+        ],
+        "question_w_options": "What is the role of neuralink's first product, telepathy according to the video? Choose your answer from below options: A.Telepathy is designed for communication between users through thought alone without controlling devices, B.Telepathy enhances the brain's natural cognitive abilities without external interaction, C.Telepathy enhances the brain's natural cognitive abilities without external interaction, D.Telepathy allows the user to reach out and control pretty much everything interconnected.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/CxBbw8eT624.mp4",
+        "answers": [
+            "Based on the images and annotations, the role of Neuralink's first product, Telepathy, according to the video, is likely:\n\nD. Telepathy allows the user to reach out and control pretty much everything interconnected.\n\nThe images suggest a focus on neural interfaces and connectivity, indicating control over interconnected devices."
+        ],
+        "video_info": {
+            "total_frames": 26342,
+            "fps": 29.97002997002997,
+            "duration": 878.9447333333334
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.010239551656300574,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "325-2",
+        "uid": "325",
+        "qid": "325-2",
+        "q_type": "Counting Problem",
+        "question": "How many individual electrodes are distributed across the circular hole in neuralink's device?",
+        "optionA": "512 electrodes",
+        "optionB": "256 electrodes",
+        "optionC": "1024 electrodes",
+        "optionD": "2048 electrodes",
+        "options": [
+            "512 electrodes",
+            "256 electrodes",
+            "1024 electrodes",
+            "2048 electrodes"
+        ],
+        "question_w_options": "How many individual electrodes are distributed across the circular hole in neuralink's device? Choose your answer from below options: A.512 electrodes, B.256 electrodes, C.1024 electrodes, D.2048 electrodes.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/CxBbw8eT624.mp4",
+        "answers": [
+            "I can't determine the number of electrodes from the images provided. You might want to check the video or related documentation for specific details about the Neuralink device."
+        ],
+        "video_info": {
+            "total_frames": 26342,
+            "fps": 29.97002997002997,
+            "duration": 878.9447333333334
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.010239551656300574,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "325-3",
+        "uid": "325",
+        "qid": "325-3",
+        "q_type": "Temporal Perception",
+        "question": "What is the name of the brain-computer interface company introduced at the end of the video?",
+        "optionA": "Blackrock Neurotech",
+        "optionB": "Vanguard",
+        "optionC": "Neuralink",
+        "optionD": "Synchron",
+        "options": [
+            "Blackrock Neurotech",
+            "Vanguard",
+            "Neuralink",
+            "Synchron"
+        ],
+        "question_w_options": "What is the name of the brain-computer interface company introduced at the end of the video? Choose your answer from below options: A.Blackrock Neurotech, B.Vanguard, C.Neuralink, D.Synchron.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/CxBbw8eT624.mp4",
+        "answers": [
+            "The brain-computer interface company introduced at the end of the video is D. Synchron."
+        ],
+        "video_info": {
+            "total_frames": 26342,
+            "fps": 29.97002997002997,
+            "duration": 878.9447333333334
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.010239551656300574,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "326-1",
+        "uid": "326",
+        "qid": "326-1",
+        "q_type": "Information Synopsis",
+        "question": "What is the topic of the video?",
+        "optionA": "The future of medicine",
+        "optionB": "A historical overview of medical treatments",
+        "optionC": "The impact of traditional medicines on modern healthcare",
+        "optionD": "A discussion on the ethics of animal testing in medical research",
+        "options": [
+            "The future of medicine",
+            "A historical overview of medical treatments",
+            "The impact of traditional medicines on modern healthcare",
+            "A discussion on the ethics of animal testing in medical research"
+        ],
+        "question_w_options": "What is the topic of the video? Choose your answer from below options: A.The future of medicine, B.A historical overview of medical treatments, C.The impact of traditional medicines on modern healthcare, D.A discussion on the ethics of animal testing in medical research.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/ZGGDKC3GlrI.mp4",
+        "answers": [
+            "Based on the images provided, the video likely discusses \"A. The future of medicine.\" The frames show scientific imagery, such as microscopic images and interviews with individuals who appear to be experts, which aligns with discussions about advancements and future directions in medicine."
+        ],
+        "video_info": {
+            "total_frames": 17530,
+            "fps": 25.0,
+            "duration": 701.2
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.012835139760410723,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "326-2",
+        "uid": "326",
+        "qid": "326-2",
+        "q_type": "Temporal Perception",
+        "question": "What is the third future topic in medicine mentioned in the video?",
+        "optionA": "Regenerative medicine",
+        "optionB": "Nanotechnology",
+        "optionC": "Gene editing",
+        "optionD": "Bioengineering",
+        "options": [
+            "Regenerative medicine",
+            "Nanotechnology",
+            "Gene editing",
+            "Bioengineering"
+        ],
+        "question_w_options": "What is the third future topic in medicine mentioned in the video? Choose your answer from below options: A.Regenerative medicine, B.Nanotechnology, C.Gene editing, D.Bioengineering.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/ZGGDKC3GlrI.mp4",
+        "answers": [
+            "I can't determine the third future topic in medicine mentioned in the video based on the images alone. The images show various scenes, including people speaking and scientific visuals, but they don't provide specific information about the sequence of topics discussed. You might need to refer to the video or transcript for the exact order of topics."
+        ],
+        "video_info": {
+            "total_frames": 17530,
+            "fps": 25.0,
+            "duration": 701.2
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.012835139760410723,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "326-3",
+        "uid": "326",
+        "qid": "326-3",
+        "q_type": "Object Reasoning",
+        "question": "What is the medical technique that takes up the most space in the video?",
+        "optionA": "A novel drug delivery system using nanotechnology",
+        "optionB": "A gene-editing technology",
+        "optionC": "An artificial intelligence for developing vaccines",
+        "optionD": "An advanced magnetic resonance imaging (MRI)",
+        "options": [
+            "A novel drug delivery system using nanotechnology",
+            "A gene-editing technology",
+            "An artificial intelligence for developing vaccines",
+            "An advanced magnetic resonance imaging (MRI)"
+        ],
+        "question_w_options": "What is the medical technique that takes up the most space in the video? Choose your answer from below options: A.A novel drug delivery system using nanotechnology, B.A gene-editing technology, C.An artificial intelligence for developing vaccines, D.An advanced magnetic resonance imaging (MRI).",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/ZGGDKC3GlrI.mp4",
+        "answers": [
+            "Based on the images provided, the frames appear to show scientific imagery and interviews, which are common in videos about advanced medical technologies. The presence of what looks like cellular or molecular imagery in frames 1, 2, 3, 4, and 7 suggests a focus on microscopic or molecular techniques.\n\nGiven these observations, the medical technique that takes up the most space in the video is likely:\n\nA. A novel drug delivery system using nanotechnology. \n\nThis is inferred from the microscopic and molecular visuals, which are typical in discussions about nanotechnology."
+        ],
+        "video_info": {
+            "total_frames": 17530,
+            "fps": 25.0,
+            "duration": 701.2
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.012835139760410723,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "327-1",
+        "uid": "327",
+        "qid": "327-1",
+        "q_type": "Attribute Perception",
+        "question": "Which summarizes the main focus of the video?",
+        "optionA": "The role of nanorobotics in medical treatment",
+        "optionB": "R&D process and future application of nanorobotics",
+        "optionC": "The role of nanorobots in cancer treatment",
+        "optionD": "Cannot be inferred from the video",
+        "options": [
+            "The role of nanorobotics in medical treatment",
+            "R&D process and future application of nanorobotics",
+            "The role of nanorobots in cancer treatment",
+            "Cannot be inferred from the video"
+        ],
+        "question_w_options": "Which summarizes the main focus of the video? Choose your answer from below options: A.The role of nanorobotics in medical treatment, B.R&D process and future application of nanorobotics, C.The role of nanorobots in cancer treatment, D.Cannot be inferred from the video.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/iPi-QNYgAa4.mp4",
+        "answers": [
+            "Based on the images provided, the main focus of the video seems to be on the role of nanorobots in medical treatment, particularly in cancer treatment. This is suggested by the presence of images related to nanobots, medical contexts, and cellular imagery.\n\nSo, the best choice is: **C. The role of nanorobots in cancer treatment.**"
+        ],
+        "video_info": {
+            "total_frames": 8156,
+            "fps": 25.0,
+            "duration": 326.24
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.027587052476704267,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "327-2",
+        "uid": "327",
+        "qid": "327-2",
+        "q_type": "Temporal Reasoning",
+        "question": "What is the exact order in which the video presents the following events?\n(a) application of respiratory cells to cardiovascular cure therapy.\n(b) the use of nanorobots in cancer treatment.\n(c) nanorobots for haemostasis.?",
+        "optionA": "(b)(a)(c)",
+        "optionB": "(a)(b)(c)",
+        "optionC": "(b)(c)(a)",
+        "optionD": "(c)(a)(b)",
+        "options": [
+            "(b)(a)(c)",
+            "(a)(b)(c)",
+            "(b)(c)(a)",
+            "(c)(a)(b)"
+        ],
+        "question_w_options": "What is the exact order in which the video presents the following events?\n(a) application of respiratory cells to cardiovascular cure therapy.\n(b) the use of nanorobots in cancer treatment.\n(c) nanorobots for haemostasis.? Choose your answer from below options: A.(b)(a)(c), B.(a)(b)(c), C.(b)(c)(a), D.(c)(a)(b).",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/iPi-QNYgAa4.mp4",
+        "answers": [
+            "To determine the order of events in the video, let's analyze the frames:\n\n1. Frame 1: Application of something to a person (possibly related to therapy).\n2. Frame 2: Introduction of nanobots.\n3. Frame 3: Microscopic view (could be related to cells or nanotechnology).\n4. Frame 4: Image of a nanobot or cell.\n5. Frame 5: Close-up of a nanobot or small device.\n6. Frame 6: Precision tool (possibly related to nanotechnology).\n7. Frame 7: Reference to oxygen and carbon dioxide (likely related to respiratory cells).\n8. Frame 8: Nanorobots in action (possibly related to haemostasis).\n9. Frame 9: End frame with branding.\n\nBased on this analysis, the order of events is:\n\n- (b) The use of nanorobots in cancer treatment: Frames 2, 3, 4, 5, 6.\n- (a) Application of respiratory cells to cardiovascular cure therapy: Frame 7.\n- (c) Nanorobots for haemostasis: Frame 8.\n\nThus, the correct order is C.(b)(c)(a)."
+        ],
+        "video_info": {
+            "total_frames": 8156,
+            "fps": 25.0,
+            "duration": 326.24
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.027587052476704267,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "327-3",
+        "uid": "327",
+        "qid": "327-3",
+        "q_type": "Object Reasoning",
+        "question": "For which diseases will respiratory cells potentially be used in treatment?",
+        "optionA": "Respiratory diseases",
+        "optionB": "Cancer treatment",
+        "optionC": "Cardiovascular disease",
+        "optionD": "Alzheimer's disease",
+        "options": [
+            "Respiratory diseases",
+            "Cancer treatment",
+            "Cardiovascular disease",
+            "Alzheimer's disease"
+        ],
+        "question_w_options": "For which diseases will respiratory cells potentially be used in treatment? Choose your answer from below options: A.Respiratory diseases, B.Cancer treatment, C.Cardiovascular disease, D.Alzheimer's disease.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/iPi-QNYgAa4.mp4",
+        "answers": [
+            "I can't determine the specific diseases for which respiratory cells might be used in treatment based solely on the images. However, if the video discusses the use of respiratory cells in a medical context, they are most likely related to respiratory diseases. Therefore, option A, Respiratory diseases, would be a reasonable choice."
+        ],
+        "video_info": {
+            "total_frames": 8156,
+            "fps": 25.0,
+            "duration": 326.24
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.027587052476704267,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "328-1",
+        "uid": "328",
+        "qid": "328-1",
+        "q_type": "Information Synopsis",
+        "question": "What is the main focus of the video?",
+        "optionA": "Genetic factors contributing to multiple sclerosis",
+        "optionB": "Global statistics on neurological diseases",
+        "optionC": "Advances in the treatment of Alzheimer's disease",
+        "optionD": "Parkinson's disease and its impact on the nervous system",
+        "options": [
+            "Genetic factors contributing to multiple sclerosis",
+            "Global statistics on neurological diseases",
+            "Advances in the treatment of Alzheimer's disease",
+            "Parkinson's disease and its impact on the nervous system"
+        ],
+        "question_w_options": "What is the main focus of the video? Choose your answer from below options: A.Genetic factors contributing to multiple sclerosis, B.Global statistics on neurological diseases, C.Advances in the treatment of Alzheimer's disease, D.Parkinson's disease and its impact on the nervous system.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/ckn9zybpYZ8.mp4",
+        "answers": [
+            "The images in the sequence focus on neurons, synapses, and brain structures, which are commonly associated with neurological diseases. The presence of synaptic connections and neural imagery suggests a focus on the nervous system. \n\nBased on these observations, the main focus of the video is likely: **D. Parkinson's disease and its impact on the nervous system.**"
+        ],
+        "video_info": {
+            "total_frames": 6760,
+            "fps": 25.0,
+            "duration": 270.4
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03328402366863906,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "328-2",
+        "uid": "328",
+        "qid": "328-2",
+        "q_type": "OCR Problems",
+        "question": "How many cases of parkinson's disease are mentioned in the video?",
+        "optionA": "Over 4 million cases globally",
+        "optionB": "Over 2 million cases globally",
+        "optionC": "Over 6 million cases globally",
+        "optionD": "Over 8 million cases globally",
+        "options": [
+            "Over 4 million cases globally",
+            "Over 2 million cases globally",
+            "Over 6 million cases globally",
+            "Over 8 million cases globally"
+        ],
+        "question_w_options": "How many cases of parkinson's disease are mentioned in the video? Choose your answer from below options: A.Over 4 million cases globally, B.Over 2 million cases globally, C.Over 6 million cases globally, D.Over 8 million cases globally.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/ckn9zybpYZ8.mp4",
+        "answers": [
+            "I can't determine the number of Parkinson's disease cases from the images alone. You might want to check the video's audio or text content for that information."
+        ],
+        "video_info": {
+            "total_frames": 6760,
+            "fps": 25.0,
+            "duration": 270.4
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03328402366863906,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "328-3",
+        "uid": "328",
+        "qid": "328-3",
+        "q_type": "Attribute Perception",
+        "question": "What issue related to mitochondria is discussed in the context of parkinson's disease, as depicted in the video?",
+        "optionA": "There is an abnormal increase in the number of mitochondria",
+        "optionB": "Mitochondria have an important role in neuronal connectivity",
+        "optionC": "Mitochondria are too inefficient, resulting in inactive neurons",
+        "optionD": "Mitochondria prevent the formation of new neuronal connections",
+        "options": [
+            "There is an abnormal increase in the number of mitochondria",
+            "Mitochondria have an important role in neuronal connectivity",
+            "Mitochondria are too inefficient, resulting in inactive neurons",
+            "Mitochondria prevent the formation of new neuronal connections"
+        ],
+        "question_w_options": "What issue related to mitochondria is discussed in the context of parkinson's disease, as depicted in the video? Choose your answer from below options: A.There is an abnormal increase in the number of mitochondria, B.Mitochondria have an important role in neuronal connectivity, C.Mitochondria are too inefficient, resulting in inactive neurons, D.Mitochondria prevent the formation of new neuronal connections.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/ckn9zybpYZ8.mp4",
+        "answers": [
+            "Based on the images provided, the video seems to focus on the role of mitochondria in neuronal activity and connectivity. The frames depict neurons, synapses, and mitochondria, suggesting a focus on how mitochondrial function affects neuronal health.\n\nThe most relevant option is:\n\nC. Mitochondria are too inefficient, resulting in inactive neurons.\n\nThis aligns with the visual emphasis on mitochondria and neuronal connections, which are crucial in the context of Parkinson's disease."
+        ],
+        "video_info": {
+            "total_frames": 6760,
+            "fps": 25.0,
+            "duration": 270.4
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.03328402366863906,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "329-1",
+        "uid": "329",
+        "qid": "329-1",
+        "q_type": "Information Synopsis",
+        "question": "What is the main topic of the video?",
+        "optionA": "The history of heart transplantation",
+        "optionB": "The manufacture of durable artificial hearts",
+        "optionC": "Developments in the treatment of cardiac arrhythmias",
+        "optionD": "The development and production of new drugs for cardiovascular disease",
+        "options": [
+            "The history of heart transplantation",
+            "The manufacture of durable artificial hearts",
+            "Developments in the treatment of cardiac arrhythmias",
+            "The development and production of new drugs for cardiovascular disease"
+        ],
+        "question_w_options": "What is the main topic of the video? Choose your answer from below options: A.The history of heart transplantation, B.The manufacture of durable artificial hearts, C.Developments in the treatment of cardiac arrhythmias, D.The development and production of new drugs for cardiovascular disease.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/3uV8XZcIBbk.mp4",
+        "answers": [
+            "Based on the images provided, the main topic of the video is most likely B. The manufacture of durable artificial hearts. The images show machinery, components, and processes that are consistent with the development and production of artificial hearts."
+        ],
+        "video_info": {
+            "total_frames": 18386,
+            "fps": 23.976023976023978,
+            "duration": 766.8494166666666
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.011736332850223855,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "329-2",
+        "uid": "329",
+        "qid": "329-2",
+        "q_type": "Counting Problem",
+        "question": "According to the video, how many heart transplants are performed annually, and how many are requested in the u.s. and worldwide?",
+        "optionA": "10,000 transplants were performed, 500,000 were requested in the U.S., and 5,000,000 were requested worldwide",
+        "optionB": "6,000 transplants were performed, 600,000 were requested in the U.S., and 1,000,000 were requested worldwide",
+        "optionC": "20,000 transplants were performed, 200,000 were requested in the U.S., and 2,000,000 were requested worldwide",
+        "optionD": "3,000 transplants were performed, 300,000 were requested in the U.S., and 3,000,000 were requested worldwide",
+        "options": [
+            "10,000 transplants were performed, 500,000 were requested in the U.S., and 5,000,000 were requested worldwide",
+            "6,000 transplants were performed, 600,000 were requested in the U.S., and 1,000,000 were requested worldwide",
+            "20,000 transplants were performed, 200,000 were requested in the U.S., and 2,000,000 were requested worldwide",
+            "3,000 transplants were performed, 300,000 were requested in the U.S., and 3,000,000 were requested worldwide"
+        ],
+        "question_w_options": "According to the video, how many heart transplants are performed annually, and how many are requested in the u.s. and worldwide? Choose your answer from below options: A.10,000 transplants were performed, 500,000 were requested in the U.S., and 5,000,000 were requested worldwide, B.6,000 transplants were performed, 600,000 were requested in the U.S., and 1,000,000 were requested worldwide, C.20,000 transplants were performed, 200,000 were requested in the U.S., and 2,000,000 were requested worldwide, D.3,000 transplants were performed, 300,000 were requested in the U.S., and 3,000,000 were requested worldwide.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/3uV8XZcIBbk.mp4",
+        "answers": [
+            "I can't determine the answer from the images alone. You might want to check the video or accompanying text for the specific information regarding heart transplants."
+        ],
+        "video_info": {
+            "total_frames": 18386,
+            "fps": 23.976023976023978,
+            "duration": 766.8494166666666
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.011736332850223855,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "329-3",
+        "uid": "329",
+        "qid": "329-3",
+        "q_type": "Attribute Perception",
+        "question": "What is the role of the company bivacor in the field of medical devices?",
+        "optionA": "BiVACOR is engineering a long-term device intended to completely replace the function of a patient's native heart",
+        "optionB": "BiVACOR is developing a temporary device for heart assistance during surgery",
+        "optionC": "BiVACOR is focused on creating diagnostic tools for heart disease",
+        "optionD": "BiVACOR designs pacemakers for regulating heart rhythm disorders",
+        "options": [
+            "BiVACOR is engineering a long-term device intended to completely replace the function of a patient's native heart",
+            "BiVACOR is developing a temporary device for heart assistance during surgery",
+            "BiVACOR is focused on creating diagnostic tools for heart disease",
+            "BiVACOR designs pacemakers for regulating heart rhythm disorders"
+        ],
+        "question_w_options": "What is the role of the company bivacor in the field of medical devices? Choose your answer from below options: A.BiVACOR is engineering a long-term device intended to completely replace the function of a patient's native heart, B.BiVACOR is developing a temporary device for heart assistance during surgery, C.BiVACOR is focused on creating diagnostic tools for heart disease, D.BiVACOR designs pacemakers for regulating heart rhythm disorders.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/3uV8XZcIBbk.mp4",
+        "answers": [
+            "Based on the images provided, particularly image 5 which shows a mechanical device that resembles a heart pump, the role of BiVACOR in the field of medical devices is likely:\n\nA. BiVACOR is engineering a long-term device intended to completely replace the function of a patient's native heart."
+        ],
+        "video_info": {
+            "total_frames": 18386,
+            "fps": 23.976023976023978,
+            "duration": 766.8494166666666
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.011736332850223855,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "330-1",
+        "uid": "330",
+        "qid": "330-1",
+        "q_type": "Information Synopsis",
+        "question": "Which summarizes the main focus of the video?",
+        "optionA": "The effects of neurological disorders on brain function",
+        "optionB": "What happens to the brain as we age",
+        "optionC": "The effects of social and emotional education on brain development",
+        "optionD": "Neurological development of the human brain from infancy to adulthood",
+        "options": [
+            "The effects of neurological disorders on brain function",
+            "What happens to the brain as we age",
+            "The effects of social and emotional education on brain development",
+            "Neurological development of the human brain from infancy to adulthood"
+        ],
+        "question_w_options": "Which summarizes the main focus of the video? Choose your answer from below options: A.The effects of neurological disorders on brain function, B.What happens to the brain as we age, C.The effects of social and emotional education on brain development, D.Neurological development of the human brain from infancy to adulthood.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/cMim0uU1yzA.mp4",
+        "answers": [
+            "Based on the images provided, the main focus of the video seems to be:\n\n**D. Neurological development of the human brain from infancy to adulthood.**\n\nThe images show a progression from infancy (image 2) to adulthood (image 6), with references to brain function (images 1 and 7) and possibly aging (image 8)."
+        ],
+        "video_info": {
+            "total_frames": 13146,
+            "fps": 25.0,
+            "duration": 525.84
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01711547238703788,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "330-2",
+        "uid": "330",
+        "qid": "330-2",
+        "q_type": "Action Reasoning",
+        "question": "What is different from the other chapters in the video when introducing the children's chapter?",
+        "optionA": "No brain slice model demonstration",
+        "optionB": "No neurotransmitter models were demonstrated",
+        "optionC": "Brain waves of the human brain were demonstrated and analyzed",
+        "optionD": "Video recordings of real-life scenarios are cited to reflect the function of the human brain at different ages",
+        "options": [
+            "No brain slice model demonstration",
+            "No neurotransmitter models were demonstrated",
+            "Brain waves of the human brain were demonstrated and analyzed",
+            "Video recordings of real-life scenarios are cited to reflect the function of the human brain at different ages"
+        ],
+        "question_w_options": "What is different from the other chapters in the video when introducing the children's chapter? Choose your answer from below options: A.No brain slice model demonstration, B.No neurotransmitter models were demonstrated, C.Brain waves of the human brain were demonstrated and analyzed, D.Video recordings of real-life scenarios are cited to reflect the function of the human brain at different ages.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/cMim0uU1yzA.mp4",
+        "answers": [
+            "Based on the image sequence, the option that stands out for the children's chapter is:\n\nD. Video recordings of real-life scenarios are cited to reflect the function of the human brain at different ages.\n\nThis is suggested by the presence of real-life scenarios in frames 2, 5, 6, and 8, which depict various life stages and activities."
+        ],
+        "video_info": {
+            "total_frames": 13146,
+            "fps": 25.0,
+            "duration": 525.84
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01711547238703788,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "330-3",
+        "uid": "330",
+        "qid": "330-3",
+        "q_type": "Object Reasoning",
+        "question": "What happens to your brain when you're in your 70s according to the video?",
+        "optionA": "A greater tendency to be introverted, to avoid risk, or to have a stronger tendency towards social bonding",
+        "optionB": "Reorganisation of the brain's neural network resulting in weaker connections between certain areas",
+        "optionC": "The brain becomes smaller in size",
+        "optionD": "'Natural death' or 'aging' of neurons in the brain",
+        "options": [
+            "A greater tendency to be introverted, to avoid risk, or to have a stronger tendency towards social bonding",
+            "Reorganisation of the brain's neural network resulting in weaker connections between certain areas",
+            "The brain becomes smaller in size",
+            "'Natural death' or 'aging' of neurons in the brain"
+        ],
+        "question_w_options": "What happens to your brain when you're in your 70s according to the video? Choose your answer from below options: A.A greater tendency to be introverted, to avoid risk, or to have a stronger tendency towards social bonding, B.Reorganisation of the brain's neural network resulting in weaker connections between certain areas, C.The brain becomes smaller in size, D.'Natural death' or 'aging' of neurons in the brain.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/cMim0uU1yzA.mp4",
+        "answers": [
+            "I can't determine the specific content of the video from the images alone. However, if the video is discussing changes in the brain during the 70s, the most relevant option might be:\n\nB. Reorganisation of the brain's neural network resulting in weaker connections between certain areas.\n\nThis is a common topic in discussions about aging and the brain."
+        ],
+        "video_info": {
+            "total_frames": 13146,
+            "fps": 25.0,
+            "duration": 525.84
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.01711547238703788,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "331-1",
+        "uid": "331",
+        "qid": "331-1",
+        "q_type": "OCR Problems",
+        "question": "Which company is featured in the video but not mentioned in the audio?",
+        "optionA": "Coca-Cola",
+        "optionB": "Apple",
+        "optionC": "Dairy Queen",
+        "optionD": "American Express",
+        "options": [
+            "Coca-Cola",
+            "Apple",
+            "Dairy Queen",
+            "American Express"
+        ],
+        "question_w_options": "Which company is featured in the video but not mentioned in the audio? Choose your answer from below options: A.Coca-Cola, B.Apple, C.Dairy Queen, D.American Express.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/t6V9i8fFADI.mp4",
+        "answers": [
+            "The company featured in the video but not mentioned in the audio is C. Dairy Queen."
+        ],
+        "video_info": {
+            "total_frames": 8796,
+            "fps": 23.976023976023978,
+            "duration": 366.8665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.024532084559369692,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "331-2",
+        "uid": "331",
+        "qid": "331-2",
+        "q_type": "Object Reasoning",
+        "question": "Suppose emily purchased some company stock in 2005 at a price of $50 per share. she passed away in 2020, when the stock's market value was $150 per share. if her heir, john, sold the stock in 2023 for $180 per share. assume the capital gains tax rate is 15%. according to the 'step-up in basis' rule, how much capital gains tax would john need to pay?",
+        "optionA": "$4.5 per share",
+        "optionB": "$27 per share",
+        "optionC": "$19.5 per share",
+        "optionD": "$15 per share",
+        "options": [
+            "$4.5 per share",
+            "$27 per share",
+            "$19.5 per share",
+            "$15 per share"
+        ],
+        "question_w_options": "Suppose emily purchased some company stock in 2005 at a price of $50 per share. she passed away in 2020, when the stock's market value was $150 per share. if her heir, john, sold the stock in 2023 for $180 per share. assume the capital gains tax rate is 15%. according to the 'step-up in basis' rule, how much capital gains tax would john need to pay? Choose your answer from below options: A.$4.5 per share, B.$27 per share, C.$19.5 per share, D.$15 per share.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/t6V9i8fFADI.mp4",
+        "answers": [
+            "To determine the capital gains tax John needs to pay, we use the \"step-up in basis\" rule. This rule allows the heir to use the market value of the stock at the time of the original owner's death as the new cost basis.\n\n- Emily purchased the stock at $50 per share.\n- The market value at the time of her death in 2020 was $150 per share. This becomes the new cost basis for John.\n- John sold the stock in 2023 for $180 per share.\n\nThe capital gain for John is calculated as follows:\n\n\\[ \\text{Capital Gain} = \\text{Selling Price} - \\text{Stepped-up Basis} = 180 - 150 = 30 \\]\n\nThe capital gains tax is then:\n\n\\[ \\text{Capital Gains Tax} = \\text{Capital Gain} \\times \\text{Tax Rate} = 30 \\times 0.15 = 4.5 \\]\n\nSo, John would need to pay $4.5 per share in capital gains tax.\n\nThe correct answer is **A. $4.5 per share**."
+        ],
+        "video_info": {
+            "total_frames": 8796,
+            "fps": 23.976023976023978,
+            "duration": 366.8665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.024532084559369692,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "331-3",
+        "uid": "331",
+        "qid": "331-3",
+        "q_type": "Temporal Reasoning",
+        "question": "What is the correct order in which the billionaires appear in the video?",
+        "optionA": "Warren Buffett, Morris Pearl, Elon Musk",
+        "optionB": "Warren Buffett, Jeff Bezos, Elon Musk",
+        "optionC": "Warren Buffett, Elon Musk, Jeff Bezos",
+        "optionD": "Morris Pearl, Jeff Bezos, Elon Musk",
+        "options": [
+            "Warren Buffett, Morris Pearl, Elon Musk",
+            "Warren Buffett, Jeff Bezos, Elon Musk",
+            "Warren Buffett, Elon Musk, Jeff Bezos",
+            "Morris Pearl, Jeff Bezos, Elon Musk"
+        ],
+        "question_w_options": "What is the correct order in which the billionaires appear in the video? Choose your answer from below options: A.Warren Buffett, Morris Pearl, Elon Musk, B.Warren Buffett, Jeff Bezos, Elon Musk, C.Warren Buffett, Elon Musk, Jeff Bezos, D.Morris Pearl, Jeff Bezos, Elon Musk.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/t6V9i8fFADI.mp4",
+        "answers": [
+            "I can't identify or recognize people in images, but I can help analyze the content. Based on the annotations and context:\n\n1. Frame 2 mentions Warren Buffett.\n2. Frame 8 shows a person who might be Morris Pearl.\n3. Frame 3 and 6 could relate to wealth growth, possibly involving Elon Musk or Jeff Bezos.\n\nGiven this context, the most likely order is:\n\nA. Warren Buffett, Morris Pearl, Elon Musk."
+        ],
+        "video_info": {
+            "total_frames": 8796,
+            "fps": 23.976023976023978,
+            "duration": 366.8665
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.024532084559369692,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "332-1",
+        "uid": "332",
+        "qid": "332-1",
+        "q_type": "Object Recognition",
+        "question": "What event wasn't mentioned within the video?",
+        "optionA": "Witness the inflation in Venezuela",
+        "optionB": "Fed rate hike",
+        "optionC": "The epidemic is affecting global supply chains",
+        "optionD": "Bicycle factory closed",
+        "options": [
+            "Witness the inflation in Venezuela",
+            "Fed rate hike",
+            "The epidemic is affecting global supply chains",
+            "Bicycle factory closed"
+        ],
+        "question_w_options": "What event wasn't mentioned within the video? Choose your answer from below options: A.Witness the inflation in Venezuela, B.Fed rate hike, C.The epidemic is affecting global supply chains, D.Bicycle factory closed.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/zIbNJCSCEjk.mp4",
+        "answers": [
+            "Based on the images:\n\n1. Image 1 and 8 suggest inflation in Venezuela with currency visuals.\n2. Image 3 and 6 indicate a Fed rate hike with references to interest rates and the Federal Reserve.\n3. Image 5 and 7 imply an epidemic affecting global supply chains, with protective gear and crowded scenes.\n4. Image 4 shows a bicycle advertisement, but there's no clear indication of a factory closure.\n\nThe event not mentioned in the video is likely: **D. Bicycle factory closed.**"
+        ],
+        "video_info": {
+            "total_frames": 14536,
+            "fps": 23.976023976023978,
+            "duration": 606.2723333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.014844813964241593,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "332-2",
+        "uid": "332",
+        "qid": "332-2",
+        "q_type": "OCR Problems",
+        "question": "According to the video, how much did the central bank drop interest rates during the epidemic?",
+        "optionA": "5%",
+        "optionB": "6%",
+        "optionC": "1%",
+        "optionD": "10%",
+        "options": [
+            "5%",
+            "6%",
+            "1%",
+            "10%"
+        ],
+        "question_w_options": "According to the video, how much did the central bank drop interest rates during the epidemic? Choose your answer from below options: A.5%, B.6%, C.1%, D.10%.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/zIbNJCSCEjk.mp4",
+        "answers": [
+            "I can't determine the specific interest rate drop from the images alone. You might want to check the video or accompanying text for that information."
+        ],
+        "video_info": {
+            "total_frames": 14536,
+            "fps": 23.976023976023978,
+            "duration": 606.2723333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.014844813964241593,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "332-3",
+        "uid": "332",
+        "qid": "332-3",
+        "q_type": "Object Reasoning",
+        "question": "Why does the price of apples go up in the video?",
+        "optionA": "There is excess liquidity in the market",
+        "optionB": "Good sales",
+        "optionC": "For profiteering",
+        "optionD": "The apples don't sell",
+        "options": [
+            "There is excess liquidity in the market",
+            "Good sales",
+            "For profiteering",
+            "The apples don't sell"
+        ],
+        "question_w_options": "Why does the price of apples go up in the video? Choose your answer from below options: A.There is excess liquidity in the market, B.Good sales, C.For profiteering, D.The apples don't sell.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/zIbNJCSCEjk.mp4",
+        "answers": [
+            "Based on the image sequence, the most likely reason for the price of apples going up is A. There is excess liquidity in the market. \n\nThe images suggest themes of money, economic policy, and market dynamics, which align with the concept of excess liquidity leading to price increases."
+        ],
+        "video_info": {
+            "total_frames": 14536,
+            "fps": 23.976023976023978,
+            "duration": 606.2723333333333
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.014844813964241593,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "333-1",
+        "uid": "333",
+        "qid": "333-1",
+        "q_type": "Object Reasoning",
+        "question": "What is the role of the woman speaking in a white blouse in the video?",
+        "optionA": "Journalist",
+        "optionB": "Employee",
+        "optionC": "Company Executive",
+        "optionD": "Counselor",
+        "options": [
+            "Journalist",
+            "Employee",
+            "Company Executive",
+            "Counselor"
+        ],
+        "question_w_options": "What is the role of the woman speaking in a white blouse in the video? Choose your answer from below options: A.Journalist, B.Employee, C.Company Executive, D.Counselor.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/9XCKnN6o19k.mp4",
+        "answers": [
+            "I can't determine the role of the woman in the white blouse from the images alone."
+        ],
+        "video_info": {
+            "total_frames": 14846,
+            "fps": 25.0,
+            "duration": 593.84
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.015155597467331267,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "333-2",
+        "uid": "333",
+        "qid": "333-2",
+        "q_type": "Object Reasoning",
+        "question": "Extrapolating from the video, when was shein founded?",
+        "optionA": "2015",
+        "optionB": "2008",
+        "optionC": "2011",
+        "optionD": "2010",
+        "options": [
+            "2015",
+            "2008",
+            "2011",
+            "2010"
+        ],
+        "question_w_options": "Extrapolating from the video, when was shein founded? Choose your answer from below options: A.2015, B.2008, C.2011, D.2010.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/9XCKnN6o19k.mp4",
+        "answers": [
+            "The image sequence includes a frame (7) showing a timeline with the year 2008 highlighted. This suggests that Shein was founded in 2008. Therefore, the correct answer is B. 2008."
+        ],
+        "video_info": {
+            "total_frames": 14846,
+            "fps": 25.0,
+            "duration": 593.84
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.015155597467331267,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "333-3",
+        "uid": "333",
+        "qid": "333-3",
+        "q_type": "Information Synopsis",
+        "question": "Inferring from the video, what is the characteristic of shein corp?",
+        "optionA": "Open",
+        "optionB": "Mystery",
+        "optionC": "Expensive",
+        "optionD": "Innovation",
+        "options": [
+            "Open",
+            "Mystery",
+            "Expensive",
+            "Innovation"
+        ],
+        "question_w_options": "Inferring from the video, what is the characteristic of shein corp? Choose your answer from below options: A.Open, B.Mystery, C.Expensive, D.Innovation.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/9XCKnN6o19k.mp4",
+        "answers": [
+            "Based on the images provided, the characteristic of Shein Corp inferred from the video is likely \"B. Mystery.\" The frames show interviews and discussions, possibly about the company's operations or impact, but there is no clear indication of openness, expense, or innovation. The presence of interviews and a focus on the company's app and customer views suggest a focus on understanding or unveiling aspects of the company, which aligns with the theme of mystery."
+        ],
+        "video_info": {
+            "total_frames": 14846,
+            "fps": 25.0,
+            "duration": 593.84
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.015155597467331267,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "334-1",
+        "uid": "334",
+        "qid": "334-1",
+        "q_type": "Information Synopsis",
+        "question": "What is the main point of this video?",
+        "optionA": "Who is Al Capone",
+        "optionB": "Al Capone's estate",
+        "optionC": "The operational process of money laundering",
+        "optionD": "How to Start a Laundry Business",
+        "options": [
+            "Who is Al Capone",
+            "Al Capone's estate",
+            "The operational process of money laundering",
+            "How to Start a Laundry Business"
+        ],
+        "question_w_options": "What is the main point of this video? Choose your answer from below options: A.Who is Al Capone, B.Al Capone's estate, C.The operational process of money laundering, D.How to Start a Laundry Business.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/257wV-AbKaE.mp4",
+        "answers": [
+            "The main point of the video is likely C. The operational process of money laundering. The images depict elements like money, a bank, and a character that might be involved in illegal activities, which are common themes in discussions about money laundering."
+        ],
+        "video_info": {
+            "total_frames": 6873,
+            "fps": 23.976023976023978,
+            "duration": 286.66137499999996
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.031395928384143144,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    }
+]

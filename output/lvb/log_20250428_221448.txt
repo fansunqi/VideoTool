@@ -1,0 +1,824 @@
+
+Building lvb dataset...
+
+
+Processing: CGngv8vTQOs
+/mnt/Shared_03/fsq/LongVideoBench/videos/CGngv8vTQOs.mp4
+922.48
+Input prompt:  What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left.
+VideoQA inference input: What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left.
+Output Answer:  C.Flying straight up
+
+
+Processing: @kerstinong-7197781091162279169
+/mnt/Shared_03/fsq/LongVideoBench/videos/7197781091162279169.mp4
+19.266666666666666
+Input prompt:  What change happens to this woman? Choose your answer from below options: A.The gray shorts change to black shorts., B.She goes from not wearing sunglasses to wearing sunglasses., C.The white short-sleeved top changes to a pink plaid long-sleeved top., D.She goes from not wearing a hat to wearing a hat..
+VideoQA inference input: What change happens to this woman? Choose your answer from below options: A.The gray shorts change to black shorts., B.She goes from not wearing sunglasses to wearing sunglasses., C.The white short-sleeved top changes to a pink plaid long-sleeved top., D.She goes from not wearing a hat to wearing a hat..
+Output Answer:  C. The white short-sleeved top changes to a pink plaid long-sleeved top.
+
+
+Processing: Lc7RikDaa30
+/mnt/Shared_03/fsq/LongVideoBench/videos/Lc7RikDaa30.mp4
+191.88
+Input prompt:  Which of the following concepts is mentioned first? Choose your answer from below options: A.The COE prices in Singapore have always been high, B.COE prices are determined by supply and demand, C.Using cars is the real issue, D.We need a rational and accurate road pricing system.
+VideoQA inference input: Which of the following concepts is mentioned first? Choose your answer from below options: A.The COE prices in Singapore have always been high, B.COE prices are determined by supply and demand, C.Using cars is the real issue, D.We need a rational and accurate road pricing system.
+Output Answer:  B. COE prices are determined by supply and demand
+
+
+Processing: mS1QPVgBDQo
+/mnt/Shared_03/fsq/LongVideoBench/videos/mS1QPVgBDQo.mp4
+1950.7154333333333
+Input prompt:  What change occurs to the woman in the middle, who is wearing a red and blue checkered shirt and has white hair? Choose your answer from below options: A.She put on a white hat, B.She put on a black hat, C.Her hair turned black, D.She tied a black ribbon around her head.
+VideoQA inference input: What change occurs to the woman in the middle, who is wearing a red and blue checkered shirt and has white hair? Choose your answer from below options: A.She put on a white hat, B.She put on a black hat, C.Her hair turned black, D.She tied a black ribbon around her head.
+Output Answer:  A. She put on a white hat.
+
+
+Processing: M7YSCIkUaNw
+/mnt/Shared_03/fsq/LongVideoBench/videos/M7YSCIkUaNw.mp4
+522.897375
+Input prompt:  Lin, what item appears on the screen? Choose your answer from below options: A.A burning white candle, B.A little girl, C.A courier paper box, D.Santa Claus mug.
+VideoQA inference input: Lin, what item appears on the screen? Choose your answer from below options: A.A burning white candle, B.A little girl, C.A courier paper box, D.Santa Claus mug.
+Output Answer:  A. A burning white candle
+
+
+Processing: -Xg2-SUq6wo
+/mnt/Shared_03/fsq/LongVideoBench/videos/-Xg2-SUq6wo.mp4
+405.84
+Input prompt:  What object is present in the broadcast room? Choose your answer from below options: A.necklace, B.plant, C.doll, D.microphone.
+VideoQA inference input: What object is present in the broadcast room? Choose your answer from below options: A.necklace, B.plant, C.doll, D.microphone.
+Output Answer:  D. microphone
+
+
+Processing: T57jVsvVVR0
+/mnt/Shared_03/fsq/LongVideoBench/videos/T57jVsvVVR0.mp4
+263.96
+Input prompt:  What color is the clothing? Choose your answer from below options: A.black, B.blue, C.red, D.yellow.
+VideoQA inference input: What color is the clothing? Choose your answer from below options: A.black, B.blue, C.red, D.yellow.
+Output Answer:  A. black
+
+
+Processing: UbcWAfHo5j0
+/mnt/Shared_03/fsq/LongVideoBench/videos/UbcWAfHo5j0.mp4
+47.0
+Input prompt:  What kind of skirts are they wearing? Choose your answer from below options: A.Super short skirt, B.Pleated short skirt, C.Dress, D.Knee-length skirt.
+VideoQA inference input: What kind of skirts are they wearing? Choose your answer from below options: A.Super short skirt, B.Pleated short skirt, C.Dress, D.Knee-length skirt.
+Output Answer:  The students in the video are wearing knee-length skirts. Therefore, the correct answer is:
+
+D. Knee-length skirt.
+
+
+Processing: @jonijawne-7305901654417706246
+/mnt/Shared_03/fsq/LongVideoBench/videos/7305901654417706246.mp4
+10.266666666666667
+Input prompt:  In the video, which of the following characters appears first? Choose your answer from below options: A.A woman wearing a navy blue hooded jacket, B.A man wearing a gray coat, earphones, and with short black hair, C.A woman wearing a white T-shirt, D.A man wearing a white shirt.
+VideoQA inference input: In the video, which of the following characters appears first? Choose your answer from below options: A.A woman wearing a navy blue hooded jacket, B.A man wearing a gray coat, earphones, and with short black hair, C.A woman wearing a white T-shirt, D.A man wearing a white shirt.
+Output Answer:  B. A man wearing a gray coat, earphones, and with short black hair.
+
+
+Processing: kONR5_mHofA
+/mnt/Shared_03/fsq/LongVideoBench/videos/kONR5_mHofA.mp4
+13.980647313980647
+Input prompt:  What change occurs on the screen when this is mentioned? Choose your answer from below options: A.The green character below the brown character is labeled '8th place', B.The green character below the brown character is labeled '11th place', C.The green character below the brown character is labeled '9th place', D.The green character below the brown character is labeled '10th place'.
+VideoQA inference input: What change occurs on the screen when this is mentioned? Choose your answer from below options: A.The green character below the brown character is labeled '8th place', B.The green character below the brown character is labeled '11th place', C.The green character below the brown character is labeled '9th place', D.The green character below the brown character is labeled '10th place'.
+Output Answer:  A. The green character below the brown character is labeled '8th place'.
+
+
+Processing: j7kxn5CsHnw
+/mnt/Shared_03/fsq/LongVideoBench/videos/j7kxn5CsHnw.mp4
+35.0
+Input prompt:  ? Choose your answer from below options: A.Meat buns were once popular in the USA and the UK, B.The situation in the UK is the same, C.They ultimately lost green onions, D.Sharing some information about meat buns.
+VideoQA inference input: ? Choose your answer from below options: A.Meat buns were once popular in the USA and the UK, B.The situation in the UK is the same, C.They ultimately lost green onions, D.Sharing some information about meat buns.
+Output Answer:  The video does not provide any information related to meat buns or their popularity in the USA and the UK. The content of the video seems to be focused on a plate with food remnants and chickens eating from a pumpkin. Therefore, none of the provided options (A, B, C, or D) can be directly inferred from the video content.
+
+
+Processing: yFAuXmcGk2Y
+/mnt/Shared_03/fsq/LongVideoBench/videos/yFAuXmcGk2Y.mp4
+3128.5666666666666
+Input prompt:  What changes occur to the '只' character in the bottom left corner at this time? Choose your answer from below options: A.Green characters and sketches appeared above the '只' character, B.The '只' character turned black, C.The '只' character turned green, D.The bottom part of the '只' character disappeared.
+VideoQA inference input: What changes occur to the '只' character in the bottom left corner at this time? Choose your answer from below options: A.Green characters and sketches appeared above the '只' character, B.The '只' character turned black, C.The '只' character turned green, D.The bottom part of the '只' character disappeared.
+Output Answer:  C. The '只' character turned green.
+
+
+Processing: ZGMGQsnSdLE
+/mnt/Shared_03/fsq/LongVideoBench/videos/ZGMGQsnSdLE.mp4
+2376.5408333333335
+Input prompt:  What change occurs to the flames? Choose your answer from below options: A.It extinguishes., B.Its color changes to blue., C.Its color changes to orange., D.Its color changes to red..
+VideoQA inference input: What change occurs to the flames? Choose your answer from below options: A.It extinguishes., B.Its color changes to blue., C.Its color changes to orange., D.Its color changes to red..
+Output Answer:  B. Its color changes to blue.
+
+
+Processing: uJgZo4KxoZw
+/mnt/Shared_03/fsq/LongVideoBench/videos/uJgZo4KxoZw.mp4
+13.96997497914929
+Input prompt:  What is the shape of this decoration? Choose your answer from below options: A.Heart, B.Square, C.Triangle, D.Circle.
+VideoQA inference input: What is the shape of this decoration? Choose your answer from below options: A.Heart, B.Square, C.Triangle, D.Circle.
+Output Answer:  The decoration in the image appears to be shaped like a triangle. Therefore, the correct answer is:
+
+C. Triangle
+
+
+Processing: JhlzvoqKOc8
+/mnt/Shared_03/fsq/LongVideoBench/videos/JhlzvoqKOc8.mp4
+592.2917
+Input prompt:  What action did she take? Choose your answer from below options: A.Picked up the white clothes, B.Threw the white clothes into the fire, C.Threw the white clothes into the river, D.Threw the white clothes on the ground.
+VideoQA inference input: What action did she take? Choose your answer from below options: A.Picked up the white clothes, B.Threw the white clothes into the fire, C.Threw the white clothes into the river, D.Threw the white clothes on the ground.
+Output Answer:  B. Threw the white clothes into the fire
+
+
+Processing: 60oHeCZHtvI
+/mnt/Shared_03/fsq/LongVideoBench/videos/60oHeCZHtvI.mp4
+965.0
+Input prompt:  What is the color of the traveling armored vehicle? Choose your answer from below options: A.Red, B.Camouflage, C.White, D.Pink.
+VideoQA inference input: What is the color of the traveling armored vehicle? Choose your answer from below options: A.Red, B.Camouflage, C.White, D.Pink.
+Output Answer:  B. Camouflage
+
+
+Processing: d-GKQeu4S6M
+/mnt/Shared_03/fsq/LongVideoBench/videos/d-GKQeu4S6M.mp4
+1257.6897666666666
+Input prompt:  What does she do? Choose your answer from below options: A.Yawns, B.Brushes her hair with both hands, C.Stands up, D.Adjusts her glasses.
+VideoQA inference input: What does she do? Choose your answer from below options: A.Yawns, B.Brushes her hair with both hands, C.Stands up, D.Adjusts her glasses.
+Output Answer:  B.Brushes her hair with both hands
+
+
+Processing: GwcXYTX2GmA
+/mnt/Shared_03/fsq/LongVideoBench/videos/GwcXYTX2GmA.mp4
+31.02585487906589
+Input prompt:  Which of the following subtitles was displayed at the same time? Choose your answer from below options: A.population belonging to the next biggest, B.group the beija people in the east, C.have ancestral roots actually to arabs, D.that leaves about four percent of the .
+VideoQA inference input: Which of the following subtitles was displayed at the same time? Choose your answer from below options: A.population belonging to the next biggest, B.group the beija people in the east, C.have ancestral roots actually to arabs, D.that leaves about four percent of the .
+Output Answer:  The subtitle that was displayed at the same time is:
+
+D. that leaves about four percent of the.
+
+
+Processing: UO_6TQnnOxM
+/mnt/Shared_03/fsq/LongVideoBench/videos/UO_6TQnnOxM.mp4
+3573.96
+Input prompt:  What type of guitar is the man holding while singing into the microphone? Choose your answer from below options: A.black wood guitar, B.orange wood guitar, C.white electric guitar, D.yellow electric guitar.
+VideoQA inference input: What type of guitar is the man holding while singing into the microphone? Choose your answer from below options: A.black wood guitar, B.orange wood guitar, C.white electric guitar, D.yellow electric guitar.
+Output Answer:  B. orange wood guitar
+
+
+Processing: 0WEnmqVVbHo
+/mnt/Shared_03/fsq/LongVideoBench/videos/0WEnmqVVbHo.mp4
+479.4794794794795
+Input prompt:  What item does she put into the washing machine? Choose your answer from below options: A.laundry powder, B.clothes, C.laundry pods, D.plush toy.
+VideoQA inference input: What item does she put into the washing machine? Choose your answer from below options: A.laundry powder, B.clothes, C.laundry pods, D.plush toy.
+Output Answer:  B. clothes
+
+
+Processing: @placesunleashed-7297652941551439109
+/mnt/Shared_03/fsq/LongVideoBench/videos/7297652941551439109.mp4
+14.466666666666667
+Input prompt:  What did the kangaroo do the first time it appeared? Choose your answer from below options: A.Crossing, B.Jumping, C.Fighting, D.Walking.
+VideoQA inference input: What did the kangaroo do the first time it appeared? Choose your answer from below options: A.Crossing, B.Jumping, C.Fighting, D.Walking.
+Output Answer:  D. Walking.
+
+
+Processing: WpbB_swXHkc
+/mnt/Shared_03/fsq/LongVideoBench/videos/WpbB_swXHkc.mp4
+526.8333333333334
+Input prompt:  Which subtitles have appeared together with this woman? Choose your answer from below options: A.all right that’s the fun part of the day, B.is just bam it’s kind of slaps, C.Is this a special treatment for members?, D.It’s seven o’clock, did you hear?.
+VideoQA inference input: Which subtitles have appeared together with this woman? Choose your answer from below options: A.all right that’s the fun part of the day, B.is just bam it’s kind of slaps, C.Is this a special treatment for members?, D.It’s seven o’clock, did you hear?.
+Output Answer:  A.
+
+
+Processing: BRiFXVCr1Ak
+/mnt/Shared_03/fsq/LongVideoBench/videos/BRiFXVCr1Ak.mp4
+377.24353333333335
+Input prompt:  Which of the following sequences of scenes is correct? Choose your answer from below options: A.First is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., B.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him., C.First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., D.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a man wearing headphones is seated in a gaming chair, with light strips on the wall behind him..
+VideoQA inference input: Which of the following sequences of scenes is correct? Choose your answer from below options: A.First is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., B.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him., C.First is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a scene with two women and a man wearing a hat standing above them, with a fan behind the man., D.First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him. Finally, a man wearing headphones is seated in a gaming chair, with light strips on the wall behind him..
+Output Answer:  B. First is a scene with two women and a man wearing a hat standing above them, with a fan behind the man. Next is a man seated in a gaming chair, with light strips on the wall behind him, wearing headphones. Finally, a man in a brown long-sleeve shirt talking to a white microphone, with a blue curtain beside him.
+
+
+Processing: qbA42wQoWAs
+/mnt/Shared_03/fsq/LongVideoBench/videos/qbA42wQoWAs.mp4
+454.7459583333333
+Input prompt:  ... who among the following is participating? Choose your answer from below options: A.A man with white hair, B.A woman with long hair, C.A child, D.An elderly man with white hair.
+VideoQA inference input: ... who among the following is participating? Choose your answer from below options: A.A man with white hair, B.A woman with long hair, C.A child, D.An elderly man with white hair.
+Output Answer:  B. A woman with long hair
+
+
+Processing: I2Fyzav8MxE
+/mnt/Shared_03/fsq/LongVideoBench/videos/I2Fyzav8MxE.mp4
+21.976647206005005
+Input prompt:  What appears first? Choose your answer from below options: A.A man wearing a black short-sleeve shirt and black pants, B.A piece of fabric with yellow paint, C.A man wearing a black short-sleeve shirt and white pants, D.A piece of fabric with red paint.
+VideoQA inference input: What appears first? Choose your answer from below options: A.A man wearing a black short-sleeve shirt and black pants, B.A piece of fabric with yellow paint, C.A man wearing a black short-sleeve shirt and white pants, D.A piece of fabric with red paint.
+Output Answer:  A. A man wearing a black short-sleeve shirt and black pants
+
+
+Processing: Efuyl2Anehg
+/mnt/Shared_03/fsq/LongVideoBench/videos/Efuyl2Anehg.mp4
+511.63612499999994
+Input prompt:  What subtitle appeared at the same time as this man? Choose your answer from below options: A.The next morning, B.And it comes with my own Arabic TV., C.And if you can see, it's written in Arabic., D.It's a little after 10 and I just made it to Bahrain..
+VideoQA inference input: What subtitle appeared at the same time as this man? Choose your answer from below options: A.The next morning, B.And it comes with my own Arabic TV., C.And if you can see, it's written in Arabic., D.It's a little after 10 and I just made it to Bahrain..
+Output Answer:  A. The next morning.
+
+
+Processing: rZq-8Bq3mkU
+/mnt/Shared_03/fsq/LongVideoBench/videos/rZq-8Bq3mkU.mp4
+515.1813333333333
+Input prompt:  What is the person in blue protective clothing doing the first time they appear? Choose your answer from below options: A.Using a cotton swab to treat a wound of the person with short blonde hair, B.Putting a mask on the person with short blonde hair, C.Using a bandage to wrap the person with short blonde hair, D.Taking a photo of the person with short blonde hair using a phone.
+VideoQA inference input: What is the person in blue protective clothing doing the first time they appear? Choose your answer from below options: A.Using a cotton swab to treat a wound of the person with short blonde hair, B.Putting a mask on the person with short blonde hair, C.Using a bandage to wrap the person with short blonde hair, D.Taking a photo of the person with short blonde hair using a phone.
+Output Answer:  A.
+
+
+Processing: OMJc43wUPLM
+/mnt/Shared_03/fsq/LongVideoBench/videos/OMJc43wUPLM.mp4
+1078.3
+Input prompt:  What changes occur to the red square? Choose your answer from below options: A.It changes from red to green, and the number of small X's inside the box changes from two to one., B.It changes from red to green, and the number of small X's inside the box changes from two to four., C.It changes from red to green, and the number of small X's inside the box changes from two to three., D.It changes from red to green, and the number of small X's inside the box changes from two to six..
+VideoQA inference input: What changes occur to the red square? Choose your answer from below options: A.It changes from red to green, and the number of small X's inside the box changes from two to one., B.It changes from red to green, and the number of small X's inside the box changes from two to four., C.It changes from red to green, and the number of small X's inside the box changes from two to three., D.It changes from red to green, and the number of small X's inside the box changes from two to six..
+Output Answer:  D. It changes from red to green, and the number of small X's inside the box changes from two to six..
+
+
+Processing: yXXhrMqfMlk
+/mnt/Shared_03/fsq/LongVideoBench/videos/yXXhrMqfMlk.mp4
+317.90091666666666
+Input prompt:  What object is present in the scene? Choose your answer from below options: A.a round hat, B.a top hat, C.a duckbill cap, D.a black car.
+VideoQA inference input: What object is present in the scene? Choose your answer from below options: A.a round hat, B.a top hat, C.a duckbill cap, D.a black car.
+Output Answer:  C.
+
+
+Processing: Fw1rirubXiU
+/mnt/Shared_03/fsq/LongVideoBench/videos/Fw1rirubXiU.mp4
+3128.8257
+Input prompt:  What change occurs to him? Choose your answer from below options: A.He has an additional pair of gold-framed glasses on his face, B.He has an additional hat on his head, C.He has an additional pair of silver-framed glasses on his face, D.His hair changes to black.
+VideoQA inference input: What change occurs to him? Choose your answer from below options: A.He has an additional pair of gold-framed glasses on his face, B.He has an additional hat on his head, C.He has an additional pair of silver-framed glasses on his face, D.His hair changes to black.
+Output Answer:  A. He has an additional pair of gold-framed glasses on his face.
+
+
+Processing: @placesunleashed-7289528053112343814
+/mnt/Shared_03/fsq/LongVideoBench/videos/7289528053112343814.mp4
+24.366666666666667
+Input prompt:  Which of the following sequences of scenes is correct? Choose your answer from below options: A.First, a shot of the sea with a mountain in the background appears, then a scene of a waterfall appears, and finally, it concludes with the appearance of a frog., B.First, a scene of a waterfall appears, then a frog appears, and finally, it concludes with a shot of the sea with a mountain in the background., C.First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog., D.First, a frog appears, then a shot of the sea with a mountain in the background appears, and finally, it concludes with a scene of a waterfall..
+VideoQA inference input: Which of the following sequences of scenes is correct? Choose your answer from below options: A.First, a shot of the sea with a mountain in the background appears, then a scene of a waterfall appears, and finally, it concludes with the appearance of a frog., B.First, a scene of a waterfall appears, then a frog appears, and finally, it concludes with a shot of the sea with a mountain in the background., C.First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog., D.First, a frog appears, then a shot of the sea with a mountain in the background appears, and finally, it concludes with a scene of a waterfall..
+Output Answer:  The sequence of scenes in the video is as follows:
+
+1. The video starts with a scene of a waterfall.
+2. It then transitions to a shot of the sea with a mountain in the background.
+3. Finally, it concludes with the appearance of a frog.
+
+Therefore, the correct answer is:
+
+C. First, a scene of a waterfall appears, then a shot of the sea with a mountain in the background, and finally, it concludes with the appearance of a frog.
+
+
+Processing: @kerstinong-6900436106790194434
+/mnt/Shared_03/fsq/LongVideoBench/videos/6900436106790194434.mp4
+13.733333333333333
+Input prompt:  What change occurs to the woman who is working out? Choose your answer from below options: A.The woman's hands holding the equipment change to being crossed in front of her chest, B.The woman's hands holding the equipment change to being on her waist, C.The woman's hands holding the equipment change to being raised, D.The woman's spread-apart legs spread even wider.
+VideoQA inference input: What change occurs to the woman who is working out? Choose your answer from below options: A.The woman's hands holding the equipment change to being crossed in front of her chest, B.The woman's hands holding the equipment change to being on her waist, C.The woman's hands holding the equipment change to being raised, D.The woman's spread-apart legs spread even wider.
+Output Answer:  C. The woman's hands holding the equipment change to being raised.
+
+
+Processing: b__dUom9AcQ
+/mnt/Shared_03/fsq/LongVideoBench/videos/b__dUom9AcQ.mp4
+2454.9191333333333
+Input prompt:  What objects are present in this screen? Choose your answer from below options: A.helicopter, B.green stone lion, C.black car, D.traffic light.
+VideoQA inference input: What objects are present in this screen? Choose your answer from below options: A.helicopter, B.green stone lion, C.black car, D.traffic light.
+Output Answer:  B. green stone lion
+
+
+Processing: pJI5ZU6wxqg
+/mnt/Shared_03/fsq/LongVideoBench/videos/pJI5ZU6wxqg.mp4
+1261.12
+Input prompt:  What happens next? Choose your answer from below options: A.A tall man is carrying a young girl, B.Two women are holding an umbrella, walking forward in the water, C.An elderly person is being carried by a rescue team member, D.A rescue dog appears.
+VideoQA inference input: What happens next? Choose your answer from below options: A.A tall man is carrying a young girl, B.Two women are holding an umbrella, walking forward in the water, C.An elderly person is being carried by a rescue team member, D.A rescue dog appears.
+Output Answer:  B. Two women are holding an umbrella, walking forward in the water.
+
+
+Processing: @jess.morg-7203120578537049386
+/mnt/Shared_03/fsq/LongVideoBench/videos/7203120578537049386.mp4
+20.166666666666668
+Input prompt:  Which of the following scene sequences in the video is correct? Choose your answer from below options: A.First, flipping the menu on a wooden table in a dining room, then showing a phone to a mirror in a car, and finally showing a black shopping bag to a mirror in a shopping mall., B.First, showing a black shopping bag to a mirror in a shopping mall, then showing a phone to a mirror in a car, and finally flipping the menu on a wooden table in a dining room., C.First, showing a phone to a mirror in a car, then showing a black shopping bag to a mirror in a shopping mall, and finally flipping the menu on a wooden table in a dining room., D.First, flipping the menu on a wooden table in a dining room, then showing a black shopping bag to a mirror in a shopping mall, and finally showing a phone to a mirror in a car..
+VideoQA inference input: Which of the following scene sequences in the video is correct? Choose your answer from below options: A.First, flipping the menu on a wooden table in a dining room, then showing a phone to a mirror in a car, and finally showing a black shopping bag to a mirror in a shopping mall., B.First, showing a black shopping bag to a mirror in a shopping mall, then showing a phone to a mirror in a car, and finally flipping the menu on a wooden table in a dining room., C.First, showing a phone to a mirror in a car, then showing a black shopping bag to a mirror in a shopping mall, and finally flipping the menu on a wooden table in a dining room., D.First, flipping the menu on a wooden table in a dining room, then showing a black shopping bag to a mirror in a shopping mall, and finally showing a phone to a mirror in a car..
+Output Answer:  A. First, flipping the menu on a wooden table in a dining room, then showing a phone to a mirror in a car, and finally showing a black shopping bag to a mirror in a shopping mall.
+
+
+Processing: HvSEKzpSdzw
+/mnt/Shared_03/fsq/LongVideoBench/videos/HvSEKzpSdzw.mp4
+38.03169307756464
+Input prompt:  What is this young man doing in the room? Choose your answer from below options: A.Reaching into the box, B.Stepping on the box, C.Throwing the box away, D.Cutting the box with a knife.
+VideoQA inference input: What is this young man doing in the room? Choose your answer from below options: A.Reaching into the box, B.Stepping on the box, C.Throwing the box away, D.Cutting the box with a knife.
+Output Answer:  D. Cutting the box with a knife.
+
+
+Processing: pJI5ZU6wxqg
+/mnt/Shared_03/fsq/LongVideoBench/videos/pJI5ZU6wxqg.mp4
+1261.12
+Input prompt:  What happens after? Choose your answer from below options: A.A white car appears, B.An elderly person holding a palm fan appears, C.A little girl with a backpack appears, D.A large truck appears.
+VideoQA inference input: What happens after? Choose your answer from below options: A.A white car appears, B.An elderly person holding a palm fan appears, C.A little girl with a backpack appears, D.A large truck appears.
+Output Answer:  B. An elderly person holding a palm fan appears
+
+
+Processing: aqUisZS9Ruw
+/mnt/Shared_03/fsq/LongVideoBench/videos/aqUisZS9Ruw.mp4
+910.0091
+Input prompt:  In which subtitles has this woman appeared together with these words? Choose your answer from below options: A.hope you want to, B.museums I saw my first dog just, C.please take please take my car s if they, D.people here also really nice especially.
+VideoQA inference input: In which subtitles has this woman appeared together with these words? Choose your answer from below options: A.hope you want to, B.museums I saw my first dog just, C.please take please take my car s if they, D.people here also really nice especially.
+Output Answer:  D. people here also really nice especially when I ask for directions.
+
+
+Processing: PQRyGacBRA4
+/mnt/Shared_03/fsq/LongVideoBench/videos/PQRyGacBRA4.mp4
+212.68
+Input prompt:  In which of the following scenes does this man appear? Choose your answer from below options: A.On top of a building with a lot of reporters, and the roof is red., B.On a viewing platform without the Union Jack flag., C.In front of a building with black rectangular tiles, a white carved door frame, black double doors, and surrounded by windows., D.On a road surrounded by trees with cars around..
+VideoQA inference input: In which of the following scenes does this man appear? Choose your answer from below options: A.On top of a building with a lot of reporters, and the roof is red., B.On a viewing platform without the Union Jack flag., C.In front of a building with black rectangular tiles, a white carved door frame, black double doors, and surrounded by windows., D.On a road surrounded by trees with cars around..
+Output Answer:  C. In front of a building with black rectangular tiles, a white carved door frame, black double doors, and surrounded by windows.
+
+
+Processing: zk6fgbXI5AE
+/mnt/Shared_03/fsq/LongVideoBench/videos/zk6fgbXI5AE.mp4
+389.2221666666666
+Input prompt:  What appears first on the screen? Choose your answer from below options: A.A man wearing black clothes with a green bookbag and holding hands with a child, B.A man wearing a red floral outfit with a green bookbag and holding hands with a child, C.A woman wearing black clothes with a red bookbag and holding hands with a child, D.A woman wearing a red floral dress with a pink bookbag and holding hands with a child.
+VideoQA inference input: What appears first on the screen? Choose your answer from below options: A.A man wearing black clothes with a green bookbag and holding hands with a child, B.A man wearing a red floral outfit with a green bookbag and holding hands with a child, C.A woman wearing black clothes with a red bookbag and holding hands with a child, D.A woman wearing a red floral dress with a pink bookbag and holding hands with a child.
+Output Answer:  D.
+
+
+Processing: _hODR1cR9lo
+/mnt/Shared_03/fsq/LongVideoBench/videos/_hODR1cR9lo.mp4
+13.013013013013014
+Input prompt:  With which of the following subtitles did she appear together? Choose your answer from below options: A."I like to wear it when I sleep", B."which i am wearing right now and i have", C."This style is particularly comfortable to wear", D."There are a lot of people who like to wear this".
+VideoQA inference input: With which of the following subtitles did she appear together? Choose your answer from below options: A."I like to wear it when I sleep", B."which i am wearing right now and i have", C."This style is particularly comfortable to wear", D."There are a lot of people who like to wear this".
+Output Answer:  B."which i am wearing right now and i have"
+
+
+Processing: Z-1lgAXOEc8
+/mnt/Shared_03/fsq/LongVideoBench/videos/Z-1lgAXOEc8.mp4
+1013.9712916666666
+Input prompt:  In which other scenes does this man appear? Choose your answer from below options: A.In a green photo green ceiling with two storefront pizza shops., B.In a place with blue sky and white clouds, red buildings on both sides, a crosswalk on the road, and traffic lights hanging on a pole., C.In a place with orange pillars and glass doors with PIZZA stickers, at the top of the storefront, there is a grid-style pizza shop sign., D.In a long corridor covered with photos..
+VideoQA inference input: In which other scenes does this man appear? Choose your answer from below options: A.In a green photo green ceiling with two storefront pizza shops., B.In a place with blue sky and white clouds, red buildings on both sides, a crosswalk on the road, and traffic lights hanging on a pole., C.In a place with orange pillars and glass doors with PIZZA stickers, at the top of the storefront, there is a grid-style pizza shop sign., D.In a long corridor covered with photos..
+Output Answer:  A. In a green photo green ceiling with two storefront pizza shops., C. In a place with orange pillars and glass doors with PIZZA stickers, at the top of the storefront, there is a grid-style pizza shop sign., D. In a long corridor covered with photos..
+
+
+Processing: UUaiqR1I454
+/mnt/Shared_03/fsq/LongVideoBench/videos/UUaiqR1I454.mp4
+494.125
+Input prompt:  With which subtitles does this man appear together? Choose your answer from below options: A.still blanketed darkness与others weren’t so lucky, B.still blanketed darkness与they did not surrender, C.still blanketed in darkness与almost eclipsed the morning sun his, D.others weren’t so lucky与almost eclipsed the morning sun his.
+VideoQA inference input: With which subtitles does this man appear together? Choose your answer from below options: A.still blanketed darkness与others weren’t so lucky, B.still blanketed darkness与they did not surrender, C.still blanketed in darkness与almost eclipsed the morning sun his, D.others weren’t so lucky与almost eclipsed the morning sun his.
+Output Answer:  C. still blanketed in darkness与almost eclipsed the morning sun his
+
+
+Processing: qYnloYaeQA8
+/mnt/Shared_03/fsq/LongVideoBench/videos/qYnloYaeQA8.mp4
+408.032625
+Input prompt:  What kind of hat is this man wearing? Choose your answer from below options: A.A blue beret, B.A white ceremonial hat adorned with red flowers, C.An off-white baseball cap, D.A black baseball cap with a white design in the middle and on the upper side of the ear flaps.
+VideoQA inference input: What kind of hat is this man wearing? Choose your answer from below options: A.A blue beret, B.A white ceremonial hat adorned with red flowers, C.An off-white baseball cap, D.A black baseball cap with a white design in the middle and on the upper side of the ear flaps.
+Output Answer:  D.
+
+
+Processing: T15Kv6dtYO0
+/mnt/Shared_03/fsq/LongVideoBench/videos/T15Kv6dtYO0.mp4
+939.8722666666666
+Input prompt:  What color is the liquid inside the bucket in the painting? Choose your answer from below options: A.yellow, B.white, C.red, D.black.
+VideoQA inference input: What color is the liquid inside the bucket in the painting? Choose your answer from below options: A.yellow, B.white, C.red, D.black.
+Output Answer:  C.red
+
+
+Processing: L-XGTMusZvc
+/mnt/Shared_03/fsq/LongVideoBench/videos/L-XGTMusZvc.mp4
+917.0
+Input prompt:  What happened? Choose your answer from below options: A.A fighter jet crashes from the sky, B.A fighter jet crashes into the sea, C.A pilot jumps off the fighter jet, D.A fighter jet is engaging in ground combat.
+VideoQA inference input: What happened? Choose your answer from below options: A.A fighter jet crashes from the sky, B.A fighter jet crashes into the sea, C.A pilot jumps off the fighter jet, D.A fighter jet is engaging in ground combat.
+Output Answer:  D. A fighter jet is engaging in ground combat.
+
+
+Processing: 1D9TgBrW6Sw
+/mnt/Shared_03/fsq/LongVideoBench/videos/1D9TgBrW6Sw.mp4
+1517.875
+Input prompt:  Which subtitle does the man in the red and white striped shirt appear with in the video? Choose your answer from below options: A.heart disease,and birth defects including, B.I know every inch of the 707., C.I'm OK., D.You won't be sorry..
+VideoQA inference input: Which subtitle does the man in the red and white striped shirt appear with in the video? Choose your answer from below options: A.heart disease,and birth defects including, B.I know every inch of the 707., C.I'm OK., D.You won't be sorry..
+Output Answer:  B.
+
+
+Processing: iJk-HMfO4yQ
+/mnt/Shared_03/fsq/LongVideoBench/videos/iJk-HMfO4yQ.mp4
+51.0
+Input prompt:  Who is the first person to pass by behind the officer? Choose your answer from below options: A.A woman wearing a suit, B.A woman wearing black clothes with a hat, C.A man wearing black clothes with a hat, D.A woman wearing a hat and sunglasses.
+VideoQA inference input: Who is the first person to pass by behind the officer? Choose your answer from below options: A.A woman wearing a suit, B.A woman wearing black clothes with a hat, C.A man wearing black clothes with a hat, D.A woman wearing a hat and sunglasses.
+Output Answer:  D. A woman wearing a hat and sunglasses.
+
+
+Processing: Z6Hx_BAZeUw
+/mnt/Shared_03/fsq/LongVideoBench/videos/Z6Hx_BAZeUw.mp4
+2186.4175666666665
+Input prompt:  What happens? Choose your answer from below options: A.The content on the PPT disappears, and a light purple box appears, with CH3OH written at the top of the box., B.The content on the PPT disappears, and a light green box appears, with CH3OH written at the top of the box., C.The content on the PPT disappears, and a light red box appears, with CH3OH written at the top of the box., D.The content on the PPT disappears, and a light yellow box appears, with CH3OH written at the top of the box..
+VideoQA inference input: What happens? Choose your answer from below options: A.The content on the PPT disappears, and a light purple box appears, with CH3OH written at the top of the box., B.The content on the PPT disappears, and a light green box appears, with CH3OH written at the top of the box., C.The content on the PPT disappears, and a light red box appears, with CH3OH written at the top of the box., D.The content on the PPT disappears, and a light yellow box appears, with CH3OH written at the top of the box..
+Output Answer:  B.The content on the PPT disappears, and a light green box appears, with CH3OH written at the top of the box.
+
+
+Processing: lCvQtGVhUrc
+/mnt/Shared_03/fsq/LongVideoBench/videos/lCvQtGVhUrc.mp4
+513.96
+Input prompt:  What changes occur to the book? Choose your answer from below options: A.The book changes from being in the woman's hand to being on the table, B.The book changes from a black-and-white cover to a colored cover, C.The book changes from a full shot to a close-up, D.The book changes from brand new to damaged.
+VideoQA inference input: What changes occur to the book? Choose your answer from below options: A.The book changes from being in the woman's hand to being on the table, B.The book changes from a black-and-white cover to a colored cover, C.The book changes from a full shot to a close-up, D.The book changes from brand new to damaged.
+Output Answer:  C. The book changes from a full shot to a close-up.
+
+
+Processing: Ip9DbdOtqF4
+/mnt/Shared_03/fsq/LongVideoBench/videos/Ip9DbdOtqF4.mp4
+249.66608333333332
+Input prompt:  What did the little girl do the first time she appeared on the scene? Choose your answer from below options: A.Grabbed the white paper, B.Raised both hands, C.Used a tool to imprint a design on the white paper, D.Bent down and bowed.
+VideoQA inference input: What did the little girl do the first time she appeared on the scene? Choose your answer from below options: A.Grabbed the white paper, B.Raised both hands, C.Used a tool to imprint a design on the white paper, D.Bent down and bowed.
+Output Answer:  A. Grabbed the white paper,
+
+
+Processing: ixlQX7lV8dc
+/mnt/Shared_03/fsq/LongVideoBench/videos/ixlQX7lV8dc.mp4
+590.0561333333334
+Input prompt:  After the subtitle 'helped it seek out prey, primarily' appears, which animal is shown? Choose your answer from below options: A.gecko, B.snake, C.chipmunk, D.frog.
+VideoQA inference input: After the subtitle 'helped it seek out prey, primarily' appears, which animal is shown? Choose your answer from below options: A.gecko, B.snake, C.chipmunk, D.frog.
+Output Answer:  D. frog
+
+
+Processing: Y1YCvEip_ko
+/mnt/Shared_03/fsq/LongVideoBench/videos/Y1YCvEip_ko.mp4
+1100.1824166666665
+Input prompt:  Where else does this woman appear? Choose your answer from below options: A.On an escalator at the airport, B.Inside a hotel, C.In a taxi, D.On the light yellow sofa inside the room.
+VideoQA inference input: Where else does this woman appear? Choose your answer from below options: A.On an escalator at the airport, B.Inside a hotel, C.In a taxi, D.On the light yellow sofa inside the room.
+Output Answer:  A. On an escalator at the airport
+
+
+Processing: yFAuXmcGk2Y
+/mnt/Shared_03/fsq/LongVideoBench/videos/yFAuXmcGk2Y.mp4
+3128.5666666666666
+Input prompt:  What change happens? Choose your answer from below options: A.Got covered by a yellow layer, B.Turned red, C.Moved to the right, D.Got enlarged.
+VideoQA inference input: What change happens? Choose your answer from below options: A.Got covered by a yellow layer, B.Turned red, C.Moved to the right, D.Got enlarged.
+Output Answer:  B. Turned red
+
+
+Processing: WM78_KqcrSY
+/mnt/Shared_03/fsq/LongVideoBench/videos/WM78_KqcrSY.mp4
+490.23333333333335
+Input prompt:  Which of the following scenarios is in the correct order? Choose your answer from below options: A.First, a map block appears on the left with details, then the left side shows an icon, the right side shows a screen with two icons, and finally, the left shows many small drones and the right side top shows a screen with a few small drones to conclude., B.First, the left side shows many small drones, the right side top shows a screen with a few small drones, then a detailed map block appears on the left, and finally, as the conclusion, the left shows an icon and the right shows two icons., C.First, a map block appears on the left with details, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows an icon and the right side shows two icons to conclude., D.First, the left shows an icon, the right side shows a screen with two icons, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows a detailed map block..
+VideoQA inference input: Which of the following scenarios is in the correct order? Choose your answer from below options: A.First, a map block appears on the left with details, then the left side shows an icon, the right side shows a screen with two icons, and finally, the left shows many small drones and the right side top shows a screen with a few small drones to conclude., B.First, the left side shows many small drones, the right side top shows a screen with a few small drones, then a detailed map block appears on the left, and finally, as the conclusion, the left shows an icon and the right shows two icons., C.First, a map block appears on the left with details, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows an icon and the right side shows two icons to conclude., D.First, the left shows an icon, the right side shows a screen with two icons, then the left side shows many small drones, the right side top shows a screen with a few small drones, and finally, the left side shows a detailed map block..
+Error during inference: CUDA out of memory. Tried to allocate 13.12 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: GuEptwLiAvs
+/mnt/Shared_03/fsq/LongVideoBench/videos/GuEptwLiAvs.mp4
+927.64
+Input prompt:  Which of the following sequences is correct? Choose your answer from below options: A.A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside., B.A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf., C.A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen., D.A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside..
+VideoQA inference input: Which of the following sequences is correct? Choose your answer from below options: A.A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside., B.A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing gray sportswear with black earbuds is running outside; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf., C.A man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside; a man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen., D.A man wearing a black long-sleeved shirt holding an orange pumpkin stands in the kitchen; a man wearing an orange hoodie with a red and white logo on the upper right corner sits in front of the bookshelf; a man wearing gray sportswear with black earbuds is running outside..
+Error during inference: CUDA out of memory. Tried to allocate 13.13 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: JhlzvoqKOc8
+/mnt/Shared_03/fsq/LongVideoBench/videos/JhlzvoqKOc8.mp4
+592.2917
+Input prompt:  What action does this woman perform? Choose your answer from below options: A.She picks up a gun, B.She picks up a shield, C.She picks up a flower, D.She picks up a dagger.
+VideoQA inference input: What action does this woman perform? Choose your answer from below options: A.She picks up a gun, B.She picks up a shield, C.She picks up a flower, D.She picks up a dagger.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: t1nhAnMQBHg
+/mnt/Shared_03/fsq/LongVideoBench/videos/t1nhAnMQBHg.mp4
+398.1310666666667
+Input prompt:  What is the item on the man's head? Choose your answer from below options: A.A black beret with red and white interlaced text, B.A black baseball cap with red and white interlaced text, C.A black top hat with red and white interlaced text, D.A yellow baseball cap with red and white interlaced text.
+VideoQA inference input: What is the item on the man's head? Choose your answer from below options: A.A black beret with red and white interlaced text, B.A black baseball cap with red and white interlaced text, C.A black top hat with red and white interlaced text, D.A yellow baseball cap with red and white interlaced text.
+Error during inference: CUDA out of memory. Tried to allocate 13.08 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: XVXczyheik0
+/mnt/Shared_03/fsq/LongVideoBench/videos/XVXczyheik0.mp4
+967.9666666666667
+Input prompt:  What changes occur to this man's position on the screen? Choose your answer from below options: A.The man disappears from the screen., B.The man starts wearing sunglasses., C.The man's position on the screen shifts to the bottom-left corner., D.The man's position on the screen shifts to the bottom-right corner..
+VideoQA inference input: What changes occur to this man's position on the screen? Choose your answer from below options: A.The man disappears from the screen., B.The man starts wearing sunglasses., C.The man's position on the screen shifts to the bottom-left corner., D.The man's position on the screen shifts to the bottom-right corner..
+Error during inference: CUDA out of memory. Tried to allocate 13.08 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: vpKtHB8x0js
+/mnt/Shared_03/fsq/LongVideoBench/videos/vpKtHB8x0js.mp4
+564.2970666666666
+Input prompt:  What does the woman do? Choose your answer from below options: A.She is swimming in the water, B.She assists a person in walking, C.She is combing her hair, D.She wakes up a man lying on the ground.
+VideoQA inference input: What does the woman do? Choose your answer from below options: A.She is swimming in the water, B.She assists a person in walking, C.She is combing her hair, D.She wakes up a man lying on the ground.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: -eRimFrm6kQ
+/mnt/Shared_03/fsq/LongVideoBench/videos/-eRimFrm6kQ.mp4
+1540.8726666666666
+Input prompt:  Which character appears first in the room? Choose your answer from below options: A.A man wearing a blue T-shirt with a crew cut, B.A man wearing a white T-shirt with short hair, C.A woman with long blonde hair wearing a pink top, D.A woman with long black hair wearing a white dress.
+VideoQA inference input: Which character appears first in the room? Choose your answer from below options: A.A man wearing a blue T-shirt with a crew cut, B.A man wearing a white T-shirt with short hair, C.A woman with long blonde hair wearing a pink top, D.A woman with long black hair wearing a white dress.
+Error during inference: CUDA out of memory. Tried to allocate 13.08 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: 9S9i12n0TIw
+/mnt/Shared_03/fsq/LongVideoBench/videos/9S9i12n0TIw.mp4
+1168.5340333333334
+Input prompt:  What is he doing? Choose your answer from below options: A.Smiling at the camera, B.Making a mark on the map, C.Making a 'Yay' sign towards the camera, D.Raising his hand to greet.
+VideoQA inference input: What is he doing? Choose your answer from below options: A.Smiling at the camera, B.Making a mark on the map, C.Making a 'Yay' sign towards the camera, D.Raising his hand to greet.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: mfS6gyP0mwo
+/mnt/Shared_03/fsq/LongVideoBench/videos/mfS6gyP0mwo.mp4
+1114.0473807140474
+Input prompt:  How does the color of the wall change? Choose your answer from below options: A.White turns to blue, B.White turns to purple, C.White turns to green, D.White turns to black.
+VideoQA inference input: How does the color of the wall change? Choose your answer from below options: A.White turns to blue, B.White turns to purple, C.White turns to green, D.White turns to black.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: F2OhCCEIOcU
+/mnt/Shared_03/fsq/LongVideoBench/videos/F2OhCCEIOcU.mp4
+1159.3665416666665
+Input prompt:  In which other scene does the man wearing the white inner layer appear in the video? Choose your answer from below options: A.Inside a room, B.At the seaside, C.Inside a cargo truck, D.In a milk tea shop.
+VideoQA inference input: In which other scene does the man wearing the white inner layer appear in the video? Choose your answer from below options: A.Inside a room, B.At the seaside, C.Inside a cargo truck, D.In a milk tea shop.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: DX-mYMYf8jI
+/mnt/Shared_03/fsq/LongVideoBench/videos/DX-mYMYf8jI.mp4
+57.04753961634695
+Input prompt:  What is the woman doing the first time she appears? Choose your answer from below options: A.She is picking up other food ingredients, B.She is putting food into the oven, C.She is taking items from the refrigerator, D.She is introducing the food ingredients on the table.
+VideoQA inference input: What is the woman doing the first time she appears? Choose your answer from below options: A.She is picking up other food ingredients, B.She is putting food into the oven, C.She is taking items from the refrigerator, D.She is introducing the food ingredients on the table.
+Output Answer:  D. She is introducing the food ingredients on the table.
+
+
+Processing: mq6L8CnNJXc
+/mnt/Shared_03/fsq/LongVideoBench/videos/mq6L8CnNJXc.mp4
+1184.7669166666665
+Input prompt:  In the video, what is the color of the straps on the backpack he is carrying? Choose your answer from below options: A.Olive, B.Black, C.White, D.Gray.
+VideoQA inference input: In the video, what is the color of the straps on the backpack he is carrying? Choose your answer from below options: A.Olive, B.Black, C.White, D.Gray.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: 0_YDrJoUe8s
+/mnt/Shared_03/fsq/LongVideoBench/videos/0_YDrJoUe8s.mp4
+268.60166666666663
+Input prompt:  What change occurs to the woman onscreen? Choose your answer from below options: A.The woman walks to admire four artworks., B.The woman starts introducing the artworks., C.The woman changed her clothes., D.The woman sits down to admire four artworks..
+VideoQA inference input: What change occurs to the woman onscreen? Choose your answer from below options: A.The woman walks to admire four artworks., B.The woman starts introducing the artworks., C.The woman changed her clothes., D.The woman sits down to admire four artworks..
+Output Answer:  A. The woman walks to admire four artworks.
+
+
+Processing: @lisolna-7359951777845775648
+/mnt/Shared_03/fsq/LongVideoBench/videos/7359951777845775648.mp4
+60.666666666666664
+Input prompt:  What is the first item placed in the shopping cart in the video? Choose your answer from below options: A.A box of blueberries, B.A net of tangerines, C.A bag of carrots, D.A bag of nuts.
+VideoQA inference input: What is the first item placed in the shopping cart in the video? Choose your answer from below options: A.A box of blueberries, B.A net of tangerines, C.A bag of carrots, D.A bag of nuts.
+Output Answer:  A. A box of blueberries.
+
+
+Processing: sEiyR7-0FOA
+/mnt/Shared_03/fsq/LongVideoBench/videos/sEiyR7-0FOA.mp4
+2853.8333333333335
+Input prompt:  What color is the book that the person on the left is holding? Choose your answer from below options: A.red, B.green, C.yellow, D.black.
+VideoQA inference input: What color is the book that the person on the left is holding? Choose your answer from below options: A.red, B.green, C.yellow, D.black.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: @recipesbyanne-7190395053343296774
+/mnt/Shared_03/fsq/LongVideoBench/videos/7190395053343296774.mp4
+8.8
+Input prompt:  , what happened? Choose your answer from below options: A.The food got burnt, B.The food formed into cubes, C.The food formed into long strips, D.Oats were sprinkled on the food.
+VideoQA inference input: , what happened? Choose your answer from below options: A.The food got burnt, B.The food formed into cubes, C.The food formed into long strips, D.Oats were sprinkled on the food.
+Output Answer:  B. The food formed into cubes.
+
+
+Processing: GZFL58_pXPg
+/mnt/Shared_03/fsq/LongVideoBench/videos/GZFL58_pXPg.mp4
+8.006672226855713
+Input prompt:  What color appears on the right side of the brain diagram? Choose your answer from below options: A.The left side of the brain diagram is gray with stained patterns., B.The right side of the brain is blue with stains., C.The right side of the brain diagram is gray, resembling stains., D.The left side of the brain is blue with stains..
+VideoQA inference input: What color appears on the right side of the brain diagram? Choose your answer from below options: A.The left side of the brain diagram is gray with stained patterns., B.The right side of the brain is blue with stains., C.The right side of the brain diagram is gray, resembling stains., D.The left side of the brain is blue with stains..
+Output Answer:  C. The right side of the brain diagram is gray, resembling stains.
+
+
+Processing: 8foMISZGiyw
+/mnt/Shared_03/fsq/LongVideoBench/videos/8foMISZGiyw.mp4
+1215.4142
+Input prompt:  What is this woman doing? Choose your answer from below options: A.She is mending the cloth bag, B.She tore the cloth bag, C.She took a mask out of the cloth bag, D.She placed the cloth bag on the ground.
+VideoQA inference input: What is this woman doing? Choose your answer from below options: A.She is mending the cloth bag, B.She tore the cloth bag, C.She took a mask out of the cloth bag, D.She placed the cloth bag on the ground.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: 3zv9RkDPX14
+/mnt/Shared_03/fsq/LongVideoBench/videos/3zv9RkDPX14.mp4
+9.042375709042377
+Input prompt:  What objects are present in the scene? Choose your answer from below options: A.Black gloves, B.Green and black gloves, C.White gloves, D.Green gloves.
+VideoQA inference input: What objects are present in the scene? Choose your answer from below options: A.Black gloves, B.Green and black gloves, C.White gloves, D.Green gloves.
+Output Answer:  B. Green and black gloves
+
+
+Processing: RTUFPjliMCU
+/mnt/Shared_03/fsq/LongVideoBench/videos/RTUFPjliMCU.mp4
+2093.1911
+Input prompt:  What color is the slanted line? Choose your answer from below options: A.Olive Yellow, B.Light Yellow, C.Light Blue, D.Grass Green.
+VideoQA inference input: What color is the slanted line? Choose your answer from below options: A.Olive Yellow, B.Light Yellow, C.Light Blue, D.Grass Green.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: T15Kv6dtYO0
+/mnt/Shared_03/fsq/LongVideoBench/videos/T15Kv6dtYO0.mp4
+939.8722666666666
+Input prompt:  What is the shape of the hat in the room? Choose your answer from below options: A.round, B.square, C.triangular, D.rectangular.
+VideoQA inference input: What is the shape of the hat in the room? Choose your answer from below options: A.round, B.square, C.triangular, D.rectangular.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: NexB4vj8_54
+/mnt/Shared_03/fsq/LongVideoBench/videos/NexB4vj8_54.mp4
+228.2
+Input prompt:  , what is the video creator doing? Choose your answer from below options: A.Eating the cake, B.Setting the table, C.Cutting the cake, D.Cleaning the utensils.
+VideoQA inference input: , what is the video creator doing? Choose your answer from below options: A.Eating the cake, B.Setting the table, C.Cutting the cake, D.Cleaning the utensils.
+Output Answer:  C.Cutting the cake
+
+
+Processing: 5qMcDQd17Y4
+/mnt/Shared_03/fsq/LongVideoBench/videos/5qMcDQd17Y4.mp4
+584.64
+Input prompt:  What is behind the man to his right? Choose your answer from below options: A.cell phone, B.car, C.computer, D.street light.
+VideoQA inference input: What is behind the man to his right? Choose your answer from below options: A.cell phone, B.car, C.computer, D.street light.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: tGiRbGGwRj8
+/mnt/Shared_03/fsq/LongVideoBench/videos/tGiRbGGwRj8.mp4
+223.43154166666665
+Input prompt:  What color is the outfit the woman is wearing? Choose your answer from below options: A.Black, B.White, C.Red, D.Gray.
+VideoQA inference input: What color is the outfit the woman is wearing? Choose your answer from below options: A.Black, B.White, C.Red, D.Gray.
+Output Answer:  D.Gray
+
+
+Processing: aX_HgA5SNLQ
+/mnt/Shared_03/fsq/LongVideoBench/videos/aX_HgA5SNLQ.mp4
+3204.68
+Input prompt:  , what is the first item that appears? Choose your answer from below options: A.gold necklace, B.green coat, C.white necklace, D.white earphones.
+VideoQA inference input: , what is the first item that appears? Choose your answer from below options: A.gold necklace, B.green coat, C.white necklace, D.white earphones.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: Ytv-9RM4e0o
+/mnt/Shared_03/fsq/LongVideoBench/videos/Ytv-9RM4e0o.mp4
+1523.48
+Input prompt:  What change happens to the man wearing a red and black checkered shirt? Choose your answer from below options: A.The man's shirt changes from a red and black checkered shirt to a white hoodie, B.The man's shirt changes from a red and black checkered shirt to a yellow short sleeve, C.The man's shirt changes from a red and black checkered shirt to a black short sleeve, D.The man's shirt changes from a red and black checkered shirt to a blue suit.
+VideoQA inference input: What change happens to the man wearing a red and black checkered shirt? Choose your answer from below options: A.The man's shirt changes from a red and black checkered shirt to a white hoodie, B.The man's shirt changes from a red and black checkered shirt to a yellow short sleeve, C.The man's shirt changes from a red and black checkered shirt to a black short sleeve, D.The man's shirt changes from a red and black checkered shirt to a blue suit.
+Error during inference: CUDA out of memory. Tried to allocate 13.09 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: yn7oTvw8QRY
+/mnt/Shared_03/fsq/LongVideoBench/videos/yn7oTvw8QRY.mp4
+225.96666666666667
+Input prompt:  According to the video, which character appears first? Choose your answer from below options: A.Boy with short hair and green stripes, B.Boy with golden hair, C.Girl in green clothing with loose hair, D.Girl in green clothing with braided hair.
+VideoQA inference input: According to the video, which character appears first? Choose your answer from below options: A.Boy with short hair and green stripes, B.Boy with golden hair, C.Girl in green clothing with loose hair, D.Girl in green clothing with braided hair.
+Output Answer:  D. Girl in green clothing with braided hair.
+
+
+Processing: PCPQToF10IM
+/mnt/Shared_03/fsq/LongVideoBench/videos/PCPQToF10IM.mp4
+904.6666666666666
+Input prompt:  Who is the character that appears in the video? Choose your answer from below options: A.A child with black hair wearing a jacket, B.A bald man wearing a green coat, C.A woman wearing a yellow headscarf and green coat, D.A man with an afro wearing black clothes.
+VideoQA inference input: Who is the character that appears in the video? Choose your answer from below options: A.A child with black hair wearing a jacket, B.A bald man wearing a green coat, C.A woman wearing a yellow headscarf and green coat, D.A man with an afro wearing black clothes.
+Error during inference: CUDA out of memory. Tried to allocate 13.08 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: 3u__SZlBLC0
+/mnt/Shared_03/fsq/LongVideoBench/videos/3u__SZlBLC0.mp4
+1835.4666666666667
+Input prompt:  , what does she do? Choose your answer from below options: A.Changed into a red coat, B.Got into a taxi, C.Squatted down on the ground, D.Got on a motorcycle.
+VideoQA inference input: , what does she do? Choose your answer from below options: A.Changed into a red coat, B.Got into a taxi, C.Squatted down on the ground, D.Got on a motorcycle.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: AYMdAVxALP4
+/mnt/Shared_03/fsq/LongVideoBench/videos/AYMdAVxALP4.mp4
+379.31264597931266
+Input prompt:  What changes occur on the table? Choose your answer from below options: A.The number of rectangular yellow metal blocks increased by two, B.The number of rectangular yellow metal blocks increased by one, C.The number of rectangular yellow metal blocks decreased by two, D.The number of rectangular yellow metal blocks decreased by one.
+VideoQA inference input: What changes occur on the table? Choose your answer from below options: A.The number of rectangular yellow metal blocks increased by two, B.The number of rectangular yellow metal blocks increased by one, C.The number of rectangular yellow metal blocks decreased by two, D.The number of rectangular yellow metal blocks decreased by one.
+Error during inference: CUDA out of memory. Tried to allocate 12.91 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: _ZIa6SEJEyg
+/mnt/Shared_03/fsq/LongVideoBench/videos/_ZIa6SEJEyg.mp4
+1463.2618
+Input prompt:  What object appears in the hand of the woman wearing white? Choose your answer from below options: A.cup without a straw, B.milk carton, C.green cup, D.coffee beans.
+VideoQA inference input: What object appears in the hand of the woman wearing white? Choose your answer from below options: A.cup without a straw, B.milk carton, C.green cup, D.coffee beans.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: td35F9LNazA
+/mnt/Shared_03/fsq/LongVideoBench/videos/td35F9LNazA.mp4
+984.3333333333334
+Input prompt:  What changes occur to him? Choose your answer from below options: A.He changed into a grey short-sleeved shirt, B.He changed into a grey and white long-sleeved shirt, C.He changed into a grey and white short-sleeved shirt, D.He changed into a green long-sleeved shirt.
+VideoQA inference input: What changes occur to him? Choose your answer from below options: A.He changed into a grey short-sleeved shirt, B.He changed into a grey and white long-sleeved shirt, C.He changed into a grey and white short-sleeved shirt, D.He changed into a green long-sleeved shirt.
+Error during inference: CUDA out of memory. Tried to allocate 13.08 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: u5NAcHhI_Uc
+/mnt/Shared_03/fsq/LongVideoBench/videos/u5NAcHhI_Uc.mp4
+8.0
+Input prompt:  , what is this soldier doing? Choose your answer from below options: A.The soldier is looking upwards, B.The soldier is saluting, C.The soldier is looking to the left, D.The soldier is looking to the right.
+VideoQA inference input: , what is this soldier doing? Choose your answer from below options: A.The soldier is looking upwards, B.The soldier is saluting, C.The soldier is looking to the left, D.The soldier is looking to the right.
+Output Answer:  The soldier in the image appears to be looking straight ahead with a neutral expression. There is no indication of him looking upwards, saluting, or looking to the left or right. Therefore, the most accurate answer based on the image provided is:
+
+C.The soldier is looking to the left.
+
+
+Processing: JpjytHmGHZ4
+/mnt/Shared_03/fsq/LongVideoBench/videos/JpjytHmGHZ4.mp4
+228.16
+Input prompt:  What is this man doing? Choose your answer from below options: A.Waving to the audience, B.Making a speech, C.Performing magic, D.Dancing on stage.
+VideoQA inference input: What is this man doing? Choose your answer from below options: A.Waving to the audience, B.Making a speech, C.Performing magic, D.Dancing on stage.
+Output Answer:  A.Waving to the audience
+
+
+Processing: ZsnfXfuGRrg
+/mnt/Shared_03/fsq/LongVideoBench/videos/ZsnfXfuGRrg.mp4
+1059.7
+Input prompt:  What change occurs to the white tank? Choose your answer from below options: A.turns black, B.turns blue, C.turns red, D.gets smaller.
+VideoQA inference input: What change occurs to the white tank? Choose your answer from below options: A.turns black, B.turns blue, C.turns red, D.gets smaller.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: @thatrecipe.us-7335998138500648235
+/mnt/Shared_03/fsq/LongVideoBench/videos/7335998138500648235.mp4
+60.03333333333333
+Input prompt:  What change in state occurs? Choose your answer from below options: A.It turns into a solid, B.It turns into a gas, C.It turns black, D.It turns white.
+VideoQA inference input: What change in state occurs? Choose your answer from below options: A.It turns into a solid, B.It turns into a gas, C.It turns black, D.It turns white.
+Output Answer:  A. It turns into a solid.
+
+
+Processing: ZRMbh0wSly0
+/mnt/Shared_03/fsq/LongVideoBench/videos/ZRMbh0wSly0.mp4
+1177.4679583333332
+Input prompt:  What kind of accessory is the woman on the far left of the screen wearing on her head? Choose your answer from below options: A.Wearing a red scarf, B.Wearing a black scarf, C.Wearing a red hat, D.Wearing a black hat.
+VideoQA inference input: What kind of accessory is the woman on the far left of the screen wearing on her head? Choose your answer from below options: A.Wearing a red scarf, B.Wearing a black scarf, C.Wearing a red hat, D.Wearing a black hat.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: NMHmqgO04rU
+/mnt/Shared_03/fsq/LongVideoBench/videos/NMHmqgO04rU.mp4
+1196.8333333333333
+Input prompt:  What is the lighting on the ceiling like? Choose your answer from below options: A.Round wall lamp, B.Triangular wall lamp, C.Square wall lamp, D.Gold pendant lamp.
+VideoQA inference input: What is the lighting on the ceiling like? Choose your answer from below options: A.Round wall lamp, B.Triangular wall lamp, C.Square wall lamp, D.Gold pendant lamp.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: xiK00WS0lkE
+/mnt/Shared_03/fsq/LongVideoBench/videos/xiK00WS0lkE.mp4
+2311.64
+Input prompt:  What did the man holding the saxophone on the right do when he entered the scene? Choose your answer from below options: A.Played the piano, B.Played the flute, C.Played the saxophone, D.Played the guitar.
+VideoQA inference input: What did the man holding the saxophone on the right do when he entered the scene? Choose your answer from below options: A.Played the piano, B.Played the flute, C.Played the saxophone, D.Played the guitar.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: eJr-y6UXnRE
+/mnt/Shared_03/fsq/LongVideoBench/videos/eJr-y6UXnRE.mp4
+592.56
+Input prompt:  What is the color of the first piece of clothing shown in the video? Choose your answer from below options: A.white, B.purple, C.red, D.olive.
+VideoQA inference input: What is the color of the first piece of clothing shown in the video? Choose your answer from below options: A.white, B.purple, C.red, D.olive.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: mld0TnA2jEs
+/mnt/Shared_03/fsq/LongVideoBench/videos/mld0TnA2jEs.mp4
+457.0
+Input prompt:  What objects are present in this scene? Choose your answer from below options: A.a black thread, B.an umbrella, C.a potted plant, D.a watch.
+VideoQA inference input: What objects are present in this scene? Choose your answer from below options: A.a black thread, B.an umbrella, C.a potted plant, D.a watch.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: yn7oTvw8QRY
+/mnt/Shared_03/fsq/LongVideoBench/videos/yn7oTvw8QRY.mp4
+225.96666666666667
+Input prompt:  According to the video, which of the following pictures appears last? Choose your answer from below options: A.a small bowl made of clay, B.a boy with short golden hair wearing a long-sleeve shirt, C.a boy with short golden hair wearing a short-sleeve shirt, D.a pottery jar with a mountain goat design.
+VideoQA inference input: According to the video, which of the following pictures appears last? Choose your answer from below options: A.a small bowl made of clay, B.a boy with short golden hair wearing a long-sleeve shirt, C.a boy with short golden hair wearing a short-sleeve shirt, D.a pottery jar with a mountain goat design.
+Output Answer:  D. a pottery jar with a mountain goat design.
+
+
+Processing: to7vCdkLi4s
+/mnt/Shared_03/fsq/LongVideoBench/videos/to7vCdkLi4s.mp4
+1334.0333333333333
+Input prompt:  Alongside which subtitles does this screen appear? Choose your answer from below options: A.whatever 300 points in this Walker if and okay crop is the most the most effective, B.frames then you can decide on a on a
+, C.quite grandiose so we'll dive into it, D.across the stacked frames so basically.
+VideoQA inference input: Alongside which subtitles does this screen appear? Choose your answer from below options: A.whatever 300 points in this Walker if and okay crop is the most the most effective, B.frames then you can decide on a on a
+, C.quite grandiose so we'll dive into it, D.across the stacked frames so basically.
+Error during inference: CUDA out of memory. Tried to allocate 13.08 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: @movie.explained6-7268936523481943297
+/mnt/Shared_03/fsq/LongVideoBench/videos/7268936523481943297.mp4
+12.0
+Input prompt:  , at the same time, what subtitles appear with the little girl? Choose your answer from below options: A.He told me., B.h, C.thanks, D.thank you.
+VideoQA inference input: , at the same time, what subtitles appear with the little girl? Choose your answer from below options: A.He told me., B.h, C.thanks, D.thank you.
+Output Answer:  The subtitles that appear with the little girl in the image are:
+
+A. He told me.
+
+
+Processing: b__dUom9AcQ
+/mnt/Shared_03/fsq/LongVideoBench/videos/b__dUom9AcQ.mp4
+2454.9191333333333
+Input prompt:  What object is not present in this scene? Choose your answer from below options: A.table, B.tie, C.glass cup, D.red lamp.
+VideoQA inference input: What object is not present in this scene? Choose your answer from below options: A.table, B.tie, C.glass cup, D.red lamp.
+Error during inference: CUDA out of memory. Tried to allocate 13.07 GiB. GPU 7 has a total capacity of 23.64 GiB of which 9.11 GiB is free. Including non-PyTorch memory, this process has 14.52 GiB memory in use. Of the allocated memory 1.33 GiB is allocated by PyTorch, and 12.80 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+
+
+Processing: AxciimuEZAc
+/mnt/Shared_03/fsq/LongVideoBench/videos/AxciimuEZAc.mp4
+254.254
+Input prompt:  What kind of shoes is the woman wearing? Choose your answer from below options: A.White sneakers with black edges, B.White slippers with black edges, C.White high heels with black edges, D.White leather shoes with black edges.
+VideoQA inference input: What kind of shoes is the woman wearing? Choose your answer from below options: A.White sneakers with black edges, B.White slippers with black edges, C.White high heels with black edges, D.White leather shoes with black edges.
+Output Answer:  C.
+
+100 results saved

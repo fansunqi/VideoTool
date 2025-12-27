@@ -1,0 +1,3802 @@
+[
+    {
+        "quid": "447-2",
+        "uid": "447",
+        "qid": "447-2",
+        "q_type": "OCR Problems",
+        "question": "What is the team's lac hitting percentage when the score is 38-29?",
+        "optionA": "48%",
+        "optionB": "41%",
+        "optionC": "56%",
+        "optionD": "54%",
+        "options": [
+            "48%",
+            "41%",
+            "56%",
+            "54%"
+        ],
+        "question_w_options": "What is the team's lac hitting percentage when the score is 38-29? Choose your answer from below options: A.48%, B.41%, C.56%, D.54%.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/2NOcM1HoRRg.mp4",
+        "answers": [
+            "I can't determine the team's lac hitting percentage from the image sequence. You might want to look for any visible statistics or information in the images that could provide the answer."
+        ],
+        "video_info": {
+            "total_frames": 19973,
+            "fps": 29.97002997002997,
+            "duration": 666.4324333333334
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.024008435363765058,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "408-2",
+        "uid": "408",
+        "qid": "408-2",
+        "q_type": "Counting Problem",
+        "question": "How many bullets does rango use to kill the hawl in the video?",
+        "optionA": "3",
+        "optionB": "2",
+        "optionC": "1",
+        "optionD": "4",
+        "options": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "question_w_options": "How many bullets does rango use to kill the hawl in the video? Choose your answer from below options: A.3, B.2, C.1, D.4.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/weOrNMHcDTI.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that Rango uses one bullet to kill the hawk. The key frames to note are 10 and 15, where Rango is shown aiming and firing his gun, and the hawk is shown reacting. Therefore, the answer is C.1."
+        ],
+        "video_info": {
+            "total_frames": 15256,
+            "fps": 25.0,
+            "duration": 610.24
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.026219192448872573,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "369-3",
+        "uid": "369",
+        "qid": "369-3",
+        "q_type": "Object Recognition",
+        "question": "Which codexes are compared in common in the second half of the video?",
+        "optionA": "Code of Hammurabi and the Laws of Manu",
+        "optionB": "Code of Hammurabi and Code of Deuteronomy",
+        "optionC": "Code of Ur-Nammu and Code of Deuteronomy",
+        "optionD": "Code of Hammurabi and Code of Deuteronomy and the Laws of Manu",
+        "options": [
+            "Code of Hammurabi and the Laws of Manu",
+            "Code of Hammurabi and Code of Deuteronomy",
+            "Code of Ur-Nammu and Code of Deuteronomy",
+            "Code of Hammurabi and Code of Deuteronomy and the Laws of Manu"
+        ],
+        "question_w_options": "Which codexes are compared in common in the second half of the video? Choose your answer from below options: A.Code of Hammurabi and the Laws of Manu, B.Code of Hammurabi and Code of Deuteronomy, C.Code of Ur-Nammu and Code of Deuteronomy, D.Code of Hammurabi and Code of Deuteronomy and the Laws of Manu.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/_rC5V5vEprs.mp4",
+        "answers": [
+            "Based on the image sequence, the codexes compared in common in the second half of the video are the Code of Hammurabi and the Code of Deuteronomy. Therefore, the correct answer is:\n\nB. Code of Hammurabi and Code of Deuteronomy."
+        ],
+        "video_info": {
+            "total_frames": 7466,
+            "fps": 24.0,
+            "duration": 311.0833333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.05143316367532816,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "271-3",
+        "uid": "271",
+        "qid": "271-3",
+        "q_type": "Action Recognition",
+        "question": "Which of the following accurately describes the events depicted in the video?",
+        "optionA": "A yellow mechine scares baby birds",
+        "optionB": "A yellow mechine preys in the nest",
+        "optionC": "A yellow mechine brings baby birds out the nest",
+        "optionD": "A yellow mechine destroys the nest",
+        "options": [
+            "A yellow mechine scares baby birds",
+            "A yellow mechine preys in the nest",
+            "A yellow mechine brings baby birds out the nest",
+            "A yellow mechine destroys the nest"
+        ],
+        "question_w_options": "Which of the following accurately describes the events depicted in the video? Choose your answer from below options: A.A yellow mechine scares baby birds, B.A yellow mechine preys in the nest, C.A yellow mechine brings baby birds out the nest, D.A yellow mechine destroys the nest.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/yXl0Vrk5ssk.mp4",
+        "answers": [
+            "Based on the image sequence, the yellow machine appears to be interacting with the baby birds in a way that suggests it is bringing them out of the nest. Therefore, the most accurate description of the events depicted in the video is:\n\nC. A yellow machine brings baby birds out of the nest."
+        ],
+        "video_info": {
+            "total_frames": 1022,
+            "fps": 30.0,
+            "duration": 34.06666666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.46966731898238745,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "411-2",
+        "uid": "411",
+        "qid": "411-2",
+        "q_type": "Action Recognition",
+        "question": "What are the children wearing pink outfits doing at the beginning of the video?",
+        "optionA": "Praying",
+        "optionB": "Having a party",
+        "optionC": "Learning ballet",
+        "optionD": "Receiving treatment",
+        "options": [
+            "Praying",
+            "Having a party",
+            "Learning ballet",
+            "Receiving treatment"
+        ],
+        "question_w_options": "What are the children wearing pink outfits doing at the beginning of the video? Choose your answer from below options: A.Praying, B.Having a party, C.Learning ballet, D.Receiving treatment.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/K759eXmaMTY.mp4",
+        "answers": [
+            "The children wearing pink outfits are learning ballet."
+        ],
+        "video_info": {
+            "total_frames": 18649,
+            "fps": 25.0,
+            "duration": 745.96
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0214488712531503,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "189-2",
+        "uid": "189",
+        "qid": "189-2",
+        "q_type": "Object Recognition",
+        "question": "Which item does the man display to the woman?",
+        "optionA": "A painting",
+        "optionB": "A picture on his phone",
+        "optionC": "A poem he had written",
+        "optionD": "A picture in a book",
+        "options": [
+            "A painting",
+            "A picture on his phone",
+            "A poem he had written",
+            "A picture in a book"
+        ],
+        "question_w_options": "Which item does the man display to the woman? Choose your answer from below options: A.A painting, B.A picture on his phone, C.A poem he had written, D.A picture in a book.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/eICN548E2TU.mp4",
+        "answers": [
+            "Based on the image sequence, the man displays an item to the woman in frame 13, where he is holding a book open. This suggests that the answer is D. A picture in a book."
+        ],
+        "video_info": {
+            "total_frames": 1257,
+            "fps": 23.976023976023978,
+            "duration": 52.427375
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.305184076067131,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "282-3",
+        "uid": "282",
+        "qid": "282-3",
+        "q_type": "Counting Problem",
+        "question": "How many times did the man in the video with no shirt on his upper body race?",
+        "optionA": "3",
+        "optionB": "1",
+        "optionC": "2",
+        "optionD": "0",
+        "options": [
+            "3",
+            "1",
+            "2",
+            "0"
+        ],
+        "question_w_options": "How many times did the man in the video with no shirt on his upper body race? Choose your answer from below options: A.3, B.1, C.2, D.0.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/MiPw-RZMHCQ.mp4",
+        "answers": [
+            "Based on the image sequence, the man with no shirt appears in frames 6, 7, and 8. It seems he is racing once. Therefore, the answer is B.1."
+        ],
+        "video_info": {
+            "total_frames": 2438,
+            "fps": 24.0,
+            "duration": 101.58333333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.15750615258408532,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "335-3",
+        "uid": "335",
+        "qid": "335-3",
+        "q_type": "Information Synopsis",
+        "question": "According to what is shown in the video, what were the key factors that contributed to the 2008 financial crisis in the united states?",
+        "optionA": "Predatory lending practices and a housing market bubble",
+        "optionB": "High demand for US Treasury bonds and conservative investment strategies",
+        "optionC": "Low interest rates and strict lending standards",
+        "optionD": "Increased regulation of the financial industry and cautious credit rating agencies",
+        "options": [
+            "Predatory lending practices and a housing market bubble",
+            "High demand for US Treasury bonds and conservative investment strategies",
+            "Low interest rates and strict lending standards",
+            "Increased regulation of the financial industry and cautious credit rating agencies"
+        ],
+        "question_w_options": "According to what is shown in the video, what were the key factors that contributed to the 2008 financial crisis in the united states? Choose your answer from below options: A.Predatory lending practices and a housing market bubble, B.High demand for US Treasury bonds and conservative investment strategies, C.Low interest rates and strict lending standards, D.Increased regulation of the financial industry and cautious credit rating agencies.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/GPOv72Awo68.mp4",
+        "answers": [
+            "Based on the image sequence, the key factors contributing to the 2008 financial crisis in the United States appear to be related to the housing market and lending practices. The images show houses, a \"SOLD\" sign, and references to financial institutions, which suggest issues with the housing market and lending.\n\nTherefore, the most likely answer is:\n\nA. Predatory lending practices and a housing market bubble."
+        ],
+        "video_info": {
+            "total_frames": 16405,
+            "fps": 23.976023976023978,
+            "duration": 684.2252083333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.02338411360051104,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "762-1",
+        "uid": "762",
+        "qid": "762-1",
+        "q_type": "Spatial Reasoning",
+        "question": "At the start of the race, why do the athletes line up as depicted in the video?",
+        "optionA": "The athletes line up in one row to create a visual spectacle for the audience, enhancing the overall experience of the race",
+        "optionB": "The athletes are positioned in three rows based on their height, with taller athletes in the back row and shorter athletes in the front row",
+        "optionC": "The athletes line up in three rows to allow for easier identification and tracking by the race officials and cameras",
+        "optionD": "The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race",
+        "options": [
+            "The athletes line up in one row to create a visual spectacle for the audience, enhancing the overall experience of the race",
+            "The athletes are positioned in three rows based on their height, with taller athletes in the back row and shorter athletes in the front row",
+            "The athletes line up in three rows to allow for easier identification and tracking by the race officials and cameras",
+            "The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race"
+        ],
+        "question_w_options": "At the start of the race, why do the athletes line up as depicted in the video? Choose your answer from below options: A.The athletes line up in one row to create a visual spectacle for the audience, enhancing the overall experience of the race, B.The athletes are positioned in three rows based on their height, with taller athletes in the back row and shorter athletes in the front row, C.The athletes line up in three rows to allow for easier identification and tracking by the race officials and cameras, D.The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/gTPHH880Cyc.mp4",
+        "answers": [
+            "Based on the image sequence, the athletes line up in two rows to provide a clear path for the athletes to move along the track during the race. Therefore, the correct answer is:\n\nD. The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race."
+        ],
+        "video_info": {
+            "total_frames": 62488,
+            "fps": 25.0,
+            "duration": 2499.52
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0064012290359749075,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "234-2",
+        "uid": "234",
+        "qid": "234-2",
+        "q_type": "Object Reasoning",
+        "question": "Why does the food in the video swell?",
+        "optionA": "Fermentation",
+        "optionB": "Steep",
+        "optionC": "Baking in the oven",
+        "optionD": "Aeration",
+        "options": [
+            "Fermentation",
+            "Steep",
+            "Baking in the oven",
+            "Aeration"
+        ],
+        "question_w_options": "Why does the food in the video swell? Choose your answer from below options: A.Fermentation, B.Steep, C.Baking in the oven, D.Aeration.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/v0m3E_uSyFg.mp4",
+        "answers": [
+            "The food in the video swells due to C. Baking in the oven. The sequence shows the preparation and baking process, where the dough rises and expands in the oven, as seen in the later frames."
+        ],
+        "video_info": {
+            "total_frames": 1780,
+            "fps": 29.97002997002997,
+            "duration": 59.39266666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.2693935278204941,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "502-1",
+        "uid": "502",
+        "qid": "502-1",
+        "q_type": "Object Recognition",
+        "question": "What type of flowers are placed on the table between the host and the guest in the video?",
+        "optionA": "Lilies",
+        "optionB": "Roses",
+        "optionC": "Chrysanthemums",
+        "optionD": "Sunflowers",
+        "options": [
+            "Lilies",
+            "Roses",
+            "Chrysanthemums",
+            "Sunflowers"
+        ],
+        "question_w_options": "What type of flowers are placed on the table between the host and the guest in the video? Choose your answer from below options: A.Lilies, B.Roses, C.Chrysanthemums, D.Sunflowers.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/XoaWHHNiw1w.mp4",
+        "answers": [
+            "The flowers on the table between the host and the guest are sunflowers."
+        ],
+        "video_info": {
+            "total_frames": 26195,
+            "fps": 29.97002997002997,
+            "duration": 874.0398333333334
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.018305801852280187,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "177-1",
+        "uid": "177",
+        "qid": "177-1",
+        "q_type": "OCR Problems",
+        "question": "What is the current score of the ongoing game?",
+        "optionA": "3-2",
+        "optionB": "2-3",
+        "optionC": "2-2",
+        "optionD": "3-3",
+        "options": [
+            "3-2",
+            "2-3",
+            "2-2",
+            "3-3"
+        ],
+        "question_w_options": "What is the current score of the ongoing game? Choose your answer from below options: A.3-2, B.2-3, C.2-2, D.3-3.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/6DO8yOVYXr0.mp4",
+        "answers": [
+            "I can't determine the score from the image sequence. You might want to look for any visible scoreboards or overlays in the images that display the current score."
+        ],
+        "video_info": {
+            "total_frames": 3169,
+            "fps": 29.97002997002997,
+            "duration": 105.73896666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.15131602383101278,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "764-1",
+        "uid": "764",
+        "qid": "764-1",
+        "q_type": "Object Reasoning",
+        "question": "Which statement about this video is true?",
+        "optionA": "The player from the USA ranked first",
+        "optionB": "The total distance in this competition is lower than 5000",
+        "optionC": "The first and second place simultaneously reached the finish line",
+        "optionD": "This video features a men's long-distance running competition",
+        "options": [
+            "The player from the USA ranked first",
+            "The total distance in this competition is lower than 5000",
+            "The first and second place simultaneously reached the finish line",
+            "This video features a men's long-distance running competition"
+        ],
+        "question_w_options": "Which statement about this video is true? Choose your answer from below options: A.The player from the USA ranked first, B.The total distance in this competition is lower than 5000, C.The first and second place simultaneously reached the finish line, D.This video features a men's long-distance running competition.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/8UxGzDeRIJk.mp4",
+        "answers": [
+            "Based on the image sequence, the true statement is:\n\n**D. This video features a men's long-distance running competition.**\n\nThe images show a track event with multiple athletes, which is characteristic of a long-distance running competition."
+        ],
+        "video_info": {
+            "total_frames": 62658,
+            "fps": 25.0,
+            "duration": 2506.32
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006383861597880558,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "352-1",
+        "uid": "352",
+        "qid": "352-1",
+        "q_type": "Action Reasoning",
+        "question": "Why does the speaker mention students in a stressful class?",
+        "optionA": "Because she pities these students",
+        "optionB": "Because she wants to make this lesson not so serious",
+        "optionC": "Because students in a stressful class cause sea suface height anormalie",
+        "optionD": "Because their stress pushes the sea water",
+        "options": [
+            "Because she pities these students",
+            "Because she wants to make this lesson not so serious",
+            "Because students in a stressful class cause sea suface height anormalie",
+            "Because their stress pushes the sea water"
+        ],
+        "question_w_options": "Why does the speaker mention students in a stressful class? Choose your answer from below options: A.Because she pities these students, B.Because she wants to make this lesson not so serious, C.Because students in a stressful class cause sea suface height anormalie, D.Because their stress pushes the sea water.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/xa6SdvFA3w0.mp4",
+        "answers": [
+            "Based on the image sequence, the speaker likely mentions students in a stressful class to make the lesson not so serious. The presence of visuals like maps, diagrams, and the speaker's expressions suggest an educational context where humor or light-heartedness might be used to engage the audience. Therefore, the best answer is:\n\nB. Because she wants to make this lesson not so serious."
+        ],
+        "video_info": {
+            "total_frames": 15889,
+            "fps": 23.976023976023978,
+            "duration": 662.7037083333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.02414351964355111,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "804-2",
+        "uid": "804",
+        "qid": "804-2",
+        "q_type": "Object Reasoning",
+        "question": "In james corden's dream, what does it mean when the man sitting to his left in a black suit and black tie and the man sitting to his right in a dark blue top suddenly burst into laughter?",
+        "optionA": "This means that James Corden's story is very interesting, and these two men were amused",
+        "optionB": "This means that James Corden's story is not interesting, and these two men are fake laughing",
+        "optionC": "This means that James Cordon decided not to leave the show, and these two men felt very happy",
+        "optionD": "This means that James Cordon decided to leave the show, and these two men felt very happy",
+        "options": [
+            "This means that James Corden's story is very interesting, and these two men were amused",
+            "This means that James Corden's story is not interesting, and these two men are fake laughing",
+            "This means that James Cordon decided not to leave the show, and these two men felt very happy",
+            "This means that James Cordon decided to leave the show, and these two men felt very happy"
+        ],
+        "question_w_options": "In james corden's dream, what does it mean when the man sitting to his left in a black suit and black tie and the man sitting to his right in a dark blue top suddenly burst into laughter? Choose your answer from below options: A.This means that James Corden's story is very interesting, and these two men were amused, B.This means that James Corden's story is not interesting, and these two men are fake laughing, C.This means that James Cordon decided not to leave the show, and these two men felt very happy, D.This means that James Cordon decided to leave the show, and these two men felt very happy.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/AeEYQ62t8hA.mp4",
+        "answers": [
+            "I can't determine the context or meaning behind the laughter from the image sequence alone. The options provided require understanding the narrative or dialogue, which isn't possible from just the images."
+        ],
+        "video_info": {
+            "total_frames": 71892,
+            "fps": 29.97002997002997,
+            "duration": 2398.7964
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006670011677522944,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "375-2",
+        "uid": "375",
+        "qid": "375-2",
+        "q_type": "Object Recognition",
+        "question": "What item is not used to decorate the christmas tree?",
+        "optionA": "Red balls",
+        "optionB": "Lights",
+        "optionC": "Green stars",
+        "optionD": "Icicles",
+        "options": [
+            "Red balls",
+            "Lights",
+            "Green stars",
+            "Icicles"
+        ],
+        "question_w_options": "What item is not used to decorate the christmas tree? Choose your answer from below options: A.Red balls, B.Lights, C.Green stars, D.Icicles.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/axGscDVdHWg.mp4",
+        "answers": [
+            "Based on the image sequence, the item not used to decorate the Christmas tree is C. Green stars."
+        ],
+        "video_info": {
+            "total_frames": 21253,
+            "fps": 23.976023976023978,
+            "duration": 886.4272083333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0180499874660699,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "294-3",
+        "uid": "294",
+        "qid": "294-3",
+        "q_type": "Object Recognition",
+        "question": "What clothes does the performer wear during the spider magic act?",
+        "optionA": "A blue denim jacket",
+        "optionB": "A red velvet cape",
+        "optionC": "A sequined vest",
+        "optionD": "A black top hat",
+        "options": [
+            "A blue denim jacket",
+            "A red velvet cape",
+            "A sequined vest",
+            "A black top hat"
+        ],
+        "question_w_options": "What clothes does the performer wear during the spider magic act? Choose your answer from below options: A.A blue denim jacket, B.A red velvet cape, C.A sequined vest, D.A black top hat.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/nbOXpuv7K4Q.mp4",
+        "answers": [
+            "The performer in the spider magic act is wearing a sequined vest. So, the answer is C. A sequined vest."
+        ],
+        "video_info": {
+            "total_frames": 2086,
+            "fps": 25.0,
+            "duration": 83.44
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.19175455417066156,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "889-1",
+        "uid": "889",
+        "qid": "889-1",
+        "q_type": "Information Synopsis",
+        "question": "In the video, what advice does the friend give to the male protagonist during their remote video call on the phone?",
+        "optionA": "Make sure to rest well at night",
+        "optionB": "Don't exert too much force while riding a bike, control your pace",
+        "optionC": "Don't eat cheese Danish",
+        "optionD": "Don't run too fast",
+        "options": [
+            "Make sure to rest well at night",
+            "Don't exert too much force while riding a bike, control your pace",
+            "Don't eat cheese Danish",
+            "Don't run too fast"
+        ],
+        "question_w_options": "In the video, what advice does the friend give to the male protagonist during their remote video call on the phone? Choose your answer from below options: A.Make sure to rest well at night, B.Don't exert too much force while riding a bike, control your pace, C.Don't eat cheese Danish, D.Don't run too fast.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/EP2rD6lr2Xk.mp4",
+        "answers": [
+            "Based on the image sequence, the advice given by the friend during the remote video call on the phone is likely: B. Don't exert too much force while riding a bike, control your pace. \n\nThis is inferred from the context of the images showing biking and running activities, suggesting a focus on pacing and exertion."
+        ],
+        "video_info": {
+            "total_frames": 52405,
+            "fps": 25.0,
+            "duration": 2096.2
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.007632859459975194,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "315-1",
+        "uid": "315",
+        "qid": "315-1",
+        "q_type": "Attribute Perception",
+        "question": "What's the color of gabriel garc\u00eda m\u00e1rquez's car in the video?",
+        "optionA": "Green",
+        "optionB": "Black",
+        "optionC": "Orange",
+        "optionD": "Red",
+        "options": [
+            "Green",
+            "Black",
+            "Orange",
+            "Red"
+        ],
+        "question_w_options": "What's the color of gabriel garc\u00eda m\u00e1rquez's car in the video? Choose your answer from below options: A.Green, B.Black, C.Orange, D.Red.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/B2zhLYz4pYo.mp4",
+        "answers": [
+            "The car in the video is green. So, the answer is A. Green."
+        ],
+        "video_info": {
+            "total_frames": 7920,
+            "fps": 23.976023976023978,
+            "duration": 330.33
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.048436412072775714,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "290-3",
+        "uid": "290",
+        "qid": "290-3",
+        "q_type": "Action Recognition",
+        "question": "What game are they playing in the video?",
+        "optionA": "Connect Four",
+        "optionB": "Gomoku",
+        "optionC": "TIC TAC TOE",
+        "optionD": "It is unable to determine",
+        "options": [
+            "Connect Four",
+            "Gomoku",
+            "TIC TAC TOE",
+            "It is unable to determine"
+        ],
+        "question_w_options": "What game are they playing in the video? Choose your answer from below options: A.Connect Four, B.Gomoku, C.TIC TAC TOE, D.It is unable to determine.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/IRDp5HcZyVA.mp4",
+        "answers": [
+            "Based on the image sequence, it appears they are playing a game similar to TIC TAC TOE. The grid layout and the placement of markers resemble the classic 3x3 grid used in TIC TAC TOE."
+        ],
+        "video_info": {
+            "total_frames": 2642,
+            "fps": 29.97002997002997,
+            "duration": 88.15473333333334
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.18149904599563949,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "783-2",
+        "uid": "783",
+        "qid": "783-2",
+        "q_type": "Action Reasoning",
+        "question": "According to the video, what grave actions does the king unknowingly commit?",
+        "optionA": "Steal from the temple and deceive the oracle",
+        "optionB": "Kill his father, and marry his mother",
+        "optionC": "Betray his country and flee to exile",
+        "optionD": "Overthrow the government and seize power unlawfully",
+        "options": [
+            "Steal from the temple and deceive the oracle",
+            "Kill his father, and marry his mother",
+            "Betray his country and flee to exile",
+            "Overthrow the government and seize power unlawfully"
+        ],
+        "question_w_options": "According to the video, what grave actions does the king unknowingly commit? Choose your answer from below options: A.Steal from the temple and deceive the oracle, B.Kill his father, and marry his mother, C.Betray his country and flee to exile, D.Overthrow the government and seize power unlawfully.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/liDQtpusSmY.mp4",
+        "answers": [
+            "Based on the image sequence and the title \"Oedipus the King,\" the correct answer is:\n\nB. Kill his father, and marry his mother."
+        ],
+        "video_info": {
+            "total_frames": 65341,
+            "fps": 25.0,
+            "duration": 2613.64
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006121730613244365,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "160-2",
+        "uid": "160",
+        "qid": "160-2",
+        "q_type": "Object Reasoning",
+        "question": "Who could be the man in the white shirt clapping in the video?",
+        "optionA": "The commentator",
+        "optionB": "The coach of the Mexico team",
+        "optionC": "An ordinary member of the audience",
+        "optionD": "The coach of the Korean team",
+        "options": [
+            "The commentator",
+            "The coach of the Mexico team",
+            "An ordinary member of the audience",
+            "The coach of the Korean team"
+        ],
+        "question_w_options": "Who could be the man in the white shirt clapping in the video? Choose your answer from below options: A.The commentator, B.The coach of the Mexico team, C.An ordinary member of the audience, D.The coach of the Korean team.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/njc90ODIbLc.mp4",
+        "answers": [
+            "I can't determine who the man in the white shirt clapping is based on the image sequence."
+        ],
+        "video_info": {
+            "total_frames": 1607,
+            "fps": 25.0,
+            "duration": 64.28
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.24891101431238333,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "616-3",
+        "uid": "616",
+        "qid": "616-3",
+        "q_type": "Temporal Reasoning",
+        "question": "After introducing tofu making, what kind of traditional technique or scenic spot did the youtuber introduce according to what is shown in the video?",
+        "optionA": "A Buddhist temple",
+        "optionB": "Kyoto Museum",
+        "optionC": "Nishiki Market",
+        "optionD": "Folding fan workshop",
+        "options": [
+            "A Buddhist temple",
+            "Kyoto Museum",
+            "Nishiki Market",
+            "Folding fan workshop"
+        ],
+        "question_w_options": "After introducing tofu making, what kind of traditional technique or scenic spot did the youtuber introduce according to what is shown in the video? Choose your answer from below options: A.A Buddhist temple, B.Kyoto Museum, C.Nishiki Market, D.Folding fan workshop.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/aansXcMqnNk.mp4",
+        "answers": [
+            "Based on the image sequence, the youtuber introduced a Buddhist temple. This is indicated by images 1 and 14, which show traditional temple architecture and monks. So, the answer is A. A Buddhist temple."
+        ],
+        "video_info": {
+            "total_frames": 79365,
+            "fps": 30.0,
+            "duration": 2645.5
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006048006048006048,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "424-2",
+        "uid": "424",
+        "qid": "424-2",
+        "q_type": "Information Synopsis",
+        "question": "What is the key focus of the video?",
+        "optionA": "Population structure issues",
+        "optionB": "Immigration concerns",
+        "optionC": "Implications of declining birth rates on the global stage",
+        "optionD": "Uncertain",
+        "options": [
+            "Population structure issues",
+            "Immigration concerns",
+            "Implications of declining birth rates on the global stage",
+            "Uncertain"
+        ],
+        "question_w_options": "What is the key focus of the video? Choose your answer from below options: A.Population structure issues, B.Immigration concerns, C.Implications of declining birth rates on the global stage, D.Uncertain.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/9QXXL96y3A0.mp4",
+        "answers": [
+            "Based on the image sequence, the key focus of the video appears to be C. Implications of declining birth rates on the global stage. This is suggested by the presence of frames showing discussions about falling birth rates, demographic statistics, and related interviews."
+        ],
+        "video_info": {
+            "total_frames": 8492,
+            "fps": 25.0,
+            "duration": 339.68
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.047103155911446065,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "527-1",
+        "uid": "527",
+        "qid": "527-1",
+        "q_type": "Temporal Reasoning",
+        "question": "According to this video, in which order do the following business ideas appear in the video?\n(a) wedding invitations.\n(b) clothing labels.\n(c) book marks.\n(d) dried flowers.?",
+        "optionA": "(c)(a)(b)(d)",
+        "optionB": "(a)(b)(d)(c)",
+        "optionC": "(b)(d)(a)(c)",
+        "optionD": "(d)(c)(a)(b)",
+        "options": [
+            "(c)(a)(b)(d)",
+            "(a)(b)(d)(c)",
+            "(b)(d)(a)(c)",
+            "(d)(c)(a)(b)"
+        ],
+        "question_w_options": "According to this video, in which order do the following business ideas appear in the video?\n(a) wedding invitations.\n(b) clothing labels.\n(c) book marks.\n(d) dried flowers.? Choose your answer from below options: A.(c)(a)(b)(d), B.(a)(b)(d)(c), C.(b)(d)(a)(c), D.(d)(c)(a)(b).",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/-gnfUTPmnNU.mp4",
+        "answers": [
+            "Based on the image sequence:\n\n- (a) Wedding invitations appear at position 5.\n- (b) Clothing labels appear at position 4.\n- (c) Bookmarks appear at position 3.\n- (d) Dried flowers appear at position 13.\n\nThe order is (c)(a)(b)(d), which corresponds to option A."
+        ],
+        "video_info": {
+            "total_frames": 9156,
+            "fps": 30.0,
+            "duration": 305.2
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.05242463958060289,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "570-3",
+        "uid": "570",
+        "qid": "570-3",
+        "q_type": "Object Reasoning",
+        "question": "Why are shanghai temples so crowded, as inferred by the main character in the video?",
+        "optionA": "Coming up to Chinese New Year",
+        "optionB": "There will be free wine tasting",
+        "optionC": "It's peak tourist season",
+        "optionD": "Lantern festival was organized",
+        "options": [
+            "Coming up to Chinese New Year",
+            "There will be free wine tasting",
+            "It's peak tourist season",
+            "Lantern festival was organized"
+        ],
+        "question_w_options": "Why are shanghai temples so crowded, as inferred by the main character in the video? Choose your answer from below options: A.Coming up to Chinese New Year, B.There will be free wine tasting, C.It's peak tourist season, D.Lantern festival was organized.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/M_lwC5zPkyo.mp4",
+        "answers": [
+            "Based on the image sequence, the presence of decorations and crowds in images 9 and 13 suggests a festive atmosphere. This aligns with option A: Coming up to Chinese New Year, which is a major holiday in China known for temple visits and celebrations."
+        ],
+        "video_info": {
+            "total_frames": 25939,
+            "fps": 29.97002997002997,
+            "duration": 865.4979666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.018486467462912198,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "078-3",
+        "uid": "078",
+        "qid": "078-3",
+        "q_type": "Information Synopsis",
+        "question": "What is this video mainly about?",
+        "optionA": "It teaches how to tie a neck tie",
+        "optionB": "It advertises a bow tie",
+        "optionC": "It advertises a neck tie",
+        "optionD": "It teaches how to tie a bow tie",
+        "options": [
+            "It teaches how to tie a neck tie",
+            "It advertises a bow tie",
+            "It advertises a neck tie",
+            "It teaches how to tie a bow tie"
+        ],
+        "question_w_options": "What is this video mainly about? Choose your answer from below options: A.It teaches how to tie a neck tie, B.It advertises a bow tie, C.It advertises a neck tie, D.It teaches how to tie a bow tie.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/SnOc5W0PgVE.mp4",
+        "answers": [
+            "The image sequence shows a person tying a bow tie. Based on the frames, the video is mainly about:\n\nD. It teaches how to tie a bow tie."
+        ],
+        "video_info": {
+            "total_frames": 1603,
+            "fps": 25.0,
+            "duration": 64.12
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.24953212726138488,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "737-2",
+        "uid": "737",
+        "qid": "737-2",
+        "q_type": "Action Recognition",
+        "question": "Which type of grenade was not featured in the video?",
+        "optionA": "Fire",
+        "optionB": "Smoke",
+        "optionC": "Flash",
+        "optionD": "Gas",
+        "options": [
+            "Fire",
+            "Smoke",
+            "Flash",
+            "Gas"
+        ],
+        "question_w_options": "Which type of grenade was not featured in the video? Choose your answer from below options: A.Fire, B.Smoke, C.Flash, D.Gas.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/HT2iYl6E_Vo.mp4",
+        "answers": [
+            "Based on the image sequence, the types of grenades featured in the video are:\n\n- Smoke grenades are visible in frames 3, 7, and 10.\n- Fire grenades are visible in frames 6 and 12.\n\nThere are no visible indications of flash or gas grenades in the frames. However, since smoke and fire grenades are clearly shown, and flash grenades often have less visible effects in still images, the type of grenade not featured is likely:\n\n**D. Gas**"
+        ],
+        "video_info": {
+            "total_frames": 92730,
+            "fps": 29.97,
+            "duration": 3094.094094094094
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0051711420252345515,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "122-3",
+        "uid": "122",
+        "qid": "122-3",
+        "q_type": "Attribute Perception",
+        "question": "Which color is the dress worn by the woman next to obama in the video clip?",
+        "optionA": "Blue",
+        "optionB": "Black",
+        "optionC": "Yellow",
+        "optionD": "Gray",
+        "options": [
+            "Blue",
+            "Black",
+            "Yellow",
+            "Gray"
+        ],
+        "question_w_options": "Which color is the dress worn by the woman next to obama in the video clip? Choose your answer from below options: A.Blue, B.Black, C.Yellow, D.Gray.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/Z-rHofd6g2Q.mp4",
+        "answers": [
+            "The dress worn by the woman next to Obama in the video clip is yellow."
+        ],
+        "video_info": {
+            "total_frames": 1674,
+            "fps": 25.0,
+            "duration": 66.96
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.23894862604540026,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "352-3",
+        "uid": "352",
+        "qid": "352-3",
+        "q_type": "Temporal Reasoning",
+        "question": "Which of the following statements about the water bottle in imagination is true?",
+        "optionA": "It will firstly brought by equatorial current",
+        "optionB": "It will firstly moved eastwards",
+        "optionC": "It will move northwards after reaching Asia because the cold water piles up",
+        "optionD": "It will end up reaching Australia",
+        "options": [
+            "It will firstly brought by equatorial current",
+            "It will firstly moved eastwards",
+            "It will move northwards after reaching Asia because the cold water piles up",
+            "It will end up reaching Australia"
+        ],
+        "question_w_options": "Which of the following statements about the water bottle in imagination is true? Choose your answer from below options: A.It will firstly brought by equatorial current, B.It will firstly moved eastwards, C.It will move northwards after reaching Asia because the cold water piles up, D.It will end up reaching Australia.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/xa6SdvFA3w0.mp4",
+        "answers": [
+            "Based on the image sequence, the water bottle is initially brought by the equatorial current, as indicated in frame 5. Therefore, the correct answer is:\n\nA. It will firstly be brought by the equatorial current."
+        ],
+        "video_info": {
+            "total_frames": 15889,
+            "fps": 23.976023976023978,
+            "duration": 662.7037083333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.02414351964355111,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "891-3",
+        "uid": "891",
+        "qid": "891-3",
+        "q_type": "Object Reasoning",
+        "question": "How does the factory 56's \"tecline\" concept future-proof the production process for potential new car models?",
+        "optionA": "By utilizing modular workstations that can be easily reconfigured for different car sizes and shapes",
+        "optionB": "By employing a universal robotic workforce capable of performing any task on any vehicle",
+        "optionC": "By implementing a cloud-based manufacturing system that can be remotely updated with new production protocols",
+        "optionD": "By focusing on standardized parts and components across all car models to minimize variations",
+        "options": [
+            "By utilizing modular workstations that can be easily reconfigured for different car sizes and shapes",
+            "By employing a universal robotic workforce capable of performing any task on any vehicle",
+            "By implementing a cloud-based manufacturing system that can be remotely updated with new production protocols",
+            "By focusing on standardized parts and components across all car models to minimize variations"
+        ],
+        "question_w_options": "How does the factory 56's \"tecline\" concept future-proof the production process for potential new car models? Choose your answer from below options: A.By utilizing modular workstations that can be easily reconfigured for different car sizes and shapes, B.By employing a universal robotic workforce capable of performing any task on any vehicle, C.By implementing a cloud-based manufacturing system that can be remotely updated with new production protocols, D.By focusing on standardized parts and components across all car models to minimize variations.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/uuCVnqV4cNc.mp4",
+        "answers": [
+            "Based on the image sequence, the most likely answer is:\n\nA. By utilizing modular workstations that can be easily reconfigured for different car sizes and shapes.\n\nThe images suggest a flexible and adaptable production environment, which aligns with the concept of modular workstations."
+        ],
+        "video_info": {
+            "total_frames": 75749,
+            "fps": 25.0,
+            "duration": 3029.96
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.005280597763666847,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "680-3",
+        "uid": "680",
+        "qid": "680-3",
+        "q_type": "Action Reasoning",
+        "question": "According to this video, what can people do if they lose their important files on the computers?",
+        "optionA": "Use backup software such as Time Machine when the computer breaks down",
+        "optionB": "Ask after-sales service for help if something happens to the computer and backup drive",
+        "optionC": "Download what they have backed up in the cloud if they have access to cloud service",
+        "optionD": "Recover from the backup hard drives even if the drives get burnt",
+        "options": [
+            "Use backup software such as Time Machine when the computer breaks down",
+            "Ask after-sales service for help if something happens to the computer and backup drive",
+            "Download what they have backed up in the cloud if they have access to cloud service",
+            "Recover from the backup hard drives even if the drives get burnt"
+        ],
+        "question_w_options": "According to this video, what can people do if they lose their important files on the computers? Choose your answer from below options: A.Use backup software such as Time Machine when the computer breaks down, B.Ask after-sales service for help if something happens to the computer and backup drive, C.Download what they have backed up in the cloud if they have access to cloud service, D.Recover from the backup hard drives even if the drives get burnt.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/y2kg3MOk1sY.mp4",
+        "answers": [
+            "Based on the image sequence, the most relevant option is:\n\nC. Download what they have backed up in the cloud if they have access to cloud service.\n\nThe images show various devices and software interfaces, including cloud-related visuals, which suggest using cloud services for backup and recovery."
+        ],
+        "video_info": {
+            "total_frames": 79280,
+            "fps": 24.0,
+            "duration": 3303.3333333333335
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.004843592330978809,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "294-1",
+        "uid": "294",
+        "qid": "294-1",
+        "q_type": "Action Recognition",
+        "question": "According to the video, how does the magician demonstrate his skill with a rubik's cube?",
+        "optionA": "He performs sleight of hand tricks with the cube, making it disappear and reappear",
+        "optionB": "He throws the scrambled Rubik's Cube into the air, and it immediately restores itself upon catching it",
+        "optionC": "He recites a spell over the cube, causing it to change colors in an instant",
+        "optionD": "He uses a special device to manipulate the cube's movements without touching it",
+        "options": [
+            "He performs sleight of hand tricks with the cube, making it disappear and reappear",
+            "He throws the scrambled Rubik's Cube into the air, and it immediately restores itself upon catching it",
+            "He recites a spell over the cube, causing it to change colors in an instant",
+            "He uses a special device to manipulate the cube's movements without touching it"
+        ],
+        "question_w_options": "According to the video, how does the magician demonstrate his skill with a rubik's cube? Choose your answer from below options: A.He performs sleight of hand tricks with the cube, making it disappear and reappear, B.He throws the scrambled Rubik's Cube into the air, and it immediately restores itself upon catching it, C.He recites a spell over the cube, causing it to change colors in an instant, D.He uses a special device to manipulate the cube's movements without touching it.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/nbOXpuv7K4Q.mp4",
+        "answers": [
+            "Based on the image sequence, the magician demonstrates his skill with a Rubik's Cube by throwing the scrambled cube into the air, and it immediately restores itself upon catching it. Therefore, the correct answer is:\n\nB. He throws the scrambled Rubik's Cube into the air, and it immediately restores itself upon catching it."
+        ],
+        "video_info": {
+            "total_frames": 2086,
+            "fps": 25.0,
+            "duration": 83.44
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.19175455417066156,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "874-1",
+        "uid": "874",
+        "qid": "874-1",
+        "q_type": "Action Reasoning",
+        "question": "According to what is shown in the video, why does the cameraman drive a car?",
+        "optionA": "Taking the cat to play",
+        "optionB": "Purchasing food for the cat",
+        "optionC": "Transporting the cat to the hospital",
+        "optionD": "Searching for the lost cat",
+        "options": [
+            "Taking the cat to play",
+            "Purchasing food for the cat",
+            "Transporting the cat to the hospital",
+            "Searching for the lost cat"
+        ],
+        "question_w_options": "According to what is shown in the video, why does the cameraman drive a car? Choose your answer from below options: A.Taking the cat to play, B.Purchasing food for the cat, C.Transporting the cat to the hospital, D.Searching for the lost cat.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/h1cv8Fsn4eU.mp4",
+        "answers": [
+            "Based on the image sequence, the most relevant option is:\n\n**D. Searching for the lost cat.**\n\nThe images show scenes that suggest a search and rescue operation, such as people gathering (image 7), a plane (image 9), and someone holding a cat (image 4)."
+        ],
+        "video_info": {
+            "total_frames": 60062,
+            "fps": 29.97002997002997,
+            "duration": 2004.0687333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.007983758108629075,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "653-1",
+        "uid": "653",
+        "qid": "653-1",
+        "q_type": "Counting Problem",
+        "question": "How many people does the ross ice shelf team consist of?",
+        "optionA": "2",
+        "optionB": "23",
+        "optionC": "12",
+        "optionD": "8",
+        "options": [
+            "2",
+            "23",
+            "12",
+            "8"
+        ],
+        "question_w_options": "How many people does the ross ice shelf team consist of? Choose your answer from below options: A.2, B.23, C.12, D.8.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/YtAL8y2lACs.mp4",
+        "answers": [
+            "Based on the image sequence, particularly frame 3, it appears that the Ross Ice Shelf team consists of 8 people. Therefore, the answer is D.8."
+        ],
+        "video_info": {
+            "total_frames": 85113,
+            "fps": 29.97002997002997,
+            "duration": 2839.9371
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0056339275964950065,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "836-3",
+        "uid": "836",
+        "qid": "836-3",
+        "q_type": "Action Reasoning",
+        "question": "As can be inferred from the video, why does the video dedicates a significant amount of time to the roast suckling pig?",
+        "optionA": "Because the author of the video really liked it",
+        "optionB": "Because it's the most popular spotlight cuisine in the Philippines",
+        "optionC": "Because there's a lot of roasted suckling pig in the Philippines",
+        "optionD": "Because it's very expensive",
+        "options": [
+            "Because the author of the video really liked it",
+            "Because it's the most popular spotlight cuisine in the Philippines",
+            "Because there's a lot of roasted suckling pig in the Philippines",
+            "Because it's very expensive"
+        ],
+        "question_w_options": "As can be inferred from the video, why does the video dedicates a significant amount of time to the roast suckling pig? Choose your answer from below options: A.Because the author of the video really liked it, B.Because it's the most popular spotlight cuisine in the Philippines, C.Because there's a lot of roasted suckling pig in the Philippines, D.Because it's very expensive.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/wTlERUE8LVw.mp4",
+        "answers": [
+            "Based on the image sequence, the video likely dedicates a significant amount of time to the roast suckling pig because it's the most popular spotlight cuisine in the Philippines. The images show a focus on the preparation, serving, and enjoyment of the dish, suggesting its cultural significance and popularity. Therefore, the best answer is B."
+        ],
+        "video_info": {
+            "total_frames": 74468,
+            "fps": 29.97002997002997,
+            "duration": 2484.7489333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006439282369883434,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "611-3",
+        "uid": "611",
+        "qid": "611-3",
+        "q_type": "Object Reasoning",
+        "question": "What is true about bernini's david as described in the video?",
+        "optionA": "David opened his mouth slightly to breathe better",
+        "optionB": "David tried to kill the youth Acis in the statue",
+        "optionC": "Bernini's David portrayed the biblical hero in contemplation",
+        "optionD": "The contrast between the two famous \"David\" showed the move from Renaissance to Baroque",
+        "options": [
+            "David opened his mouth slightly to breathe better",
+            "David tried to kill the youth Acis in the statue",
+            "Bernini's David portrayed the biblical hero in contemplation",
+            "The contrast between the two famous \"David\" showed the move from Renaissance to Baroque"
+        ],
+        "question_w_options": "What is true about bernini's david as described in the video? Choose your answer from below options: A.David opened his mouth slightly to breathe better, B.David tried to kill the youth Acis in the statue, C.Bernini's David portrayed the biblical hero in contemplation, D.The contrast between the two famous \"David\" showed the move from Renaissance to Baroque.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/H8fGd3fCJbg.mp4",
+        "answers": [
+            "Based on the image sequence, the correct answer is:\n\nD. The contrast between the two famous \"David\" showed the move from Renaissance to Baroque.\n\nThe images show different sculptures of David, including Bernini's dynamic and expressive version, which is characteristic of the Baroque style, contrasting with the more static and contemplative Renaissance versions."
+        ],
+        "video_info": {
+            "total_frames": 54094,
+            "fps": 29.97002997002997,
+            "duration": 1804.9364666666668
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.00886457794802528,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "170-3",
+        "uid": "170",
+        "qid": "170-3",
+        "q_type": "Object Recognition",
+        "question": "Who was the first athlete to reach the finish line in the video?",
+        "optionA": "The athlete in green tops and green shorts",
+        "optionB": "The athlete in red tops and red shorts",
+        "optionC": "The athlete in blue tops and blue shorts",
+        "optionD": "The athlete in blue tops and green shorts",
+        "options": [
+            "The athlete in green tops and green shorts",
+            "The athlete in red tops and red shorts",
+            "The athlete in blue tops and blue shorts",
+            "The athlete in blue tops and green shorts"
+        ],
+        "question_w_options": "Who was the first athlete to reach the finish line in the video? Choose your answer from below options: A.The athlete in green tops and green shorts, B.The athlete in red tops and red shorts, C.The athlete in blue tops and blue shorts, D.The athlete in blue tops and green shorts.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/E895PNqSgEI.mp4",
+        "answers": [
+            "Based on the image sequence, the first athlete to reach the finish line is the one in blue tops and blue shorts. So, the answer is:\n\nC. The athlete in blue tops and blue shorts."
+        ],
+        "video_info": {
+            "total_frames": 1051,
+            "fps": 30.0,
+            "duration": 35.03333333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.45670789724072314,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "361-1",
+        "uid": "361",
+        "qid": "361-1",
+        "q_type": "Object Reasoning",
+        "question": "Based on the video, what is the role of the girl in the yellow top and red trousers?",
+        "optionA": "Victim",
+        "optionB": "Suspect",
+        "optionC": "Police officer",
+        "optionD": "Defense lawyer",
+        "options": [
+            "Victim",
+            "Suspect",
+            "Police officer",
+            "Defense lawyer"
+        ],
+        "question_w_options": "Based on the video, what is the role of the girl in the yellow top and red trousers? Choose your answer from below options: A.Victim, B.Suspect, C.Police officer, D.Defense lawyer.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/gT2lNXqt2V0.mp4",
+        "answers": [
+            "Based on the image sequence, the girl in the yellow top and red trousers is shown holding a document labeled \"Victim Impact Statement\" in frames 9 and 10. This suggests that her role is A. Victim."
+        ],
+        "video_info": {
+            "total_frames": 6709,
+            "fps": 23.976023976023978,
+            "duration": 279.8212083333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.05717936855215139,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "119-1",
+        "uid": "119",
+        "qid": "119-1",
+        "q_type": "Information Synopsis",
+        "question": "What is the subject of this video?",
+        "optionA": "The shortest man in the world",
+        "optionB": "The shortest man in the world",
+        "optionC": "Life in the United States",
+        "optionD": "Medical care in the United States",
+        "options": [
+            "The shortest man in the world",
+            "The shortest man in the world",
+            "Life in the United States",
+            "Medical care in the United States"
+        ],
+        "question_w_options": "What is the subject of this video? Choose your answer from below options: A.The shortest man in the world, B.The shortest man in the world, C.Life in the United States, D.Medical care in the United States.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/-ApL8d6tX5U.mp4",
+        "answers": [
+            "The subject of the video is likely \"The world's smallest woman,\" as indicated by the text in the images. Therefore, the correct answer is not listed among the options provided."
+        ],
+        "video_info": {
+            "total_frames": 2233,
+            "fps": 23.976023976023978,
+            "duration": 93.13470833333332
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.17179417089851484,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "109-1",
+        "uid": "109",
+        "qid": "109-1",
+        "q_type": "Action Recognition",
+        "question": "What is the man at the table doing while others speak to him?",
+        "optionA": "Writing",
+        "optionB": "Eating",
+        "optionC": "Drinking",
+        "optionD": "Sleeping",
+        "options": [
+            "Writing",
+            "Eating",
+            "Drinking",
+            "Sleeping"
+        ],
+        "question_w_options": "What is the man at the table doing while others speak to him? Choose your answer from below options: A.Writing, B.Eating, C.Drinking, D.Sleeping.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/qu9ImFMLYxw.mp4",
+        "answers": [
+            "Based on the image sequence, the man at the table is writing while others speak to him."
+        ],
+        "video_info": {
+            "total_frames": 1153,
+            "fps": 23.976023976023978,
+            "duration": 48.08970833333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.3327115209162044,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "669-1",
+        "uid": "669",
+        "qid": "669-1",
+        "q_type": "Spatial Reasoning",
+        "question": "How is the main content of the video presented?",
+        "optionA": "Moderator explains content through interactive dialogue",
+        "optionB": "The host watches movie plot clips and explains the content involved in each clip",
+        "optionC": "The host explains simultaneously while the video content is playing",
+        "optionD": "The host watches an entire movie and then comments on it at the end",
+        "options": [
+            "Moderator explains content through interactive dialogue",
+            "The host watches movie plot clips and explains the content involved in each clip",
+            "The host explains simultaneously while the video content is playing",
+            "The host watches an entire movie and then comments on it at the end"
+        ],
+        "question_w_options": "How is the main content of the video presented? Choose your answer from below options: A.Moderator explains content through interactive dialogue, B.The host watches movie plot clips and explains the content involved in each clip, C.The host explains simultaneously while the video content is playing, D.The host watches an entire movie and then comments on it at the end.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/g1VFfVsZt7w.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that the host is explaining the content while the video content is playing. This is indicated by the presence of different video clips in the background while the host is speaking. Therefore, the answer is:\n\nC. The host explains simultaneously while the video content is playing."
+        ],
+        "video_info": {
+            "total_frames": 43681,
+            "fps": 23.976023976023978,
+            "duration": 1821.8617083333331
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.008782225306572277,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "148-3",
+        "uid": "148",
+        "qid": "148-3",
+        "q_type": "Action Reasoning",
+        "question": "Why was the athlete in the video called for a traveling violation despite not being a foul?",
+        "optionA": "Because the referee made the wrong call",
+        "optionB": "Because this happened before the rules were changed",
+        "optionC": "Because the player trolled the referee",
+        "optionD": "The penalty was not a traveling violation",
+        "options": [
+            "Because the referee made the wrong call",
+            "Because this happened before the rules were changed",
+            "Because the player trolled the referee",
+            "The penalty was not a traveling violation"
+        ],
+        "question_w_options": "Why was the athlete in the video called for a traveling violation despite not being a foul? Choose your answer from below options: A.Because the referee made the wrong call, B.Because this happened before the rules were changed, C.Because the player trolled the referee, D.The penalty was not a traveling violation.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/KZu5iE7yrPI.mp4",
+        "answers": [
+            "Based on the image sequence, the answer is B. Because this happened before the rules were changed. The frames indicate a reference to the 2017 rules, suggesting that the traveling violation call was made according to the rules in place before they were updated."
+        ],
+        "video_info": {
+            "total_frames": 2990,
+            "fps": 29.97002997002997,
+            "duration": 99.76633333333334
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.16037474231454163,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "801-2",
+        "uid": "801",
+        "qid": "801-2",
+        "q_type": "Object Reasoning",
+        "question": "In the video, while evaluating five paintings, the man with platinum blonde hair and a pure black top contends that the highest-scoring painting was created by whom?",
+        "optionA": "Romesh Nathan",
+        "optionB": "Tim K",
+        "optionC": "Josh Whitaker",
+        "optionD": "Frank Skinner",
+        "options": [
+            "Romesh Nathan",
+            "Tim K",
+            "Josh Whitaker",
+            "Frank Skinner"
+        ],
+        "question_w_options": "In the video, while evaluating five paintings, the man with platinum blonde hair and a pure black top contends that the highest-scoring painting was created by whom? Choose your answer from below options: A.Romesh Nathan, B.Tim K, C.Josh Whitaker, D.Frank Skinner.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/v4YhsooE5xY.mp4",
+        "answers": [
+            "I can't identify or recognize people in images, but I can help analyze the sequence. In the images, the man with platinum blonde hair and a pure black top is seen in frames 5, 7, and 13. In frame 9, a painting with a blue ribbon labeled \"FRANK\" is shown, suggesting it might be the highest-scoring painting. Therefore, the answer is likely D. Frank Skinner."
+        ],
+        "video_info": {
+            "total_frames": 67243,
+            "fps": 25.0,
+            "duration": 2689.72
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.005948574572817989,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "132-1",
+        "uid": "132",
+        "qid": "132-1",
+        "q_type": "Object Recognition",
+        "question": "What is on the legend when he is hit by the turret?",
+        "optionA": "Sand",
+        "optionB": "Ice",
+        "optionC": "Thunder",
+        "optionD": "Fire",
+        "options": [
+            "Sand",
+            "Ice",
+            "Thunder",
+            "Fire"
+        ],
+        "question_w_options": "What is on the legend when he is hit by the turret? Choose your answer from below options: A.Sand, B.Ice, C.Thunder, D.Fire.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/4V6G0qYVoBg.mp4",
+        "answers": [
+            "The legend on the screen when he is hit by the turret is \"Unstoppable force,\" which corresponds to option D. Fire."
+        ],
+        "video_info": {
+            "total_frames": 3600,
+            "fps": 30.0,
+            "duration": 120.0
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.13333333333333333,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "091-1",
+        "uid": "091",
+        "qid": "091-1",
+        "q_type": "Action Recognition",
+        "question": "How does the girl feel in this video?",
+        "optionA": "Positive",
+        "optionB": "Happy",
+        "optionC": "Angry",
+        "optionD": "Sad",
+        "options": [
+            "Positive",
+            "Happy",
+            "Angry",
+            "Sad"
+        ],
+        "question_w_options": "How does the girl feel in this video? Choose your answer from below options: A.Positive, B.Happy, C.Angry, D.Sad.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/_aVHf_jmWk8.mp4",
+        "answers": [
+            "Based on the image sequence, the girl appears to feel D. Sad. The frames show her with downcast eyes, a somber expression, and a scene with wings that might symbolize a desire to escape or a feeling of being trapped."
+        ],
+        "video_info": {
+            "total_frames": 1331,
+            "fps": 29.97002997002997,
+            "duration": 44.411033333333336
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.3602708335991581,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "689-1",
+        "uid": "689",
+        "qid": "689-1",
+        "q_type": "Information Synopsis",
+        "question": "What does this video tell?",
+        "optionA": "The process of building a starship",
+        "optionB": "Why Starship is the holy grail for SpaceX",
+        "optionC": "Why Starlink is crucial to SpaceX's success",
+        "optionD": "How SpaceX could Win The Space Race",
+        "options": [
+            "The process of building a starship",
+            "Why Starship is the holy grail for SpaceX",
+            "Why Starlink is crucial to SpaceX's success",
+            "How SpaceX could Win The Space Race"
+        ],
+        "question_w_options": "What does this video tell? Choose your answer from below options: A.The process of building a starship, B.Why Starship is the holy grail for SpaceX, C.Why Starlink is crucial to SpaceX's success, D.How SpaceX could Win The Space Race.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/KTjeh5QPL0o.mp4",
+        "answers": [
+            "The image sequence includes frames showing rocket launches, discussions, and technology related to satellites. This suggests the video is about \"C. Why Starlink is crucial to SpaceX's success.\""
+        ],
+        "video_info": {
+            "total_frames": 103655,
+            "fps": 29.97002997002997,
+            "duration": 3458.6218333333336
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.004626120105354102,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "155-3",
+        "uid": "155",
+        "qid": "155-3",
+        "q_type": "Counting Problem",
+        "question": "How many mbappe's spectacular goals does the video show?",
+        "optionA": "4",
+        "optionB": "5",
+        "optionC": "3",
+        "optionD": "6",
+        "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+        ],
+        "question_w_options": "How many mbappe's spectacular goals does the video show? Choose your answer from below options: A.4, B.5, C.3, D.6.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/ya2IXAREZho.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that there are three different goal celebrations or goal-related actions involving the player in question. Therefore, the video likely shows C. 3 spectacular goals."
+        ],
+        "video_info": {
+            "total_frames": 2965,
+            "fps": 25.0,
+            "duration": 118.6
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.13490725126475547,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "524-1",
+        "uid": "524",
+        "qid": "524-1",
+        "q_type": "Object Recognition",
+        "question": "Which ingredient is not used in the video?",
+        "optionA": "Paper",
+        "optionB": "Wool thread",
+        "optionC": "Leftover cloth",
+        "optionD": "Glue gun",
+        "options": [
+            "Paper",
+            "Wool thread",
+            "Leftover cloth",
+            "Glue gun"
+        ],
+        "question_w_options": "Which ingredient is not used in the video? Choose your answer from below options: A.Paper, B.Wool thread, C.Leftover cloth, D.Glue gun.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/IqejFRAcys8.mp4",
+        "answers": [
+            "Based on the image sequence, the ingredient not used in the video is A. Paper. \n\nThe images show the use of wool thread, leftover cloth, and a glue gun, but there is no clear indication of paper being used as a material in the crafting process."
+        ],
+        "video_info": {
+            "total_frames": 10747,
+            "fps": 25.0,
+            "duration": 429.88
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.03721968921559505,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "182-2",
+        "uid": "182",
+        "qid": "182-2",
+        "q_type": "Counting Problem",
+        "question": "What is the exact number of performers in the video?",
+        "optionA": "5",
+        "optionB": "4",
+        "optionC": "3",
+        "optionD": "2",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "question_w_options": "What is the exact number of performers in the video? Choose your answer from below options: A.5, B.4, C.3, D.2.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/2QTiAmvygC4.mp4",
+        "answers": [
+            "Based on the image sequence, there are two performers visible in the frames. The correct answer is D.2."
+        ],
+        "video_info": {
+            "total_frames": 2581,
+            "fps": 29.97002997002997,
+            "duration": 86.11936666666666
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.18578863987620284,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "191-3",
+        "uid": "191",
+        "qid": "191-3",
+        "q_type": "Object Recognition",
+        "question": "Which sentence best describes the first rubber band trick shown in the video?",
+        "optionA": "A rubber band mysteriously jumps from being wrapped around the wrist to a smart phone",
+        "optionB": "A rubber band jumps from being wrapped around the pinkie and ring fingers to the first and middle fingers of the same hand and then back again",
+        "optionC": "A rubber band seems to switch places between the fingers, and the second rubber band appears to block it",
+        "optionD": "A thumb gets rid of being wrapped by a rubber band",
+        "options": [
+            "A rubber band mysteriously jumps from being wrapped around the wrist to a smart phone",
+            "A rubber band jumps from being wrapped around the pinkie and ring fingers to the first and middle fingers of the same hand and then back again",
+            "A rubber band seems to switch places between the fingers, and the second rubber band appears to block it",
+            "A thumb gets rid of being wrapped by a rubber band"
+        ],
+        "question_w_options": "Which sentence best describes the first rubber band trick shown in the video? Choose your answer from below options: A.A rubber band mysteriously jumps from being wrapped around the wrist to a smart phone, B.A rubber band jumps from being wrapped around the pinkie and ring fingers to the first and middle fingers of the same hand and then back again, C.A rubber band seems to switch places between the fingers, and the second rubber band appears to block it, D.A thumb gets rid of being wrapped by a rubber band.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/vQTQJ1Mlzqo.mp4",
+        "answers": [
+            "Based on the image sequence, the first rubber band trick shown in the video is best described by option B: A rubber band jumps from being wrapped around the pinkie and ring fingers to the first and middle fingers of the same hand and then back again."
+        ],
+        "video_info": {
+            "total_frames": 3133,
+            "fps": 30.0,
+            "duration": 104.43333333333334
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.15320778806255983,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "098-1",
+        "uid": "098",
+        "qid": "098-1",
+        "q_type": "Object Recognition",
+        "question": "What element is unavailable for the protagonist to use?",
+        "optionA": "Metal",
+        "optionB": "Water",
+        "optionC": "Fire",
+        "optionD": "Air",
+        "options": [
+            "Metal",
+            "Water",
+            "Fire",
+            "Air"
+        ],
+        "question_w_options": "What element is unavailable for the protagonist to use? Choose your answer from below options: A.Metal, B.Water, C.Fire, D.Air.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/PU-XOFIJMlg.mp4",
+        "answers": [
+            "Based on the image sequence, the protagonist appears to be using elements like air (e.g., flying or gliding in frames 6 and 11), water (e.g., water-like effects in frame 2), and earth (e.g., rocks in frame 3). However, there is no indication of the use of fire. Therefore, the element unavailable for the protagonist to use is likely:\n\nC. Fire."
+        ],
+        "video_info": {
+            "total_frames": 2985,
+            "fps": 25.0,
+            "duration": 119.4
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.13400335008375208,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "602-3",
+        "uid": "602",
+        "qid": "602-3",
+        "q_type": "Attribute Perception",
+        "question": "In line with the video evidence, which of the following statements about the world's longest railway line is not correct?",
+        "optionA": "It was built by Russia and China",
+        "optionB": "The length of it is 9289km",
+        "optionC": "It was completed in 1916",
+        "optionD": "French loans helped a lot in the process of building it",
+        "options": [
+            "It was built by Russia and China",
+            "The length of it is 9289km",
+            "It was completed in 1916",
+            "French loans helped a lot in the process of building it"
+        ],
+        "question_w_options": "In line with the video evidence, which of the following statements about the world's longest railway line is not correct? Choose your answer from below options: A.It was built by Russia and China, B.The length of it is 9289km, C.It was completed in 1916, D.French loans helped a lot in the process of building it.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/w0Wmc8C0Eq0.mp4",
+        "answers": [
+            "Based on the image sequence, the statement that is not correct is:\n\nA. It was built by Russia and China.\n\nThe images and annotations suggest a focus on Russian history and the construction of the railway, with no indication of Chinese involvement in the building process."
+        ],
+        "video_info": {
+            "total_frames": 70496,
+            "fps": 25.0,
+            "duration": 2819.84
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.005674080798910576,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "716-1",
+        "uid": "716",
+        "qid": "716-1",
+        "q_type": "Attribute Perception",
+        "question": "What religion can we infer from the video that the amish practice?",
+        "optionA": "Christianity",
+        "optionB": "Islam",
+        "optionC": "Buddhism",
+        "optionD": "It's not mentioned in the video",
+        "options": [
+            "Christianity",
+            "Islam",
+            "Buddhism",
+            "It's not mentioned in the video"
+        ],
+        "question_w_options": "What religion can we infer from the video that the amish practice? Choose your answer from below options: A.Christianity, B.Islam, C.Buddhism, D.It's not mentioned in the video.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/B9He5DVePvk.mp4",
+        "answers": [
+            "A. Christianity\n\nThe Amish are known to practice Christianity, specifically a form of Anabaptist Christianity."
+        ],
+        "video_info": {
+            "total_frames": 63639,
+            "fps": 25.0,
+            "duration": 2545.56
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006285453888338912,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "464-3",
+        "uid": "464",
+        "qid": "464-3",
+        "q_type": "Temporal Perception",
+        "question": "In which baton handover process in the video did a player fall?",
+        "optionA": "The handover process between the second and third rods",
+        "optionB": "The handover process between the first and second rods",
+        "optionC": "The handover process between the third and fourth sticks",
+        "optionD": "Not mentioned in the video",
+        "options": [
+            "The handover process between the second and third rods",
+            "The handover process between the first and second rods",
+            "The handover process between the third and fourth sticks",
+            "Not mentioned in the video"
+        ],
+        "question_w_options": "In which baton handover process in the video did a player fall? Choose your answer from below options: A.The handover process between the second and third rods, B.The handover process between the first and second rods, C.The handover process between the third and fourth sticks, D.Not mentioned in the video.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/ZQIZx5Oqw88.mp4",
+        "answers": [
+            "Based on the image sequence, the player falls during the handover process between the third and fourth sticks. The fall is visible in image 11. Therefore, the answer is C. The handover process between the third and fourth sticks."
+        ],
+        "video_info": {
+            "total_frames": 15575,
+            "fps": 25.0,
+            "duration": 623.0
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.025682182985553772,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "892-1",
+        "uid": "892",
+        "qid": "892-1",
+        "q_type": "OCR Problems",
+        "question": "After #41 completed his free throws, how many points was the team the author was rooting for ahead or behind the other team?",
+        "optionA": "6 points ahead of the other team",
+        "optionB": "Trailing the other team by 12 points",
+        "optionC": "12 points ahead of the other team",
+        "optionD": "Trailing the other team by 13 points",
+        "options": [
+            "6 points ahead of the other team",
+            "Trailing the other team by 12 points",
+            "12 points ahead of the other team",
+            "Trailing the other team by 13 points"
+        ],
+        "question_w_options": "After #41 completed his free throws, how many points was the team the author was rooting for ahead or behind the other team? Choose your answer from below options: A.6 points ahead of the other team, B.Trailing the other team by 12 points, C.12 points ahead of the other team, D.Trailing the other team by 13 points.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/8UQFaVCV8S8.mp4",
+        "answers": [
+            "I can't determine the score from the images. You might want to check the scoreboard visible in the video for the current score after #41's free throws."
+        ],
+        "video_info": {
+            "total_frames": 71275,
+            "fps": 29.97,
+            "duration": 2378.2115448782115
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006727744650999649,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "158-1",
+        "uid": "158",
+        "qid": "158-1",
+        "q_type": "OCR Problems",
+        "question": "What is the score of the football match at the time 78:32?",
+        "optionA": "Qatar 1 - 2 Senegal",
+        "optionB": "Qatar 0 - 2 Senegal",
+        "optionC": "Qatar 2 - 0 Senegal",
+        "optionD": "Qatar 0 - 1 Senegal",
+        "options": [
+            "Qatar 1 - 2 Senegal",
+            "Qatar 0 - 2 Senegal",
+            "Qatar 2 - 0 Senegal",
+            "Qatar 0 - 1 Senegal"
+        ],
+        "question_w_options": "What is the score of the football match at the time 78:32? Choose your answer from below options: A.Qatar 1 - 2 Senegal, B.Qatar 0 - 2 Senegal, C.Qatar 2 - 0 Senegal, D.Qatar 0 - 1 Senegal.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/uJFbOrNrL3w.mp4",
+        "answers": [
+            "Based on the image sequence, particularly frame 7, the score at the time 78:32 is Qatar 1 - 2 Senegal. Therefore, the answer is:\n\nA. Qatar 1 - 2 Senegal."
+        ],
+        "video_info": {
+            "total_frames": 1986,
+            "fps": 25.0,
+            "duration": 79.44
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.2014098690835851,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "849-2",
+        "uid": "849",
+        "qid": "849-2",
+        "q_type": "Object Reasoning",
+        "question": "What makes rose prick different from other perfumes?",
+        "optionA": "It's not black",
+        "optionB": "It has a lavender scent",
+        "optionC": "It is the only perfume that has a pink appearance",
+        "optionD": "It's very expensive",
+        "options": [
+            "It's not black",
+            "It has a lavender scent",
+            "It is the only perfume that has a pink appearance",
+            "It's very expensive"
+        ],
+        "question_w_options": "What makes rose prick different from other perfumes? Choose your answer from below options: A.It's not black, B.It has a lavender scent, C.It is the only perfume that has a pink appearance, D.It's very expensive.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/j27UP4zz_6U.mp4",
+        "answers": [
+            "Based on the image sequence, the answer is likely: C. It is the only perfume that has a pink appearance."
+        ],
+        "video_info": {
+            "total_frames": 51336,
+            "fps": 25.0,
+            "duration": 2053.44
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.007791803023219573,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "204-3",
+        "uid": "204",
+        "qid": "204-3",
+        "q_type": "Attribute Perception",
+        "question": "Based on the video, which statement is true regarding the height comparison of the world's shortest man and shortest woman?",
+        "optionA": "They are of the same height",
+        "optionB": "It is unclear from the video",
+        "optionC": "The world's shortest woman is taller than the world's shortest man",
+        "optionD": "The world's shortest man is taller than the world's shortest woman",
+        "options": [
+            "They are of the same height",
+            "It is unclear from the video",
+            "The world's shortest woman is taller than the world's shortest man",
+            "The world's shortest man is taller than the world's shortest woman"
+        ],
+        "question_w_options": "Based on the video, which statement is true regarding the height comparison of the world's shortest man and shortest woman? Choose your answer from below options: A.They are of the same height, B.It is unclear from the video, C.The world's shortest woman is taller than the world's shortest man, D.The world's shortest man is taller than the world's shortest woman.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/pcm_E7UoKLo.mp4",
+        "answers": [
+            "Based on the image sequence, the correct answer is: **D. The world's shortest man is taller than the world's shortest woman.**"
+        ],
+        "video_info": {
+            "total_frames": 2100,
+            "fps": 25.0,
+            "duration": 84.0
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.19047619047619047,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "329-3",
+        "uid": "329",
+        "qid": "329-3",
+        "q_type": "Attribute Perception",
+        "question": "What is the role of the company bivacor in the field of medical devices?",
+        "optionA": "BiVACOR is engineering a long-term device intended to completely replace the function of a patient's native heart",
+        "optionB": "BiVACOR is developing a temporary device for heart assistance during surgery",
+        "optionC": "BiVACOR is focused on creating diagnostic tools for heart disease",
+        "optionD": "BiVACOR designs pacemakers for regulating heart rhythm disorders",
+        "options": [
+            "BiVACOR is engineering a long-term device intended to completely replace the function of a patient's native heart",
+            "BiVACOR is developing a temporary device for heart assistance during surgery",
+            "BiVACOR is focused on creating diagnostic tools for heart disease",
+            "BiVACOR designs pacemakers for regulating heart rhythm disorders"
+        ],
+        "question_w_options": "What is the role of the company bivacor in the field of medical devices? Choose your answer from below options: A.BiVACOR is engineering a long-term device intended to completely replace the function of a patient's native heart, B.BiVACOR is developing a temporary device for heart assistance during surgery, C.BiVACOR is focused on creating diagnostic tools for heart disease, D.BiVACOR designs pacemakers for regulating heart rhythm disorders.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/3uV8XZcIBbk.mp4",
+        "answers": [
+            "Based on the image sequence, the presence of mechanical components resembling a heart device and the context of the images suggest that BiVACOR is involved in developing a device related to heart function. The images show what appears to be a mechanical heart or heart-like device, along with laboratory and engineering settings.\n\nThe most fitting answer is:\n\nA. BiVACOR is engineering a long-term device intended to completely replace the function of a patient's native heart."
+        ],
+        "video_info": {
+            "total_frames": 18386,
+            "fps": 23.976023976023978,
+            "duration": 766.8494166666666
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0208645917337313,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "643-2",
+        "uid": "643",
+        "qid": "643-2",
+        "q_type": "Object Recognition",
+        "question": "Which of the following subjects is not discussed in the video?",
+        "optionA": "The advanced water recycling systems that purify and reuse wastewater",
+        "optionB": "The utilization of solar panels for generating power",
+        "optionC": "The development of communication systems for maintaining contact with Earth",
+        "optionD": "The implementation of radiation shielding to protect astronauts",
+        "options": [
+            "The advanced water recycling systems that purify and reuse wastewater",
+            "The utilization of solar panels for generating power",
+            "The development of communication systems for maintaining contact with Earth",
+            "The implementation of radiation shielding to protect astronauts"
+        ],
+        "question_w_options": "Which of the following subjects is not discussed in the video? Choose your answer from below options: A.The advanced water recycling systems that purify and reuse wastewater, B.The utilization of solar panels for generating power, C.The development of communication systems for maintaining contact with Earth, D.The implementation of radiation shielding to protect astronauts.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/Ei-TcECJVXU.mp4",
+        "answers": [
+            "Based on the image sequence, the subject that is not discussed in the video appears to be:\n\n**A. The advanced water recycling systems that purify and reuse wastewater.**\n\nThe images show scenes related to space, astronauts, and possibly communication or power systems, but there is no clear indication of water recycling systems."
+        ],
+        "video_info": {
+            "total_frames": 79840,
+            "fps": 29.97002997002997,
+            "duration": 2663.9946666666665
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006006018030066127,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "316-1",
+        "uid": "316",
+        "qid": "316-1",
+        "q_type": "Attribute Perception",
+        "question": "Which of the following features can describe hamlet in the video?",
+        "optionA": "Wearing brown coat",
+        "optionB": "Blonde hair",
+        "optionC": "Thick beard",
+        "optionD": "Long hair",
+        "options": [
+            "Wearing brown coat",
+            "Blonde hair",
+            "Thick beard",
+            "Long hair"
+        ],
+        "question_w_options": "Which of the following features can describe hamlet in the video? Choose your answer from below options: A.Wearing brown coat, B.Blonde hair, C.Thick beard, D.Long hair.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/IaTaaNinolU.mp4",
+        "answers": [
+            "Based on the image sequence, the features that can describe Hamlet in the video are:\n\n- **A. Wearing brown coat**\n- **D. Long hair**\n\nThese features are visible in several frames, such as 1, 2, 3, and 13."
+        ],
+        "video_info": {
+            "total_frames": 14318,
+            "fps": 29.97002997002997,
+            "duration": 477.74393333333336
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.03349074448389995,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "063-3",
+        "uid": "063",
+        "qid": "063-3",
+        "q_type": "Information Synopsis",
+        "question": "What does this video introduce?",
+        "optionA": "American Civil War",
+        "optionB": "The Prize Cases",
+        "optionC": "Age of Discovery",
+        "optionD": "President election",
+        "options": [
+            "American Civil War",
+            "The Prize Cases",
+            "Age of Discovery",
+            "President election"
+        ],
+        "question_w_options": "What does this video introduce? Choose your answer from below options: A.American Civil War, B.The Prize Cases, C.Age of Discovery, D.President election.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/eTLMWnsStuk.mp4",
+        "answers": [
+            "The video introduces \"The Prize Cases.\" This is evident from frame 4, which explicitly mentions \"The Prize Cases\" and the context of ships and blockades in other frames."
+        ],
+        "video_info": {
+            "total_frames": 2567,
+            "fps": 30.0,
+            "duration": 85.56666666666666
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.18698870276587456,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "895-3",
+        "uid": "895",
+        "qid": "895-3",
+        "q_type": "Object Recognition",
+        "question": "As can be seen in the video, which of the items is not placed on the table?",
+        "optionA": "A red card marked with 1937 and 1938",
+        "optionB": "Several blue dice",
+        "optionC": "A game map",
+        "optionD": "A green square card",
+        "options": [
+            "A red card marked with 1937 and 1938",
+            "Several blue dice",
+            "A game map",
+            "A green square card"
+        ],
+        "question_w_options": "As can be seen in the video, which of the items is not placed on the table? Choose your answer from below options: A.A red card marked with 1937 and 1938, B.Several blue dice, C.A game map, D.A green square card.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/1O1TfTrEnss.mp4",
+        "answers": [
+            "Based on the image sequence, the item not placed on the table is:\n\nA. A red card marked with 1937 and 1938."
+        ],
+        "video_info": {
+            "total_frames": 63501,
+            "fps": 25.0,
+            "duration": 2540.04
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.00629911339978898,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "218-1",
+        "uid": "218",
+        "qid": "218-1",
+        "q_type": "Attribute Perception",
+        "question": "If the man is 180cm tall, what is the estimated diameter of the pilates ball which the man is playing with?",
+        "optionA": "About 200cm",
+        "optionB": "About 150cm",
+        "optionC": "About 100cm",
+        "optionD": "About 50cm",
+        "options": [
+            "About 200cm",
+            "About 150cm",
+            "About 100cm",
+            "About 50cm"
+        ],
+        "question_w_options": "If the man is 180cm tall, what is the estimated diameter of the pilates ball which the man is playing with? Choose your answer from below options: A.About 200cm, B.About 150cm, C.About 100cm, D.About 50cm.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/jmE9y0vv2aM.mp4",
+        "answers": [
+            "To estimate the diameter of the Pilates ball, we can compare it to the man's height in the images. The man is 180 cm tall. \n\nIn several frames, the ball appears to be about half the height of the man. This suggests that the diameter of the ball is approximately half of 180 cm, which is about 90 cm. \n\nTherefore, the closest option is:\n\nC. About 100 cm."
+        ],
+        "video_info": {
+            "total_frames": 1056,
+            "fps": 25.0,
+            "duration": 42.24
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.3787878787878788,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "881-2",
+        "uid": "881",
+        "qid": "881-2",
+        "q_type": "Action Reasoning",
+        "question": "What happened when the male protagonist attempted his second 21-kilometer long run in the video?",
+        "optionA": "The male protagonist felt some pain in his legs while running and had to give up",
+        "optionB": "During the running process, there was a lot of water accumulation on the road surface, but it wasn't raining",
+        "optionC": "It rained during the running process, and the male protagonist completed the long run despite the rain",
+        "optionD": "It rained during the running process, and the male protagonist had to abandon the long run",
+        "options": [
+            "The male protagonist felt some pain in his legs while running and had to give up",
+            "During the running process, there was a lot of water accumulation on the road surface, but it wasn't raining",
+            "It rained during the running process, and the male protagonist completed the long run despite the rain",
+            "It rained during the running process, and the male protagonist had to abandon the long run"
+        ],
+        "question_w_options": "What happened when the male protagonist attempted his second 21-kilometer long run in the video? Choose your answer from below options: A.The male protagonist felt some pain in his legs while running and had to give up, B.During the running process, there was a lot of water accumulation on the road surface, but it wasn't raining, C.It rained during the running process, and the male protagonist completed the long run despite the rain, D.It rained during the running process, and the male protagonist had to abandon the long run.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/goyWFUzCqF4.mp4",
+        "answers": [
+            "Based on the image sequence, the correct answer is C. It rained during the running process, and the male protagonist completed the long run despite the rain. \n\nThe images show the protagonist running in wet conditions and finishing the run, indicating he completed it despite the rain."
+        ],
+        "video_info": {
+            "total_frames": 51722,
+            "fps": 25.0,
+            "duration": 2068.88
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.007733652990990294,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "408-1",
+        "uid": "408",
+        "qid": "408-1",
+        "q_type": "Action Reasoning",
+        "question": "Which animal doesn't appear in the video?",
+        "optionA": "Panda",
+        "optionB": "Hawk",
+        "optionC": "lizard",
+        "optionD": "Snake",
+        "options": [
+            "Panda",
+            "Hawk",
+            "lizard",
+            "Snake"
+        ],
+        "question_w_options": "Which animal doesn't appear in the video? Choose your answer from below options: A.Panda, B.Hawk, C.lizard, D.Snake.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/weOrNMHcDTI.mp4",
+        "answers": [
+            "Based on the image sequence, the animal that doesn't appear in the video is A. Panda."
+        ],
+        "video_info": {
+            "total_frames": 15256,
+            "fps": 25.0,
+            "duration": 610.24
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.026219192448872573,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "392-1",
+        "uid": "392",
+        "qid": "392-1",
+        "q_type": "Object Recognition",
+        "question": "Which does not appear in this video?",
+        "optionA": "Spider-kangaroo",
+        "optionB": "Spider-cat",
+        "optionC": "Spider-dinosaur",
+        "optionD": "Spider-horse",
+        "options": [
+            "Spider-kangaroo",
+            "Spider-cat",
+            "Spider-dinosaur",
+            "Spider-horse"
+        ],
+        "question_w_options": "Which does not appear in this video? Choose your answer from below options: A.Spider-kangaroo, B.Spider-cat, C.Spider-dinosaur, D.Spider-horse.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/edAu5_O4C54.mp4",
+        "answers": [
+            "Based on the image sequence, the option that does not appear in the video is C. Spider-dinosaur."
+        ],
+        "video_info": {
+            "total_frames": 7927,
+            "fps": 23.976023976023978,
+            "duration": 330.6219583333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.04839363991628405,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "217-2",
+        "uid": "217",
+        "qid": "217-2",
+        "q_type": "Action Recognition",
+        "question": "Which sports in this video involve athletes utilizing humans as tools?",
+        "optionA": "Hula hooping",
+        "optionB": "Nunchakus",
+        "optionC": "Horse-vaulting",
+        "optionD": "Rope jumping",
+        "options": [
+            "Hula hooping",
+            "Nunchakus",
+            "Horse-vaulting",
+            "Rope jumping"
+        ],
+        "question_w_options": "Which sports in this video involve athletes utilizing humans as tools? Choose your answer from below options: A.Hula hooping, B.Nunchakus, C.Horse-vaulting, D.Rope jumping.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/BrrDT_uYQsg.mp4",
+        "answers": [
+            "The sport in the video that involves athletes utilizing humans as tools is C. Horse-vaulting. The images show athletes performing acrobatic moves and using each other for support, which is characteristic of horse-vaulting."
+        ],
+        "video_info": {
+            "total_frames": 1337,
+            "fps": 25.0,
+            "duration": 53.48
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.2991772625280479,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "574-2",
+        "uid": "574",
+        "qid": "574-2",
+        "q_type": "Action Recognition",
+        "question": "What happens when a baby elephant chases a group of ducks?",
+        "optionA": "The baby elephant falls to the ground",
+        "optionB": "The ducks fly away",
+        "optionC": "The baby elephant jumps in water",
+        "optionD": "The baby elephant crashes into a tree",
+        "options": [
+            "The baby elephant falls to the ground",
+            "The ducks fly away",
+            "The baby elephant jumps in water",
+            "The baby elephant crashes into a tree"
+        ],
+        "question_w_options": "What happens when a baby elephant chases a group of ducks? Choose your answer from below options: A.The baby elephant falls to the ground, B.The ducks fly away, C.The baby elephant jumps in water, D.The baby elephant crashes into a tree.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/BVJGvKaFG7U.mp4",
+        "answers": [
+            "I can't determine the outcome based on the image sequence provided."
+        ],
+        "video_info": {
+            "total_frames": 8773,
+            "fps": 29.97002997002997,
+            "duration": 292.7257666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.05465866630804508,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "206-3",
+        "uid": "206",
+        "qid": "206-3",
+        "q_type": "Counting Problem",
+        "question": "How many people are wearing ties in the video?",
+        "optionA": "4",
+        "optionB": "5",
+        "optionC": "3",
+        "optionD": "2",
+        "options": [
+            "4",
+            "5",
+            "3",
+            "2"
+        ],
+        "question_w_options": "How many people are wearing ties in the video? Choose your answer from below options: A.4, B.5, C.3, D.2.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/4H8hcvNeWtg.mp4",
+        "answers": [
+            "To determine how many people are wearing ties, let's examine the images:\n\n1. In images 1, 2, and 3, the person is wearing a tie.\n2. In images 4, 5, and 6, two people are wearing ties.\n3. In images 9 and 10, two people are wearing ties.\n4. In images 11, 12, and 13, three people are wearing ties.\n\nBased on this, the answer is B. 5 people are wearing ties."
+        ],
+        "video_info": {
+            "total_frames": 2181,
+            "fps": 29.97,
+            "duration": 72.77277277277278
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.21986244841815678,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "011-3",
+        "uid": "011",
+        "qid": "011-3",
+        "q_type": "Action Recognition",
+        "question": "What are the moves in the last scene of this dance?",
+        "optionA": "Kneel down on one knee and lean back",
+        "optionB": "Passe and then chasse",
+        "optionC": "Releve and then pirouette",
+        "optionD": "Passe and then Grand jete",
+        "options": [
+            "Kneel down on one knee and lean back",
+            "Passe and then chasse",
+            "Releve and then pirouette",
+            "Passe and then Grand jete"
+        ],
+        "question_w_options": "What are the moves in the last scene of this dance? Choose your answer from below options: A.Kneel down on one knee and lean back, B.Passe and then chasse, C.Releve and then pirouette, D.Passe and then Grand jete.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/OE5S-NbNsro.mp4",
+        "answers": [
+            "Based on the image sequence, the moves in the last scene of the dance appear to be: **C. Releve and then pirouette**."
+        ],
+        "video_info": {
+            "total_frames": 2833,
+            "fps": 23.976023976023978,
+            "duration": 118.15970833333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.1354099483291153,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "682-3",
+        "uid": "682",
+        "qid": "682-3",
+        "q_type": "Temporal Reasoning",
+        "question": "What color was the back cover of the previous generation galaxy s phone of the phone with the most expensive starting price shown in the video?",
+        "optionA": "Black",
+        "optionB": "White",
+        "optionC": "Purple",
+        "optionD": "Gold",
+        "options": [
+            "Black",
+            "White",
+            "Purple",
+            "Gold"
+        ],
+        "question_w_options": "What color was the back cover of the previous generation galaxy s phone of the phone with the most expensive starting price shown in the video? Choose your answer from below options: A.Black, B.White, C.Purple, D.Gold.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/eKVTFXQPAhs.mp4",
+        "answers": [
+            "The image sequence shows various Samsung Galaxy phones. The phone with the most expensive starting price is the Galaxy S22, as seen in image 13. The previous generation of the Galaxy S22 is the Galaxy S21, which is shown in image 11. The back cover of the Galaxy S21 in the image is white.\n\nSo, the answer is B. White."
+        ],
+        "video_info": {
+            "total_frames": 78785,
+            "fps": 29.97002997002997,
+            "duration": 2628.7928333333334
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006086443860131745,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "854-1",
+        "uid": "854",
+        "qid": "854-1",
+        "q_type": "Information Synopsis",
+        "question": "What is the main content of the video?",
+        "optionA": "A day in the life of a college student",
+        "optionB": "A day in the life of a software engineer working from home",
+        "optionC": "A day in the life of a content creator",
+        "optionD": "A day in the life of a music creator",
+        "options": [
+            "A day in the life of a college student",
+            "A day in the life of a software engineer working from home",
+            "A day in the life of a content creator",
+            "A day in the life of a music creator"
+        ],
+        "question_w_options": "What is the main content of the video? Choose your answer from below options: A.A day in the life of a college student, B.A day in the life of a software engineer working from home, C.A day in the life of a content creator, D.A day in the life of a music creator.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/E83XxGvEPtI.mp4",
+        "answers": [
+            "Based on the image sequence, the main content of the video is likely C. A day in the life of a content creator. The images show activities such as filming, editing on a computer, and using a green screen, which are typical tasks for a content creator."
+        ],
+        "video_info": {
+            "total_frames": 59800,
+            "fps": 29.97002997002997,
+            "duration": 1995.3266666666666
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.008018737115727082,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "151-1",
+        "uid": "151",
+        "qid": "151-1",
+        "q_type": "Counting Problem",
+        "question": "How many players are in the beach volleyball game shown in the video?",
+        "optionA": "4",
+        "optionB": "5",
+        "optionC": "6",
+        "optionD": "3",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "question_w_options": "How many players are in the beach volleyball game shown in the video? Choose your answer from below options: A.4, B.5, C.6, D.3.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/JP67IM1LX-M.mp4",
+        "answers": [
+            "I can't determine the exact number of players from the images. However, beach volleyball typically involves two teams of two players each, so the most common number of players is 4. Based on this, the likely answer is A. 4."
+        ],
+        "video_info": {
+            "total_frames": 1228,
+            "fps": 25.0,
+            "duration": 49.12
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.32573289902280134,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "519-1",
+        "uid": "519",
+        "qid": "519-1",
+        "q_type": "Counting Problem",
+        "question": "How many moments are in the opening of this video?",
+        "optionA": "3",
+        "optionB": "4",
+        "optionC": "2",
+        "optionD": "1",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "question_w_options": "How many moments are in the opening of this video? Choose your answer from below options: A.3, B.4, C.2, D.1.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/I0xrbzYT4Sc.mp4",
+        "answers": [
+            "Based on the image sequence, the opening of the video seems to have multiple distinct moments. Here's a breakdown:\n\n1. **Frames 1-4**: The rider is preparing and starting the jump.\n2. **Frames 5-8**: The rider is in the air performing tricks.\n3. **Frames 9-12**: The rider continues with more aerial tricks.\n4. **Frames 13-16**: The rider lands and completes the sequence.\n\nThere are four distinct moments in the opening of this video. Therefore, the answer is B.4."
+        ],
+        "video_info": {
+            "total_frames": 14286,
+            "fps": 29.97002997002997,
+            "duration": 476.6762
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.03356576225118854,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "066-2",
+        "uid": "066",
+        "qid": "066-2",
+        "q_type": "Action Recognition",
+        "question": "What is the man doing at the beginning of the video?",
+        "optionA": "Walking",
+        "optionB": "Running",
+        "optionC": "Dancing",
+        "optionD": "Not mentioned",
+        "options": [
+            "Walking",
+            "Running",
+            "Dancing",
+            "Not mentioned"
+        ],
+        "question_w_options": "What is the man doing at the beginning of the video? Choose your answer from below options: A.Walking, B.Running, C.Dancing, D.Not mentioned.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/x6jPuXwtxCM.mp4",
+        "answers": [
+            "D. Not mentioned."
+        ],
+        "video_info": {
+            "total_frames": 2517,
+            "fps": 25.0,
+            "duration": 100.68
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.15891934843067143,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "616-1",
+        "uid": "616",
+        "qid": "616-1",
+        "q_type": "Attribute Perception",
+        "question": "What is not true about kyo-yuzen technique based on the video?",
+        "optionA": "It contains 10 stages",
+        "optionB": "The artworks contain very fine lines in some places",
+        "optionC": "It includes the steaming process",
+        "optionD": "Artists paint on the cloth",
+        "options": [
+            "It contains 10 stages",
+            "The artworks contain very fine lines in some places",
+            "It includes the steaming process",
+            "Artists paint on the cloth"
+        ],
+        "question_w_options": "What is not true about kyo-yuzen technique based on the video? Choose your answer from below options: A.It contains 10 stages, B.The artworks contain very fine lines in some places, C.It includes the steaming process, D.Artists paint on the cloth.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/aansXcMqnNk.mp4",
+        "answers": [
+            "Based on the image sequence, the option that is not true about the kyo-yuzen technique is:\n\nA. It contains 10 stages.\n\nThe images do not provide evidence of a specific number of stages in the kyo-yuzen technique. The other options (B, C, and D) are supported by the images showing fine lines, steaming, and painting on cloth."
+        ],
+        "video_info": {
+            "total_frames": 79365,
+            "fps": 30.0,
+            "duration": 2645.5
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006048006048006048,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "586-2",
+        "uid": "586",
+        "qid": "586-2",
+        "q_type": "Object Recognition",
+        "question": "What is the main product introduced by the male protagonist in the video?",
+        "optionA": "An open run headphones",
+        "optionB": "A turban with built-in speakers",
+        "optionC": "A sweatshirt with noise-canceling capabilities",
+        "optionD": "A hearing aid with wireless charging",
+        "options": [
+            "An open run headphones",
+            "A turban with built-in speakers",
+            "A sweatshirt with noise-canceling capabilities",
+            "A hearing aid with wireless charging"
+        ],
+        "question_w_options": "What is the main product introduced by the male protagonist in the video? Choose your answer from below options: A.An open run headphones, B.A turban with built-in speakers, C.A sweatshirt with noise-canceling capabilities, D.A hearing aid with wireless charging.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/2ka5AleJ48I.mp4",
+        "answers": [
+            "Based on the image sequence, the main product introduced by the male protagonist in the video is likely **A. An open run headphones**. The images show scenes related to running and fitness, and the protagonist appears to be demonstrating or discussing a product that fits this context."
+        ],
+        "video_info": {
+            "total_frames": 17310,
+            "fps": 29.97002997002997,
+            "duration": 577.577
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.02770193411441245,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "174-3",
+        "uid": "174",
+        "qid": "174-3",
+        "q_type": "Information Synopsis",
+        "question": "What is the main focus of this video?",
+        "optionA": "An actor is being interviewed for winning a prize",
+        "optionB": "A snooker player is being interviewed for entering the final competition",
+        "optionC": "A father is being interviewed for talking about his slow brain",
+        "optionD": "None of the above",
+        "options": [
+            "An actor is being interviewed for winning a prize",
+            "A snooker player is being interviewed for entering the final competition",
+            "A father is being interviewed for talking about his slow brain",
+            "None of the above"
+        ],
+        "question_w_options": "What is the main focus of this video? Choose your answer from below options: A.An actor is being interviewed for winning a prize, B.A snooker player is being interviewed for entering the final competition, C.A father is being interviewed for talking about his slow brain, D.None of the above.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/84EpEwIVFdU.mp4",
+        "answers": [
+            "Based on the image sequence, the main focus of the video is likely: \n\nB. A snooker player is being interviewed for entering the final competition. \n\nThe setting and context suggest a snooker-related event."
+        ],
+        "video_info": {
+            "total_frames": 2863,
+            "fps": 25.0,
+            "duration": 114.52
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.13971358714635,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "327-2",
+        "uid": "327",
+        "qid": "327-2",
+        "q_type": "Temporal Reasoning",
+        "question": "What is the exact order in which the video presents the following events?\n(a) application of respiratory cells to cardiovascular cure therapy.\n(b) the use of nanorobots in cancer treatment.\n(c) nanorobots for haemostasis.?",
+        "optionA": "(b)(a)(c)",
+        "optionB": "(a)(b)(c)",
+        "optionC": "(b)(c)(a)",
+        "optionD": "(c)(a)(b)",
+        "options": [
+            "(b)(a)(c)",
+            "(a)(b)(c)",
+            "(b)(c)(a)",
+            "(c)(a)(b)"
+        ],
+        "question_w_options": "What is the exact order in which the video presents the following events?\n(a) application of respiratory cells to cardiovascular cure therapy.\n(b) the use of nanorobots in cancer treatment.\n(c) nanorobots for haemostasis.? Choose your answer from below options: A.(b)(a)(c), B.(a)(b)(c), C.(b)(c)(a), D.(c)(a)(b).",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/iPi-QNYgAa4.mp4",
+        "answers": [
+            "To determine the order of events in the video, let's analyze the images:\n\n- Image 8 shows red blood cells and a nanorobot, which likely represents the use of nanorobots in cancer treatment.\n- Image 12 shows a \"RESPIROCYTE,\" which is related to respiratory cells and cardiovascular therapy.\n- Image 14 shows a liquid with a clotting effect, which suggests nanorobots for haemostasis.\n\nBased on this analysis, the order is:\n\n1. (b) the use of nanorobots in cancer treatment (Image 8)\n2. (a) application of respiratory cells to cardiovascular cure therapy (Image 12)\n3. (c) nanorobots for haemostasis (Image 14)\n\nTherefore, the correct answer is B.(a)(b)(c)."
+        ],
+        "video_info": {
+            "total_frames": 8156,
+            "fps": 25.0,
+            "duration": 326.24
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.04904364884747425,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "819-3",
+        "uid": "819",
+        "qid": "819-3",
+        "q_type": "Object Reasoning",
+        "question": "Who is most likely to have filmed this video?",
+        "optionA": "A professional videographer hired for the event",
+        "optionB": "The event organizer",
+        "optionC": "An audience sitting and watching the show",
+        "optionD": "A random passerby",
+        "options": [
+            "A professional videographer hired for the event",
+            "The event organizer",
+            "An audience sitting and watching the show",
+            "A random passerby"
+        ],
+        "question_w_options": "Who is most likely to have filmed this video? Choose your answer from below options: A.A professional videographer hired for the event, B.The event organizer, C.An audience sitting and watching the show, D.A random passerby.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/GsYi-l5PEEs.mp4",
+        "answers": [
+            "Based on the image sequence, the video appears to be filmed from a stationary position with a view partially obstructed by the audience, suggesting it was taken from a seated position among the crowd. The framing and perspective do not seem professional or organized, which would be expected from a hired videographer or event organizer. \n\nTherefore, the most likely answer is:\n\nC. An audience sitting and watching the show."
+        ],
+        "video_info": {
+            "total_frames": 53404,
+            "fps": 29.662,
+            "duration": 1800.4180432877083
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.008886824956932065,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "032-1",
+        "uid": "032",
+        "qid": "032-1",
+        "q_type": "Temporal Perception",
+        "question": "What is the video illustrating when there are three buildings appear in the video at the same time?",
+        "optionA": "The debt relationship between the federal government, municipalities, and businesses",
+        "optionB": "The issuers in the bond market include the federal government, municipalities, and corporations",
+        "optionC": "Presentations by and between the federal government, municipalities, and businesses",
+        "optionD": "The issuance of bonds to fund the construction of infrastructure",
+        "options": [
+            "The debt relationship between the federal government, municipalities, and businesses",
+            "The issuers in the bond market include the federal government, municipalities, and corporations",
+            "Presentations by and between the federal government, municipalities, and businesses",
+            "The issuance of bonds to fund the construction of infrastructure"
+        ],
+        "question_w_options": "What is the video illustrating when there are three buildings appear in the video at the same time? Choose your answer from below options: A.The debt relationship between the federal government, municipalities, and businesses, B.The issuers in the bond market include the federal government, municipalities, and corporations, C.Presentations by and between the federal government, municipalities, and businesses, D.The issuance of bonds to fund the construction of infrastructure.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/X30VlGh3HwQ.mp4",
+        "answers": [
+            "The video illustrates option B: The issuers in the bond market include the federal government, municipalities, and corporations. \n\nThis is evident from frames 5, 7, and 9, where different types of buildings (representing the federal government, city hall, and a corporate building) appear, indicating the entities involved in issuing bonds."
+        ],
+        "video_info": {
+            "total_frames": 2884,
+            "fps": 29.97002997002997,
+            "duration": 96.22946666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.16626923700432716,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "724-3",
+        "uid": "724",
+        "qid": "724-3",
+        "q_type": "Temporal Reasoning",
+        "question": "What is the fourth-to-last news item in this news video?",
+        "optionA": "Josh Liendo swims into the history books",
+        "optionB": "Coming soon | Rising demand for pet psychics",
+        "optionC": "U.S. vice president calls for Gaza ceasefire",
+        "optionD": "California storm drops 2 meters of snow",
+        "options": [
+            "Josh Liendo swims into the history books",
+            "Coming soon | Rising demand for pet psychics",
+            "U.S. vice president calls for Gaza ceasefire",
+            "California storm drops 2 meters of snow"
+        ],
+        "question_w_options": "What is the fourth-to-last news item in this news video? Choose your answer from below options: A.Josh Liendo swims into the history books, B.Coming soon | Rising demand for pet psychics, C.U.S. vice president calls for Gaza ceasefire, D.California storm drops 2 meters of snow.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/54k2g9ddy4M.mp4",
+        "answers": [
+            "The fourth-to-last news item in the sequence is shown in image 13, which is: A. Josh Liendo swims into the history books."
+        ],
+        "video_info": {
+            "total_frames": 81413,
+            "fps": 30.0,
+            "duration": 2713.766666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.005895864296856767,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "845-3",
+        "uid": "845",
+        "qid": "845-3",
+        "q_type": "Temporal Reasoning",
+        "question": "Which jewellery piece is being introduced when she takes off her coat?",
+        "optionA": "A bracelet",
+        "optionB": "A ring",
+        "optionC": "A necklace",
+        "optionD": "A pair of earrings",
+        "options": [
+            "A bracelet",
+            "A ring",
+            "A necklace",
+            "A pair of earrings"
+        ],
+        "question_w_options": "Which jewellery piece is being introduced when she takes off her coat? Choose your answer from below options: A.A bracelet, B.A ring, C.A necklace, D.A pair of earrings.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/1evyOuQz-jM.mp4",
+        "answers": [
+            "Based on the image sequence, the jewellery piece being introduced when she takes off her coat is a bracelet."
+        ],
+        "video_info": {
+            "total_frames": 62632,
+            "fps": 25.0,
+            "duration": 2505.28
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.006386511687316387,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "742-3",
+        "uid": "742",
+        "qid": "742-3",
+        "q_type": "Temporal Perception",
+        "question": "In which period does the home team overtake the guest team?",
+        "optionA": "12:56 - 8:13",
+        "optionB": "5:58 - 2:57",
+        "optionC": "8:13 - 5:58",
+        "optionD": "13:10 - 10:37",
+        "options": [
+            "12:56 - 8:13",
+            "5:58 - 2:57",
+            "8:13 - 5:58",
+            "13:10 - 10:37"
+        ],
+        "question_w_options": "In which period does the home team overtake the guest team? Choose your answer from below options: A.12:56 - 8:13, B.5:58 - 2:57, C.8:13 - 5:58, D.13:10 - 10:37.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/cy40DIzOUow.mp4",
+        "answers": [
+            "I can't determine the specific period when the home team overtakes the guest team based on the image sequence alone. The images don't provide enough information about the score or the timing of the game events."
+        ],
+        "video_info": {
+            "total_frames": 57511,
+            "fps": 29.97002997002997,
+            "duration": 1918.9503666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.008337891525455644,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "488-2",
+        "uid": "488",
+        "qid": "488-2",
+        "q_type": "Action Recognition",
+        "question": "What does the band do at the end of this song?",
+        "optionA": "They make a quick exit so as to naturally segue into the next performance",
+        "optionB": "They make a bowed",
+        "optionC": "They exchange instruments and perform a new act",
+        "optionD": "They begin the meet-and-greet and meet the audience face-to-face",
+        "options": [
+            "They make a quick exit so as to naturally segue into the next performance",
+            "They make a bowed",
+            "They exchange instruments and perform a new act",
+            "They begin the meet-and-greet and meet the audience face-to-face"
+        ],
+        "question_w_options": "What does the band do at the end of this song? Choose your answer from below options: A.They make a quick exit so as to naturally segue into the next performance, B.They make a bowed, C.They exchange instruments and perform a new act, D.They begin the meet-and-greet and meet the audience face-to-face.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/PB06auioy0Y.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that at the end of the song, the band makes a bowed. This is indicated by the images in frames 14 and 15, where the band members are standing together and acknowledging the audience. Therefore, the correct answer is B. They make a bowed."
+        ],
+        "video_info": {
+            "total_frames": 21253,
+            "fps": 30.0,
+            "duration": 708.4333333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.022585046816919967,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "454-3",
+        "uid": "454",
+        "qid": "454-3",
+        "q_type": "Action Recognition",
+        "question": "How does brazil score their 5th goal?",
+        "optionA": "Number 5 heads the ball into the net from a cross",
+        "optionB": "Number 10 dribbles past the goalkeeper for a solo goal",
+        "optionC": "Number 9 scores directly from a corner kick",
+        "optionD": "Number 17 passes the ball back to number 16 for the goal",
+        "options": [
+            "Number 5 heads the ball into the net from a cross",
+            "Number 10 dribbles past the goalkeeper for a solo goal",
+            "Number 9 scores directly from a corner kick",
+            "Number 17 passes the ball back to number 16 for the goal"
+        ],
+        "question_w_options": "How does brazil score their 5th goal? Choose your answer from below options: A.Number 5 heads the ball into the net from a cross, B.Number 10 dribbles past the goalkeeper for a solo goal, C.Number 9 scores directly from a corner kick, D.Number 17 passes the ball back to number 16 for the goal.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/_8lBR0E_Tx8.mp4",
+        "answers": [
+            "I can't determine the specific events or players in the images. However, you can look for clues in the sequence, such as the position of the players, the ball, and any celebrations, to help you choose the correct option."
+        ],
+        "video_info": {
+            "total_frames": 17618,
+            "fps": 29.97002997002997,
+            "duration": 587.8539333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.027217645562520123,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "166-1",
+        "uid": "166",
+        "qid": "166-1",
+        "q_type": "Counting Problem",
+        "question": "How many times do the athletes in the event shown in the video need to touch the pool wall?",
+        "optionA": "0",
+        "optionB": "1",
+        "optionC": "3",
+        "optionD": "2",
+        "options": [
+            "0",
+            "1",
+            "3",
+            "2"
+        ],
+        "question_w_options": "How many times do the athletes in the event shown in the video need to touch the pool wall? Choose your answer from below options: A.0, B.1, C.3, D.2.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/ejFVFtJdP3s.mp4",
+        "answers": [
+            "Based on the image sequence, it appears to be a swimming event. In swimming races, athletes typically touch the pool wall at the end of each lap. The sequence shows the swimmers in action and then at the end of the race, indicating they likely touched the wall twice: once at the turn and once at the finish.\n\nTherefore, the answer is D. 2."
+        ],
+        "video_info": {
+            "total_frames": 3140,
+            "fps": 29.97002997002997,
+            "duration": 104.77133333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.15271352850970685,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "372-2",
+        "uid": "372",
+        "qid": "372-2",
+        "q_type": "Object Reasoning",
+        "question": "What is the function of the phone display at the end of this video?",
+        "optionA": "Leading the user to download and install the application",
+        "optionB": "Showing the services available on the website",
+        "optionC": "Displaying the advertisements inserted on the web page to advertise the products",
+        "optionD": "Guiding users to log in to the website and complete the settings",
+        "options": [
+            "Leading the user to download and install the application",
+            "Showing the services available on the website",
+            "Displaying the advertisements inserted on the web page to advertise the products",
+            "Guiding users to log in to the website and complete the settings"
+        ],
+        "question_w_options": "What is the function of the phone display at the end of this video? Choose your answer from below options: A.Leading the user to download and install the application, B.Showing the services available on the website, C.Displaying the advertisements inserted on the web page to advertise the products, D.Guiding users to log in to the website and complete the settings.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/phM_SYH6aA0.mp4",
+        "answers": [
+            "I can't determine the exact function of the phone display from the image sequence. However, based on the context provided, it seems that the video might be guiding users to log in to the website and complete the settings. So, option D might be the most relevant choice."
+        ],
+        "video_info": {
+            "total_frames": 13423,
+            "fps": 29.97,
+            "duration": 447.88121454788126
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.03572375772927065,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "622-2",
+        "uid": "622",
+        "qid": "622-2",
+        "q_type": "Object Recognition",
+        "question": "What are some of the health issues that can arise from consuming too much sugar according to the video?",
+        "optionA": "Obesity, Diabetes, Tooth Decay, Heart Disease",
+        "optionB": "Obesity, Diabetes, Cancer, Heart Disease",
+        "optionC": "Obesity, Diabetes, Cancer, Cognitive Decline",
+        "optionD": "Obesity, Diabetes, Heart Disease, Non-Alcoholic Fatty Liver Disease (NAFLD)",
+        "options": [
+            "Obesity, Diabetes, Tooth Decay, Heart Disease",
+            "Obesity, Diabetes, Cancer, Heart Disease",
+            "Obesity, Diabetes, Cancer, Cognitive Decline",
+            "Obesity, Diabetes, Heart Disease, Non-Alcoholic Fatty Liver Disease (NAFLD)"
+        ],
+        "question_w_options": "What are some of the health issues that can arise from consuming too much sugar according to the video? Choose your answer from below options: A.Obesity, Diabetes, Tooth Decay, Heart Disease, B.Obesity, Diabetes, Cancer, Heart Disease, C.Obesity, Diabetes, Cancer, Cognitive Decline, D.Obesity, Diabetes, Heart Disease, Non-Alcoholic Fatty Liver Disease (NAFLD).",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/K3ksKkCOgTw.mp4",
+        "answers": [
+            "Based on the image sequence, the health issues that can arise from consuming too much sugar according to the video are: \n\n**A. Obesity, Diabetes, Tooth Decay, Heart Disease**"
+        ],
+        "video_info": {
+            "total_frames": 75518,
+            "fps": 29.97002997002997,
+            "duration": 2519.783933333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0063497507815418784,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "419-2",
+        "uid": "419",
+        "qid": "419-2",
+        "q_type": "Temporal Perception",
+        "question": "In which part of the video is a man wearing a red jersey interviewed?",
+        "optionA": "There is no interview with a man in red clothing",
+        "optionB": "End of the video",
+        "optionC": "Beginning of the video",
+        "optionD": "Middle of the video",
+        "options": [
+            "There is no interview with a man in red clothing",
+            "End of the video",
+            "Beginning of the video",
+            "Middle of the video"
+        ],
+        "question_w_options": "In which part of the video is a man wearing a red jersey interviewed? Choose your answer from below options: A.There is no interview with a man in red clothing, B.End of the video, C.Beginning of the video, D.Middle of the video.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/3EQLFHRHpag.mp4",
+        "answers": [
+            "The man wearing a red jersey is shown in images 3 and 4. In image 4, he appears to be in an interview setting. These images are near the beginning of the sequence. Therefore, the interview with the man in the red jersey takes place at the beginning of the video.\n\nThe correct answer is: C. Beginning of the video."
+        ],
+        "video_info": {
+            "total_frames": 18650,
+            "fps": 25.0,
+            "duration": 746.0
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.021447721179624665,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "301-1",
+        "uid": "301",
+        "qid": "301-1",
+        "q_type": "Counting Problem",
+        "question": "According to the video, how many man-made ditches are found recently?",
+        "optionA": "4",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "1",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "question_w_options": "According to the video, how many man-made ditches are found recently? Choose your answer from below options: A.4, B.2, C.3, D.1.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/dphq5X-rMew.mp4",
+        "answers": [
+            "The answer is C.3. The image sequence shows three man-made ditches in frame 11."
+        ],
+        "video_info": {
+            "total_frames": 9938,
+            "fps": 23.976023976023978,
+            "duration": 414.49741666666665
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.03860096434054977,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "882-1",
+        "uid": "882",
+        "qid": "882-1",
+        "q_type": "Action Reasoning",
+        "question": "In the video on the third day of training why is the man in the green top so far behind the contestant in the white top?",
+        "optionA": "The guy in the green top is slacking off on the ride and riding slowly",
+        "optionB": "The hero in the green top was riding in a very windy and difficult ride",
+        "optionC": "The hero with the green top fell and got hurt",
+        "optionD": "The green-topped hero's bike broke down and the repairs took time",
+        "options": [
+            "The guy in the green top is slacking off on the ride and riding slowly",
+            "The hero in the green top was riding in a very windy and difficult ride",
+            "The hero with the green top fell and got hurt",
+            "The green-topped hero's bike broke down and the repairs took time"
+        ],
+        "question_w_options": "In the video on the third day of training why is the man in the green top so far behind the contestant in the white top? Choose your answer from below options: A.The guy in the green top is slacking off on the ride and riding slowly, B.The hero in the green top was riding in a very windy and difficult ride, C.The hero with the green top fell and got hurt, D.The green-topped hero's bike broke down and the repairs took time.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/qVZOKel-gpE.mp4",
+        "answers": [
+            "Based on the image sequence, particularly frame 12, it appears that the man in the green top is looking at a bike with another person, possibly indicating a mechanical issue. This suggests that the correct answer is:\n\nD. The green-topped hero's bike broke down and the repairs took time."
+        ],
+        "video_info": {
+            "total_frames": 56056,
+            "fps": 25.0,
+            "duration": 2242.24
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.007135721421435708,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "840-2",
+        "uid": "840",
+        "qid": "840-2",
+        "q_type": "Object Recognition",
+        "question": "What letter of the alphabet does the two teams choose to eat differently when it comes to food?",
+        "optionA": "A",
+        "optionB": "F",
+        "optionC": "B",
+        "optionD": "K",
+        "options": [
+            "A",
+            "F",
+            "B",
+            "K"
+        ],
+        "question_w_options": "What letter of the alphabet does the two teams choose to eat differently when it comes to food? Choose your answer from below options: A.A, B.F, C.B, D.K.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/y9Fne3oUwX4.mp4",
+        "answers": [
+            "I can't determine the specific letter of the alphabet that the two teams choose to eat differently based on the image sequence. The images show various activities, but without specific context or visible clues related to the options provided (A.A, B.F, C.B, D.K), it's not possible to answer the question."
+        ],
+        "video_info": {
+            "total_frames": 86825,
+            "fps": 25.0,
+            "duration": 3473.0
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.004606968039159228,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "286-2",
+        "uid": "286",
+        "qid": "286-2",
+        "q_type": "Object Recognition",
+        "question": "What is the primary item that the two men in the video utilize for their workout?",
+        "optionA": "Dumbbel",
+        "optionB": "Black bench",
+        "optionC": "Black sofa",
+        "optionD": "Black iron plate",
+        "options": [
+            "Dumbbel",
+            "Black bench",
+            "Black sofa",
+            "Black iron plate"
+        ],
+        "question_w_options": "What is the primary item that the two men in the video utilize for their workout? Choose your answer from below options: A.Dumbbel, B.Black bench, C.Black sofa, D.Black iron plate.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/5kmnEgBSCfg.mp4",
+        "answers": [
+            "Based on the image sequence, the primary item that the two men utilize for their workout is the B. Black bench."
+        ],
+        "video_info": {
+            "total_frames": 3529,
+            "fps": 29.97002997002997,
+            "duration": 117.75096666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.13587998852946429,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "153-2",
+        "uid": "153",
+        "qid": "153-2",
+        "q_type": "OCR Problems",
+        "question": "As depicted in the video, what's the last name of the white team wearing number 13?",
+        "optionA": "Marry",
+        "optionB": "Lisa",
+        "optionC": "Lilly",
+        "optionD": "Karry",
+        "options": [
+            "Marry",
+            "Lisa",
+            "Lilly",
+            "Karry"
+        ],
+        "question_w_options": "As depicted in the video, what's the last name of the white team wearing number 13? Choose your answer from below options: A.Marry, B.Lisa, C.Lilly, D.Karry.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/_KU4X06VNiE.mp4",
+        "answers": [
+            "The last name of the white team wearing number 13 is \"Lilly.\""
+        ],
+        "video_info": {
+            "total_frames": 3015,
+            "fps": 25.0,
+            "duration": 120.6
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.13266998341625208,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "074-3",
+        "uid": "074",
+        "qid": "074-3",
+        "q_type": "Information Synopsis",
+        "question": "What is the primary focus of this video?",
+        "optionA": "It teaches how to dance",
+        "optionB": "It teaches how to walk silently",
+        "optionC": "It teaches how to skate",
+        "optionD": "None of the above",
+        "options": [
+            "It teaches how to dance",
+            "It teaches how to walk silently",
+            "It teaches how to skate",
+            "None of the above"
+        ],
+        "question_w_options": "What is the primary focus of this video? Choose your answer from below options: A.It teaches how to dance, B.It teaches how to walk silently, C.It teaches how to skate, D.None of the above.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/HvjgQqNOq9A.mp4",
+        "answers": [
+            "Based on the image sequence, the primary focus of the video appears to be: **B. It teaches how to walk silently.** The frames show a person demonstrating specific foot movements and techniques that suggest a focus on walking quietly."
+        ],
+        "video_info": {
+            "total_frames": 2280,
+            "fps": 23.976023976023978,
+            "duration": 95.095
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.1682527998317472,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "227-2",
+        "uid": "227",
+        "qid": "227-2",
+        "q_type": "Object Recognition",
+        "question": "What are the objects next to the girl on the sticker of the orange cap?",
+        "optionA": "A bloon and a bear",
+        "optionB": "An apple and a bear",
+        "optionC": "A zongzi and a bloon",
+        "optionD": "A bloon and an ice cream",
+        "options": [
+            "A bloon and a bear",
+            "An apple and a bear",
+            "A zongzi and a bloon",
+            "A bloon and an ice cream"
+        ],
+        "question_w_options": "What are the objects next to the girl on the sticker of the orange cap? Choose your answer from below options: A.A bloon and a bear, B.An apple and a bear, C.A zongzi and a bloon, D.A bloon and an ice cream.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/qhW8L_GAodE.mp4",
+        "answers": [
+            "Based on the image sequence, the objects next to the girl on the sticker of the orange cap are a balloon and a bear. So the answer is A. A balloon and a bear."
+        ],
+        "video_info": {
+            "total_frames": 2583,
+            "fps": 30.0,
+            "duration": 86.1
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.18583042973286876,
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "059-2",
+        "uid": "059",
+        "qid": "059-2",
+        "q_type": "Attribute Perception",
+        "question": "What does the speaker in the video dress like?",
+        "optionA": "Black jacket and blue trousers",
+        "optionB": "Blue jacket and black trousers",
+        "optionC": "Blue hat and black jacket",
+        "optionD": "Gray hat and black jacket",
+        "options": [
+            "Black jacket and blue trousers",
+            "Blue jacket and black trousers",
+            "Blue hat and black jacket",
+            "Gray hat and black jacket"
+        ],
+        "question_w_options": "What does the speaker in the video dress like? Choose your answer from below options: A.Black jacket and blue trousers, B.Blue jacket and black trousers, C.Blue hat and black jacket, D.Gray hat and black jacket.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/NEFG7YcIDcI.mp4",
+        "answers": [
+            "The speaker in the video is dressed in a blue jacket and black trousers. So the answer is B. Blue jacket and black trousers."
+        ],
+        "video_info": {
+            "total_frames": 2905,
+            "fps": 29.97002997002997,
+            "duration": 96.93016666666666
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.1650672907127296,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    }
+]

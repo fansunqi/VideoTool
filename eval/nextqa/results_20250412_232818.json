@@ -1,0 +1,28 @@
+[
+    {
+        "quid": "2435100235_7",
+        "uid": "2435100235",
+        "qid": 7,
+        "q_type": "CH",
+        "question": "how does the man cycling try to sell the watch to the man in the trishaw",
+        "optionA": "give him catalogue",
+        "optionB": "show him a video",
+        "optionC": "show him the watch",
+        "optionD": "dismount his bicycle",
+        "optionE": "give him the watch strap",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0063/2435100235.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the man cycling does not try to sell the watch to the man in the trishaw by giving him a catalogue, showing him a video, showing him the watch, dismounting his bicycle, or giving him the watch strap. The answer seems to be that he doesn't try to sell the watch at all."
+        ],
+        "question_w_options": "How does the man cycling try to sell the watch to the man in the trishaw? Choose your answer from below options: A.give him catalogue, B.show him a video, C.show him the watch, D.dismount his bicycle, E.give him the watch strap.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "quid": "001-1",
+        "uid": "001",
+        "qid": "001-1",
+        "q_type": "Counting Problem",
+        "question": "When demonstrating the germany modern christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number?",
+        "optionA": "Apples",
+        "optionB": "Candles",
+        "optionC": "Berries",
+        "optionD": "The three kinds are of the same number",
+        "options": [
+            "Apples",
+            "Candles",
+            "Berries",
+            "The three kinds are of the same number"
+        ],
+        "question_w_options": "When demonstrating the germany modern christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number? Choose your answer from below options: A.Apples, B.Candles, C.Berries, D.The three kinds are of the same number.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/fFjv93ACGo8.mp4",
+        "answers": [
+            "B"
+        ]
+    }
+]

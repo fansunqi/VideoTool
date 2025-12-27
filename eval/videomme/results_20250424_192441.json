@@ -1,0 +1,40 @@
+[
+    {
+        "quid": "005-3",
+        "uid": "005",
+        "qid": "005-3",
+        "q_type": "Attribute Perception",
+        "question": "Which of the following options is incorrect regarding the events in sarajevo depicted in the video?",
+        "optionA": "It was organized by the Black Hand in Serbia",
+        "optionB": "Ferdinand was sitting on the left side of the car",
+        "optionC": "Ferdinand was wearing a white hat",
+        "optionD": "The killer was wearing black suit",
+        "options": [
+            "It was organized by the Black Hand in Serbia",
+            "Ferdinand was sitting on the left side of the car",
+            "Ferdinand was wearing a white hat",
+            "The killer was wearing black suit"
+        ],
+        "question_w_options": "Which of the following options is incorrect regarding the events in sarajevo depicted in the video?? Choose your answer from below options: A.It was organized by the Black Hand in Serbia, B.Ferdinand was sitting on the left side of the car, C.Ferdinand was wearing a white hat, D.The killer was wearing black suit.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/24i4ncHuf6A.mp4",
+        "answers": [
+            "Based on the frame information provided, the incorrect option regarding the events in Sarajevo depicted in the video is:\n\nC. Ferdinand was wearing a white hat.\n\nThis statement is incorrect because historical accounts indicate that Archduke Franz Ferdinand was not wearing a white hat during the assassination. The other options may have some basis in historical context, but the specific detail about the white hat is not accurate."
+        ],
+        "video_info": {
+            "total_frames": 2786,
+            "fps": 25.0,
+            "duration": 111.44
+        },
+        "visible_frames_num": 112.0,
+        "visible_frames_fps": 1.0050251256281406,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "quid": "CGngv8vTQOs",
+        "uid": "CGngv8vTQOs",
+        "qid": "CGngv8vTQOs",
+        "q_type": "S2E",
+        "question": "What is it doing?",
+        "optionA": "Spiraling upwards",
+        "optionB": "Flying to the right",
+        "optionC": "Flying straight up",
+        "optionD": "Flying to the left",
+        "options": [
+            "Spiraling upwards",
+            "Flying to the right",
+            "Flying straight up",
+            "Flying to the left",
+            "Falling vertically down"
+        ],
+        "question_w_options": "What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/CGngv8vTQOs.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/CGngv8vTQOs_en.json",
+        "answers": [
+            "Based on the image sequence and the subtitles, the video is about a rocket launch in a game, likely \"Kerbal Space Program.\" The frames show the rocket being built, launched, and flying through space. The subtitles describe the rocket's trajectory and adjustments being made during the flight.\n\nThe correct answer is: **B. Flying to the right.**\n\nThe images and subtitles indicate that the rocket is being angled and adjusted to fly in a specific direction, which is to the right in the context of the game."
+        ],
+        "video_info": {
+            "total_frames": 23062,
+            "fps": 25.0,
+            "duration": 922.48
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.01734454947532738
+    },
+    {
+        "quid": "@kerstinong-7197781091162279169",
+        "uid": "@kerstinong-7197781091162279169",
+        "qid": "@kerstinong-7197781091162279169",
+        "q_type": "TAA",
+        "question": "What change happens to this woman?",
+        "optionA": "The gray shorts change to black shorts.",
+        "optionB": "She goes from not wearing sunglasses to wearing sunglasses.",
+        "optionC": "The white short-sleeved top changes to a pink plaid long-sleeved top.",
+        "optionD": "She goes from not wearing a hat to wearing a hat.",
+        "options": [
+            "The gray shorts change to black shorts.",
+            "She goes from not wearing sunglasses to wearing sunglasses.",
+            "The white short-sleeved top changes to a pink plaid long-sleeved top.",
+            "She goes from not wearing a hat to wearing a hat.",
+            "Her hair changes from black to yellow."
+        ],
+        "question_w_options": "What change happens to this woman? Choose your answer from below options: A.The gray shorts change to black shorts., B.She goes from not wearing sunglasses to wearing sunglasses., C.The white short-sleeved top changes to a pink plaid long-sleeved top., D.She goes from not wearing a hat to wearing a hat..",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7197781091162279169.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7197781091162279169_en.json",
+        "answers": [
+            "The change that happens to the woman is: \n\nC. The white short-sleeved top changes to a pink plaid long-sleeved top."
+        ],
+        "video_info": {
+            "total_frames": 578,
+            "fps": 30.0,
+            "duration": 19.266666666666666
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.8304498269896194
+    },
+    {
+        "quid": "Lc7RikDaa30",
+        "uid": "Lc7RikDaa30",
+        "qid": "Lc7RikDaa30",
+        "q_type": "O3O",
+        "question": "Which of the following concepts is mentioned first?",
+        "optionA": "The COE prices in Singapore have always been high",
+        "optionB": "COE prices are determined by supply and demand",
+        "optionC": "Using cars is the real issue",
+        "optionD": "We need a rational and accurate road pricing system",
+        "options": [
+            "The COE prices in Singapore have always been high",
+            "COE prices are determined by supply and demand",
+            "Using cars is the real issue",
+            "We need a rational and accurate road pricing system",
+            "More Singaporeans can own cars"
+        ],
+        "question_w_options": "Which of the following concepts is mentioned first? Choose your answer from below options: A.The COE prices in Singapore have always been high, B.COE prices are determined by supply and demand, C.Using cars is the real issue, D.We need a rational and accurate road pricing system.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/Lc7RikDaa30.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/Lc7RikDaa30_en.json",
+        "answers": [
+            "The concept mentioned first is: **A. The COE prices in Singapore have always been high.**\n\nThis is introduced in the subtitles at the timestamp 00:00:20.240 - 00:00:25.080."
+        ],
+        "video_info": {
+            "total_frames": 4797,
+            "fps": 25.0,
+            "duration": 191.88
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.08338544923910778
+    },
+    {
+        "quid": "mS1QPVgBDQo",
+        "uid": "mS1QPVgBDQo",
+        "qid": "mS1QPVgBDQo",
+        "q_type": "SAA",
+        "question": "What change occurs to the woman in the middle, who is wearing a red and blue checkered shirt and has white hair?",
+        "optionA": "She put on a white hat",
+        "optionB": "She put on a black hat",
+        "optionC": "Her hair turned black",
+        "optionD": "She tied a black ribbon around her head",
+        "options": [
+            "She put on a white hat",
+            "She put on a black hat",
+            "Her hair turned black",
+            "She tied a black ribbon around her head",
+            "She changed into a white suit"
+        ],
+        "question_w_options": "What change occurs to the woman in the middle, who is wearing a red and blue checkered shirt and has white hair? Choose your answer from below options: A.She put on a white hat, B.She put on a black hat, C.Her hair turned black, D.She tied a black ribbon around her head.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/mS1QPVgBDQo.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/mS1QPVgBDQo_en.json",
+        "answers": [
+            "The woman in the middle, who is wearing a red and blue checkered shirt and has white hair, put on a black hat. So the answer is:\n\nB. She put on a black hat."
+        ],
+        "video_info": {
+            "total_frames": 58463,
+            "fps": 29.97002997002997,
+            "duration": 1950.7154333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.008202118938824205
+    },
+    {
+        "quid": "M7YSCIkUaNw",
+        "uid": "M7YSCIkUaNw",
+        "qid": "M7YSCIkUaNw",
+        "q_type": "T3O",
+        "question": "Lin, what item appears on the screen?",
+        "optionA": "A burning white candle",
+        "optionB": "A little girl",
+        "optionC": "A courier paper box",
+        "optionD": "Santa Claus mug",
+        "options": [
+            "A burning white candle",
+            "A little girl",
+            "A courier paper box",
+            "Santa Claus mug",
+            "Two books"
+        ],
+        "question_w_options": "Lin, what item appears on the screen? Choose your answer from below options: A.A burning white candle, B.A little girl, C.A courier paper box, D.Santa Claus mug.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/M7YSCIkUaNw.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/M7YSCIkUaNw_en.json",
+        "answers": [
+            "The item that appears on the screen is a \"Santa Claus mug,\" which corresponds to option D."
+        ],
+        "video_info": {
+            "total_frames": 12537,
+            "fps": 23.976023976023978,
+            "duration": 522.897375
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0305987384235769
+    },
+    {
+        "quid": "-Xg2-SUq6wo",
+        "uid": "-Xg2-SUq6wo",
+        "qid": "-Xg2-SUq6wo",
+        "q_type": "T2O",
+        "question": "What object is present in the broadcast room?",
+        "optionA": "necklace",
+        "optionB": "plant",
+        "optionC": "doll",
+        "optionD": "microphone",
+        "options": [
+            "necklace",
+            "plant",
+            "doll",
+            "microphone",
+            "desk lamp"
+        ],
+        "question_w_options": "What object is present in the broadcast room? Choose your answer from below options: A.necklace, B.plant, C.doll, D.microphone.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/-Xg2-SUq6wo.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/-Xg2-SUq6wo_en.json",
+        "answers": [
+            "The object present in the broadcast room is D. microphone."
+        ],
+        "video_info": {
+            "total_frames": 10146,
+            "fps": 25.0,
+            "duration": 405.84
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.03942440370589395
+    },
+    {
+        "quid": "T57jVsvVVR0",
+        "uid": "T57jVsvVVR0",
+        "qid": "T57jVsvVVR0",
+        "q_type": "T2A",
+        "question": "What color is the clothing?",
+        "optionA": "black",
+        "optionB": "blue",
+        "optionC": "red",
+        "optionD": "yellow",
+        "options": [
+            "black",
+            "blue",
+            "red",
+            "yellow",
+            "white"
+        ],
+        "question_w_options": "What color is the clothing? Choose your answer from below options: A.black, B.blue, C.red, D.yellow.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/T57jVsvVVR0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/T57jVsvVVR0_en.json",
+        "answers": [
+            "Based on the image sequence, the predominant color of the clothing is A. black."
+        ],
+        "video_info": {
+            "total_frames": 6599,
+            "fps": 25.0,
+            "duration": 263.96
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.06061524473405062
+    },
+    {
+        "quid": "UbcWAfHo5j0",
+        "uid": "UbcWAfHo5j0",
+        "qid": "UbcWAfHo5j0",
+        "q_type": "S2A",
+        "question": "What kind of skirts are they wearing?",
+        "optionA": "Super short skirt",
+        "optionB": "Pleated short skirt",
+        "optionC": "Dress",
+        "optionD": "Knee-length skirt",
+        "options": [
+            "Super short skirt",
+            "Pleated short skirt",
+            "Dress",
+            "Knee-length skirt",
+            "Ankle-length skirt"
+        ],
+        "question_w_options": "What kind of skirts are they wearing? Choose your answer from below options: A.Super short skirt, B.Pleated short skirt, C.Dress, D.Knee-length skirt.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/UbcWAfHo5j0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/UbcWAfHo5j0_en.json",
+        "answers": [
+            "Based on the image sequence, the skirts being worn are B. Pleated short skirts."
+        ],
+        "video_info": {
+            "total_frames": 1175,
+            "fps": 25.0,
+            "duration": 47.0
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.3404255319148936
+    },
+    {
+        "quid": "@jonijawne-7305901654417706246",
+        "uid": "@jonijawne-7305901654417706246",
+        "qid": "@jonijawne-7305901654417706246",
+        "q_type": "O3O",
+        "question": "In the video, which of the following characters appears first?",
+        "optionA": "A woman wearing a navy blue hooded jacket",
+        "optionB": "A man wearing a gray coat, earphones, and with short black hair",
+        "optionC": "A woman wearing a white T-shirt",
+        "optionD": "A man wearing a white shirt",
+        "options": [
+            "A woman wearing a navy blue hooded jacket",
+            "A man wearing a gray coat, earphones, and with short black hair",
+            "A woman wearing a white T-shirt",
+            "A man wearing a white shirt",
+            "A woman wearing a dark orange coat"
+        ],
+        "question_w_options": "In the video, which of the following characters appears first? Choose your answer from below options: A.A woman wearing a navy blue hooded jacket, B.A man wearing a gray coat, earphones, and with short black hair, C.A woman wearing a white T-shirt, D.A man wearing a white shirt.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7305901654417706246.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7305901654417706246_en.json",
+        "answers": [
+            "Based on the image sequence, the first character to appear is the man wearing a gray coat, earphones, and with short black hair, visible in Frame 6. \n\nSo, the answer is B. A man wearing a gray coat, earphones, and with short black hair."
+        ],
+        "video_info": {
+            "total_frames": 308,
+            "fps": 30.0,
+            "duration": 10.266666666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 1.5584415584415583
+    },
+    {
+        "quid": "kONR5_mHofA",
+        "uid": "kONR5_mHofA",
+        "qid": "kONR5_mHofA",
+        "q_type": "TAA",
+        "question": "What change occurs on the screen when this is mentioned?",
+        "optionA": "The green character below the brown character is labeled '8th place'",
+        "optionB": "The green character below the brown character is labeled '11th place'",
+        "optionC": "The green character below the brown character is labeled '9th place'",
+        "optionD": "The green character below the brown character is labeled '10th place'",
+        "options": [
+            "The green character below the brown character is labeled '8th place'",
+            "The green character below the brown character is labeled '11th place'",
+            "The green character below the brown character is labeled '9th place'",
+            "The green character below the brown character is labeled '10th place'",
+            "The green character below the brown character is labeled '12th place'"
+        ],
+        "question_w_options": "What change occurs on the screen when this is mentioned? Choose your answer from below options: A.The green character below the brown character is labeled '8th place', B.The green character below the brown character is labeled '11th place', C.The green character below the brown character is labeled '9th place', D.The green character below the brown character is labeled '10th place'.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/kONR5_mHofA.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/kONR5_mHofA_en.json",
+        "answers": [
+            "The change occurs on the screen when the subtitle mentions \"sha finished 11th but by coming in second among the female candidates.\" At this point, the green character below the brown character is labeled \"11th place.\"\n\nSo, the correct answer is: **B. The green character below the brown character is labeled '11th place'.**"
+        ],
+        "video_info": {
+            "total_frames": 419,
+            "fps": 29.97,
+            "duration": 13.980647313980647
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 1.1444391408114558
+    }
+]

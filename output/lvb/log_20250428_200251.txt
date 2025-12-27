@@ -1,0 +1,36 @@
+Creating LLM cache: cache/gpt35_cache_new_tool_8.pkl...
+
+
+Initializing Patch Zoomer Tool with model: gpt-4o, sys_prompt: None
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-QA Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-Select Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Summarizer Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing Frame Selection Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing eval-LLM for rephrase, model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Building lvb dataset...
+
+Processing: CGngv8vTQOs
+
+Video path: /mnt/Shared_03/fsq/LongVideoBench/videos/CGngv8vTQOs.mp4
+Video duration: 922.48 seconds
+Question: What is it doing? Choose your answer from below options: A.Spiraling upwards, B.Flying to the right, C.Flying straight up, D.Flying to the left.
+
+Visible Frames: add 16 frames to visible frames: [0, 1537, 3075, 4612, 6150, 7687, 9224, 10762, 12299, 13837, 15374, 16911, 18449, 19986, 21524, 23061]

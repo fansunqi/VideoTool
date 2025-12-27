@@ -1,0 +1,92 @@
+# EVAL_MODEL_NAME : "gpt-3.5-turbo"
+EVAL_MODEL_NAME: "gpt-4o-mini"
+
+reasoning_mode: "st"    # langgraph
+reasoning_try_max: 2
+
+visible_frames:
+  init_sec_interval: null
+  init_interval_num: null
+  min_interval: null
+  min_sec_interval: 1
+  subtitle_path: null
+
+tool:
+  tool_list:
+    # - "TemporalGrounding"
+    # - "TemporalQA"
+    - "PatchZoomer"
+    - "ImageGridQA"
+    - "ImageGridSelect"
+    # - "ImageQA"
+    - "Summarizer"
+    - "FrameSelector"
+    # - "VideoQA"
+    # - "ImageCaptionerLLaVA"
+  temporal_model:
+    llm_type: "phi3.5"
+    weight_path: "/hf_home/Grounded-Video-LLM/"
+    device: "cuda:7"
+  image_qa:
+    model_path: "liuhaotian/llava-v1.5-7b"
+    batch_size: 10
+    device: "cuda:6"
+  image_grid_qa:
+    vlm_gpt_model_name: "gpt-4o" # "gpt-4o-mini" 
+    init_grid_size: 4           # [3, 4]
+    save_path: null
+    mode:  "by_visible_frames"  # "by_video_path"
+    with_analysis: False
+    with_subtitle: False
+  temporal_grounding:
+    min_sec_interval: 1
+  temporal_qa:
+    mode:  "by_visible_frames" # "by_video_path" 
+  patch_zoomer:
+    vlm_gpt_model_name: "gpt-4o" 
+    use_cache: True
+    concurrent: True
+    concurrent_thread_num: 16
+    image_resize: False
+    sys_prompt: null           # "You are a helpful, creative, and smart assistant."
+  summarizer:
+    llm_model_name: "gpt-4o-mini"
+    use_cache: True
+    mode: "by_caption"         # by_caption, by_qa
+  frame_selector:
+    llm_model_name: "gpt-4o-mini"
+  image_captioner:
+    device: "cuda:1"
+  video_qa:
+    model_path: "Qwen/Qwen2.5-VL-7B-Instruct"
+    # model_path: "Qwen/Qwen2.5-VL-3B-Instruct"
+    # model_path: "/hf_home/hub/models--Qwen--Qwen2-VL-2B-Instruct/snapshots/895c3a49bc3fa70a340399125c650a463535e71c"
+  video_qa_internvl:
+    model_path: 'OpenGVLab/InternVL3-8B'
+    num_segments: 64
+
+mannual_cache_file: "cache/gpt35_cache_new_tool_8.pkl"
+use_cache: False
+
+dataset: "videomme"
+# video_path_base: "/mnt/Shared_05_disk/fsq/VideoMME/data/"
+# anno_path: "/mnt/Shared_05_disk/fsq/VideoMME/test-00000-of-00001.parquet"
+video_path_base: "/mnt/Shared_03/fsq/VideoMME/unzipped/data"
+anno_path: "/mnt/Shared_03/fsq/VideoMME/test-00000-of-00001.parquet"
+# anno_path: "/mnt/Shared_03/fsq/VideoMME/sample-100.parquet"
+# anno_path: "/mnt/Shared_03/fsq/VideoMME/sample-100-2.parquet"
+num_examples_to_run: 10
+# start_num: 0  # short
+# start_num: 900  # medium
+start_num: 1800  # long
+
+output_path: "output/videomme/"
+
+recursion_limit: 20
+
+try_num: 1
+
+try_except_mode: False
+to_txt: False
+
+# specific_quids: ["159-1"]

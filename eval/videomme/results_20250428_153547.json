@@ -1,0 +1,382 @@
+[
+    {
+        "quid": "447-2",
+        "uid": "447",
+        "qid": "447-2",
+        "q_type": "OCR Problems",
+        "question": "What is the team's lac hitting percentage when the score is 38-29?",
+        "optionA": "48%",
+        "optionB": "41%",
+        "optionC": "56%",
+        "optionD": "54%",
+        "options": [
+            "48%",
+            "41%",
+            "56%",
+            "54%"
+        ],
+        "question_w_options": "What is the team's lac hitting percentage when the score is 38-29? Choose your answer from below options: A.48%, B.41%, C.56%, D.54%.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/2NOcM1HoRRg.mp4",
+        "answers": [
+            "D.54%."
+        ],
+        "video_info": {
+            "total_frames": 19973,
+            "fps": 29.97002997002997,
+            "duration": 666.4324333333334
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.024008435363765058,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "408-2",
+        "uid": "408",
+        "qid": "408-2",
+        "q_type": "Counting Problem",
+        "question": "How many bullets does rango use to kill the hawl in the video?",
+        "optionA": "3",
+        "optionB": "2",
+        "optionC": "1",
+        "optionD": "4",
+        "options": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "question_w_options": "How many bullets does rango use to kill the hawl in the video? Choose your answer from below options: A.3, B.2, C.1, D.4.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/weOrNMHcDTI.mp4",
+        "answers": [
+            "C.1"
+        ],
+        "video_info": {
+            "total_frames": 15256,
+            "fps": 25.0,
+            "duration": 610.24
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.026219192448872573,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "369-3",
+        "uid": "369",
+        "qid": "369-3",
+        "q_type": "Object Recognition",
+        "question": "Which codexes are compared in common in the second half of the video?",
+        "optionA": "Code of Hammurabi and the Laws of Manu",
+        "optionB": "Code of Hammurabi and Code of Deuteronomy",
+        "optionC": "Code of Ur-Nammu and Code of Deuteronomy",
+        "optionD": "Code of Hammurabi and Code of Deuteronomy and the Laws of Manu",
+        "options": [
+            "Code of Hammurabi and the Laws of Manu",
+            "Code of Hammurabi and Code of Deuteronomy",
+            "Code of Ur-Nammu and Code of Deuteronomy",
+            "Code of Hammurabi and Code of Deuteronomy and the Laws of Manu"
+        ],
+        "question_w_options": "Which codexes are compared in common in the second half of the video? Choose your answer from below options: A.Code of Hammurabi and the Laws of Manu, B.Code of Hammurabi and Code of Deuteronomy, C.Code of Ur-Nammu and Code of Deuteronomy, D.Code of Hammurabi and Code of Deuteronomy and the Laws of Manu.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/_rC5V5vEprs.mp4",
+        "answers": [
+            "B.Code of Hammurabi and Code of Deuteronomy"
+        ],
+        "video_info": {
+            "total_frames": 7466,
+            "fps": 24.0,
+            "duration": 311.0833333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.05143316367532816,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "271-3",
+        "uid": "271",
+        "qid": "271-3",
+        "q_type": "Action Recognition",
+        "question": "Which of the following accurately describes the events depicted in the video?",
+        "optionA": "A yellow mechine scares baby birds",
+        "optionB": "A yellow mechine preys in the nest",
+        "optionC": "A yellow mechine brings baby birds out the nest",
+        "optionD": "A yellow mechine destroys the nest",
+        "options": [
+            "A yellow mechine scares baby birds",
+            "A yellow mechine preys in the nest",
+            "A yellow mechine brings baby birds out the nest",
+            "A yellow mechine destroys the nest"
+        ],
+        "question_w_options": "Which of the following accurately describes the events depicted in the video? Choose your answer from below options: A.A yellow mechine scares baby birds, B.A yellow mechine preys in the nest, C.A yellow mechine brings baby birds out the nest, D.A yellow mechine destroys the nest.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/yXl0Vrk5ssk.mp4",
+        "answers": [
+            "A.A yellow mechine scares baby birds"
+        ],
+        "video_info": {
+            "total_frames": 1022,
+            "fps": 30.0,
+            "duration": 34.06666666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.46966731898238745,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "411-2",
+        "uid": "411",
+        "qid": "411-2",
+        "q_type": "Action Recognition",
+        "question": "What are the children wearing pink outfits doing at the beginning of the video?",
+        "optionA": "Praying",
+        "optionB": "Having a party",
+        "optionC": "Learning ballet",
+        "optionD": "Receiving treatment",
+        "options": [
+            "Praying",
+            "Having a party",
+            "Learning ballet",
+            "Receiving treatment"
+        ],
+        "question_w_options": "What are the children wearing pink outfits doing at the beginning of the video? Choose your answer from below options: A.Praying, B.Having a party, C.Learning ballet, D.Receiving treatment.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/K759eXmaMTY.mp4",
+        "answers": [
+            "C.Learning ballet"
+        ],
+        "video_info": {
+            "total_frames": 18649,
+            "fps": 25.0,
+            "duration": 745.96
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0214488712531503,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "189-2",
+        "uid": "189",
+        "qid": "189-2",
+        "q_type": "Object Recognition",
+        "question": "Which item does the man display to the woman?",
+        "optionA": "A painting",
+        "optionB": "A picture on his phone",
+        "optionC": "A poem he had written",
+        "optionD": "A picture in a book",
+        "options": [
+            "A painting",
+            "A picture on his phone",
+            "A poem he had written",
+            "A picture in a book"
+        ],
+        "question_w_options": "Which item does the man display to the woman? Choose your answer from below options: A.A painting, B.A picture on his phone, C.A poem he had written, D.A picture in a book.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/eICN548E2TU.mp4",
+        "answers": [
+            "D.A picture in a book."
+        ],
+        "video_info": {
+            "total_frames": 1257,
+            "fps": 23.976023976023978,
+            "duration": 52.427375
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.305184076067131,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "282-3",
+        "uid": "282",
+        "qid": "282-3",
+        "q_type": "Counting Problem",
+        "question": "How many times did the man in the video with no shirt on his upper body race?",
+        "optionA": "3",
+        "optionB": "1",
+        "optionC": "2",
+        "optionD": "0",
+        "options": [
+            "3",
+            "1",
+            "2",
+            "0"
+        ],
+        "question_w_options": "How many times did the man in the video with no shirt on his upper body race? Choose your answer from below options: A.3, B.1, C.2, D.0.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/MiPw-RZMHCQ.mp4",
+        "answers": [
+            "A.3"
+        ],
+        "video_info": {
+            "total_frames": 2438,
+            "fps": 24.0,
+            "duration": 101.58333333333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.15750615258408532,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "335-3",
+        "uid": "335",
+        "qid": "335-3",
+        "q_type": "Information Synopsis",
+        "question": "According to what is shown in the video, what were the key factors that contributed to the 2008 financial crisis in the united states?",
+        "optionA": "Predatory lending practices and a housing market bubble",
+        "optionB": "High demand for US Treasury bonds and conservative investment strategies",
+        "optionC": "Low interest rates and strict lending standards",
+        "optionD": "Increased regulation of the financial industry and cautious credit rating agencies",
+        "options": [
+            "Predatory lending practices and a housing market bubble",
+            "High demand for US Treasury bonds and conservative investment strategies",
+            "Low interest rates and strict lending standards",
+            "Increased regulation of the financial industry and cautious credit rating agencies"
+        ],
+        "question_w_options": "According to what is shown in the video, what were the key factors that contributed to the 2008 financial crisis in the united states? Choose your answer from below options: A.Predatory lending practices and a housing market bubble, B.High demand for US Treasury bonds and conservative investment strategies, C.Low interest rates and strict lending standards, D.Increased regulation of the financial industry and cautious credit rating agencies.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/GPOv72Awo68.mp4",
+        "answers": [
+            "A.Predatory lending practices and a housing market bubble"
+        ],
+        "video_info": {
+            "total_frames": 16405,
+            "fps": 23.976023976023978,
+            "duration": 684.2252083333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.02338411360051104,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "762-1",
+        "uid": "762",
+        "qid": "762-1",
+        "q_type": "Spatial Reasoning",
+        "question": "At the start of the race, why do the athletes line up as depicted in the video?",
+        "optionA": "The athletes line up in one row to create a visual spectacle for the audience, enhancing the overall experience of the race",
+        "optionB": "The athletes are positioned in three rows based on their height, with taller athletes in the back row and shorter athletes in the front row",
+        "optionC": "The athletes line up in three rows to allow for easier identification and tracking by the race officials and cameras",
+        "optionD": "The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race",
+        "options": [
+            "The athletes line up in one row to create a visual spectacle for the audience, enhancing the overall experience of the race",
+            "The athletes are positioned in three rows based on their height, with taller athletes in the back row and shorter athletes in the front row",
+            "The athletes line up in three rows to allow for easier identification and tracking by the race officials and cameras",
+            "The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race"
+        ],
+        "question_w_options": "At the start of the race, why do the athletes line up as depicted in the video? Choose your answer from below options: A.The athletes line up in one row to create a visual spectacle for the audience, enhancing the overall experience of the race, B.The athletes are positioned in three rows based on their height, with taller athletes in the back row and shorter athletes in the front row, C.The athletes line up in three rows to allow for easier identification and tracking by the race officials and cameras, D.The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/gTPHH880Cyc.mp4",
+        "answers": [
+            "D.The athletes line up in two rows to provide a clear path for the athletes to move along the track during the race."
+        ],
+        "video_info": {
+            "total_frames": 62488,
+            "fps": 25.0,
+            "duration": 2499.52
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.0064012290359749075,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "234-2",
+        "uid": "234",
+        "qid": "234-2",
+        "q_type": "Object Reasoning",
+        "question": "Why does the food in the video swell?",
+        "optionA": "Fermentation",
+        "optionB": "Steep",
+        "optionC": "Baking in the oven",
+        "optionD": "Aeration",
+        "options": [
+            "Fermentation",
+            "Steep",
+            "Baking in the oven",
+            "Aeration"
+        ],
+        "question_w_options": "Why does the food in the video swell? Choose your answer from below options: A.Fermentation, B.Steep, C.Baking in the oven, D.Aeration.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/v0m3E_uSyFg.mp4",
+        "answers": [
+            "C.Baking in the oven"
+        ],
+        "video_info": {
+            "total_frames": 1780,
+            "fps": 29.97002997002997,
+            "duration": 59.39266666666667
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.2693935278204941,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    }
+]

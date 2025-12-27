@@ -1,0 +1,40 @@
+[
+    {
+        "quid": "005-1",
+        "uid": "005",
+        "qid": "005-1",
+        "q_type": "Counting Problem",
+        "question": "According to the video, how many individuals were in the car when archduke franz ferdinand was assassinated?",
+        "optionA": "Three",
+        "optionB": "Two",
+        "optionC": "One",
+        "optionD": "Four",
+        "options": [
+            "Three",
+            "Two",
+            "One",
+            "Four"
+        ],
+        "question_w_options": "According to the video, how many individuals were in the car when archduke franz ferdinand was assassinated?? Choose your answer from below options: A.Three, B.Two, C.One, D.Four.",
+        "truth": 0,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/24i4ncHuf6A.mp4",
+        "answers": [
+            "B.Two"
+        ],
+        "video_info": {
+            "total_frames": 2786,
+            "fps": 25.0,
+            "duration": 111.44
+        },
+        "visible_frames_num": 0.0,
+        "visible_frames_fps": 0.0,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    }
+]

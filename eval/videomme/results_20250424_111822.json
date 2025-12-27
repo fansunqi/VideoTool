@@ -1,0 +1,312 @@
+[
+    {
+        "quid": "005-1",
+        "uid": "005",
+        "qid": "005-1",
+        "q_type": "Counting Problem",
+        "question": "According to the video, how many individuals were in the car when archduke franz ferdinand was assassinated?",
+        "optionA": "Three",
+        "optionB": "Two",
+        "optionC": "One",
+        "optionD": "Four",
+        "options": [
+            "Three",
+            "Two",
+            "One",
+            "Four"
+        ],
+        "question_w_options": "According to the video, how many individuals were in the car when archduke franz ferdinand was assassinated?? Choose your answer from below options: A.Three, B.Two, C.One, D.Four.",
+        "truth": 0,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/24i4ncHuf6A.mp4",
+        "answers": [
+            "B. Two"
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "005-2",
+        "uid": "005",
+        "qid": "005-2",
+        "q_type": "Action Reasoning",
+        "question": "What's the trigger that set off the war mentioned in the video?",
+        "optionA": "Militarisim",
+        "optionB": "The assasination of Archduke Franze Fredinand",
+        "optionC": "King Edward III of England's claim to the French throne",
+        "optionD": "Germany's blitzkrieg against Poland",
+        "options": [
+            "Militarisim",
+            "The assasination of Archduke Franze Fredinand",
+            "King Edward III of England's claim to the French throne",
+            "Germany's blitzkrieg against Poland"
+        ],
+        "question_w_options": "What's the trigger that set off the war mentioned in the video?? Choose your answer from below options: A.Militarisim, B.The assasination of Archduke Franze Fredinand, C.King Edward III of England's claim to the French throne, D.Germany's blitzkrieg against Poland.",
+        "truth": 1,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/24i4ncHuf6A.mp4",
+        "answers": [
+            "B. The assassination of Archduke Franz Ferdinand"
+        ],
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "005-3",
+        "uid": "005",
+        "qid": "005-3",
+        "q_type": "Attribute Perception",
+        "question": "Which of the following options is incorrect regarding the events in sarajevo depicted in the video?",
+        "optionA": "It was organized by the Black Hand in Serbia",
+        "optionB": "Ferdinand was sitting on the left side of the car",
+        "optionC": "Ferdinand was wearing a white hat",
+        "optionD": "The killer was wearing black suit",
+        "options": [
+            "It was organized by the Black Hand in Serbia",
+            "Ferdinand was sitting on the left side of the car",
+            "Ferdinand was wearing a white hat",
+            "The killer was wearing black suit"
+        ],
+        "question_w_options": "Which of the following options is incorrect regarding the events in sarajevo depicted in the video?? Choose your answer from below options: A.It was organized by the Black Hand in Serbia, B.Ferdinand was sitting on the left side of the car, C.Ferdinand was wearing a white hat, D.The killer was wearing black suit.",
+        "truth": 2,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/24i4ncHuf6A.mp4",
+        "answers": [
+            "The incorrect option is:\n\nB. Ferdinand was sitting on the left side of the car.\n\nIn reality, Archduke Franz Ferdinand and his wife, Sophie, were seated in the front seat of the car, with Franz Ferdinand on the right side."
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "006-1",
+        "uid": "006",
+        "qid": "006-1",
+        "q_type": "Object Reasoning",
+        "question": "What is one of the symbols of the festival that is introduced by the video?",
+        "optionA": "Turkey",
+        "optionB": "Moose",
+        "optionC": "Moon cake",
+        "optionD": "Shamrock",
+        "options": [
+            "Turkey",
+            "Moose",
+            "Moon cake",
+            "Shamrock"
+        ],
+        "question_w_options": "What is one of the symbols of the festival that is introduced by the video?? Choose your answer from below options: A.Turkey, B.Moose, C.Moon cake, D.Shamrock.",
+        "truth": 3,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/40BlVzjxu-I.mp4",
+        "answers": [
+            "D. Shamrock."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "006-2",
+        "uid": "006",
+        "qid": "006-2",
+        "q_type": "Temporal Reasoning",
+        "question": "What happened when irish imiggrants brought the tradition of st. patrick's day to america?",
+        "optionA": "They began to center around drinking and celebrating the festival",
+        "optionB": "St. Patrick moved to America",
+        "optionC": "They celebrated St. Patrick's birth instead",
+        "optionD": "They attended the church and gather for feasts",
+        "options": [
+            "They began to center around drinking and celebrating the festival",
+            "St. Patrick moved to America",
+            "They celebrated St. Patrick's birth instead",
+            "They attended the church and gather for feasts"
+        ],
+        "question_w_options": "What happened when irish imiggrants brought the tradition of st. patrick's day to america?? Choose your answer from below options: A.They began to center around drinking and celebrating the festival, B.St. Patrick moved to America, C.They celebrated St. Patrick's birth instead, D.They attended the church and gather for feasts.",
+        "truth": 0,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/40BlVzjxu-I.mp4",
+        "answers": [
+            "A. They began to center around drinking and celebrating the festival."
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "006-3",
+        "uid": "006",
+        "qid": "006-3",
+        "q_type": "Action Recognition",
+        "question": "What is special about the celebration in new york according to the video?",
+        "optionA": "Hosting large parades",
+        "optionB": "Dressing in green and dyeing the river to green",
+        "optionC": "Drinking a lot",
+        "optionD": "Planting shamrocks",
+        "options": [
+            "Hosting large parades",
+            "Dressing in green and dyeing the river to green",
+            "Drinking a lot",
+            "Planting shamrocks"
+        ],
+        "question_w_options": "What is special about the celebration in new york according to the video?? Choose your answer from below options: A.Hosting large parades, B.Dressing in green and dyeing the river to green, C.Drinking a lot, D.Planting shamrocks.",
+        "truth": 0,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/40BlVzjxu-I.mp4",
+        "answers": [
+            "A.Hosting large parades."
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "007-1",
+        "uid": "007",
+        "qid": "007-1",
+        "q_type": "Action Recognition",
+        "question": "How is the smoke generated by the man depicted in the video?",
+        "optionA": "By burning a piece of cloth",
+        "optionB": "By lighting a torch",
+        "optionC": "By smoking",
+        "optionD": "By lighting a bonefire",
+        "options": [
+            "By burning a piece of cloth",
+            "By lighting a torch",
+            "By smoking",
+            "By lighting a bonefire"
+        ],
+        "question_w_options": "How is the smoke generated by the man depicted in the video?? Choose your answer from below options: A.By burning a piece of cloth, B.By lighting a torch, C.By smoking, D.By lighting a bonefire.",
+        "truth": 3,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0ay2Qy3wBe8.mp4",
+        "answers": [
+            "The smoke generated by the man in the video is depicted as coming from a fire, which is likely a bonefire given the context of the video. Therefore, the correct answer is:\n\nD. By lighting a bonefire."
+        ],
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "007-2",
+        "uid": "007",
+        "qid": "007-2",
+        "q_type": "Temporal Reasoning",
+        "question": "What kind of communication is listed before semaphore?",
+        "optionA": "Telephone",
+        "optionB": "Homing pigeon",
+        "optionC": "Telegraph",
+        "optionD": "Pony express",
+        "options": [
+            "Telephone",
+            "Homing pigeon",
+            "Telegraph",
+            "Pony express"
+        ],
+        "question_w_options": "What kind of communication is listed before semaphore?? Choose your answer from below options: A.Telephone, B.Homing pigeon, C.Telegraph, D.Pony express.",
+        "truth": 3,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0ay2Qy3wBe8.mp4",
+        "answers": [
+            "The correct answer is B. Homing pigeon. The video lists \"THE HOMING PIGEON\" before \"THE SEMAPHORE FLAG.\""
+        ],
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "007-3",
+        "uid": "007",
+        "qid": "007-3",
+        "q_type": "OCR Problems",
+        "question": "What is the specific sentence in the smart phone that makes the man embarrassed?",
+        "optionA": "BTW...you got something in your teeth",
+        "optionB": "Dude! You gotta come toBigStuf Camps",
+        "optionC": "Smoke Sig 2.0",
+        "optionD": "Last but not least",
+        "options": [
+            "BTW...you got something in your teeth",
+            "Dude! You gotta come toBigStuf Camps",
+            "Smoke Sig 2.0",
+            "Last but not least"
+        ],
+        "question_w_options": "What is the specific sentence in the smart phone that makes the man embarrassed?? Choose your answer from below options: A.BTW...you got something in your teeth, B.Dude! You gotta come toBigStuf Camps, C.Smoke Sig 2.0, D.Last but not least.",
+        "truth": 0,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/0ay2Qy3wBe8.mp4",
+        "answers": [
+            "A. BTW...you got something in your teeth"
+        ],
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "013-1",
+        "uid": "013",
+        "qid": "013-1",
+        "q_type": "Spatial Perception",
+        "question": "Which of the following is visible in the background of the video when the miniature bottle is shown empty?",
+        "optionA": "Water",
+        "optionB": "Cork",
+        "optionC": "Shells",
+        "optionD": "Star",
+        "options": [
+            "Water",
+            "Cork",
+            "Shells",
+            "Star"
+        ],
+        "question_w_options": "Which of the following is visible in the background of the video when the miniature bottle is shown empty?? Choose your answer from below options: A.Water, B.Cork, C.Shells, D.Star.",
+        "truth": 2,
+        "video_path": "/hf_home/hub/datasets--lmms-lab--Video-MME/snapshots/ead1408f75b618502df9a1d8e0950166bf0a2a0b/data/5wLv3pCqZ9o.mp4",
+        "answers": [
+            "C. Shells"
+        ],
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    }
+]

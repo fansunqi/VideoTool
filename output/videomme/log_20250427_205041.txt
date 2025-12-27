@@ -1,0 +1,37 @@
+Creating LLM cache: cache/gpt35_cache_new_tool_8.pkl...
+
+
+Initializing Patch Zoomer Tool with model: gpt-4o, sys_prompt: None
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-QA Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-Select Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Summarizer Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing Frame Selection Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing eval-LLM for rephrase, model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Building videomme dataset...
+
+Processing: 148-3
+Why was the athlete in the video called for a traveling violation despite not being a foul? Choose your answer from below options: A.Because the referee made the wrong call, B.Because this happened before the rules were changed, C.Because the player trolled the referee, D.The penalty was not a traveling violation.
+
+Visible Frames: add 16 frames to visible frames: [0, 199, 399, 598, 797, 996, 1196, 1395, 1594, 1793, 1993, 2192, 2391, 2590, 2790, 2989]
+> /home/fsq/video_agent/ToolChainVideo/engine/base.py(32)_check_cache()
+-> if prompt in self.cache:
+(Pdb) --KeyboardInterrupt--
+(Pdb) 

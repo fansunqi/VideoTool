@@ -1,0 +1,244 @@
+[
+    {
+        "quid": "86CxyhFV9MI",
+        "uid": "86CxyhFV9MI",
+        "qid": "86CxyhFV9MI",
+        "q_type": "TOS",
+        "question": "Which subtitles appear at the same time?",
+        "optionA": "promisc has come to an end, in and run away countless times, i was just scared, i still",
+        "optionB": "run away countless times, i was just scared, i still and front of our crown, like a world of souls,",
+        "optionC": "promisc has come to an end, in and front of our crown, like a world of souls,",
+        "optionD": "promisc has come to an end, in and captain of the godson, three three three three three three",
+        "options": [
+            "promisc has come to an end, in and run away countless times, i was just scared, i still",
+            "run away countless times, i was just scared, i still and front of our crown, like a world of souls,",
+            "promisc has come to an end, in and front of our crown, like a world of souls,",
+            "promisc has come to an end, in and captain of the godson, three three three three three three"
+        ],
+        "question_w_options": "Which subtitles appear at the same time? Choose your answer from below options: A.promisc has come to an end, in and run away countless times, i was just scared, i still, B.run away countless times, i was just scared, i still and front of our crown, like a world of souls,, C.promisc has come to an end, in and front of our crown, like a world of souls,, D.promisc has come to an end, in and captain of the godson, three three three three three three.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/86CxyhFV9MI.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/86CxyhFV9MI_en.json",
+        "answers": [
+            "C"
+        ]
+    },
+    {
+        "quid": "86CxyhFV9MI",
+        "uid": "86CxyhFV9MI",
+        "qid": "86CxyhFV9MI",
+        "q_type": "TOS",
+        "question": "Which subtitles appear simultaneously?",
+        "optionA": "[applause] and Seye Seye Seye Seye Seye",
+        "optionB": "[applause] and my love that I made on the ke is",
+        "optionC": "captain of the godson, three three three three three three and my love that I made on the ke is",
+        "optionD": "[applause] and captain of the godson, three three three three three three",
+        "options": [
+            "[applause] and Seye Seye Seye Seye Seye",
+            "[applause] and my love that I made on the ke is",
+            "captain of the godson, three three three three three three and my love that I made on the ke is",
+            "[applause] and captain of the godson, three three three three three three"
+        ],
+        "question_w_options": "Which subtitles appear simultaneously? Choose your answer from below options: A.[applause] and Seye Seye Seye Seye Seye, B.[applause] and my love that I made on the ke is, C.captain of the godson, three three three three three three and my love that I made on the ke is, D.[applause] and captain of the godson, three three three three three three.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/86CxyhFV9MI.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/86CxyhFV9MI_en.json",
+        "answers": [
+            "D. [applause] and captain of the godson, three three three three three three."
+        ]
+    },
+    {
+        "quid": "9PD3ciudpIE",
+        "uid": "9PD3ciudpIE",
+        "qid": "9PD3ciudpIE",
+        "q_type": "T2A",
+        "question": "In front of an ancient building, a woman walks by holding something. when the subtitle says 'temples scattered throughout the', what color is the woman's clothing at that moment?",
+        "optionA": "yellow",
+        "optionB": "green",
+        "optionC": "blue",
+        "optionD": "red",
+        "options": [
+            "yellow",
+            "green",
+            "blue",
+            "red"
+        ],
+        "question_w_options": "In front of an ancient building, a woman walks by holding something. when the subtitle says 'temples scattered throughout the', what color is the woman's clothing at that moment? Choose your answer from below options: A.yellow, B.green, C.blue, D.red.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/9PD3ciudpIE.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/9PD3ciudpIE_en.json",
+        "answers": [
+            "A. yellow"
+        ]
+    },
+    {
+        "quid": "9PD3ciudpIE",
+        "uid": "9PD3ciudpIE",
+        "qid": "9PD3ciudpIE",
+        "q_type": "T2A",
+        "question": "What is the woman with the pink hat wearing?",
+        "optionA": "red short sleeves",
+        "optionB": "red long sleeves",
+        "optionC": "black long sleeves",
+        "optionD": "pink short sleeves",
+        "options": [
+            "red short sleeves",
+            "red long sleeves",
+            "black long sleeves",
+            "pink short sleeves"
+        ],
+        "question_w_options": "What is the woman with the pink hat wearing? Choose your answer from below options: A.red short sleeves, B.red long sleeves, C.black long sleeves, D.pink short sleeves.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/9PD3ciudpIE.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/9PD3ciudpIE_en.json",
+        "answers": [
+            "D"
+        ]
+    },
+    {
+        "quid": "5qMcDQd17Y4",
+        "uid": "5qMcDQd17Y4",
+        "qid": "5qMcDQd17Y4",
+        "q_type": "T2O",
+        "question": "What is behind the man to his right?",
+        "optionA": "cell phone",
+        "optionB": "car",
+        "optionC": "computer",
+        "optionD": "street light",
+        "options": [
+            "cell phone",
+            "car",
+            "computer",
+            "street light"
+        ],
+        "question_w_options": "What is behind the man to his right? Choose your answer from below options: A.cell phone, B.car, C.computer, D.street light.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/5qMcDQd17Y4.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/5qMcDQd17Y4_en.json",
+        "answers": [
+            "C.computer"
+        ]
+    },
+    {
+        "quid": "5qMcDQd17Y4",
+        "uid": "5qMcDQd17Y4",
+        "qid": "5qMcDQd17Y4",
+        "q_type": "T2O",
+        "question": "What is behind this woman on the right?",
+        "optionA": "door",
+        "optionB": "computer",
+        "optionC": "lamp",
+        "optionD": "phone",
+        "options": [
+            "door",
+            "computer",
+            "lamp",
+            "phone"
+        ],
+        "question_w_options": "What is behind this woman on the right? Choose your answer from below options: A.door, B.computer, C.lamp, D.phone.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/5qMcDQd17Y4.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/5qMcDQd17Y4_en.json",
+        "answers": [
+            "A. door"
+        ]
+    },
+    {
+        "quid": "7F9IrtSHmc0",
+        "uid": "7F9IrtSHmc0",
+        "qid": "7F9IrtSHmc0",
+        "q_type": "O2E",
+        "question": "What is he doing?",
+        "optionA": "drinking water",
+        "optionB": "playing with a cell phone",
+        "optionC": "speaking",
+        "optionD": "dancing",
+        "options": [
+            "drinking water",
+            "playing with a cell phone",
+            "speaking",
+            "dancing"
+        ],
+        "question_w_options": "What is he doing? Choose your answer from below options: A.drinking water, B.playing with a cell phone, C.speaking, D.dancing.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7F9IrtSHmc0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7F9IrtSHmc0_en.json",
+        "answers": [
+            "C.speaking"
+        ]
+    },
+    {
+        "quid": "7F9IrtSHmc0",
+        "uid": "7F9IrtSHmc0",
+        "qid": "7F9IrtSHmc0",
+        "q_type": "O2E",
+        "question": "What are these people in the colorful outfits doing?",
+        "optionA": "Drinking water",
+        "optionB": "Playing piano",
+        "optionC": "Sitting",
+        "optionD": "Dancing",
+        "options": [
+            "Drinking water",
+            "Playing piano",
+            "Sitting",
+            "Dancing"
+        ],
+        "question_w_options": "What are these people in the colorful outfits doing? Choose your answer from below options: A.Drinking water, B.Playing piano, C.Sitting, D.Dancing.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/7F9IrtSHmc0.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/7F9IrtSHmc0_en.json",
+        "answers": [
+            "D"
+        ]
+    },
+    {
+        "quid": "QJ6sjg7SXOQ",
+        "uid": "QJ6sjg7SXOQ",
+        "qid": "QJ6sjg7SXOQ",
+        "q_type": "S2E",
+        "question": "What is he doing?",
+        "optionA": "Walking the horse",
+        "optionB": "Punching towards the camera",
+        "optionC": "Riding the horse",
+        "optionD": "Kneeling down",
+        "options": [
+            "Walking the horse",
+            "Punching towards the camera",
+            "Riding the horse",
+            "Kneeling down",
+            "Extending his palm forward while facing the camera"
+        ],
+        "question_w_options": "What is he doing? Choose your answer from below options: A.Walking the horse, B.Punching towards the camera, C.Riding the horse, D.Kneeling down.",
+        "truth": 4,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/QJ6sjg7SXOQ.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/QJ6sjg7SXOQ_en.json",
+        "answers": [
+            "B"
+        ]
+    },
+    {
+        "quid": "QJ6sjg7SXOQ",
+        "uid": "QJ6sjg7SXOQ",
+        "qid": "QJ6sjg7SXOQ",
+        "q_type": "S2E",
+        "question": "What is this man doing?",
+        "optionA": "Throwing the metal bucket into the sea",
+        "optionB": "Burning the metal bucket",
+        "optionC": "Throwing the metal bucket on the ground",
+        "optionD": "Dumping garbage into the metal bucket",
+        "options": [
+            "Throwing the metal bucket into the sea",
+            "Burning the metal bucket",
+            "Throwing the metal bucket on the ground",
+            "Dumping garbage into the metal bucket",
+            "Placing the metal bucket in a vehicle"
+        ],
+        "question_w_options": "What is this man doing? Choose your answer from below options: A.Throwing the metal bucket into the sea, B.Burning the metal bucket, C.Throwing the metal bucket on the ground, D.Dumping garbage into the metal bucket.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_03/fsq/LongVideoBench/videos/QJ6sjg7SXOQ.mp4",
+        "subtitle_path": "/mnt/Shared_03/fsq/LongVideoBench/subtitles/QJ6sjg7SXOQ_en.json",
+        "answers": [
+            "The man in the video is holding a metal bucket while standing under a blue sky, possibly near a coastal area given the presence of water. However, the specific actions he might be taking with the bucket, such as throwing, burning, or dumping garbage, are not shown or explicitly stated. The context leans more towards the environment and the coastal area rather than any specific action involving the bucket."
+        ]
+    }
+]

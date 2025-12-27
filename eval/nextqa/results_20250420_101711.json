@@ -1,0 +1,28 @@
+[
+    {
+        "quid": "2793260225_6",
+        "uid": "2793260225",
+        "qid": 6,
+        "q_type": "CH",
+        "question": "how did the lady and man on top try to keep their balance",
+        "optionA": "hold the ropes tightly",
+        "optionB": "held each other",
+        "optionC": "walk side to side",
+        "optionD": "hold ski stick",
+        "optionE": "standing still",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0066/2793260225.mp4",
+        "answers": [
+            "Based on the images, the lady and man on top are trying to keep their balance by holding each other. So, the answer is B. held each other."
+        ],
+        "question_w_options": "How did the lady and man on top try to keep their balance? Choose your answer from below options: A.hold the ropes tightly, B.held each other, C.walk side to side, D.hold ski stick, E.standing still.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    }
+]

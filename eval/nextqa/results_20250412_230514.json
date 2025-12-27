@@ -1,0 +1,28 @@
+[
+    {
+        "quid": "8132842161_2",
+        "uid": "8132842161",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why did the man in white hold tightly to the boy in white",
+        "optionA": "forcing boy to look straight",
+        "optionB": "dancing with boy",
+        "optionC": "posing for camera",
+        "optionD": "prevent falling off",
+        "optionE": "boy keeps moving around",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1201/8132842161.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the man in white held tightly to the boy in white to keep him from falling off."
+        ],
+        "question_w_options": "Why did the man in white hold tightly to the boy in white? Choose your answer from below options: A.forcing boy to look straight, B.dancing with boy, C.posing for camera, D.prevent falling off, E.boy keeps moving around.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    }
+]

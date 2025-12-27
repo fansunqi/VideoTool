@@ -1,0 +1,3402 @@
+[
+    {
+        "quid": "13503538465_4",
+        "uid": "13503538465",
+        "qid": 4,
+        "q_type": "DO",
+        "question": "How were the children positioned on the bed at the start?",
+        "optionA": "sitting",
+        "optionB": "pick the baby with his hands",
+        "optionC": "laying",
+        "optionD": "lying on stomach",
+        "optionE": "standing",
+        "options": [
+            "sitting",
+            "pick the baby with his hands",
+            "laying",
+            "lying on stomach",
+            "standing"
+        ],
+        "question_w_options": "How were the children positioned on the bed at the start? Choose your answer from below options: A.sitting, B.pick the baby with his hands, C.laying, D.lying on stomach, E.standing.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1105/13503538465.mp4",
+        "answers": [
+            "Based on the image provided, the children are **standing** on the bed.",
+            "Based on the frame information provided, the answer to the question \"How were the children positioned on the bed at the start?\" is E. standing.",
+            "E.standing."
+        ],
+        "video_info": {
+            "total_frames": 416,
+            "fps": 29.97,
+            "duration": 13.880547213880547
+        },
+        "visible_frames_num": 1.0,
+        "visible_frames_fps": 0.07204326923076923
+    },
+    {
+        "quid": "13496784364_2",
+        "uid": "13496784364",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why is the cat raising its paw in the middle of the video?",
+        "optionA": "watching it",
+        "optionB": "hit the hanging toy",
+        "optionC": "to play with leaves",
+        "optionD": "change playing position",
+        "optionE": "paws at the man",
+        "options": [
+            "watching it",
+            "hit the hanging toy",
+            "to play with leaves",
+            "change playing position",
+            "paws at the man"
+        ],
+        "question_w_options": "Why is the cat raising its paw in the middle of the video? Choose your answer from below options: A.watching it, B.hit the hanging toy, C.to play with leaves, D.change playing position, E.paws at the man.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1020/13496784364.mp4",
+        "answers": [
+            "Based on the image sequence, the cat is raising its paw to interact with the leaves of the plant. Therefore, the most likely answer is:\n\nC. to play with leaves.",
+            "Based on the frame information provided, the best answer to the question \"Why is the cat raising its paw in the middle of the video?\" is:\n\nE. paws at the man.\n\nThis option aligns with multiple frame answers that indicate the cat is raising its paw to interact with the man, either playfully or to get his attention.",
+            "E.paws at the man."
+        ],
+        "video_info": {
+            "total_frames": 435,
+            "fps": 29.97002997002997,
+            "duration": 14.5145
+        },
+        "visible_frames_num": 10.0,
+        "visible_frames_fps": 0.6889662062075855
+    },
+    {
+        "quid": "5602364659_0",
+        "uid": "5602364659",
+        "qid": 0,
+        "q_type": "TC",
+        "question": "What is the baby s father doing at the start of the video?",
+        "optionA": "playing with toy",
+        "optionB": "crawled forward towards the man",
+        "optionC": "put on helmet",
+        "optionD": "rubbing his nose",
+        "optionE": "horse backing",
+        "options": [
+            "playing with toy",
+            "crawled forward towards the man",
+            "put on helmet",
+            "rubbing his nose",
+            "horse backing"
+        ],
+        "question_w_options": "What is the baby s father doing at the start of the video? Choose your answer from below options: A.playing with toy, B.crawled forward towards the man, C.put on helmet, D.rubbing his nose, E.horse backing.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1103/5602364659.mp4",
+        "answers": [
+            "Based on the image sequence provided, the baby\u2019s father appears to be **putting on a helmet** at the start of the video. This corresponds to option **C**.",
+            "Based on the frame information provided, at the start of the video (Frame 0), the baby's father is sitting on a chair, holding the baby in his arms. This does not match any of the options given. However, since the closest activity described in the subsequent frames is \"playing with the baby,\" the best option from the provided choices would be:\n\nA. playing with toy\n\nThis is the most relevant option, even though it does not directly match the initial description.",
+            "A.playing with toy,"
+        ],
+        "video_info": {
+            "total_frames": 1803,
+            "fps": 29.97002997002997,
+            "duration": 60.1601
+        },
+        "visible_frames_num": 4.0,
+        "visible_frames_fps": 0.06648925118143088
+    },
+    {
+        "quid": "4930378590_2",
+        "uid": "4930378590",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why does the woman looked at the man on her right?",
+        "optionA": "learning",
+        "optionB": "details about car",
+        "optionC": "to speak to him",
+        "optionD": "gesture while performing",
+        "optionE": "playing with boy",
+        "options": [
+            "learning",
+            "details about car",
+            "to speak to him",
+            "gesture while performing",
+            "playing with boy"
+        ],
+        "question_w_options": "Why does the woman looked at the man on her right? Choose your answer from below options: A.learning, B.details about car, C.to speak to him, D.gesture while performing, E.playing with boy.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1107/4930378590.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that the woman is part of a musical performance on stage with the man to her right. The setting suggests a concert or live music event, and both individuals are engaged in performing. Therefore, the most likely reason the woman looked at the man on her right is option D: gesture while performing. This is a common occurrence during musical performances where band members communicate or interact with each other through gestures.",
+            "Based on the frame information provided, the best answer to the question \"Why does the woman look at the man on her right?\" is:\n\n**D. gesture while performing.**\n\nThis is supported by multiple frames indicating that the woman is likely engaged in a musical performance, paying attention to the man as they perform together, which involves gestures and synchronization.",
+            "C.to speak to him"
+        ],
+        "video_info": {
+            "total_frames": 1809,
+            "fps": 29.97002997002997,
+            "duration": 60.3603
+        },
+        "visible_frames_num": 63.0,
+        "visible_frames_fps": 1.0437323870159692
+    },
+    {
+        "quid": "3425596660_4",
+        "uid": "3425596660",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "Why did the bald man show his phone to the audience?",
+        "optionA": "he was angry",
+        "optionB": "gesture while talking",
+        "optionC": "posing for a photo",
+        "optionD": "acting",
+        "optionE": "show who he is calling",
+        "options": [
+            "he was angry",
+            "gesture while talking",
+            "posing for a photo",
+            "acting",
+            "show who he is calling"
+        ],
+        "question_w_options": "Why did the bald man show his phone to the audience? Choose your answer from below options: A.he was angry, B.gesture while talking, C.posing for a photo, D.acting, E.show who he is calling.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1120/3425596660.mp4",
+        "answers": [
+            "Based on the image sequence, it seems the bald man is showing his phone to the audience in frame 9. Given the context and the options provided, the most likely reason is:\n\nE. show who he is calling.\n\nThe sequence suggests a progression from talking on the phone to showing the phone, which aligns with the action of revealing who he is calling.",
+            "Based on the frame information provided, the most appropriate answer is **B. gesture while talking**. The bald man is frequently described as using his phone to engage with the audience, demonstrate features, or share information relevant to the discussion, which aligns with the idea of using gestures while talking.",
+            "E.show who he is calling."
+        ],
+        "video_info": {
+            "total_frames": 1422,
+            "fps": 23.976023976023978,
+            "duration": 59.30925
+        },
+        "visible_frames_num": 58.0,
+        "visible_frames_fps": 0.97792502855794
+    },
+    {
+        "quid": "5617027305_5",
+        "uid": "5617027305",
+        "qid": 5,
+        "q_type": "TN",
+        "question": "What did the man do after the dog ran down the stairs?",
+        "optionA": "follow girl",
+        "optionB": "use towel cover it",
+        "optionC": "go to the back of cage",
+        "optionD": "run and jump down stairs",
+        "optionE": "lie on the bed",
+        "options": [
+            "follow girl",
+            "use towel cover it",
+            "go to the back of cage",
+            "run and jump down stairs",
+            "lie on the bed"
+        ],
+        "question_w_options": "What did the man do after the dog ran down the stairs? Choose your answer from below options: A.follow girl, B.use towel cover it, C.go to the back of cage, D.run and jump down stairs, E.lie on the bed.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1005/5617027305.mp4",
+        "answers": [
+            "Based on the image sequence, after the dog ran down the stairs, the man appears to be running and jumping down the stairs as well. \n\nThe correct answer is: **D. run and jump down stairs.**",
+            "Based on the frame information provided, the best answer to the question \"What did the man do after the dog ran down the stairs?\" is D. run and jump down stairs. This aligns with the descriptions in both Frame 0 and Frame 59, where it is indicated that the man followed the dog down the stairs.",
+            "D.run and jump down stairs"
+        ],
+        "video_info": {
+            "total_frames": 483,
+            "fps": 29.97002997002997,
+            "duration": 16.1161
+        },
+        "visible_frames_num": 2.0,
+        "visible_frames_fps": 0.12409950298149057
+    },
+    {
+        "quid": "8787155053_0",
+        "uid": "8787155053",
+        "qid": 0,
+        "q_type": "CW",
+        "question": "Why does the baby lie down again after getting up?",
+        "optionA": "play with the baby",
+        "optionB": "got distracted",
+        "optionC": "resting",
+        "optionD": "distracted",
+        "optionE": "enjoy being rubbed",
+        "options": [
+            "play with the baby",
+            "got distracted",
+            "resting",
+            "distracted",
+            "enjoy being rubbed"
+        ],
+        "question_w_options": "Why does the baby lie down again after getting up? Choose your answer from below options: A.play with the baby, B.got distracted, C.resting, D.distracted, E.enjoy being rubbed.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/8787155053.mp4",
+        "answers": [
+            "Based on the image sequence, the baby lies down again after getting up because they **enjoy being rubbed** (Option E). The sequence shows the baby being massaged or rubbed, and their body language suggests they are comfortable and enjoying the interaction.",
+            "The best answer to the question \"Why does the baby lie down again after getting up?\" based on the frame information provided is: **C. resting.** \n\nThe responses consistently indicate that the baby lies down again due to tiredness or the need to rest after being active.",
+            "C.resting"
+        ],
+        "video_info": {
+            "total_frames": 2815,
+            "fps": 29.97,
+            "duration": 93.92726059392726
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.09581882770870338
+    },
+    {
+        "quid": "12298809926_2",
+        "uid": "12298809926",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why does the man fake swing one time before actually hit the ball?",
+        "optionA": "so he can hit ball smoothly",
+        "optionB": "practicing",
+        "optionC": "push baby faster",
+        "optionD": "adjust to comfortable position to hit",
+        "optionE": "warm up",
+        "options": [
+            "so he can hit ball smoothly",
+            "practicing",
+            "push baby faster",
+            "adjust to comfortable position to hit",
+            "warm up"
+        ],
+        "question_w_options": "Why does the man fake swing one time before actually hit the ball? Choose your answer from below options: A.so he can hit ball smoothly, B.practicing, C.push baby faster, D.adjust to comfortable position to hit, E.warm up.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/12298809926.mp4",
+        "answers": [
+            "Based on the image sequence, the man likely fake swings to adjust to a comfortable position to hit the ball. So, the best answer is:\n\nD. adjust to comfortable position to hit.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why does the man fake swing one time before actually hitting the ball?\" is:\n\n**A. so he can hit ball smoothly.**\n\nThis aligns with the explanations given in the frames, which suggest that faking a swing can help the man gauge the distance and trajectory of the ball, build momentum, and improve his overall performance before making the actual hit.",
+            "E.warm up."
+        ],
+        "video_info": {
+            "total_frames": 623,
+            "fps": 29.97002997002997,
+            "duration": 20.787433333333333
+        },
+        "visible_frames_num": 22.0,
+        "visible_frames_fps": 1.0583317164376556
+    },
+    {
+        "quid": "6321842912_0",
+        "uid": "6321842912",
+        "qid": 0,
+        "q_type": "CH",
+        "question": "How does the lady prevent the child from falling off her lap?",
+        "optionA": "put baby onto seat",
+        "optionB": "safety belt",
+        "optionC": "wear a baby leash",
+        "optionD": "spread her hands out",
+        "optionE": "hold child tightly",
+        "options": [
+            "put baby onto seat",
+            "safety belt",
+            "wear a baby leash",
+            "spread her hands out",
+            "hold child tightly"
+        ],
+        "question_w_options": "How does the lady prevent the child from falling off her lap? Choose your answer from below options: A.put baby onto seat, B.safety belt, C.wear a baby leash, D.spread her hands out, E.hold child tightly.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1001/6321842912.mp4",
+        "answers": [
+            "Based on the image sequence, the lady prevents the child from falling off her lap by option E: holding the child tightly.",
+            "The best answer to the question \"How does the lady prevent the child from falling off her lap?\" based on the frame information provided is: **E. hold child tightly.**",
+            "E.hold child tightly."
+        ],
+        "video_info": {
+            "total_frames": 312,
+            "fps": 29.97002997002997,
+            "duration": 10.410400000000001
+        },
+        "visible_frames_num": 6.0,
+        "visible_frames_fps": 0.576346730192884
+    },
+    {
+        "quid": "4173145252_8",
+        "uid": "4173145252",
+        "qid": 8,
+        "q_type": "DC",
+        "question": "How many times in total did the lady stop the baby from touching the plate?",
+        "optionA": "one",
+        "optionB": "nine",
+        "optionC": "four",
+        "optionD": "six",
+        "optionE": "five",
+        "options": [
+            "one",
+            "nine",
+            "four",
+            "six",
+            "five"
+        ],
+        "question_w_options": "How many times in total did the lady stop the baby from touching the plate? Choose your answer from below options: A.one, B.nine, C.four, D.six, E.five.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1007/4173145252.mp4",
+        "answers": [
+            "Based on the image sequence, the lady appears to stop the baby from touching the plate in frames 1, 2, 3, 4, 5, and 6. Therefore, the total number of times she stops the baby is six. The correct answer is D. six.",
+            "Based on the frame information provided, the lady stopped the baby from touching the plate a total of three times, as indicated consistently across all sampled frames. Therefore, the correct answer is not listed among the options provided (A.one, B.nine, C.four, D.six, E.five). \n\nIf you need to choose from the given options, none of them accurately reflect the information from the frames. However, the answer based on the frame data is three times.",
+            "A.one"
+        ],
+        "video_info": {
+            "total_frames": 1810,
+            "fps": 29.97002997002997,
+            "duration": 60.39366666666667
+        },
+        "visible_frames_num": 13.0,
+        "visible_frames_fps": 0.21525435890076774
+    },
+    {
+        "quid": "6936757706_9",
+        "uid": "6936757706",
+        "qid": 9,
+        "q_type": "TC",
+        "question": "What is the boy in red doing as he sat beside the lady?",
+        "optionA": "feeding the baby",
+        "optionB": "rest",
+        "optionC": "throw balloon into hoop",
+        "optionD": "blowing balloon",
+        "optionE": "eating",
+        "options": [
+            "feeding the baby",
+            "rest",
+            "throw balloon into hoop",
+            "blowing balloon",
+            "eating"
+        ],
+        "question_w_options": "What is the boy in red doing as he sat beside the lady? Choose your answer from below options: A.feeding the baby, B.rest, C.throw balloon into hoop, D.blowing balloon, E.eating.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1002/6936757706.mp4",
+        "answers": [
+            "Based on the image sequence, the boy in red appears to be **eating**.",
+            "Based on the frame information provided, the best answer to the question \"What is the boy in red doing as he sat beside the lady?\" is E. eating. The frames consistently indicate that the boy is engaged in eating various types of food while sitting beside the lady.",
+            "E.eating."
+        ],
+        "video_info": {
+            "total_frames": 600,
+            "fps": 29.97002997002997,
+            "duration": 20.02
+        },
+        "visible_frames_num": 11.0,
+        "visible_frames_fps": 0.5494505494505495
+    },
+    {
+        "quid": "2811954360_2",
+        "uid": "2811954360",
+        "qid": 2,
+        "q_type": "TC",
+        "question": "What is the lady in white trying to do with the box on her lap when she looked around it?",
+        "optionA": "closing the box",
+        "optionB": "passing it to the boy",
+        "optionC": "wrapping the box",
+        "optionD": "she is opening it",
+        "optionE": "passing it to the girl",
+        "options": [
+            "closing the box",
+            "passing it to the boy",
+            "wrapping the box",
+            "she is opening it",
+            "passing it to the girl"
+        ],
+        "question_w_options": "What is the lady in white trying to do with the box on her lap when she looked around it? Choose your answer from below options: A.closing the box, B.passing it to the boy, C.wrapping the box, D.she is opening it, E.passing it to the girl.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1021/2811954360.mp4",
+        "answers": [
+            "Based on the image sequence, the lady in white appears to be opening the box.",
+            "Based on the frame information provided, the correct answer is D. she is opening it. The lady in white is trying to open the box on her lap and is looking around it, indicating her effort to find a way to do so.",
+            "D.she is opening it,"
+        ],
+        "video_info": {
+            "total_frames": 1690,
+            "fps": 29.96969696969697,
+            "duration": 56.390293225480285
+        },
+        "visible_frames_num": 2.0,
+        "visible_frames_fps": 0.03546709700555854
+    },
+    {
+        "quid": "6862984319_3",
+        "uid": "6862984319",
+        "qid": 3,
+        "q_type": "TC",
+        "question": "What did the small elephant do at the end?",
+        "optionA": "eat the grass",
+        "optionB": "touch trunk with small elephant",
+        "optionC": "run towards the camera",
+        "optionD": "sit down",
+        "optionE": "moves away",
+        "options": [
+            "eat the grass",
+            "touch trunk with small elephant",
+            "run towards the camera",
+            "sit down",
+            "moves away"
+        ],
+        "question_w_options": "What did the small elephant do at the end? Choose your answer from below options: A.eat the grass, B.touch trunk with small elephant, C.run towards the camera, D.sit down, E.moves away.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0002/6862984319.mp4",
+        "answers": [
+            "Based on the image sequence, the small elephant appears to touch trunks with another elephant at the end. So, the answer is B. touch trunk with small elephant.",
+            "Based on the frame information provided, the small elephant at the end primarily engages in social behaviors with the larger elephant, such as touching trunks and nuzzling. The last relevant frame indicates that the small elephant is eating. Therefore, the best answer to the question \"What did the small elephant do at the end?\" is:\n\nA. eat the grass.",
+            "B.touch trunk with small elephant"
+        ],
+        "video_info": {
+            "total_frames": 696,
+            "fps": 24.0,
+            "duration": 29.0
+        },
+        "visible_frames_num": 28.0,
+        "visible_frames_fps": 0.9655172413793104
+    },
+    {
+        "quid": "2528769674_8",
+        "uid": "2528769674",
+        "qid": 8,
+        "q_type": "TN",
+        "question": "What happens to the boy after he walked into another room at the end of the video?",
+        "optionA": "gets back up",
+        "optionB": "get off the scooter",
+        "optionC": "move his head",
+        "optionD": "holds the rope on his shoulder",
+        "optionE": "walk away",
+        "options": [
+            "gets back up",
+            "get off the scooter",
+            "move his head",
+            "holds the rope on his shoulder",
+            "walk away"
+        ],
+        "question_w_options": "What happens to the boy after he walked into another room at the end of the video? Choose your answer from below options: A.gets back up, B.get off the scooter, C.move his head, D.holds the rope on his shoulder, E.walk away.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1014/2528769674.mp4",
+        "answers": [
+            "Based on the image sequence, the boy appears to crawl into another room and then continues crawling. The most fitting option is:\n\nA. gets back up",
+            "Based on the frame information provided, the most relevant answer to the question \"What happens to the boy after he walked into another room at the end of the video?\" is not explicitly listed among the options A through E. However, the frames indicate that the boy is primarily engaged in play with toys, such as a toy mouse and a toy car, and at one point, he is seen sitting on the floor or a chair.\n\nGiven the options, the closest action that could be inferred is:\n\nA. gets back up\n\nThis option suggests a continuation of activity, which aligns with the boy's engagement in play after entering the new room.",
+            "E.walk away."
+        ],
+        "video_info": {
+            "total_frames": 2268,
+            "fps": 29.97002997002997,
+            "duration": 75.6756
+        },
+        "visible_frames_num": 10.0,
+        "visible_frames_fps": 0.13214298928584642
+    },
+    {
+        "quid": "4873868719_2",
+        "uid": "4873868719",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why did the baby move his legs continuously on the swing?",
+        "optionA": "enjoying",
+        "optionB": "play with himself",
+        "optionC": "swing himself",
+        "optionD": "pushed by adult",
+        "optionE": "scared of falling",
+        "options": [
+            "enjoying",
+            "play with himself",
+            "swing himself",
+            "pushed by adult",
+            "scared of falling"
+        ],
+        "question_w_options": "Why did the baby move his legs continuously on the swing? Choose your answer from below options: A.enjoying, B.play with himself, C.swing himself, D.pushed by adult, E.scared of falling.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1105/4873868719.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that the baby is moving his legs to swing himself. The images show the baby on a swing, and the leg movement is likely an attempt to generate momentum. Therefore, the most suitable answer is:\n\nC. swing himself.",
+            "The best answer to the question \"Why did the baby move his legs continuously on the swing?\" based on the provided frame information is: **A. enjoying**. \n\nThe responses consistently indicate that the baby's leg movements are a result of enjoying the sensation of swinging and the feeling of being airborne.",
+            "A.enjoying,"
+        ],
+        "video_info": {
+            "total_frames": 2069,
+            "fps": 29.97002997002997,
+            "duration": 69.03563333333334
+        },
+        "visible_frames_num": 72.0,
+        "visible_frames_fps": 1.0429396606293657
+    },
+    {
+        "quid": "8268305522_0",
+        "uid": "8268305522",
+        "qid": 0,
+        "q_type": "CH",
+        "question": "How are the penguins interacting with each other at the beginning of the video?",
+        "optionA": "fighting",
+        "optionB": "laying on the grass",
+        "optionC": "sniffing each other",
+        "optionD": "eating fishes",
+        "optionE": "crawl",
+        "options": [
+            "fighting",
+            "laying on the grass",
+            "sniffing each other",
+            "eating fishes",
+            "crawl"
+        ],
+        "question_w_options": "How are the penguins interacting with each other at the beginning of the video? Choose your answer from below options: A.fighting, B.laying on the grass, C.sniffing each other, D.eating fishes, E.crawl.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1052/8268305522.mp4",
+        "answers": [
+            "Based on the image sequence, the penguins appear to be sniffing each other at the beginning of the video. So, the answer is C. sniffing each other.",
+            "Based on the frame information provided, the best answer to how the penguins are interacting with each other at the beginning of the video is **A. fighting**. This is supported by multiple frames indicating playful interactions that involve competition, such as fighting over a branch or engaging in playful behavior, which can be interpreted as a form of fighting.",
+            "C.sniffing each other"
+        ],
+        "video_info": {
+            "total_frames": 900,
+            "fps": 29.97002997002997,
+            "duration": 30.03
+        },
+        "visible_frames_num": 31.0,
+        "visible_frames_fps": 1.0323010323010322
+    },
+    {
+        "quid": "11506594895_2",
+        "uid": "11506594895",
+        "qid": 2,
+        "q_type": "TN",
+        "question": "What does the girl in purple do after getting the end of the leash at the start?",
+        "optionA": "walk towards woman",
+        "optionB": "look up in the sky",
+        "optionC": "bend down",
+        "optionD": "stand up",
+        "optionE": "run backwards",
+        "options": [
+            "walk towards woman",
+            "look up in the sky",
+            "bend down",
+            "stand up",
+            "run backwards"
+        ],
+        "question_w_options": "What does the girl in purple do after getting the end of the leash at the start? Choose your answer from below options: A.walk towards woman, B.look up in the sky, C.bend down, D.stand up, E.run backwards.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1012/11506594895.mp4",
+        "answers": [
+            "Based on the image sequence, after the girl in purple gets the end of the leash at the start (Frame 1), she **bends down** (Frame 2). \n\nCorrect answer: **C. bend down**",
+            "Based on the frame information provided, the girl in purple primarily walks her dog after getting the end of the leash at the start. Therefore, none of the options A, B, C, D, or E accurately reflect her actions. The best answer based on the context is that she walks her dog, which is not listed as an option. If I must choose from the given options, I would say none of them are correct.",
+            "A.walk towards woman,"
+        ],
+        "video_info": {
+            "total_frames": 756,
+            "fps": 29.97,
+            "duration": 25.225225225225227
+        },
+        "visible_frames_num": 28.0,
+        "visible_frames_fps": 1.1099999999999999
+    },
+    {
+        "quid": "6579160577_3",
+        "uid": "6579160577",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "Why does the person in jeans set up the tripod and the camera in the middle of the video?",
+        "optionA": "to prepare for interview",
+        "optionB": "for acting scene",
+        "optionC": "adjust speaker",
+        "optionD": "to take a video",
+        "optionE": "pose for camera",
+        "options": [
+            "to prepare for interview",
+            "for acting scene",
+            "adjust speaker",
+            "to take a video",
+            "pose for camera"
+        ],
+        "question_w_options": "Why does the person in jeans set up the tripod and the camera in the middle of the video? Choose your answer from below options: A.to prepare for interview, B.for acting scene, C.adjust speaker, D.to take a video, E.pose for camera.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/6579160577.mp4",
+        "answers": [
+            "Based on the image sequence, it seems the person in jeans is playing the piano. The setup of the tripod and camera is likely to capture this performance. Therefore, the most suitable answer is:\n\nD. to take a video.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why does the person in jeans set up the tripod and the camera in the middle of the video?\" is:\n\n**D. to take a video.**\n\nThe reasoning aligns with the explanation given in the frame answers, which emphasize capturing a unique perspective or angle for a more engaging visual experience, indicating the intent to record video content.",
+            "D.to take a video"
+        ],
+        "video_info": {
+            "total_frames": 1096,
+            "fps": 29.97002997002997,
+            "duration": 36.56986666666667
+        },
+        "visible_frames_num": 4.0,
+        "visible_frames_fps": 0.10937967142346704
+    },
+    {
+        "quid": "6181099606_6",
+        "uid": "6181099606",
+        "qid": 6,
+        "q_type": "TN",
+        "question": "What does the baby do after getting hold of the towel near the end?",
+        "optionA": "lean forward and put head down",
+        "optionB": "chew the toy",
+        "optionC": "throw it in the rubbish bin",
+        "optionD": "bite it",
+        "optionE": "drop it",
+        "options": [
+            "lean forward and put head down",
+            "chew the toy",
+            "throw it in the rubbish bin",
+            "bite it",
+            "drop it"
+        ],
+        "question_w_options": "What does the baby do after getting hold of the towel near the end? Choose your answer from below options: A.lean forward and put head down, B.chew the toy, C.throw it in the rubbish bin, D.bite it, E.drop it.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1102/6181099606.mp4",
+        "answers": [
+            "Based on the image sequence, after the baby gets hold of the towel near the end, the baby leans forward and puts their head down. So, the correct answer is A. lean forward and put head down.",
+            "Based on the frame information provided, the best answer to the question \"What does the baby do after getting hold of the towel near the end?\" is **B. chew the toy**. Multiple frames indicate that the baby engages with the towel by chewing on it or holding it in their mouth, which aligns with option B.",
+            "E.drop it."
+        ],
+        "video_info": {
+            "total_frames": 782,
+            "fps": 29.97002997002997,
+            "duration": 26.092733333333335
+        },
+        "visible_frames_num": 26.0,
+        "visible_frames_fps": 0.9964460092337329
+    },
+    {
+        "quid": "7712814656_6",
+        "uid": "7712814656",
+        "qid": 6,
+        "q_type": "CH",
+        "question": "How is the girl interacting with the wheels of the car at the beginning of the video?",
+        "optionA": "posing for the camera",
+        "optionB": "dismantling the steering wheel",
+        "optionC": "turn steering wheel",
+        "optionD": "taking photos of the wheel",
+        "optionE": "touch fingers",
+        "options": [
+            "posing for the camera",
+            "dismantling the steering wheel",
+            "turn steering wheel",
+            "taking photos of the wheel",
+            "touch fingers"
+        ],
+        "question_w_options": "How is the girl interacting with the wheels of the car at the beginning of the video? Choose your answer from below options: A.posing for the camera, B.dismantling the steering wheel, C.turn steering wheel, D.taking photos of the wheel, E.touch fingers.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1123/7712814656.mp4",
+        "answers": [
+            "Based on the image sequence, the girl appears to be interacting with the steering wheel of the toy car. She is seated inside the car and her hands are on the steering wheel in several frames. The correct answer is:\n\n**C. turn steering wheel**",
+            "Based on the frame information provided, the girl is interacting with the wheels of the car by pushing it along the floor. Therefore, none of the options A, B, C, D, or E accurately describe her interaction. The correct answer is not listed among the options.",
+            "E.touch fingers."
+        ],
+        "video_info": {
+            "total_frames": 1003,
+            "fps": 29.97002997002997,
+            "duration": 33.466766666666665
+        },
+        "visible_frames_num": 36.0,
+        "visible_frames_fps": 1.075693996930288
+    },
+    {
+        "quid": "2579825280_2",
+        "uid": "2579825280",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why does the lady wearing green coat have a stick in her hand?",
+        "optionA": "hit the ball",
+        "optionB": "balance while skiing",
+        "optionC": "to collect the fish",
+        "optionD": "hiking",
+        "optionE": "guide the dog",
+        "options": [
+            "hit the ball",
+            "balance while skiing",
+            "to collect the fish",
+            "hiking",
+            "guide the dog"
+        ],
+        "question_w_options": "Why does the lady wearing green coat have a stick in her hand? Choose your answer from below options: A.hit the ball, B.balance while skiing, C.to collect the fish, D.hiking, E.guide the dog.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1001/2579825280.mp4",
+        "answers": [
+            "Based on the image sequence, the lady wearing the green coat appears to be using the stick for hiking. The environment looks like a forested area with uneven terrain, which is typical for hiking. Therefore, the most suitable answer is:\n\nD. hiking.",
+            "Based on the frame information provided, the most appropriate answer is D. hiking. The lady wearing the green coat is using the stick for support and balance while navigating through various terrains, which is typical for hiking activities.",
+            "D.hiking"
+        ],
+        "video_info": {
+            "total_frames": 690,
+            "fps": 29.97002997002997,
+            "duration": 23.023
+        },
+        "visible_frames_num": 12.0,
+        "visible_frames_fps": 0.5212179125222604
+    },
+    {
+        "quid": "4979527132_7",
+        "uid": "4979527132",
+        "qid": 7,
+        "q_type": "TC",
+        "question": "How do the people feel while doing the work?",
+        "optionA": "relaxed",
+        "optionB": "tired",
+        "optionC": "uncomfortable",
+        "optionD": "angry",
+        "optionE": "frustrated",
+        "options": [
+            "relaxed",
+            "tired",
+            "uncomfortable",
+            "angry",
+            "frustrated"
+        ],
+        "question_w_options": "How do the people feel while doing the work? Choose your answer from below options: A.relaxed, B.tired, C.uncomfortable, D.angry, E.frustrated.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1164/4979527132.mp4",
+        "answers": [
+            "Based on the image sequence, the people appear to be engaged in the task without visible signs of distress or frustration. Their body language and interaction suggest they are focused and cooperative, which aligns more with feeling **relaxed**. Therefore, the answer is:\n\n**A. relaxed**",
+            "Based on the frame information provided, the people in the video, a woman and a young boy, appear to feel happy, engaged, and enjoy their time together while preparing food. Therefore, the best answer from the options given is:\n\nA. relaxed.",
+            "A.relaxed"
+        ],
+        "video_info": {
+            "total_frames": 773,
+            "fps": 25.0,
+            "duration": 30.92
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.517464424320828
+    },
+    {
+        "quid": "5953341392_4",
+        "uid": "5953341392",
+        "qid": 4,
+        "q_type": "TC",
+        "question": "How did the baby react to the lady shaking her head at the end?",
+        "optionA": "put face close to the lady",
+        "optionB": "smile",
+        "optionC": "shakes her head",
+        "optionD": "wobbles",
+        "optionE": "hold hands out around the lady",
+        "options": [
+            "put face close to the lady",
+            "smile",
+            "shakes her head",
+            "wobbles",
+            "hold hands out around the lady"
+        ],
+        "question_w_options": "How did the baby react to the lady shaking her head at the end? Choose your answer from below options: A.put face close to the lady, B.smile, C.shakes her head, D.wobbles, E.hold hands out around the lady.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1165/5953341392.mp4",
+        "answers": [
+            "Based on the image sequence, the baby reacted by C. shaking her head.",
+            "The best answer based on the frame information is: **B. smile**. \n\nThe majority of the responses indicate that the baby reacted by smiling and laughing, showing enjoyment and engagement with the lady's actions.",
+            "B.smile"
+        ],
+        "video_info": {
+            "total_frames": 1624,
+            "fps": 24.0,
+            "duration": 67.66666666666667
+        },
+        "visible_frames_num": 40.0,
+        "visible_frames_fps": 0.5911330049261083
+    },
+    {
+        "quid": "3384417792_8",
+        "uid": "3384417792",
+        "qid": 8,
+        "q_type": "CH",
+        "question": "How is the cereal made attractable towards kids?",
+        "optionA": "flower-shaped",
+        "optionB": "by making it colourful",
+        "optionC": "alphabet-shaped",
+        "optionD": "number-shaped",
+        "optionE": "comes with free toys",
+        "options": [
+            "flower-shaped",
+            "by making it colourful",
+            "alphabet-shaped",
+            "number-shaped",
+            "comes with free toys"
+        ],
+        "question_w_options": "How is the cereal made attractable towards kids? Choose your answer from below options: A.flower-shaped, B.by making it colourful, C.alphabet-shaped, D.number-shaped, E.comes with free toys.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1026/3384417792.mp4",
+        "answers": [
+            "Based on the image sequence, the cereal is made attractable towards kids by making it colourful. The cereal pieces are in various bright colors, which can be appealing to children.",
+            "B. by making it colourful",
+            "B.by making it colourful"
+        ],
+        "video_info": {
+            "total_frames": 2457,
+            "fps": 29.97002997002997,
+            "duration": 81.9819
+        },
+        "visible_frames_num": 42.0,
+        "visible_frames_fps": 0.512308204615897
+    },
+    {
+        "quid": "4181802718_8",
+        "uid": "4181802718",
+        "qid": 8,
+        "q_type": "CW",
+        "question": "Why do the two women standing in front of the mirror stretch their arms out sometimes?",
+        "optionA": "warm their hand",
+        "optionB": "check lady in white s reflection",
+        "optionC": "throw the airplane",
+        "optionD": "adjust their clothes",
+        "optionE": "slap the lady in blue s butt",
+        "options": [
+            "warm their hand",
+            "check lady in white s reflection",
+            "throw the airplane",
+            "adjust their clothes",
+            "slap the lady in blue s butt"
+        ],
+        "question_w_options": "Why do the two women standing in front of the mirror stretch their arms out sometimes? Choose your answer from below options: A.warm their hand, B.check lady in white s reflection, C.throw the airplane, D.adjust their clothes, E.slap the lady in blue s butt.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1011/4181802718.mp4",
+        "answers": [
+            "Based on the image sequence, the two women appear to be adjusting clothing or checking the fit of the outfit in front of the mirror. Therefore, the most likely answer is D. adjust their clothes.",
+            "The best answer to the question \"Why do the two women standing in front of the mirror stretch their arms out sometimes?\" based on the frame information provided is: **D. adjust their clothes.**",
+            "D.adjust their clothes"
+        ],
+        "video_info": {
+            "total_frames": 2520,
+            "fps": 29.97002997002997,
+            "duration": 84.084
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.03567860710717853
+    },
+    {
+        "quid": "5550305641_5",
+        "uid": "5550305641",
+        "qid": 5,
+        "q_type": "CH",
+        "question": "How did the boy move his tricycle?",
+        "optionA": "use sticks to hit it",
+        "optionB": "pedal",
+        "optionC": "pull by car",
+        "optionD": "carry with hands",
+        "optionE": "push by man in red",
+        "options": [
+            "use sticks to hit it",
+            "pedal",
+            "pull by car",
+            "carry with hands",
+            "push by man in red"
+        ],
+        "question_w_options": "How did the boy move his tricycle? Choose your answer from below options: A.use sticks to hit it, B.pedal, C.pull by car, D.carry with hands, E.push by man in red.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0090/5550305641.mp4",
+        "answers": [
+            "Based on the image sequence, the boy is using the pedals to move his tricycle. The images show him sitting on the tricycle and his feet appear to be on the pedals, indicating that he is pedaling. So, the answer is B. pedal.",
+            "Based on the frame information provided, the boy moved his tricycle primarily by pushing it with his foot or hands while sitting on it or riding it. Therefore, the best answer from the options given is:\n\n**B. pedal** \n\n(Note: While \"pedal\" is not explicitly mentioned in the frame information, it is the most relevant option considering the context of moving a tricycle. The other options do not align with the described actions.)",
+            "B.pedal,"
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 46.0,
+        "visible_frames_fps": 0.5111684755733699
+    },
+    {
+        "quid": "3524009829_4",
+        "uid": "3524009829",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "Why did the boy point at the camera before moving out of screen?",
+        "optionA": "push camera away",
+        "optionB": "direct lady beside",
+        "optionC": "stop the camera",
+        "optionD": "direct the cameraman",
+        "optionE": "signal man behind",
+        "options": [
+            "push camera away",
+            "direct lady beside",
+            "stop the camera",
+            "direct the cameraman",
+            "signal man behind"
+        ],
+        "question_w_options": "Why did the boy point at the camera before moving out of screen? Choose your answer from below options: A.push camera away, B.direct lady beside, C.stop the camera, D.direct the cameraman, E.signal man behind.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1010/3524009829.mp4",
+        "answers": [
+            "Based on the image sequence, it seems the boy pointed at the camera to **D. direct the cameraman**. In frame 9, he is moving out of the screen, which suggests he might be indicating to the cameraman to adjust the focus or angle.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why did the boy point at the camera before moving out of screen?\" is:\n\n**D. direct the cameraman.**\n\nThis option aligns with the context of the boy's action, which is to draw attention to himself and the girl, likely indicating that they want to be the focus of the photograph or video being taken.",
+            "B.direct lady beside,"
+        ],
+        "video_info": {
+            "total_frames": 1198,
+            "fps": 29.97002997002997,
+            "duration": 39.97326666666667
+        },
+        "visible_frames_num": 15.0,
+        "visible_frames_fps": 0.37525079261306304
+    },
+    {
+        "quid": "5188348585_0",
+        "uid": "5188348585",
+        "qid": 0,
+        "q_type": "TP",
+        "question": "What did the person do before pouring the liquor?",
+        "optionA": "buying drink",
+        "optionB": "shake the bottle",
+        "optionC": "feeding dogs",
+        "optionD": "touch baby",
+        "optionE": "take own cup",
+        "options": [
+            "buying drink",
+            "shake the bottle",
+            "feeding dogs",
+            "touch baby",
+            "take own cup"
+        ],
+        "question_w_options": "What did the person do before pouring the liquor? Choose your answer from below options: A.buying drink, B.shake the bottle, C.feeding dogs, D.touch baby, E.take own cup.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1010/5188348585.mp4",
+        "answers": [
+            "Based on the image sequence, the person took their own cup before pouring the liquor. The action is visible in frames 8 and 9. Therefore, the answer is E. take own cup.",
+            "Based on the frame information provided, the person did not engage in any of the activities listed in the options (A. buying drink, B. shake the bottle, C. feeding dogs, D. touch baby, E. take own cup) before pouring the liquor. The actions described in the frames primarily involve removing the cork from the bottle, filling a glass with water, or removing the bottle from a storage location. Therefore, none of the options are applicable based on the information given.",
+            "B.shake the bottle"
+        ],
+        "video_info": {
+            "total_frames": 1453,
+            "fps": 29.97002997002997,
+            "duration": 48.481766666666665
+        },
+        "visible_frames_num": 29.0,
+        "visible_frames_fps": 0.5981630207370056
+    },
+    {
+        "quid": "4097448142_4",
+        "uid": "4097448142",
+        "qid": 4,
+        "q_type": "CH",
+        "question": "How does the man move his arms?",
+        "optionA": "dribble the ball",
+        "optionB": "swing to the left",
+        "optionC": "keep close to his body",
+        "optionD": "touch his feet",
+        "optionE": "push forward",
+        "options": [
+            "dribble the ball",
+            "swing to the left",
+            "keep close to his body",
+            "touch his feet",
+            "push forward"
+        ],
+        "question_w_options": "How does the man move his arms? Choose your answer from below options: A.dribble the ball, B.swing to the left, C.keep close to his body, D.touch his feet, E.push forward.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1021/4097448142.mp4",
+        "answers": [
+            "Based on the image sequence, the man appears to swing his arms to the left. So the answer is B: swing to the left.",
+            "Based on the frame information provided, the best answer to the question \"How does the man move his arms?\" is **B. swing to the left**. This is inferred from the description of the man swinging his arms while holding a child and the playful movements described in the other frames.",
+            "B.swing to the left"
+        ],
+        "video_info": {
+            "total_frames": 2158,
+            "fps": 23.976023976023978,
+            "duration": 90.00658333333332
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.03333089524007041
+    },
+    {
+        "quid": "8690893018_3",
+        "uid": "8690893018",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "Why are the ducks eating the pieces of bread?",
+        "optionA": "drink",
+        "optionB": "ladle food",
+        "optionC": "to pour out liquid",
+        "optionD": "hungry",
+        "optionE": "eating halfway",
+        "options": [
+            "drink",
+            "ladle food",
+            "to pour out liquid",
+            "hungry",
+            "eating halfway"
+        ],
+        "question_w_options": "Why are the ducks eating the pieces of bread? Choose your answer from below options: A.drink, B.ladle food, C.to pour out liquid, D.hungry, E.eating halfway.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1001/8690893018.mp4",
+        "answers": [
+            "Based on the image sequence, the ducks are eating the pieces of bread likely because they are hungry. Therefore, the correct answer is D. hungry.",
+            "The best answer from the provided options is D. hungry.",
+            "D.hungry"
+        ],
+        "video_info": {
+            "total_frames": 615,
+            "fps": 29.97002997002997,
+            "duration": 20.520500000000002
+        },
+        "visible_frames_num": 11.0,
+        "visible_frames_fps": 0.5360493165371214
+    },
+    {
+        "quid": "11277683376_2",
+        "uid": "11277683376",
+        "qid": 2,
+        "q_type": "TP",
+        "question": "What did the boys do before they fell to the ground?",
+        "optionA": "return back to the jumping point",
+        "optionB": "stay on the ground",
+        "optionC": "nothing",
+        "optionD": "showing their flages",
+        "optionE": "stand up",
+        "options": [
+            "return back to the jumping point",
+            "stay on the ground",
+            "nothing",
+            "showing their flages",
+            "stand up"
+        ],
+        "question_w_options": "What did the boys do before they fell to the ground? Choose your answer from below options: A.return back to the jumping point, B.stay on the ground, C.nothing, D.showing their flages, E.stand up.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1155/11277683376.mp4",
+        "answers": [
+            "Based on the image sequence, the boys appear to **stand up** before they fell to the ground. The correct answer is **E. stand up**.",
+            "Based on the frame information provided, the boys were standing in front of a poster or bulletin board and possibly discussing or admiring it before they fell to the ground. Therefore, the most appropriate answer from the options given is:\n\nE. stand up.",
+            "E.stand up."
+        ],
+        "video_info": {
+            "total_frames": 531,
+            "fps": 29.97002997002997,
+            "duration": 17.7177
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.1693222032205083
+    },
+    {
+        "quid": "3747186945_3",
+        "uid": "3747186945",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "Why does the girl smile at the end of the video?",
+        "optionA": "found something",
+        "optionB": "read something fuuny",
+        "optionC": "happy playing",
+        "optionD": "heard something funny",
+        "optionE": "play with toy",
+        "options": [
+            "found something",
+            "read something fuuny",
+            "happy playing",
+            "heard something funny",
+            "play with toy"
+        ],
+        "question_w_options": "Why does the girl smile at the end of the video? Choose your answer from below options: A.found something, B.read something fuuny, C.happy playing, D.heard something funny, E.play with toy.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0094/3747186945.mp4",
+        "answers": [
+            "Based on the image sequence, the girl smiles at the end of the video likely because she is happy playing, as indicated by the interaction and movement seen in the frames. Therefore, the best answer is C. happy playing.",
+            "Based on the frame information provided, the best answer to the question \"Why does the girl smile at the end of the video?\" is:\n\nC. happy playing\n\nThis option captures the essence of the girl's emotions as she is described as being happy and enjoying herself while playing, which aligns with the context of her smile.",
+            "D.heard something funny"
+        ],
+        "video_info": {
+            "total_frames": 1179,
+            "fps": 25.0,
+            "duration": 47.16
+        },
+        "visible_frames_num": 4.0,
+        "visible_frames_fps": 0.08481764206955048
+    },
+    {
+        "quid": "5396384503_4",
+        "uid": "5396384503",
+        "qid": 4,
+        "q_type": "DC",
+        "question": "How many ducks in total appear in the video?",
+        "optionA": "eight",
+        "optionB": "one",
+        "optionC": "two",
+        "optionD": "four",
+        "optionE": "six",
+        "options": [
+            "eight",
+            "one",
+            "two",
+            "four",
+            "six"
+        ],
+        "question_w_options": "How many ducks in total appear in the video? Choose your answer from below options: A.eight, B.one, C.two, D.four, E.six.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1017/5396384503.mp4",
+        "answers": [
+            "Based on the image sequence, there are two ducks visible in the frames. Therefore, the answer is C. two.",
+            "Based on the frame information provided, the answers vary across different frames. However, the most consistent answer appears to be \"two ducks,\" as this is mentioned in multiple frames (59, 118, 177, and 236). The answer \"three ducks\" is only mentioned in frames 0 and 295. \n\nGiven the options provided, the best choice based on the majority of the frame responses is:\n\nC. two",
+            "C.two"
+        ],
+        "video_info": {
+            "total_frames": 345,
+            "fps": 29.97002997002997,
+            "duration": 11.5115
+        },
+        "visible_frames_num": 6.0,
+        "visible_frames_fps": 0.5212179125222604
+    },
+    {
+        "quid": "3210170020_3",
+        "uid": "3210170020",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "Why did the lady in blue turn around and look at the boy as he swung the toy?",
+        "optionA": "they are watching over him",
+        "optionB": "oversee him",
+        "optionC": "check out the baby",
+        "optionD": "for her to play",
+        "optionE": "gesturing something",
+        "options": [
+            "they are watching over him",
+            "oversee him",
+            "check out the baby",
+            "for her to play",
+            "gesturing something"
+        ],
+        "question_w_options": "Why did the lady in blue turn around and look at the boy as he swung the toy? Choose your answer from below options: A.they are watching over him, B.oversee him, C.check out the baby, D.for her to play, E.gesturing something.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1120/3210170020.mp4",
+        "answers": [
+            "I can't determine the exact reason why the lady in blue turned around based on the images alone. However, it seems likely that she turned to watch over the boy as he swung the toy, so option A, \"they are watching over him,\" might be the most fitting choice.",
+            "Based on the frame information provided, the best answer to the question \"Why did the lady in blue turn around and look at the boy as he swung the toy?\" is:\n\nA. they are watching over him.\n\nThis option aligns with the context of the lady's actions, which suggest concern for the boy's safety and engagement with his play.",
+            "B.oversee him"
+        ],
+        "video_info": {
+            "total_frames": 1356,
+            "fps": 29.97002997002997,
+            "duration": 45.245200000000004
+        },
+        "visible_frames_num": 4.0,
+        "visible_frames_fps": 0.08840716805318574
+    },
+    {
+        "quid": "5161932294_7",
+        "uid": "5161932294",
+        "qid": 7,
+        "q_type": "TC",
+        "question": "What is the lady doing while the man is stirring?",
+        "optionA": "stir mixture in another bowl",
+        "optionB": "cleaning the table",
+        "optionC": "talking through microphone",
+        "optionD": "pouring liquid into bowl",
+        "optionE": "pointing to screen",
+        "options": [
+            "stir mixture in another bowl",
+            "cleaning the table",
+            "talking through microphone",
+            "pouring liquid into bowl",
+            "pointing to screen"
+        ],
+        "question_w_options": "What is the lady doing while the man is stirring? Choose your answer from below options: A.stir mixture in another bowl, B.cleaning the table, C.talking through microphone, D.pouring liquid into bowl, E.pointing to screen.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1015/5161932294.mp4",
+        "answers": [
+            "Based on the image sequence, the lady is stirring a mixture in another bowl while the man is stirring. So, the answer is A. stir mixture in another bowl.",
+            "Based on the frame information provided, the most accurate answer to the question \"What is the lady doing while the man is stirring?\" is:\n\n**D. pouring liquid into bowl.**\n\nThis is supported by multiple frames indicating that the lady is pouring something into a container while the man is stirring.",
+            "C.talking through microphone"
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 12.0,
+        "visible_frames_fps": 0.1333482979756617
+    },
+    {
+        "quid": "8212602454_1",
+        "uid": "8212602454",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "Why is there a boy in the bardboard box behind the terrain vehicle?",
+        "optionA": "reading a book",
+        "optionB": "to cover himself from being filmed",
+        "optionC": "to be pullled",
+        "optionD": "playing fetch with the dog",
+        "optionE": "trying to catch fishes",
+        "options": [
+            "reading a book",
+            "to cover himself from being filmed",
+            "to be pullled",
+            "playing fetch with the dog",
+            "trying to catch fishes"
+        ],
+        "question_w_options": "Why is there a boy in the bardboard box behind the terrain vehicle? Choose your answer from below options: A.reading a book, B.to cover himself from being filmed, C.to be pullled, D.playing fetch with the dog, E.trying to catch fishes.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1015/8212602454.mp4",
+        "answers": [
+            "Based on the image sequence, the boy in the cardboard box is likely there to be pulled (option C). The images show the box attached to the terrain vehicle, and the boy appears to be in a position consistent with being pulled along.",
+            "Based on the frame information provided, the most fitting answer to the question \"Why is there a boy in the cardboard box behind the terrain vehicle?\" is **C. to be pulled**. The context suggests that the boy is likely participating in a playful activity or game involving the terrain vehicle, which could involve being pulled in the box for fun.",
+            "C.to be pullled"
+        ],
+        "video_info": {
+            "total_frames": 825,
+            "fps": 23.976023976023978,
+            "duration": 34.409375
+        },
+        "visible_frames_num": 26.0,
+        "visible_frames_fps": 0.7556080283353012
+    },
+    {
+        "quid": "5359417762_2",
+        "uid": "5359417762",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why did the man with spectacles lean forward in the middle?",
+        "optionA": "someone pushed him",
+        "optionB": "to blow candles",
+        "optionC": "interact with baby",
+        "optionD": "recording",
+        "optionE": "look at picture frames",
+        "options": [
+            "someone pushed him",
+            "to blow candles",
+            "interact with baby",
+            "recording",
+            "look at picture frames"
+        ],
+        "question_w_options": "Why did the man with spectacles lean forward in the middle? Choose your answer from below options: A.someone pushed him, B.to blow candles, C.interact with baby, D.recording, E.look at picture frames.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1013/5359417762.mp4",
+        "answers": [
+            "The man with spectacles leaned forward in the middle to blow candles. This is evident from the sequence of images where he is positioned close to the cake with lit candles, suggesting he is preparing to blow them out.",
+            "The correct answer is: B. to blow candles.",
+            "B.to blow candles"
+        ],
+        "video_info": {
+            "total_frames": 614,
+            "fps": 29.97002997002997,
+            "duration": 20.487133333333333
+        },
+        "visible_frames_num": 22.0,
+        "visible_frames_fps": 1.0738447220531913
+    },
+    {
+        "quid": "6993049783_0",
+        "uid": "6993049783",
+        "qid": 0,
+        "q_type": "CW",
+        "question": "Why did the man at the start of the video walk on the grass?",
+        "optionA": "road is muddy",
+        "optionB": "engrossed in performance",
+        "optionC": "adjust his seat",
+        "optionD": "push the machine",
+        "optionE": "waiting for ball to be thrown",
+        "options": [
+            "road is muddy",
+            "engrossed in performance",
+            "adjust his seat",
+            "push the machine",
+            "waiting for ball to be thrown"
+        ],
+        "question_w_options": "Why did the man at the start of the video walk on the grass? Choose your answer from below options: A.road is muddy, B.engrossed in performance, C.adjust his seat, D.push the machine, E.waiting for ball to be thrown.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1202/6993049783.mp4",
+        "answers": [
+            "Based on the images, the most likely reason the man walked on the grass is A. road is muddy. The presence of water and the condition of the terrain suggest he might be avoiding the muddy road.",
+            "Based on the frame information provided, the best answer to the question \"Why did the man at the start of the video walk on the grass?\" is A. road is muddy. The reasoning is that the man likely walked on the grass to avoid the muddy area where the truck is parked, as indicated in the answers from both frames.",
+            "A.road is muddy,"
+        ],
+        "video_info": {
+            "total_frames": 1322,
+            "fps": 29.97002997002997,
+            "duration": 44.110733333333336
+        },
+        "visible_frames_num": 2.0,
+        "visible_frames_fps": 0.045340438683857745
+    },
+    {
+        "quid": "5564473671_3",
+        "uid": "5564473671",
+        "qid": 3,
+        "q_type": "DC",
+        "question": "How many people are shooting together?",
+        "optionA": "four",
+        "optionB": "one",
+        "optionC": "five",
+        "optionD": "three",
+        "optionE": "six",
+        "options": [
+            "four",
+            "one",
+            "five",
+            "three",
+            "six"
+        ],
+        "question_w_options": "How many people are shooting together? Choose your answer from below options: A.four, B.one, C.five, D.three, E.six.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0071/5564473671.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that two people are shooting together. Therefore, the correct answer is not listed among the options provided.",
+            "Based on the frame information provided, the majority of the frames consistently indicate that there are three people shooting together. The only exception is Frame 295, which states there are two people. However, since the overwhelming majority of frames confirm that there are three people, the best answer to the question is:\n\nD. three",
+            "A.four"
+        ],
+        "video_info": {
+            "total_frames": 1346,
+            "fps": 29.97002997002997,
+            "duration": 44.91153333333333
+        },
+        "visible_frames_num": 31.0,
+        "visible_frames_fps": 0.6902458611225327
+    },
+    {
+        "quid": "2486475553_2",
+        "uid": "2486475553",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why does man keep following the dog?",
+        "optionA": "to snatch the ball",
+        "optionB": "change his clothes",
+        "optionC": "ensure the dog s on right path",
+        "optionD": "change his attire",
+        "optionE": "wash him",
+        "options": [
+            "to snatch the ball",
+            "change his clothes",
+            "ensure the dog s on right path",
+            "change his attire",
+            "wash him"
+        ],
+        "question_w_options": "Why does man keep following the dog? Choose your answer from below options: A.to snatch the ball, B.change his clothes, C.ensure the dog s on right path, D.change his attire, E.wash him.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1013/2486475553.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that the man is following the dog through an obstacle course. This suggests that the man is ensuring the dog is on the right path. Therefore, the most appropriate answer is:\n\nC. ensure the dog is on right path.",
+            "The best answer is: **C. ensure the dog\u2019s on the right path.** \n\nThis option aligns with the context provided in the frame information, where the man is often described as guiding, controlling, or training the dog, ensuring its safety and proper behavior during various activities.",
+            "C.ensure the dog s on right path"
+        ],
+        "video_info": {
+            "total_frames": 1315,
+            "fps": 29.97002997002997,
+            "duration": 43.87716666666667
+        },
+        "visible_frames_num": 33.0,
+        "visible_frames_fps": 0.7520996114152008
+    },
+    {
+        "quid": "2574374895_3",
+        "uid": "2574374895",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "Why is the baby climbing on the floor in the middle of the video?",
+        "optionA": "lost balance",
+        "optionB": "more comfortable at crawling",
+        "optionC": "play with cup on the floor",
+        "optionD": "fell",
+        "optionE": "try to make toy work",
+        "options": [
+            "lost balance",
+            "more comfortable at crawling",
+            "play with cup on the floor",
+            "fell",
+            "try to make toy work"
+        ],
+        "question_w_options": "Why is the baby climbing on the floor in the middle of the video? Choose your answer from below options: A.lost balance, B.more comfortable at crawling, C.play with cup on the floor, D.fell, E.try to make toy work.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1101/2574374895.mp4",
+        "answers": [
+            "Based on the image sequence, the baby appears to be reaching for the cup on the floor, as seen in frame 4. Therefore, the most likely reason the baby is climbing on the floor is to play with the cup. The correct answer is C. play with cup on the floor.",
+            "Based on the frame information provided, the best answer to the question \"Why is the baby climbing on the floor in the middle of the video?\" is:\n\nC. play with cup on the floor. \n\nThis is supported by the information from Frame 289, which specifically mentions the baby interacting with a green cup on the floor.",
+            "C.play with cup on the floor"
+        ],
+        "video_info": {
+            "total_frames": 719,
+            "fps": 23.976023976023978,
+            "duration": 29.988291666666665
+        },
+        "visible_frames_num": 4.0,
+        "visible_frames_fps": 0.13338539068719876
+    },
+    {
+        "quid": "8787155053_8",
+        "uid": "8787155053",
+        "qid": 8,
+        "q_type": "CW",
+        "question": "Why is the adult s hands on the baby?",
+        "optionA": "playing with it",
+        "optionB": "hold for better support",
+        "optionC": "touch the man s face",
+        "optionD": "clean baby",
+        "optionE": "massage baby",
+        "options": [
+            "playing with it",
+            "hold for better support",
+            "touch the man s face",
+            "clean baby",
+            "massage baby"
+        ],
+        "question_w_options": "Why is the adult s hands on the baby? Choose your answer from below options: A.playing with it, B.hold for better support, C.touch the man s face, D.clean baby, E.massage baby.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/8787155053.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that the adult's hands are on the baby to provide a massage. The hands are moving along the baby's back and sides in a manner consistent with massaging. Therefore, the most appropriate answer is:\n\nE. massage baby.",
+            "Based on the frame information provided, the most appropriate answer is **B. hold for better support**. The adult's hands are primarily on the baby to provide comfort, support, and guidance, helping the baby feel secure and stable during various activities such as diaper changes, learning to stand, or simply providing reassurance.",
+            "E.massage baby."
+        ],
+        "video_info": {
+            "total_frames": 2815,
+            "fps": 29.97,
+            "duration": 93.92726059392726
+        },
+        "visible_frames_num": 144.0,
+        "visible_frames_fps": 1.5331012433392541
+    },
+    {
+        "quid": "4891298747_4",
+        "uid": "4891298747",
+        "qid": 4,
+        "q_type": "CH",
+        "question": "How do the ladies communicate to the girl that she is stirring it wrongly?",
+        "optionA": "look and nod",
+        "optionB": "show examples themselves",
+        "optionC": "use videos to demonstrate",
+        "optionD": "with drawings",
+        "optionE": "shake hands",
+        "options": [
+            "look and nod",
+            "show examples themselves",
+            "use videos to demonstrate",
+            "with drawings",
+            "shake hands"
+        ],
+        "question_w_options": "How do the ladies communicate to the girl that she is stirring it wrongly? Choose your answer from below options: A.look and nod, B.show examples themselves, C.use videos to demonstrate, D.with drawings, E.shake hands.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1203/4891298747.mp4",
+        "answers": [
+            "Based on the image sequence, the ladies communicate to the girl that she is stirring it wrongly by showing examples themselves. In the images, they are physically guiding her hands to demonstrate the correct stirring technique. Therefore, the correct answer is B. show examples themselves.",
+            "Based on the frame information provided, the best answer is: **B. show examples themselves.** The ladies are described as guiding the girl's hands and demonstrating the correct technique, which aligns with showing examples themselves.",
+            "B.show examples themselves"
+        ],
+        "video_info": {
+            "total_frames": 2269,
+            "fps": 29.97002997002997,
+            "duration": 75.70896666666667
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.03962542525786245
+    },
+    {
+        "quid": "3485555298_1",
+        "uid": "3485555298",
+        "qid": 1,
+        "q_type": "CH",
+        "question": "How did the lady move her legs?",
+        "optionA": "hop up and down",
+        "optionB": "crawl forward",
+        "optionC": "pedal forward",
+        "optionD": "roll forward",
+        "optionE": "run forward",
+        "options": [
+            "hop up and down",
+            "crawl forward",
+            "pedal forward",
+            "roll forward",
+            "run forward"
+        ],
+        "question_w_options": "How did the lady move her legs? Choose your answer from below options: A.hop up and down, B.crawl forward, C.pedal forward, D.roll forward, E.run forward.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1102/3485555298.mp4",
+        "answers": [
+            "Based on the image sequence, the lady is riding a bicycle. Her legs are moving in a pedaling motion to propel the bicycle forward. \n\nThe correct answer is: **C. pedal forward**.",
+            "Based on the frame information provided, the most accurate answer to the question \"How did the lady move her legs?\" is C. pedal forward. This is supported by multiple frames indicating that the lady was primarily pedaling her bicycle.",
+            "C.pedal forward"
+        ],
+        "video_info": {
+            "total_frames": 855,
+            "fps": 29.97002997002997,
+            "duration": 28.5285
+        },
+        "visible_frames_num": 15.0,
+        "visible_frames_fps": 0.52578999947421
+    },
+    {
+        "quid": "3621121750_8",
+        "uid": "3621121750",
+        "qid": 8,
+        "q_type": "CW",
+        "question": "Why does the man keep staring at the boy throughout the video?",
+        "optionA": "oversee",
+        "optionB": "watch video",
+        "optionC": "the person with socks walked past",
+        "optionD": "support baby",
+        "optionE": "wants to play with baby",
+        "options": [
+            "oversee",
+            "watch video",
+            "the person with socks walked past",
+            "support baby",
+            "wants to play with baby"
+        ],
+        "question_w_options": "Why does the man keep staring at the boy throughout the video? Choose your answer from below options: A.oversee, B.watch video, C.the person with socks walked past, D.support baby, E.wants to play with baby.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1027/3621121750.mp4",
+        "answers": [
+            "Based on the image sequence, the man appears to be consistently focused on the boy, who is sitting in a chair and interacting with a laptop or device. The man's attention seems to be directed towards overseeing the boy's activity, possibly ensuring that he is safe or guiding him in using the device. Therefore, the most fitting answer is: A. oversee.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why does the man keep staring at the boy throughout the video?\" is:\n\nA. oversee\n\nThis option aligns with the context of the man's attention being focused on the boy, likely to monitor his activities, ensure his safety, or provide guidance.",
+            "A.oversee,"
+        ],
+        "video_info": {
+            "total_frames": 1481,
+            "fps": 29.97002997002997,
+            "duration": 49.41603333333333
+        },
+        "visible_frames_num": 36.0,
+        "visible_frames_fps": 0.7285084935321262
+    },
+    {
+        "quid": "3932142423_1",
+        "uid": "3932142423",
+        "qid": 1,
+        "q_type": "TN",
+        "question": "What did the girl do after the man came out of the corner?",
+        "optionA": "a hen",
+        "optionB": "walks out",
+        "optionC": "looks forward",
+        "optionD": "change direction",
+        "optionE": "walk around girl in pink",
+        "options": [
+            "a hen",
+            "walks out",
+            "looks forward",
+            "change direction",
+            "walk around girl in pink"
+        ],
+        "question_w_options": "What did the girl do after the man came out of the corner? Choose your answer from below options: A.a hen, B.walks out, C.looks forward, D.change direction, E.walk around girl in pink.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1001/3932142423.mp4",
+        "answers": [
+            "B. walks out",
+            "Based on the frame information provided, none of the options (A, B, C, D, E) directly correspond to the actions described after the man came out of the corner. The actions mentioned include talking on the phone, playing with video game controllers, eating a donut, laughing, and going back to her desk. \n\nIf I had to choose the best option from the provided list, I would say that none of the options accurately reflect the girl's actions. However, if I must select one, I would choose **C. looks forward**, as it could be interpreted as a general action that might occur while she is engaged in other activities.",
+            "C.looks forward"
+        ],
+        "video_info": {
+            "total_frames": 2669,
+            "fps": 29.97002997002997,
+            "duration": 89.05563333333333
+        },
+        "visible_frames_num": 10.0,
+        "visible_frames_fps": 0.11228935919831387
+    },
+    {
+        "quid": "3312292397_6",
+        "uid": "3312292397",
+        "qid": 6,
+        "q_type": "TN",
+        "question": "What did the man do after the baby pointed towards a direction at the beginning of the video?",
+        "optionA": "horse backing",
+        "optionB": "his nose",
+        "optionC": "rub eyes",
+        "optionD": "look in that direction",
+        "optionE": "play with soil",
+        "options": [
+            "horse backing",
+            "his nose",
+            "rub eyes",
+            "look in that direction",
+            "play with soil"
+        ],
+        "question_w_options": "What did the man do after the baby pointed towards a direction at the beginning of the video? Choose your answer from below options: A.horse backing, B.his nose, C.rub eyes, D.look in that direction, E.play with soil.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1026/3312292397.mp4",
+        "answers": [
+            "Based on the image sequence, after the baby pointed towards a direction, the man **looked in that direction**. \n\nCorrect answer: **D. look in that direction**.",
+            "The correct answer is: D. look in that direction.",
+            "D.look in that direction"
+        ],
+        "video_info": {
+            "total_frames": 1857,
+            "fps": 29.97002997002997,
+            "duration": 61.9619
+        },
+        "visible_frames_num": 2.0,
+        "visible_frames_fps": 0.03227789980617121
+    },
+    {
+        "quid": "8245178837_7",
+        "uid": "8245178837",
+        "qid": 7,
+        "q_type": "CW",
+        "question": "Why did the baby grab the spoon after the lady fed him the second time?",
+        "optionA": "to stare at the food",
+        "optionB": "catch spills",
+        "optionC": "to lick it",
+        "optionD": "take more salad",
+        "optionE": "want to eat himself",
+        "options": [
+            "to stare at the food",
+            "catch spills",
+            "to lick it",
+            "take more salad",
+            "want to eat himself"
+        ],
+        "question_w_options": "Why did the baby grab the spoon after the lady fed him the second time? Choose your answer from below options: A.to stare at the food, B.catch spills, C.to lick it, D.take more salad, E.want to eat himself.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1162/8245178837.mp4",
+        "answers": [
+            "I can't determine the exact reason from the images alone, but a common reason a baby might grab a spoon after being fed is E: to want to eat himself. Babies often show interest in self-feeding as they develop motor skills and independence.",
+            "The best answer from the provided options is: **E. want to eat himself.** \n\nThis aligns with the reasoning that the baby grabbed the spoon because he was likely hungry and eager to continue eating, demonstrating a desire for self-feeding and independence.",
+            "E.want to eat himself."
+        ],
+        "video_info": {
+            "total_frames": 2661,
+            "fps": 29.97002997002997,
+            "duration": 88.7887
+        },
+        "visible_frames_num": 5.0,
+        "visible_frames_fps": 0.05631347232249148
+    },
+    {
+        "quid": "5219491835_7",
+        "uid": "5219491835",
+        "qid": 7,
+        "q_type": "DL",
+        "question": "Where is the baby rested?",
+        "optionA": "high chair",
+        "optionB": "sofa",
+        "optionC": "bathtub",
+        "optionD": "grassland",
+        "optionE": "baby trolley",
+        "options": [
+            "high chair",
+            "sofa",
+            "bathtub",
+            "grassland",
+            "baby trolley"
+        ],
+        "question_w_options": "Where is the baby rested? Choose your answer from below options: A.high chair, B.sofa, C.bathtub, D.grassland, E.baby trolley.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1155/5219491835.mp4",
+        "answers": [
+            "The baby is rested in a baby trolley.",
+            "Based on the frame information provided, the baby is most frequently mentioned as being rested in a car seat. The closest option to a car seat from the provided choices is E. baby trolley. Therefore, the best answer is:\n\nE. baby trolley.",
+            "E.baby trolley."
+        ],
+        "video_info": {
+            "total_frames": 705,
+            "fps": 29.97002997002997,
+            "duration": 23.523500000000002
+        },
+        "visible_frames_num": 12.0,
+        "visible_frames_fps": 0.5101281697026377
+    },
+    {
+        "quid": "7389955172_4",
+        "uid": "7389955172",
+        "qid": 4,
+        "q_type": "TN",
+        "question": "What did the baby do after he was fed the last time?",
+        "optionA": "bored",
+        "optionB": "tilt his head",
+        "optionC": "stop playing with balloon",
+        "optionD": "looks around",
+        "optionE": "open it again",
+        "options": [
+            "bored",
+            "tilt his head",
+            "stop playing with balloon",
+            "looks around",
+            "open it again"
+        ],
+        "question_w_options": "What did the baby do after he was fed the last time? Choose your answer from below options: A.bored, B.tilt his head, C.stop playing with balloon, D.looks around, E.open it again.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1006/7389955172.mp4",
+        "answers": [
+            "Based on the image sequence, after the baby was fed the last time, he appears to tilt his head. So the answer is B. tilt his head.",
+            "Based on the frame information provided, the baby engaged in various activities after being fed, such as playing with his food, spitting up, and being placed in a high chair. However, none of the options A (bored), B (tilt his head), C (stop playing with balloon), D (looks around), or E (open it again) directly match the actions described in the frames.\n\nIf I had to choose the best option based on the context, I would say none of the options accurately reflect the baby's actions after being fed. The closest behavior related to the options might be D (looks around), as it could be inferred that the baby might look around while playing or after being placed in the high chair, but this is not explicitly stated in the frame information. \n\nTherefore, the answer is not clearly represented in the options provided.",
+            "B.tilt his head"
+        ],
+        "video_info": {
+            "total_frames": 1773,
+            "fps": 29.97002997002997,
+            "duration": 59.1591
+        },
+        "visible_frames_num": 39.0,
+        "visible_frames_fps": 0.659239237919441
+    },
+    {
+        "quid": "4353169496_2",
+        "uid": "4353169496",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why did the lady in red move her arms?",
+        "optionA": "talking to someone on the grass",
+        "optionB": "waiting for the pan",
+        "optionC": "exercise",
+        "optionD": "catch a ball",
+        "optionE": "gesture while talking",
+        "options": [
+            "talking to someone on the grass",
+            "waiting for the pan",
+            "exercise",
+            "catch a ball",
+            "gesture while talking"
+        ],
+        "question_w_options": "Why did the lady in red move her arms? Choose your answer from below options: A.talking to someone on the grass, B.waiting for the pan, C.exercise, D.catch a ball, E.gesture while talking.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1162/4353169496.mp4",
+        "answers": [
+            "Based on the image sequence, the lady in red moved her arms likely for option E: gesture while talking. In frames 2 and 3, she appears to be engaged in conversation with the person next to her, and her arm movements suggest she is using gestures to emphasize or illustrate her points during the discussion.",
+            "Based on the frame information provided, the best answer to the question \"Why did the lady in red move her arms?\" is E. gesture while talking. This is supported by the answer from Frame 118, which indicates that she moved her arms while talking to another lady, possibly to emphasize her points or express her emotions during the conversation.",
+            "E.gesture while talking."
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.033337074493915424
+    },
+    {
+        "quid": "4039239344_2",
+        "uid": "4039239344",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why is the water covered in green substance?",
+        "optionA": "paint leak",
+        "optionB": "colouring dye",
+        "optionC": "algae",
+        "optionD": "the lady poured green paint",
+        "optionE": "glow in the dark",
+        "options": [
+            "paint leak",
+            "colouring dye",
+            "algae",
+            "the lady poured green paint",
+            "glow in the dark"
+        ],
+        "question_w_options": "Why is the water covered in green substance? Choose your answer from below options: A.paint leak, B.colouring dye, C.algae, D.the lady poured green paint, E.glow in the dark.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1203/4039239344.mp4",
+        "answers": [
+            "Based on the image sequence, the water is covered in a green substance that appears to be natural and consistent with the presence of algae. The ducks are swimming in the water, which suggests that the green substance is not harmful or unusual for them. Therefore, the most likely answer is C. algae.",
+            "The correct answer is C. algae.",
+            "C.algae"
+        ],
+        "video_info": {
+            "total_frames": 360,
+            "fps": 29.97002997002997,
+            "duration": 12.012
+        },
+        "visible_frames_num": 7.0,
+        "visible_frames_fps": 0.5827505827505828
+    },
+    {
+        "quid": "2639225467_7",
+        "uid": "2639225467",
+        "qid": 7,
+        "q_type": "CH",
+        "question": "How does the man in red use the whip?",
+        "optionA": "on the ground",
+        "optionB": "swing it around",
+        "optionC": "microphone",
+        "optionD": "throwing from one hand to another",
+        "optionE": "raise both his hands",
+        "options": [
+            "on the ground",
+            "swing it around",
+            "microphone",
+            "throwing from one hand to another",
+            "raise both his hands"
+        ],
+        "question_w_options": "How does the man in red use the whip? Choose your answer from below options: A.on the ground, B.swing it around, C.microphone, D.throwing from one hand to another, E.raise both his hands.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1011/2639225467.mp4",
+        "answers": [
+            "Based on the image sequence, the man in red appears to be swinging the whip around. The frames show a continuous motion that suggests swinging. So, the answer is B. swing it around.",
+            "Based on the frame information provided, the most appropriate answer to the question \"How does the man in red use the whip?\" is **B. swing it around**. The descriptions indicate that he is skillfully maneuvering the whip to guide and control the horse, which suggests swinging or using it in a dynamic manner.",
+            "B.swing it around"
+        ],
+        "video_info": {
+            "total_frames": 345,
+            "fps": 29.97002997002997,
+            "duration": 11.5115
+        },
+        "visible_frames_num": 12.0,
+        "visible_frames_fps": 1.0424358250445207
+    },
+    {
+        "quid": "3697296215_3",
+        "uid": "3697296215",
+        "qid": 3,
+        "q_type": "TC",
+        "question": "What are the two men holding while moving forward?",
+        "optionA": "bicycle",
+        "optionB": "children hand",
+        "optionC": "toy car",
+        "optionD": "baseball",
+        "optionE": "cup of water",
+        "options": [
+            "bicycle",
+            "children hand",
+            "toy car",
+            "baseball",
+            "cup of water"
+        ],
+        "question_w_options": "What are the two men holding while moving forward? Choose your answer from below options: A.bicycle, B.children hand, C.toy car, D.baseball, E.cup of water.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1016/3697296215.mp4",
+        "answers": [
+            "Based on the image sequence, the two men appear to be holding a toy car while moving forward. So the answer is C. toy car.",
+            "Based on the frame information provided, the two men are not holding any of the options listed (A. bicycle, B. children's hand, C. toy car, D. baseball, E. cup of water) while moving forward. The answers from the frames indicate they are holding various items such as skateboards, a box, a toy, a frisbee, a towel, a box of beer, a chair, and cigarettes. Therefore, none of the options are correct.",
+            "C.toy car"
+        ],
+        "video_info": {
+            "total_frames": 439,
+            "fps": 23.976023976023978,
+            "duration": 18.30995833333333
+        },
+        "visible_frames_num": 21.0,
+        "visible_frames_fps": 1.146916864456728
+    },
+    {
+        "quid": "7004238086_7",
+        "uid": "7004238086",
+        "qid": 7,
+        "q_type": "CW",
+        "question": "Why is the room so bright?",
+        "optionA": "light from nightstand",
+        "optionB": "sunny",
+        "optionC": "light turned on",
+        "optionD": "light from candle",
+        "optionE": "disco light shining on him",
+        "options": [
+            "light from nightstand",
+            "sunny",
+            "light turned on",
+            "light from candle",
+            "disco light shining on him"
+        ],
+        "question_w_options": "Why is the room so bright? Choose your answer from below options: A.light from nightstand, B.sunny, C.light turned on, D.light from candle, E.disco light shining on him.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1107/7004238086.mp4",
+        "answers": [
+            "Based on the image sequence, the room appears to be bright due to sunlight coming through the window. The images show a consistent bright light source from the direction of the window, which suggests that it is sunny outside. Therefore, the correct answer is B. sunny.",
+            "The correct answer is: **B. sunny**.",
+            "B.sunny"
+        ],
+        "video_info": {
+            "total_frames": 435,
+            "fps": 10.0,
+            "duration": 43.5
+        },
+        "visible_frames_num": 22.0,
+        "visible_frames_fps": 0.5057471264367817
+    },
+    {
+        "quid": "7161543663_3",
+        "uid": "7161543663",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "Why did the man in grey raise his hands while dancing to the music?",
+        "optionA": "he had a question",
+        "optionB": "dance to the music",
+        "optionC": "look sexy",
+        "optionD": "engrossed in music",
+        "optionE": "call for the waiter",
+        "options": [
+            "he had a question",
+            "dance to the music",
+            "look sexy",
+            "engrossed in music",
+            "call for the waiter"
+        ],
+        "question_w_options": "Why did the man in grey raise his hands while dancing to the music? Choose your answer from below options: A.he had a question, B.dance to the music, C.look sexy, D.engrossed in music, E.call for the waiter.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1013/7161543663.mp4",
+        "answers": [
+            "Based on the image sequence, it seems the man in grey raised his hands while dancing to the music. The most fitting answer is:\n\nB. dance to the music.",
+            "The best answer from the provided options is: **B. dance to the music**.",
+            "D.engrossed in music"
+        ],
+        "video_info": {
+            "total_frames": 974,
+            "fps": 29.97002997002997,
+            "duration": 32.49913333333333
+        },
+        "visible_frames_num": 35.0,
+        "visible_frames_fps": 1.0769517956376273
+    },
+    {
+        "quid": "6608631231_4",
+        "uid": "6608631231",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "Why did the person use a black cloth to carry the cover?",
+        "optionA": "cover the content ",
+        "optionB": "taking photos",
+        "optionC": "cover is hot",
+        "optionD": "perform magic tricks",
+        "optionE": "writing on the ground",
+        "options": [
+            "cover the content ",
+            "taking photos",
+            "cover is hot",
+            "perform magic tricks",
+            "writing on the ground"
+        ],
+        "question_w_options": "Why did the person use a black cloth to carry the cover? Choose your answer from below options: A.cover the content , B.taking photos, C.cover is hot, D.perform magic tricks, E.writing on the ground.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1025/6608631231.mp4",
+        "answers": [
+            "Based on the image sequence, the most likely reason the person used a black cloth to carry the cover is: **C. cover is hot**. The cloth is likely used to protect the person's hands from the heat.",
+            "The best answer to the question \"Why did the person use a black cloth to carry the cover?\" based on the provided frame information is: **C. cover is hot.** \n\nWhile the frame information does not explicitly mention the cover being hot, it implies that the black cloth serves a protective function, which aligns with the idea that the cover could be hot and the cloth provides a barrier for safety.",
+            "C.cover is hot,"
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.033337074493915424
+    },
+    {
+        "quid": "4914358389_0",
+        "uid": "4914358389",
+        "qid": 0,
+        "q_type": "TN",
+        "question": "What did dog do after he looked into the camera at the beginning of the video?",
+        "optionA": "climb up the chair",
+        "optionB": "go back",
+        "optionC": "roll over and bark",
+        "optionD": "run away from camera man",
+        "optionE": "fetch item",
+        "options": [
+            "climb up the chair",
+            "go back",
+            "roll over and bark",
+            "run away from camera man",
+            "fetch item"
+        ],
+        "question_w_options": "What did dog do after he looked into the camera at the beginning of the video? Choose your answer from below options: A.climb up the chair, B.go back, C.roll over and bark, D.run away from camera man, E.fetch item.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1006/4914358389.mp4",
+        "answers": [
+            "The dog fetched an item.",
+            "Based on the frame information provided, the dog exhibited various behaviors after looking into the camera, including walking away, playing with a frisbee, and playing with a tennis ball. The most relevant option from the choices given is:\n\n**D. run away from camera man.**\n\nThis is supported by multiple frames indicating that the dog started to walk or run away from the camera after looking into it.",
+            "D.run away from camera man,"
+        ],
+        "video_info": {
+            "total_frames": 1348,
+            "fps": 29.97002997002997,
+            "duration": 44.97826666666667
+        },
+        "visible_frames_num": 49.0,
+        "visible_frames_fps": 1.089415036002573
+    },
+    {
+        "quid": "4892549531_2",
+        "uid": "4892549531",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why did the girl in pink hug the guy from the back when he turned around?",
+        "optionA": "pat him",
+        "optionB": "button his shirt",
+        "optionC": "she wants her drink",
+        "optionD": "help stand up",
+        "optionE": "afraid",
+        "options": [
+            "pat him",
+            "button his shirt",
+            "she wants her drink",
+            "help stand up",
+            "afraid"
+        ],
+        "question_w_options": "Why did the girl in pink hug the guy from the back when he turned around? Choose your answer from below options: A.pat him, B.button his shirt, C.she wants her drink, D.help stand up, E.afraid.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1025/4892549531.mp4",
+        "answers": [
+            "Based on the image sequence, it seems the girl in pink hugged the guy from the back because she wants her drink. In frames 4 to 7, the guy is holding a drink, and the girl appears to be focused on it. This suggests option C: she wants her drink.",
+            "Based on the frame information provided, the most fitting answer to the question \"Why did the girl in pink hug the guy from the back when he turned around?\" is not explicitly listed among the options A, B, C, D, or E. However, the context suggests that the hug is likely a playful or affectionate gesture, possibly related to a performance or celebration.\n\nIf I must choose from the given options, none of them directly align with the context of the hug as described in the frames. However, if I had to select the most plausible option, I would lean towards **D. help stand up**, as it could imply a supportive gesture, although it does not fully capture the celebratory or playful nature of the hug described in the frame information.",
+            "A.pat him,"
+        ],
+        "video_info": {
+            "total_frames": 1767,
+            "fps": 29.97002997002997,
+            "duration": 58.9589
+        },
+        "visible_frames_num": 61.0,
+        "visible_frames_fps": 1.0346190312234456
+    },
+    {
+        "quid": "4460322604_7",
+        "uid": "4460322604",
+        "qid": 7,
+        "q_type": "DL",
+        "question": "Where are the people hanging out?",
+        "optionA": "zoo",
+        "optionB": "swimming pool",
+        "optionC": "playground",
+        "optionD": "auditorium",
+        "optionE": "living room",
+        "options": [
+            "zoo",
+            "swimming pool",
+            "playground",
+            "auditorium",
+            "living room"
+        ],
+        "question_w_options": "Where are the people hanging out? Choose your answer from below options: A.zoo, B.swimming pool, C.playground, D.auditorium, E.living room.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1162/4460322604.mp4",
+        "answers": [
+            "Based on the image sequence, the people appear to be in a **living room**. The background shows a green wall, electrical outlets, and furniture like chairs, which are typical of a home setting.",
+            "Based on the frame information provided, the majority of the answers indicate that the people are hanging out in a living room. Therefore, the correct answer is:\n\nE. living room.",
+            "E.living room."
+        ],
+        "video_info": {
+            "total_frames": 1907,
+            "fps": 29.97002997002997,
+            "duration": 63.63023333333334
+        },
+        "visible_frames_num": 33.0,
+        "visible_frames_fps": 0.5186213890985784
+    },
+    {
+        "quid": "3575108079_8",
+        "uid": "3575108079",
+        "qid": 8,
+        "q_type": "TC",
+        "question": "What did the lady in white do when she was laughing?",
+        "optionA": "pullups",
+        "optionB": "use tongue touch teeth",
+        "optionC": "touching baby s hand",
+        "optionD": "smiling",
+        "optionE": "touch man in black s arm",
+        "options": [
+            "pullups",
+            "use tongue touch teeth",
+            "touching baby s hand",
+            "smiling",
+            "touch man in black s arm"
+        ],
+        "question_w_options": "What did the lady in white do when she was laughing? Choose your answer from below options: A.pullups, B.use tongue touch teeth, C.touching baby s hand, D.smiling, E.touch man in black s arm.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1024/3575108079.mp4",
+        "answers": [
+            "C. touching baby's hand",
+            "Based on the frame information provided, the lady in white was primarily observed laughing while covering her mouth, making funny faces, and smiling. The most relevant option from the choices given is:\n\n**D. smiling** \n\nThis is because multiple frames indicate that she was laughing and smiling during the video.",
+            "E.touch man in black s arm."
+        ],
+        "video_info": {
+            "total_frames": 1526,
+            "fps": 29.97002997002997,
+            "duration": 50.91753333333333
+        },
+        "visible_frames_num": 53.0,
+        "visible_frames_fps": 1.0408988128516308
+    },
+    {
+        "quid": "3557601110_9",
+        "uid": "3557601110",
+        "qid": 9,
+        "q_type": "DC",
+        "question": "How many people are there in the scene?",
+        "optionA": "six",
+        "optionB": "five",
+        "optionC": "two",
+        "optionD": "eleven",
+        "optionE": "four",
+        "options": [
+            "six",
+            "five",
+            "two",
+            "eleven",
+            "four"
+        ],
+        "question_w_options": "How many people are there in the scene? Choose your answer from below options: A.six, B.five, C.two, D.eleven, E.four.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1103/3557601110.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that there is one person in the scene, as the frames show a continuous sequence of a single person riding a bicycle. Therefore, the correct answer is C. two.",
+            "Based on the frame information provided, the number of people in the scene varies across different frames. However, the majority of the frames indicate either two or one person present. The highest consistent count is two people, with one frame indicating three people and several frames indicating one person. \n\nGiven the options:\nA. six\nB. five\nC. two\nD. eleven\nE. four\n\nThe best answer based on the majority of the frame information is **C. two**.",
+            "C.two"
+        ],
+        "video_info": {
+            "total_frames": 305,
+            "fps": 23.976023976023978,
+            "duration": 12.721041666666666
+        },
+        "visible_frames_num": 15.0,
+        "visible_frames_fps": 1.1791487201323267
+    },
+    {
+        "quid": "8686938112_4",
+        "uid": "8686938112",
+        "qid": 4,
+        "q_type": "CH",
+        "question": "How did the bikers controlled the directions of their bike?",
+        "optionA": "move his legs",
+        "optionB": "with a rope",
+        "optionC": "whistle",
+        "optionD": "pedal",
+        "optionE": "handle",
+        "options": [
+            "move his legs",
+            "with a rope",
+            "whistle",
+            "pedal",
+            "handle"
+        ],
+        "question_w_options": "How did the bikers controlled the directions of their bike? Choose your answer from below options: A.move his legs, B.with a rope, C.whistle, D.pedal, E.handle.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1001/8686938112.mp4",
+        "answers": [
+            "Based on the image sequence, the bikers controlled the direction of their bikes using **E. handle**. The handlebars are visible in the images, and they are used to steer the bike while navigating the turns on the track.",
+            "Based on the frame information provided, the best answer to the question \"How did the bikers control the directions of their bike?\" is **E. handle**. \n\nWhile the responses primarily describe the technique of leaning and shifting body weight, the control of the bike's direction is fundamentally linked to the use of the handlebars (or \"handle\") to steer.",
+            "E.handle."
+        ],
+        "video_info": {
+            "total_frames": 534,
+            "fps": 29.97002997002997,
+            "duration": 17.817800000000002
+        },
+        "visible_frames_num": 18.0,
+        "visible_frames_fps": 1.0102257293268528
+    },
+    {
+        "quid": "6447803681_11",
+        "uid": "6447803681",
+        "qid": 11,
+        "q_type": "DC",
+        "question": "How many people are involved in the video?",
+        "optionA": "five",
+        "optionB": "one",
+        "optionC": "two",
+        "optionD": "three",
+        "optionE": "six",
+        "options": [
+            "five",
+            "one",
+            "two",
+            "three",
+            "six"
+        ],
+        "question_w_options": "How many people are involved in the video? Choose your answer from below options: A.five, B.one, C.two, D.three, E.six.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1011/6447803681.mp4",
+        "answers": [
+            "Based on the image sequence, there are two people involved in the video. The first four frames show a person and a baby, while the remaining frames show a cat. So the answer is C. two.",
+            "Based on the frame information provided, the answers vary across different frames. However, the majority of the frames (0, 59, 118, and 177) indicate that there are two people involved in the video. Although later frames (236, 295, 354, and 413) suggest there are no people present, the earlier frames provide consistent information about the presence of two individuals.\n\nGiven this context, the best answer to the question \"How many people are involved in the video?\" is:\n\nC. two",
+            "C.two"
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 8.0,
+        "visible_frames_fps": 0.0888988653171078
+    },
+    {
+        "quid": "2569826147_2",
+        "uid": "2569826147",
+        "qid": 2,
+        "q_type": "TC",
+        "question": "How does the black cat look?",
+        "optionA": "excited",
+        "optionB": "relaxing",
+        "optionC": "tired",
+        "optionD": "lick",
+        "optionE": "walk forward",
+        "options": [
+            "excited",
+            "relaxing",
+            "tired",
+            "lick",
+            "walk forward"
+        ],
+        "question_w_options": "How does the black cat look? Choose your answer from below options: A.excited, B.relaxing, C.tired, D.lick, E.walk forward.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1014/2569826147.mp4",
+        "answers": [
+            "Based on the image sequence, the black cat appears to be **relaxing**. It is sitting calmly in all the frames without showing signs of excitement, tiredness, licking, or walking forward. \n\n**Answer: B. relaxing**",
+            "Based on the frame information provided, the black cat is described as looking \"very cute\" in most frames, with only one instance where it looks \"angry.\" The options given (A. excited, B. relaxing, C. tired, D. lick, E. walk forward) do not directly match the descriptions of the cat's appearance. However, since the cat is often described as \"very cute\" and is seen sitting or laying down next to a kitten, the best option that aligns with a calm demeanor would be:\n\nB. relaxing.",
+            "B.relaxing"
+        ],
+        "video_info": {
+            "total_frames": 396,
+            "fps": 25.0,
+            "duration": 15.84
+        },
+        "visible_frames_num": 17.0,
+        "visible_frames_fps": 1.0732323232323233
+    },
+    {
+        "quid": "6901974982_7",
+        "uid": "6901974982",
+        "qid": 7,
+        "q_type": "TN",
+        "question": "What did the boy do after he stood up?",
+        "optionA": "pointed at the sandals",
+        "optionB": "run to trampoline",
+        "optionC": "ride forward",
+        "optionD": "look back",
+        "optionE": "play with toy",
+        "options": [
+            "pointed at the sandals",
+            "run to trampoline",
+            "ride forward",
+            "look back",
+            "play with toy"
+        ],
+        "question_w_options": "What did the boy do after he stood up? Choose your answer from below options: A.pointed at the sandals, B.run to trampoline, C.ride forward, D.look back, E.play with toy.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1201/6901974982.mp4",
+        "answers": [
+            "Based on the image sequence, after the boy stood up, he **pointed at the sandals**. The action is visible in frame 2. \n\nCorrect answer: **A. pointed at the sandals**.",
+            "Based on the frame information provided, the most consistent answer regarding what the boy did after he stood up is E. play with toy. Multiple frames indicate that after standing up, the boy engaged in playing with various toys.",
+            "A.pointed at the sandals,"
+        ],
+        "video_info": {
+            "total_frames": 1826,
+            "fps": 29.97002997002997,
+            "duration": 60.927533333333336
+        },
+        "visible_frames_num": 64.0,
+        "visible_frames_fps": 1.050428213626461
+    },
+    {
+        "quid": "3386797396_5",
+        "uid": "3386797396",
+        "qid": 5,
+        "q_type": "CH",
+        "question": "How did the girl steer away from the goat after she was frightened by them?",
+        "optionA": "looking outside",
+        "optionB": "pull reins",
+        "optionC": "raise her hand",
+        "optionD": "bends to hold the towel",
+        "optionE": "step backwards",
+        "options": [
+            "looking outside",
+            "pull reins",
+            "raise her hand",
+            "bends to hold the towel",
+            "step backwards"
+        ],
+        "question_w_options": "How did the girl steer away from the goat after she was frightened by them? Choose your answer from below options: A.looking outside, B.pull reins, C.raise her hand, D.bends to hold the towel, E.step backwards.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/3386797396.mp4",
+        "answers": [
+            "Based on the image sequence, the girl appears to steer away from the goat by stepping backwards. In frame 6, she is seen moving away from the goat, and by frame 9, she has distanced herself further, indicating that she stepped backwards. Therefore, the correct answer is E. step backwards.",
+            "Based on the frame information provided, the best answer to the question \"How did the girl steer away from the goat after she was frightened by them?\" is **E. step backwards**. The descriptions indicate that the girl moved away from the goat to maintain a safe distance, which aligns with the action of stepping backwards.",
+            "E.step backwards."
+        ],
+        "video_info": {
+            "total_frames": 345,
+            "fps": 29.97002997002997,
+            "duration": 11.5115
+        },
+        "visible_frames_num": 13.0,
+        "visible_frames_fps": 1.129305477131564
+    },
+    {
+        "quid": "8201826598_0",
+        "uid": "8201826598",
+        "qid": 0,
+        "q_type": "CW",
+        "question": "Why is the boy seated near a table?",
+        "optionA": "eat",
+        "optionB": "doing work",
+        "optionC": "playing game",
+        "optionD": "reading book",
+        "optionE": "eating medicine",
+        "options": [
+            "eat",
+            "doing work",
+            "playing game",
+            "reading book",
+            "eating medicine"
+        ],
+        "question_w_options": "Why is the boy seated near a table? Choose your answer from below options: A.eat, B.doing work, C.playing game, D.reading book, E.eating medicine.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1002/8201826598.mp4",
+        "answers": [
+            "Based on the image sequence, it appears the boy is handling something small and bringing it to his mouth, which suggests he might be eating. Therefore, the most likely answer is:\n\nA. eat",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why is the boy seated near a table?\" is:\n\nA. eat\n\nThis option is supported by multiple frames where the boy is described as eating snacks, food, or engaging in activities that involve eating while seated at the table.",
+            "A.eat"
+        ],
+        "video_info": {
+            "total_frames": 2138,
+            "fps": 29.97002997002997,
+            "duration": 71.33793333333334
+        },
+        "visible_frames_num": 37.0,
+        "visible_frames_fps": 0.5186581426057572
+    },
+    {
+        "quid": "3759139293_2",
+        "uid": "3759139293",
+        "qid": 2,
+        "q_type": "TN",
+        "question": "How does the baby feel about the food after tasting it?",
+        "optionA": "man feed",
+        "optionB": "excited",
+        "optionC": "happy",
+        "optionD": "terrible",
+        "optionE": "wants more",
+        "options": [
+            "man feed",
+            "excited",
+            "happy",
+            "terrible",
+            "wants more"
+        ],
+        "question_w_options": "How does the baby feel about the food after tasting it? Choose your answer from below options: A.man feed, B.excited, C.happy, D.terrible, E.wants more.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1010/3759139293.mp4",
+        "answers": [
+            "Based on the image sequence, the baby appears to feel terrible about the food after tasting it.",
+            "Based on the frame information provided, the baby's feelings about the food after tasting it vary throughout the frames. However, the majority of the frames indicate that the baby appears to be unhappy or displeased with the food, suggesting a negative reaction. \n\nGiven the options:\nA. man feed\nB. excited\nC. happy\nD. terrible\nE. wants more\n\nThe best choice that aligns with the baby's predominant reaction in the frames is **D. terrible**, as many frames describe the baby making faces of displeasure or unhappiness after tasting the food.",
+            "E.wants more."
+        ],
+        "video_info": {
+            "total_frames": 416,
+            "fps": 23.976023976023978,
+            "duration": 17.350666666666665
+        },
+        "visible_frames_num": 15.0,
+        "visible_frames_fps": 0.8645200952893262
+    },
+    {
+        "quid": "5706585620_0",
+        "uid": "5706585620",
+        "qid": 0,
+        "q_type": "CH",
+        "question": "How do the riders keep their feet dry while going through the water pool?",
+        "optionA": "float",
+        "optionB": "ride on boats",
+        "optionC": "ride horse",
+        "optionD": "moving their legs",
+        "optionE": "walk on their hands",
+        "options": [
+            "float",
+            "ride on boats",
+            "ride horse",
+            "moving their legs",
+            "walk on their hands"
+        ],
+        "question_w_options": "How do the riders keep their feet dry while going through the water pool? Choose your answer from below options: A.float, B.ride on boats, C.ride horse, D.moving their legs, E.walk on their hands.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0089/5706585620.mp4",
+        "answers": [
+            "The riders keep their feet dry while going through the water pool by riding horses. So, the correct answer is C. ride horse.",
+            "The correct answer is C. ride horse. The riders keep their feet dry while going through the water pool by riding horses, which allows them to navigate through the water without getting their feet wet.",
+            "D.moving their legs"
+        ],
+        "video_info": {
+            "total_frames": 1093,
+            "fps": 29.97002997002997,
+            "duration": 36.469766666666665
+        },
+        "visible_frames_num": 23.0,
+        "visible_frames_fps": 0.6306593680793132
+    },
+    {
+        "quid": "3655493767_8",
+        "uid": "3655493767",
+        "qid": 8,
+        "q_type": "TN",
+        "question": "What did player number 2 touch after touching his nose?",
+        "optionA": "open his palm",
+        "optionB": "open its mouth",
+        "optionC": "pick up toys",
+        "optionD": "rub his right hans",
+        "optionE": "his leg",
+        "options": [
+            "open his palm",
+            "open its mouth",
+            "pick up toys",
+            "rub his right hans",
+            "his leg"
+        ],
+        "question_w_options": "What did player number 2 touch after touching his nose? Choose your answer from below options: A.open his palm, B.open its mouth, C.pick up toys, D.rub his right hans, E.his leg.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0086/3655493767.mp4",
+        "answers": [
+            "Based on the image sequence, after touching his nose, player number 2 appears to rub his right hand. So the answer is D. rub his right hand.",
+            "Based on the frame information provided, player number 2 touched various objects after touching his nose, including his glove, the ground, a baseball, and a hat. However, none of the options provided (A. open his palm, B. open its mouth, C. pick up toys, D. rub his right hand, E. his leg) match the actions described in the frames.\n\nTherefore, the answer to the question \"What did player number 2 touch after touching his nose?\" cannot be determined from the given options.",
+            "D.rub his right hans."
+        ],
+        "video_info": {
+            "total_frames": 615,
+            "fps": 29.97002997002997,
+            "duration": 20.520500000000002
+        },
+        "visible_frames_num": 17.0,
+        "visible_frames_fps": 0.8284398528300967
+    },
+    {
+        "quid": "3098102850_1",
+        "uid": "3098102850",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "Why does one of the cats walk away in the middle of the video?",
+        "optionA": "feels scared",
+        "optionB": "already full",
+        "optionC": "waiting for owner",
+        "optionD": "play together",
+        "optionE": "attracted towards the bubble",
+        "options": [
+            "feels scared",
+            "already full",
+            "waiting for owner",
+            "play together",
+            "attracted towards the bubble"
+        ],
+        "question_w_options": "Why does one of the cats walk away in the middle of the video? Choose your answer from below options: A.feels scared, B.already full, C.waiting for owner, D.play together, E.attracted towards the bubble.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1001/3098102850.mp4",
+        "answers": [
+            "Based on the image sequence, the black-and-white cat appears to walk away in frame 5. Observing the behavior in the preceding frames, it seems the cat was eating alongside the other cat but then stops and leaves. The most plausible answer is:\n\n**B. already full**\n\nThe black-and-white cat likely finishes eating and walks away, leaving the other cat to continue eating.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why does one of the cats walk away in the middle of the video?\" is **B. already full**. Several frames indicate that the cat may have finished eating or is not interested in the food, which aligns with the idea that it could be already full.",
+            "B.already full"
+        ],
+        "video_info": {
+            "total_frames": 681,
+            "fps": 29.97002997002997,
+            "duration": 22.7227
+        },
+        "visible_frames_num": 15.0,
+        "visible_frames_fps": 0.6601328187231271
+    },
+    {
+        "quid": "4489511133_6",
+        "uid": "4489511133",
+        "qid": 6,
+        "q_type": "CH",
+        "question": "How did the girl show affection to the phone?",
+        "optionA": "hug the phone",
+        "optionB": "take picture og toy bunny",
+        "optionC": "pat phone",
+        "optionD": "kiss the screen",
+        "optionE": "mouth moving",
+        "options": [
+            "hug the phone",
+            "take picture og toy bunny",
+            "pat phone",
+            "kiss the screen",
+            "mouth moving"
+        ],
+        "question_w_options": "How did the girl show affection to the phone? Choose your answer from below options: A.hug the phone, B.take picture og toy bunny, C.pat phone, D.kiss the screen, E.mouth moving.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1007/4489511133.mp4",
+        "answers": [
+            "Based on the image sequence, the girl is showing affection to the phone by D. kissing the screen.",
+            "Based on the frame information provided, the best answer to the question \"How did the girl show affection to the phone?\" is:\n\n**D. kiss the screen.**\n\nThis option aligns with multiple instances in the frame information where the girl is described as kissing the phone, demonstrating her affection for it.",
+            "D.kiss the screen"
+        ],
+        "video_info": {
+            "total_frames": 886,
+            "fps": 29.97002997002997,
+            "duration": 29.562866666666668
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.541219502844785
+    },
+    {
+        "quid": "3512311005_3",
+        "uid": "3512311005",
+        "qid": 3,
+        "q_type": "CH",
+        "question": "How is the man in beige playing his instrument?",
+        "optionA": "moving a stick",
+        "optionB": "speak to microphone",
+        "optionC": "computer",
+        "optionD": "blow at the side",
+        "optionE": "kick the drum",
+        "options": [
+            "moving a stick",
+            "speak to microphone",
+            "computer",
+            "blow at the side",
+            "kick the drum"
+        ],
+        "question_w_options": "How is the man in beige playing his instrument? Choose your answer from below options: A.moving a stick, B.speak to microphone, C.computer, D.blow at the side, E.kick the drum.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1007/3512311005.mp4",
+        "answers": [
+            "Based on the image sequence, the man in beige appears to be playing a string instrument, likely a cello or a similar instrument, by moving a stick, which is the bow. Therefore, the correct answer is A. moving a stick.",
+            "Based on the frame information provided, the man in beige is playing his instrument primarily by holding it in his lap while sitting on a chair or on the ground. None of the options provided (A. moving a stick, B. speak to microphone, C. computer, D. blow at the side, E. kick the drum) accurately describe how he is playing his instrument. \n\nIf I had to choose the closest option, it would be A. moving a stick, assuming that the instrument he is playing involves some form of stick movement (like a bow for a string instrument), but this is not explicitly stated in the frame information. However, the best answer based on the provided options is that none of them accurately reflect the situation.",
+            "A.moving a stick"
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 138.0,
+        "visible_frames_fps": 1.5335054267201096
+    },
+    {
+        "quid": "7530704768_6",
+        "uid": "7530704768",
+        "qid": 6,
+        "q_type": "CH",
+        "question": "How did the lady clean the baby at the beginning of the video?",
+        "optionA": "hold child s hands",
+        "optionB": "points finger towards the picture",
+        "optionC": "touch the baby s chest",
+        "optionD": "remove diapers",
+        "optionE": "clean his arms",
+        "options": [
+            "hold child s hands",
+            "points finger towards the picture",
+            "touch the baby s chest",
+            "remove diapers",
+            "clean his arms"
+        ],
+        "question_w_options": "How did the lady clean the baby at the beginning of the video? Choose your answer from below options: A.hold child s hands, B.points finger towards the picture, C.touch the baby s chest, D.remove diapers, E.clean his arms.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1017/7530704768.mp4",
+        "answers": [
+            "Based on the image sequence, the lady is cleaning the baby's arms. The correct answer is E. clean his arms.",
+            "Based on the frame information provided, the answer to the question \"How did the lady clean the baby at the beginning of the video?\" is not explicitly listed among the options. However, the consistent answer from the frames indicates that the lady was washing the baby in a bathtub. \n\nAmong the options provided, the most relevant action related to cleaning the baby would be:\n\nE. clean his arms.\n\nThis option aligns with the general activity of washing a baby, even though it does not fully encompass the entire action of washing the baby in a bathtub.",
+            "E.clean his arms."
+        ],
+        "video_info": {
+            "total_frames": 2525,
+            "fps": 29.97002997002997,
+            "duration": 84.25083333333333
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.035607956400035605
+    },
+    {
+        "quid": "3593365697_1",
+        "uid": "3593365697",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "Why does the man with denim jacket nods his head near the end?",
+        "optionA": "he was mimicking the dog",
+        "optionB": "someone hit his head from behind",
+        "optionC": "headache",
+        "optionD": "listening to music",
+        "optionE": "agree on something",
+        "options": [
+            "he was mimicking the dog",
+            "someone hit his head from behind",
+            "headache",
+            "listening to music",
+            "agree on something"
+        ],
+        "question_w_options": "Why does the man with denim jacket nods his head near the end? Choose your answer from below options: A.he was mimicking the dog, B.someone hit his head from behind, C.headache, D.listening to music, E.agree on something.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/3593365697.mp4",
+        "answers": [
+            "I can't determine the exact reason why the man nods his head based on the images alone. However, if I had to choose from the options provided, \"E. agree on something\" seems plausible, as nodding is often a gesture of agreement.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why does the man with denim jacket nod his head near the end?\" is:\n\n**E. agree on something.**\n\nThe responses consistently indicate that the man's nodding gesture is a form of non-verbal communication used to show agreement, understanding, or acknowledgment in a conversation or social interaction.",
+            "E.agree on something."
+        ],
+        "video_info": {
+            "total_frames": 312,
+            "fps": 20.0,
+            "duration": 15.6
+        },
+        "visible_frames_num": 17.0,
+        "visible_frames_fps": 1.0897435897435899
+    },
+    {
+        "quid": "8507883824_8",
+        "uid": "8507883824",
+        "qid": 8,
+        "q_type": "CH",
+        "question": "How does the man move the toy car around?",
+        "optionA": "paddle",
+        "optionB": "use legs",
+        "optionC": "turning the wheel",
+        "optionD": "remote control",
+        "optionE": "use their hands",
+        "options": [
+            "paddle",
+            "use legs",
+            "turning the wheel",
+            "remote control",
+            "use their hands"
+        ],
+        "question_w_options": "How does the man move the toy car around? Choose your answer from below options: A.paddle, B.use legs, C.turning the wheel, D.remote control, E.use their hands.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1130/8507883824.mp4",
+        "answers": [
+            "Based on the image sequence, the man moves the toy car around by turning the wheel. In several frames, the child is seen holding the steering wheel, which suggests that the car is being maneuvered by turning the wheel.",
+            "Based on the frame information provided, the man moves the toy car around using various methods, including pushing it with his hands and feet, as well as using a remote control. The most common methods mentioned are pushing it with his hands and feet.\n\nGiven the options:\nA. paddle\nB. use legs\nC. turning the wheel\nD. remote control\nE. use their hands\n\nThe best answer that encompasses the various methods mentioned would be:\n\n**B. use legs** (since he is often pushing it with his foot) and **E. use their hands** (since he also pushes it with his hands). \n\nHowever, if you must choose only one option, **E. use their hands** is the most frequently mentioned method.",
+            "C.turning the wheel"
+        ],
+        "video_info": {
+            "total_frames": 1517,
+            "fps": 29.97002997002997,
+            "duration": 50.61723333333333
+        },
+        "visible_frames_num": 70.0,
+        "visible_frames_fps": 1.382928212196505
+    },
+    {
+        "quid": "4421898163_2",
+        "uid": "4421898163",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why was the baby pushing the toy car?",
+        "optionA": "car was blocking",
+        "optionB": "hands need for support",
+        "optionC": "pick up the car",
+        "optionD": "to walk around",
+        "optionE": "playing with each other",
+        "options": [
+            "car was blocking",
+            "hands need for support",
+            "pick up the car",
+            "to walk around",
+            "playing with each other"
+        ],
+        "question_w_options": "Why was the baby pushing the toy car? Choose your answer from below options: A.car was blocking, B.hands need for support, C.pick up the car, D.to walk around, E.playing with each other.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1013/4421898163.mp4",
+        "answers": [
+            "Based on the image sequence, the baby appears to be using the toy car to walk around. The baby is consistently pushing the car forward, suggesting that it is being used as a support to aid in walking. Therefore, the most suitable answer is D. to walk around.",
+            "Based on the frame information provided, the best answer to the question \"Why was the baby pushing the toy car?\" is **D. to walk around**. The responses indicate that the baby was engaging with the toy car as part of play, which often involves moving around and exploring their environment.",
+            "D.to walk around,"
+        ],
+        "video_info": {
+            "total_frames": 757,
+            "fps": 29.97002997002997,
+            "duration": 25.258566666666667
+        },
+        "visible_frames_num": 17.0,
+        "visible_frames_fps": 0.6730389821539094
+    },
+    {
+        "quid": "5524185835_3",
+        "uid": "5524185835",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "Why does the lady in blue walk across the stage?",
+        "optionA": "let child give speech",
+        "optionB": "talking to lady in white",
+        "optionC": "take a microphone",
+        "optionD": "adjust her speakers",
+        "optionE": "to perform",
+        "options": [
+            "let child give speech",
+            "talking to lady in white",
+            "take a microphone",
+            "adjust her speakers",
+            "to perform"
+        ],
+        "question_w_options": "Why does the lady in blue walk across the stage? Choose your answer from below options: A.let child give speech, B.talking to lady in white, C.take a microphone, D.adjust her speakers, E.to perform.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1013/5524185835.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that the lady in blue walks across the stage to **let a child give a speech**. In the frames, she seems to be guiding or assisting a child towards the front of the stage.",
+            "Based on the frame information provided, the best answer to the question \"Why does the lady in blue walk across the stage?\" is:\n\n**E. to perform.**\n\nThe responses consistently indicate that the lady in blue is a performer or character in a theatrical or musical context, and her actions are part of a performance.",
+            "E.to perform."
+        ],
+        "video_info": {
+            "total_frames": 797,
+            "fps": 29.97002997002997,
+            "duration": 26.593233333333334
+        },
+        "visible_frames_num": 29.0,
+        "visible_frames_fps": 1.090502972560689
+    },
+    {
+        "quid": "10495085476_0",
+        "uid": "10495085476",
+        "qid": 0,
+        "q_type": "TC",
+        "question": "What is the adult doing to the child at the start of the video?",
+        "optionA": "feeding the child",
+        "optionB": "hitting the child",
+        "optionC": "passing something to the child",
+        "optionD": "spinning child",
+        "optionE": "playing in the walker",
+        "options": [
+            "feeding the child",
+            "hitting the child",
+            "passing something to the child",
+            "spinning child",
+            "playing in the walker"
+        ],
+        "question_w_options": "What is the adult doing to the child at the start of the video? Choose your answer from below options: A.feeding the child, B.hitting the child, C.passing something to the child, D.spinning child, E.playing in the walker.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1105/10495085476.mp4",
+        "answers": [
+            "Based on the image sequence, the adult appears to be spinning the child. The child is being held by the hands and lifted off the ground, which is consistent with spinning. Therefore, the answer is D. spinning child.",
+            "Based on the frame information provided, the adult is seen throwing a frisbee to the child at the start of the video. Therefore, the best answer from the options given is:\n\nC. passing something to the child.",
+            "D.spinning child,"
+        ],
+        "video_info": {
+            "total_frames": 918,
+            "fps": 29.97,
+            "duration": 30.63063063063063
+        },
+        "visible_frames_num": 7.0,
+        "visible_frames_fps": 0.2285294117647059
+    },
+    {
+        "quid": "2881352518_1",
+        "uid": "2881352518",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "Why did the lady taking her camera going from one cat to another in the video?",
+        "optionA": "looking at spoonn",
+        "optionB": "protection from sun",
+        "optionC": "adjust the camera",
+        "optionD": "asking the girl to pose",
+        "optionE": "recording them",
+        "options": [
+            "looking at spoonn",
+            "protection from sun",
+            "adjust the camera",
+            "asking the girl to pose",
+            "recording them"
+        ],
+        "question_w_options": "Why did the lady taking her camera going from one cat to another in the video? Choose your answer from below options: A.looking at spoonn, B.protection from sun, C.adjust the camera, D.asking the girl to pose, E.recording them.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0050/2881352518.mp4",
+        "answers": [
+            "Based on the image sequence, the lady appears to be moving her camera from one cat to another, likely to capture or document them. The most fitting answer is:\n\n**E. recording them.**",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why did the lady taking her camera going from one cat to another in the video?\" is:\n\n**E. recording them.**\n\nThis option aligns with the context of the lady wanting to capture moments or memories of her cats' interactions, as indicated in the answers from the sampled frames.",
+            "E.recording them."
+        ],
+        "video_info": {
+            "total_frames": 1999,
+            "fps": 29.97002997002997,
+            "duration": 66.69996666666667
+        },
+        "visible_frames_num": 5.0,
+        "visible_frames_fps": 0.07496255620317652
+    },
+    {
+        "quid": "3819750158_10",
+        "uid": "3819750158",
+        "qid": 10,
+        "q_type": "TN",
+        "question": "What does the boy do after he finishes playing with the dark blue car?",
+        "optionA": "play with xylophone",
+        "optionB": "jump up and down",
+        "optionC": "walked to front",
+        "optionD": "adjusting helmet",
+        "optionE": "play with wheel",
+        "options": [
+            "play with xylophone",
+            "jump up and down",
+            "walked to front",
+            "adjusting helmet",
+            "play with wheel"
+        ],
+        "question_w_options": "What does the boy do after he finishes playing with the dark blue car? Choose your answer from below options: A.play with xylophone, B.jump up and down, C.walked to front, D.adjusting helmet, E.play with wheel.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1107/3819750158.mp4",
+        "answers": [
+            "Based on the image sequence, after the boy finishes playing with the dark blue car, he appears to be pointing at something on the car, likely the license plate. This action corresponds to option C: walked to front.",
+            "Based on the frame information provided, the boy walks away after finishing playing with the dark blue car. Therefore, the best answer from the options given is:\n\nC. walked to front.",
+            "C.walked to front."
+        ],
+        "video_info": {
+            "total_frames": 1302,
+            "fps": 29.97002997002997,
+            "duration": 43.443400000000004
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.06905536859453909
+    },
+    {
+        "quid": "8617546237_9",
+        "uid": "8617546237",
+        "qid": 9,
+        "q_type": "TC",
+        "question": "How is the person in black positioned while singing?",
+        "optionA": "spinning around",
+        "optionB": "leaning against high table",
+        "optionC": "nodding her head",
+        "optionD": "shake his body and arms",
+        "optionE": "moving left and right",
+        "options": [
+            "spinning around",
+            "leaning against high table",
+            "nodding her head",
+            "shake his body and arms",
+            "moving left and right"
+        ],
+        "question_w_options": "How is the person in black positioned while singing? Choose your answer from below options: A.spinning around, B.leaning against high table, C.nodding her head, D.shake his body and arms, E.moving left and right.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/8617546237.mp4",
+        "answers": [
+            "Based on the image sequence, the person in black appears to be **leaning against a high table** while singing. The posture remains consistent across the frames, suggesting a stationary position.",
+            "Based on the frame information provided, the person in black is primarily described as sitting down or standing while singing. There are no indications of them spinning around, leaning against a high table, nodding their head, shaking their body and arms, or moving left and right. Therefore, none of the options A, B, C, D, or E accurately describe the positioning of the person in black while singing. \n\nIf I must choose from the given options, I would say that none of them apply based on the information provided.",
+            "B.leaning against high table"
+        ],
+        "video_info": {
+            "total_frames": 679,
+            "fps": 29.97002997002997,
+            "duration": 22.655966666666668
+        },
+        "visible_frames_num": 34.0,
+        "visible_frames_fps": 1.5007084226524579
+    },
+    {
+        "quid": "4650731570_1",
+        "uid": "4650731570",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "Why are there toys hanging around?",
+        "optionA": "for dog to play",
+        "optionB": "for baby to play",
+        "optionC": "for girl to play",
+        "optionD": "presents for christmas",
+        "optionE": "attract other children to play",
+        "options": [
+            "for dog to play",
+            "for baby to play",
+            "for girl to play",
+            "presents for christmas",
+            "attract other children to play"
+        ],
+        "question_w_options": "Why are there toys hanging around? Choose your answer from below options: A.for dog to play, B.for baby to play, C.for girl to play, D.presents for christmas, E.attract other children to play.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1160/4650731570.mp4",
+        "answers": [
+            "Based on the image sequence, the toys are hanging around for **B. for baby to play**. The images show a baby seated in a colorful activity center surrounded by toys designed to engage and entertain infants.",
+            "The correct answer is: **B. for baby to play.**",
+            "B.for baby to play"
+        ],
+        "video_info": {
+            "total_frames": 2025,
+            "fps": 29.97002997002997,
+            "duration": 67.5675
+        },
+        "visible_frames_num": 35.0,
+        "visible_frames_fps": 0.518000518000518
+    },
+    {
+        "quid": "4094248027_0",
+        "uid": "4094248027",
+        "qid": 0,
+        "q_type": "CW",
+        "question": "Why is the woman in black smiling at the start of the video?",
+        "optionA": "found something",
+        "optionB": "like the dog",
+        "optionC": "play with toy",
+        "optionD": "to baby",
+        "optionE": "posing for camera",
+        "options": [
+            "found something",
+            "like the dog",
+            "play with toy",
+            "to baby",
+            "posing for camera"
+        ],
+        "question_w_options": "Why is the woman in black smiling at the start of the video? Choose your answer from below options: A.found something, B.like the dog, C.play with toy, D.to baby, E.posing for camera.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1102/4094248027.mp4",
+        "answers": [
+            "Based on the image sequence, the woman in black is likely smiling at the start of the video because of option D: to baby. The images show interactions with a child, which suggests her smile is directed towards the baby.",
+            "Based on the frame information provided, the best answer to the question \"Why is the woman in black smiling at the start of the video?\" is **C. play with toy**. The context suggests that she is interacting with children and engaging in playful activities, which is a common reason for smiling in such a setting.",
+            "E.posing for camera."
+        ],
+        "video_info": {
+            "total_frames": 750,
+            "fps": 29.97002997002997,
+            "duration": 25.025000000000002
+        },
+        "visible_frames_num": 27.0,
+        "visible_frames_fps": 1.0789210789210788
+    },
+    {
+        "quid": "4740931975_6",
+        "uid": "4740931975",
+        "qid": 6,
+        "q_type": "TC",
+        "question": "What activity is the man doing in the video?",
+        "optionA": "playing around",
+        "optionB": "fishing",
+        "optionC": "cycling",
+        "optionD": "drinking",
+        "optionE": "crossing the road",
+        "options": [
+            "playing around",
+            "fishing",
+            "cycling",
+            "drinking",
+            "crossing the road"
+        ],
+        "question_w_options": "What activity is the man doing in the video? Choose your answer from below options: A.playing around, B.fishing, C.cycling, D.drinking, E.crossing the road.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1123/4740931975.mp4",
+        "answers": [
+            "Based on the image sequence, the man appears to be engaged in fishing. In the images, he is standing by a body of water, holding a fishing rod, and in frame 6, he is holding a fish. Therefore, the correct answer is B. fishing.",
+            "The correct answer is B. fishing.",
+            "B.fishing"
+        ],
+        "video_info": {
+            "total_frames": 960,
+            "fps": 29.97002997002997,
+            "duration": 32.032000000000004
+        },
+        "visible_frames_num": 17.0,
+        "visible_frames_fps": 0.5307192807192807
+    },
+    {
+        "quid": "4608963318_1",
+        "uid": "4608963318",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "Why is the lady standing behind the podium?",
+        "optionA": "speaker",
+        "optionB": "poster",
+        "optionC": "performance",
+        "optionD": "watch performance",
+        "optionE": "supervision",
+        "options": [
+            "speaker",
+            "poster",
+            "performance",
+            "watch performance",
+            "supervision"
+        ],
+        "question_w_options": "Why is the lady standing behind the podium? Choose your answer from below options: A.speaker, B.poster, C.performance, D.watch performance, E.supervision.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1006/4608963318.mp4",
+        "answers": [
+            "Based on the image sequence, the lady is standing behind the podium and appears to be addressing an audience. She is using a microphone and there is a presentation slide visible in the background. This suggests that she is giving a talk or presentation.\n\n**Answer: A. speaker**",
+            "A. speaker",
+            "A.speaker"
+        ],
+        "video_info": {
+            "total_frames": 2250,
+            "fps": 25.0,
+            "duration": 90.0
+        },
+        "visible_frames_num": 45.0,
+        "visible_frames_fps": 0.5
+    },
+    {
+        "quid": "3501167063_4",
+        "uid": "3501167063",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "Why did the baby sway his body before the man move the baby away?",
+        "optionA": "help baby",
+        "optionB": "fidgeting",
+        "optionC": "ensure safety",
+        "optionD": "interacting with baby",
+        "optionE": "try to balance the toy",
+        "options": [
+            "help baby",
+            "fidgeting",
+            "ensure safety",
+            "interacting with baby",
+            "try to balance the toy"
+        ],
+        "question_w_options": "Why did the baby sway his body before the man move the baby away? Choose your answer from below options: A.help baby, B.fidgeting, C.ensure safety, D.interacting with baby, E.try to balance the toy.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1099/3501167063.mp4",
+        "answers": [
+            "I can't determine the exact reason why the baby swayed his body based on the images alone. However, common reasons might include:\n\nB. Fidgeting - Babies often move around due to restlessness or curiosity. \n\nThis is a general guess, as the images don't provide enough context for a definitive answer.",
+            "Based on the frame information provided, the best answer to the question \"Why did the baby sway his body before the man moved the baby away?\" is **B. fidgeting**. The responses indicate that the baby was likely feeling uncomfortable or experiencing discomfort, which aligns with the idea of fidgeting as a way for the baby to express those feelings.",
+            "B.fidgeting"
+        ],
+        "video_info": {
+            "total_frames": 1434,
+            "fps": 23.976023976023978,
+            "duration": 59.809749999999994
+        },
+        "visible_frames_num": 2.0,
+        "visible_frames_fps": 0.03343936398329704
+    },
+    {
+        "quid": "8212602454_10",
+        "uid": "8212602454",
+        "qid": 10,
+        "q_type": "DC",
+        "question": "How many girls are there?",
+        "optionA": "six",
+        "optionB": "two",
+        "optionC": "four",
+        "optionD": "one",
+        "optionE": "three",
+        "options": [
+            "six",
+            "two",
+            "four",
+            "one",
+            "three"
+        ],
+        "question_w_options": "How many girls are there? Choose your answer from below options: A.six, B.two, C.four, D.one, E.three.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1015/8212602454.mp4",
+        "answers": [
+            "Based on the image sequence, there are two girls visible riding on the ATV. Therefore, the answer is B. two.",
+            "Based on the frame information provided, the majority of the frames indicate that there are three girls in the image. However, there are also frames that report two girls and one frame that reports four girls. The most consistent answer across the frames is three girls.\n\nTherefore, the best answer to the question \"How many girls are there?\" is:\n\nE. three.",
+            "C.four"
+        ],
+        "video_info": {
+            "total_frames": 825,
+            "fps": 23.976023976023978,
+            "duration": 34.409375
+        },
+        "visible_frames_num": 50.0,
+        "visible_frames_fps": 1.4530923621832714
+    },
+    {
+        "quid": "4353169496_1",
+        "uid": "4353169496",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "Why did the man in white nods his head occasionally?",
+        "optionA": "bow to lady",
+        "optionB": "listening carefully",
+        "optionC": "to agree with the lady",
+        "optionD": "enjoying music",
+        "optionE": "dancing",
+        "options": [
+            "bow to lady",
+            "listening carefully",
+            "to agree with the lady",
+            "enjoying music",
+            "dancing"
+        ],
+        "question_w_options": "Why did the man in white nods his head occasionally? Choose your answer from below options: A.bow to lady, B.listening carefully, C.to agree with the lady, D.enjoying music, E.dancing.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1162/4353169496.mp4",
+        "answers": [
+            "Based on the image sequence, it seems the man in white is nodding his head while sitting next to a lady who appears to be talking or showing something on her phone. The most likely reason for his nodding is:\n\nC. to agree with the lady",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why did the man in white nod his head occasionally?\" is:\n\nC. to agree with the lady.\n\nThis is supported by the consistent mention of nodding as a gesture of agreement, understanding, or acknowledgment during conversations in the sampled frames.",
+            "B.listening carefully"
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 5.0,
+        "visible_frames_fps": 0.055561790823192375
+    },
+    {
+        "quid": "11277683376_9",
+        "uid": "11277683376",
+        "qid": 9,
+        "q_type": "CW",
+        "question": "Why are they talking to each other?",
+        "optionA": "rehearsing script",
+        "optionB": "direct her",
+        "optionC": "role play",
+        "optionD": "make face",
+        "optionE": "giving speech",
+        "options": [
+            "rehearsing script",
+            "direct her",
+            "role play",
+            "make face",
+            "giving speech"
+        ],
+        "question_w_options": "Why are they talking to each other? Choose your answer from below options: A.rehearsing script, B.direct her, C.role play, D.make face, E.giving speech.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1155/11277683376.mp4",
+        "answers": [
+            "Based on the image sequence, the individuals appear to be engaged in a role play. The sequence shows interaction and gestures that suggest they are acting out a scenario or practicing a dialogue, which aligns with option C: role play.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why are they talking to each other?\" is not explicitly listed among the options A through E. However, considering the context of the frames, the boys are primarily engaged in discussions related to artwork, birds, or video games, which do not directly align with any of the provided options.\n\nIf I had to choose the closest option based on the context of social interaction and communication, I would suggest that none of the options accurately reflect the nature of their conversation. However, if forced to select one, I would lean towards **C. role play**, as their discussions could involve imaginative or playful elements, especially in the context of discussing artwork or video games. \n\nPlease note that this is a stretch, as the specific activities described in the frames do not clearly indicate role play.",
+            "C.role play"
+        ],
+        "video_info": {
+            "total_frames": 531,
+            "fps": 29.97002997002997,
+            "duration": 17.7177
+        },
+        "visible_frames_num": 15.0,
+        "visible_frames_fps": 0.8466110161025415
+    },
+    {
+        "quid": "3747890905_1",
+        "uid": "3747890905",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "Why did the adult move the spoon to the baby s mouth?",
+        "optionA": "feed ice cream",
+        "optionB": "feed brown food",
+        "optionC": "pretend to feed",
+        "optionD": "feed berries",
+        "optionE": "feed white yogurt",
+        "options": [
+            "feed ice cream",
+            "feed brown food",
+            "pretend to feed",
+            "feed berries",
+            "feed white yogurt"
+        ],
+        "question_w_options": "Why did the adult move the spoon to the baby s mouth? Choose your answer from below options: A.feed ice cream, B.feed brown food, C.pretend to feed, D.feed berries, E.feed white yogurt.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1026/3747890905.mp4",
+        "answers": [
+            "Based on the image sequence, the adult moved the spoon to the baby's mouth to feed white yogurt. The spoon appears to contain a white substance, which is consistent with yogurt.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why did the adult move the spoon to the baby's mouth?\" is **A. feed ice cream**. \n\nWhile the specific type of food is not explicitly mentioned in the frame information, the context of feeding a baby with a spoon suggests that the adult is providing nourishment, and ice cream is a common treat that can be fed to babies in small amounts. The other options (B, C, D, E) do not align as closely with the general context of feeding a baby as ice cream does.",
+            "E.feed white yogurt."
+        ],
+        "video_info": {
+            "total_frames": 1152,
+            "fps": 29.97002997002997,
+            "duration": 38.4384
+        },
+        "visible_frames_num": 39.0,
+        "visible_frames_fps": 1.0146103896103895
+    },
+    {
+        "quid": "5678689001_8",
+        "uid": "5678689001",
+        "qid": 8,
+        "q_type": "TP",
+        "question": "What did the man in white shirt do before the dog jumped on him?",
+        "optionA": "started talking and move hands",
+        "optionB": "walk away",
+        "optionC": "kiss dog",
+        "optionD": "jump up",
+        "optionE": "turn around",
+        "options": [
+            "started talking and move hands",
+            "walk away",
+            "kiss dog",
+            "jump up",
+            "turn around"
+        ],
+        "question_w_options": "What did the man in white shirt do before the dog jumped on him? Choose your answer from below options: A.started talking and move hands, B.walk away, C.kiss dog, D.jump up, E.turn around.",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1012/5678689001.mp4",
+        "answers": [
+            "Based on the image sequence, the man in the white shirt started talking and moved his hands before the dog jumped on him. So, the answer is A. started talking and move hands.",
+            "Based on the frame information provided, the most relevant answer to the question \"What did the man in white shirt do before the dog jumped on him?\" is:\n\nA. started talking and move hands\n\nThis option aligns with the context of the man engaging with the dog, as he was holding a frisbee and likely interacting with the dog before it jumped on him. The other options do not fit the context provided in the frame information.",
+            "B.walk away"
+        ],
+        "video_info": {
+            "total_frames": 720,
+            "fps": 29.97002997002997,
+            "duration": 24.024
+        },
+        "visible_frames_num": 4.0,
+        "visible_frames_fps": 0.1665001665001665
+    },
+    {
+        "quid": "3969677780_2",
+        "uid": "3969677780",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "Why did the men use projector?",
+        "optionA": "movie screening",
+        "optionB": "engage class",
+        "optionC": "accidentally turned on",
+        "optionD": "test the projector",
+        "optionE": "they were drunk",
+        "options": [
+            "movie screening",
+            "engage class",
+            "accidentally turned on",
+            "test the projector",
+            "they were drunk"
+        ],
+        "question_w_options": "Why did the men use projector? Choose your answer from below options: A.movie screening, B.engage class, C.accidentally turned on, D.test the projector, E.they were drunk.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1111/3969677780.mp4",
+        "answers": [
+            "Based on the image sequence, it appears that the men are using the projector to engage a class. The setting looks like a classroom or meeting environment, and the presence of a clock on the screen suggests a presentation or lecture context. Therefore, the most likely answer is B. engage class.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why did the men use the projector?\" is:\n\n**B. engage class**\n\nThe context suggests that the projector is being used for a meeting or presentation, which aligns with engaging an audience or class in a discussion or presentation setting.",
+            "B.engage class"
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.033337074493915424
+    },
+    {
+        "quid": "8886103892_4",
+        "uid": "8886103892",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "Why is there a bicycle parked next to the instrument?",
+        "optionA": "curve road",
+        "optionB": "hold the guitar",
+        "optionC": "man was cycling",
+        "optionD": "control direction",
+        "optionE": "smooth road",
+        "options": [
+            "curve road",
+            "hold the guitar",
+            "man was cycling",
+            "control direction",
+            "smooth road"
+        ],
+        "question_w_options": "Why is there a bicycle parked next to the instrument? Choose your answer from below options: A.curve road, B.hold the guitar, C.man was cycling, D.control direction, E.smooth road.",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1105/8886103892.mp4",
+        "answers": [
+            "Based on the image sequence, the most likely answer is: C. man was cycling. \n\nThe presence of the bicycle and the person in cycling gear suggests that the man was cycling and stopped to interact with the instrument.",
+            "Based on the frame information provided, the most relevant answer to the question \"Why is there a bicycle parked next to the instrument?\" is **C. man was cycling**. This option aligns with the reasoning that the person likely rode the bicycle to the location where they are playing the instrument.",
+            "C.man was cycling."
+        ],
+        "video_info": {
+            "total_frames": 798,
+            "fps": 29.97,
+            "duration": 26.626626626626628
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.11266917293233082
+    },
+    {
+        "quid": "4880611877_4",
+        "uid": "4880611877",
+        "qid": 4,
+        "q_type": "DO",
+        "question": "What is the animal in the video?",
+        "optionA": "wolf",
+        "optionB": "cat",
+        "optionC": "dog",
+        "optionD": "bird",
+        "optionE": "monkey",
+        "options": [
+            "wolf",
+            "cat",
+            "dog",
+            "bird",
+            "monkey"
+        ],
+        "question_w_options": "What is the animal in the video? Choose your answer from below options: A.wolf, B.cat, C.dog, D.bird, E.monkey.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0033/4880611877.mp4",
+        "answers": [
+            "Based on the image sequence, the animal in the video is a cat. Therefore, the correct answer is B. cat.",
+            "Based on the frame information provided, the majority of the answers indicate that the animal in the video is a cat. Although there are a few instances where a dog and a raccoon are mentioned, the overwhelming majority of frames identify the animal as a cat. Therefore, the best answer is:\n\nB. cat",
+            "B.cat"
+        ],
+        "video_info": {
+            "total_frames": 2697,
+            "fps": 29.97002997002997,
+            "duration": 89.9899
+        },
+        "visible_frames_num": 46.0,
+        "visible_frames_fps": 0.5111684755733699
+    },
+    {
+        "quid": "4474292288_7",
+        "uid": "4474292288",
+        "qid": 7,
+        "q_type": "TN",
+        "question": "What does the baby do after being carried down to the pool by the woman?",
+        "optionA": "jump arround",
+        "optionB": "ran back",
+        "optionC": "dances",
+        "optionD": "kick legs to paddle",
+        "optionE": "wipe hair with wet cloth",
+        "options": [
+            "jump arround",
+            "ran back",
+            "dances",
+            "kick legs to paddle",
+            "wipe hair with wet cloth"
+        ],
+        "question_w_options": "What does the baby do after being carried down to the pool by the woman? Choose your answer from below options: A.jump arround, B.ran back, C.dances, D.kick legs to paddle, E.wipe hair with wet cloth.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1200/4474292288.mp4",
+        "answers": [
+            "Based on the image sequence, after being carried down to the pool by the woman, the baby appears to **kick legs to paddle**. The movement in the water suggests the baby is engaging in paddling actions. \n\nCorrect answer: **D. kick legs to paddle**",
+            "Based on the frame information provided, the most appropriate answer to the question \"What does the baby do after being carried down to the pool by the woman?\" is:\n\nD. kick legs to paddle\n\nThis is inferred from multiple frames indicating that the baby is playing in the water, splashing, and enjoying their time in the pool.",
+            "A.jump arround,"
+        ],
+        "video_info": {
+            "total_frames": 1199,
+            "fps": 23.976023976023978,
+            "duration": 50.008291666666665
+        },
+        "visible_frames_num": 8.0,
+        "visible_frames_fps": 0.15997347106604823
+    },
+    {
+        "quid": "7064920441_8",
+        "uid": "7064920441",
+        "qid": 8,
+        "q_type": "TN",
+        "question": "How does the baby react after the man in green shows his phone?",
+        "optionA": "lean forward to look",
+        "optionB": "throws it at the centre of the table",
+        "optionC": "turns to face the green ball",
+        "optionD": "vomits",
+        "optionE": "walk around the table",
+        "options": [
+            "lean forward to look",
+            "throws it at the centre of the table",
+            "turns to face the green ball",
+            "vomits",
+            "walk around the table"
+        ],
+        "question_w_options": "How does the baby react after the man in green shows his phone? Choose your answer from below options: A.lean forward to look, B.throws it at the centre of the table, C.turns to face the green ball, D.vomits, E.walk around the table.",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1025/7064920441.mp4",
+        "answers": [
+            "Based on the image sequence, the baby reacts by leaning forward to look at the phone after the man in green shows it. Therefore, the correct answer is A. lean forward to look.",
+            "Based on the frame information provided, the best answer to the question \"How does the baby react after the man in green shows his phone?\" is:\n\nA. lean forward to look. \n\nThe responses indicate that the baby appears intrigued and curious, looking at the phone, which suggests a forward-leaning posture to engage with the object.",
+            "A.lean forward to look,"
+        ],
+        "video_info": {
+            "total_frames": 2179,
+            "fps": 29.97002997002997,
+            "duration": 72.70596666666667
+        },
+        "visible_frames_num": 8.0,
+        "visible_frames_fps": 0.11003223486013756
+    },
+    {
+        "quid": "2876825076_8",
+        "uid": "2876825076",
+        "qid": 8,
+        "q_type": "TN",
+        "question": "What does the woman in pink do after touching the bed near the end?",
+        "optionA": "take off pants",
+        "optionB": "jumps",
+        "optionC": "put a pacifier in baby s mouth",
+        "optionD": "leave the room",
+        "optionE": "touch the chair",
+        "options": [
+            "take off pants",
+            "jumps",
+            "put a pacifier in baby s mouth",
+            "leave the room",
+            "touch the chair"
+        ],
+        "question_w_options": "What does the woman in pink do after touching the bed near the end? Choose your answer from below options: A.take off pants, B.jumps, C.put a pacifier in baby s mouth, D.leave the room, E.touch the chair.",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1150/2876825076.mp4",
+        "answers": [
+            "Based on the image sequence, after touching the bed near the end, the woman in pink jumps.",
+            "Based on the frame information provided, the woman in pink primarily walks away from the bed and interacts with the closet to look for or get clothes. Therefore, the best answer from the options given is:\n\nD. leave the room. \n\nThis is the closest option, as she walks away from the bed and is involved in looking for clothes, which could imply leaving the immediate area. However, it's important to note that the specific action of leaving the room is not explicitly mentioned in the frame information.",
+            "D.leave the room,"
+        ],
+        "video_info": {
+            "total_frames": 459,
+            "fps": 25.0,
+            "duration": 18.36
+        },
+        "visible_frames_num": 5.0,
+        "visible_frames_fps": 0.27233115468409586
+    },
+    {
+        "quid": "8109777832_3",
+        "uid": "8109777832",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "Why does the woman in pink kneel down in the middle?",
+        "optionA": "adjust her shoes",
+        "optionB": "hug the baby",
+        "optionC": "assisting in preparing the food",
+        "optionD": "adjusting music instruments",
+        "optionE": "doing prayer",
+        "options": [
+            "adjust her shoes",
+            "hug the baby",
+            "assisting in preparing the food",
+            "adjusting music instruments",
+            "doing prayer"
+        ],
+        "question_w_options": "Why does the woman in pink kneel down in the middle? Choose your answer from below options: A.adjust her shoes, B.hug the baby, C.assisting in preparing the food, D.adjusting music instruments, E.doing prayer.",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1017/8109777832.mp4",
+        "answers": [
+            "Based on the image sequence, the woman in pink kneels down to hug the child. The correct answer is B: hug the baby.",
+            "Based on the frame information provided, the most appropriate answer to the question \"Why does the woman in pink kneel down in the middle?\" is **B. hug the baby**. The frames indicate that the woman is engaging with children, playing, and showing affection, which aligns with the action of hugging.",
+            "B.hug the baby"
+        ],
+        "video_info": {
+            "total_frames": 2492,
+            "fps": 29.97002997002997,
+            "duration": 83.14973333333333
+        },
+        "visible_frames_num": 5.0,
+        "visible_frames_fps": 0.06013248388850315
+    }
+]

@@ -1,0 +1,2602 @@
+[
+    {
+        "quid": "4010069381_6",
+        "uid": "4010069381",
+        "qid": 6,
+        "q_type": "CH",
+        "question": "how do the two man play the instrument",
+        "optionA": "roll the handle",
+        "optionB": "tap their feet",
+        "optionC": "strum the string",
+        "optionD": "hit with sticks",
+        "optionE": "pat with hand",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1106/4010069381.mp4",
+        "answers": [
+            "Based on the additional information from the extracted frames, the two men play the instrument by sitting on chairs, holding it in their hands, and using their hands to pluck or strum the strings, creating music together. The most suitable option from the provided choices is C. strum the string."
+        ],
+        "question_w_options": "How do the two man play the instrument? Choose your answer from below options: A.roll the handle, B.tap their feet, C.strum the string, D.hit with sticks, E.pat with hand.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "4882821564_1",
+        "uid": "4882821564",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why did the boy pick up one present from the group of them and move to the sofa",
+        "optionA": "share with the girl",
+        "optionB": "approach lady sitting there",
+        "optionC": "unwrap it",
+        "optionD": "playing with toy train",
+        "optionE": "gesture something",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1104/4882821564.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the boy likely picked up one present from the group and moved to the sofa to open it and enjoy the surprise inside. It is common for children to be excited about unwrapping presents, especially during special occasions like birthdays or holidays. The sofa provides a comfortable and safe space for the boy to sit and open the present."
+        ],
+        "question_w_options": "Why did the boy pick up one present from the group of them and move to the sofa? Choose your answer from below options: A.share with the girl, B.approach lady sitting there, C.unwrap it, D.playing with toy train, E.gesture something.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "2435100235_7",
+        "uid": "2435100235",
+        "qid": 7,
+        "q_type": "CH",
+        "question": "how does the man cycling try to sell the watch to the man in the trishaw",
+        "optionA": "give him catalogue",
+        "optionB": "show him a video",
+        "optionC": "show him the watch",
+        "optionD": "dismount his bicycle",
+        "optionE": "give him the watch strap",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0063/2435100235.mp4",
+        "answers": [
+            "Based on the analysis of the frames, the man cycling tries to sell the watch to the man in the trishaw by approaching him and showing the watch to him. He likely explains the features, quality, and price of the watch to the man in the trishaw, hoping that the man will be interested in purchasing it."
+        ],
+        "question_w_options": "How does the man cycling try to sell the watch to the man in the trishaw? Choose your answer from below options: A.give him catalogue, B.show him a video, C.show him the watch, D.dismount his bicycle, E.give him the watch strap.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "2834146886_8",
+        "uid": "2834146886",
+        "qid": 8,
+        "q_type": "TN",
+        "question": "what does the white dog do after going to the cushion",
+        "optionA": "drink again",
+        "optionB": "shake its body",
+        "optionC": "smells the black dog",
+        "optionD": "wagging tail",
+        "optionE": "touch lady in blue stripes",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0033/2834146886.mp4",
+        "answers": [
+            "After going to the cushion, the white dog performs various actions such as standing up, walking away from the black cat, walking across the wooden floor, licking its paw, reaching out to the black dog, looking at the black dog playing with a toy, laying down on the floor, walking away from the cushion, jumping off the couch, going to the couch, sitting on the couch, sniffing the ground and the cushion, licking the cushion, sniffing the black cat, looking at the small dog, sniffing the black dog, and more. None of the provided options match the actions observed."
+        ],
+        "question_w_options": "What does the white dog do after going to the cushion? Choose your answer from below options: A.drink again, B.shake its body, C.smells the black dog, D.wagging tail, E.touch lady in blue stripes.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "8132842161_2",
+        "uid": "8132842161",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why did the man in white hold tightly to the boy in white",
+        "optionA": "forcing boy to look straight",
+        "optionB": "dancing with boy",
+        "optionC": "posing for camera",
+        "optionD": "prevent falling off",
+        "optionE": "boy keeps moving around",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1201/8132842161.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, it can be inferred that the man in white is holding tightly to the boy in white primarily to ensure the child's safety and prevent him from getting separated or lost in the crowd or near water. The most appropriate answer from the given options would be D. prevent falling off."
+        ],
+        "question_w_options": "Why did the man in white hold tightly to the boy in white? Choose your answer from below options: A.forcing boy to look straight, B.dancing with boy, C.posing for camera, D.prevent falling off, E.boy keeps moving around.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "4260763967_4",
+        "uid": "4260763967",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "why is the boy in yellow reaching out to things on the green mat",
+        "optionA": "team uniform",
+        "optionB": "watch something in the pool",
+        "optionC": "assembling parts to build toy",
+        "optionD": "keep his belonging",
+        "optionE": "grab remote control",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1106/4260763967.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the boy in yellow is reaching out to things on the green mat because he is playing with toys, specifically Legos. He is engaged in a creative and imaginative activity, likely building, assembling, or manipulating various objects with the Legos. The green mat provides a comfortable and safe surface for his playtime."
+        ],
+        "question_w_options": "Why is the boy in yellow reaching out to things on the green mat? Choose your answer from below options: A.team uniform, B.watch something in the pool, C.assembling parts to build toy, D.keep his belonging, E.grab remote control.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "3462517143_2",
+        "uid": "3462517143",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why is the white dog walking around the green container",
+        "optionA": "chasing",
+        "optionB": "get drink",
+        "optionC": "fashion for dogs",
+        "optionD": "leading the way",
+        "optionE": "excited",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1202/3462517143.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the white dog is walking around the green container, which is a large plastic swimming pool, likely because it is curious or attracted to the water. Dogs are often fascinated by water and may explore or play with it. The behavior of the white dog could be due to its natural instincts and attraction to water sources."
+        ],
+        "question_w_options": "Why is the white dog walking around the green container? Choose your answer from below options: A.chasing, B.get drink, C.fashion for dogs, D.leading the way, E.excited.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "3441428429_10",
+        "uid": "3441428429",
+        "qid": 10,
+        "q_type": "TN",
+        "question": "what does the female skater do after the male skater puts her back down on the ice",
+        "optionA": "put hand in mouth",
+        "optionB": "continue skating",
+        "optionC": "jump",
+        "optionD": "move her arms up and down",
+        "optionE": "laugh and run forward",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1103/3441428429.mp4",
+        "answers": [
+            "After the male skater puts the female skater back down on the ice, the female skater performs a spin."
+        ],
+        "question_w_options": "What does the female skater do after the male skater puts her back down on the ice? Choose your answer from below options: A.put hand in mouth, B.continue skating, C.jump, D.move her arms up and down, E.laugh and run forward.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "6356067859_6",
+        "uid": "6356067859",
+        "qid": 6,
+        "q_type": "TN",
+        "question": "what does the girl in white do after bending down in the middle",
+        "optionA": "grab her",
+        "optionB": "feed horse with grass",
+        "optionC": "run towards the camera",
+        "optionD": "umbrella",
+        "optionE": "put her arms up",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1164/6356067859.mp4",
+        "answers": [
+            "After bending down in the middle, the girl in white is petting the horse."
+        ],
+        "question_w_options": "What does the girl in white do after bending down in the middle? Choose your answer from below options: A.grab her, B.feed horse with grass, C.run towards the camera, D.umbrella, E.put her arms up.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "5026660202_8",
+        "uid": "5026660202",
+        "qid": 8,
+        "q_type": "CW",
+        "question": "why are there high chairs on the stage",
+        "optionA": "to place the microphones",
+        "optionB": "for guitarists to sit comfortably",
+        "optionC": "for audience to sit",
+        "optionD": "to act as displays",
+        "optionE": "to take up stage spaces",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1016/5026660202.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the high chairs on the stage are likely there for the band members to sit on while playing their instruments. The high chairs provide a comfortable and elevated position for the musicians to perform, allowing them to have a better view of the audience, maintain an engaging stage presence, and have a more ergonomic posture while playing."
+        ],
+        "question_w_options": "Why are there high chairs on the stage? Choose your answer from below options: A.to place the microphones, B.for guitarists to sit comfortably, C.for audience to sit, D.to act as displays, E.to take up stage spaces.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "9873067604_4",
+        "uid": "9873067604",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "why did the boy in white sway his head around",
+        "optionA": "he is looking through it",
+        "optionB": "see where the ball is falling",
+        "optionC": "talking",
+        "optionD": "acting",
+        "optionE": "moving with rhythm",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/9873067604.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the boy in white swayed his head around as a playful gesture to entertain himself and the other children in the car. It could be a way for him to express excitement, joy, and engage in a fun activity with the other children."
+        ],
+        "question_w_options": "Why did the boy in white sway his head around? Choose your answer from below options: A.he is looking through it, B.see where the ball is falling, C.talking, D.acting, E.moving with rhythm.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "5735711594_5",
+        "uid": "5735711594",
+        "qid": 5,
+        "q_type": "TC",
+        "question": "how did the white dog respond to the brown dog when it attacks from its tail",
+        "optionA": "follow it",
+        "optionB": "hopped away",
+        "optionC": "wagging",
+        "optionD": "ready to run away",
+        "optionE": "move his head",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1111/5735711594.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the white dog responded by playfully biting the brown dog's tail as it attacked from behind. The interaction between the two dogs was playful, indicating a friendly and comfortable relationship."
+        ],
+        "question_w_options": "How did the white dog respond to the brown dog when it attacks from its tail? Choose your answer from below options: A.follow it, B.hopped away, C.wagging, D.ready to run away, E.move his head.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "9088819598_1",
+        "uid": "9088819598",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why does the baby keep the ball near his mouth in the beginning",
+        "optionA": "take a photo",
+        "optionB": "lick it",
+        "optionC": "smelling the ball",
+        "optionD": "blow it away",
+        "optionE": "kiss it",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1200/9088819598.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the baby keeps the ball near his mouth in the beginning most likely because he is teething. Teething is a natural process where babies' first set of teeth emerge through the gums, causing discomfort. Babies often chew on objects like toys or balls to alleviate the pain and pressure associated with teething."
+        ],
+        "question_w_options": "Why does the baby keep the ball near his mouth in the beginning? Choose your answer from below options: A.take a photo, B.lick it, C.smelling the ball, D.blow it away, E.kiss it.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "5296635780_7",
+        "uid": "5296635780",
+        "qid": 7,
+        "q_type": "TN",
+        "question": "what does the man do after the lady appear to punch him and smiles",
+        "optionA": "look at him",
+        "optionB": "touch their chests",
+        "optionC": "kick him",
+        "optionD": "lean forward",
+        "optionE": "sit back properly",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0091/5296635780.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the man smiles and leans in towards the lady after she appears to punch him. The correct answer is D. lean forward."
+        ],
+        "question_w_options": "What does the man do after the lady appear to punch him and smiles? Choose your answer from below options: A.look at him, B.touch their chests, C.kick him, D.lean forward, E.sit back properly.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "2614918961_1",
+        "uid": "2614918961",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why does the baby turn around near the end of the video",
+        "optionA": "yawning",
+        "optionB": "sits down to play",
+        "optionC": "to see the toy",
+        "optionD": "move towards toy",
+        "optionE": "curious",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1099/2614918961.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the baby turns around near the end of the video because the other children are playing with a toy, and the baby is curious about the activity. The baby is interested in the toy or the game the other children are playing, and turning around to face them allows the baby to engage and participate in the fun. This behavior is common among young children as they explore their surroundings and interact with others."
+        ],
+        "question_w_options": "Why does the baby turn around near the end of the video? Choose your answer from below options: A.yawning, B.sits down to play, C.to see the toy, D.move towards toy, E.curious.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "6201488511_5",
+        "uid": "6201488511",
+        "qid": 5,
+        "q_type": "CW",
+        "question": "why did the lady put her hands over her eyes in the middle of the video",
+        "optionA": "posing in the camera",
+        "optionB": "adjust her hair",
+        "optionC": "protection from sun",
+        "optionD": "to wipe her eyes",
+        "optionE": "cue woman to talk",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1028/6201488511.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the lady put her hands over her eyes in the middle of the video as a playful or humorous gesture. The possible reasons could be to block out the sun, make a funny face, react to something in the background, or engage in a playful interaction. The exact reason behind her action cannot be determined conclusively from the available information."
+        ],
+        "question_w_options": "Why did the lady put her hands over her eyes in the middle of the video? Choose your answer from below options: A.posing in the camera, B.adjust her hair, C.protection from sun, D.to wipe her eyes, E.cue woman to talk.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "2976913210_6",
+        "uid": "2976913210",
+        "qid": 6,
+        "q_type": "TC",
+        "question": "how did the man respond when he is stuck in the dirt",
+        "optionA": "touched his head",
+        "optionB": "pointing towards the jumping line",
+        "optionC": "kept trying",
+        "optionD": "prepare to swing again",
+        "optionE": "looking at the floor",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1111/2976913210.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, when the man is stuck in the dirt, he responds by using a winch to pull himself out and by attempting to push the motorcycle out of the muddy area. This shows that he is resourceful, actively trying to resolve the situation, and taking safety precautions. The options provided in the question do not directly match the actions observed in the frames. If more information is needed, I will use the frame-extraction-tool to extract additional frames."
+        ],
+        "question_w_options": "How did the man respond when he is stuck in the dirt? Choose your answer from below options: A.touched his head, B.pointing towards the jumping line, C.kept trying, D.prepare to swing again, E.looking at the floor.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "2793260225_6",
+        "uid": "2793260225",
+        "qid": 6,
+        "q_type": "CH",
+        "question": "how did the lady and man on top try to keep their balance",
+        "optionA": "hold the ropes tightly",
+        "optionB": "held each other",
+        "optionC": "walk side to side",
+        "optionD": "hold ski stick",
+        "optionE": "standing still",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0066/2793260225.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the lady and man on top tried to keep their balance by holding onto each other."
+        ],
+        "question_w_options": "How did the lady and man on top try to keep their balance? Choose your answer from below options: A.hold the ropes tightly, B.held each other, C.walk side to side, D.hold ski stick, E.standing still.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "7508439506_1",
+        "uid": "7508439506",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why did the boy put his hands on the baby",
+        "optionA": "play with baby",
+        "optionB": "to give her food",
+        "optionC": "play",
+        "optionD": "support the baby",
+        "optionE": "fall and pounce on the boy",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1201/7508439506.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the boy put his hands on the baby to comfort, soothe, or play with the baby. It is a natural and common interaction between the boy and the baby, aimed at providing a sense of security, warmth, and bonding."
+        ],
+        "question_w_options": "Why did the boy put his hands on the baby? Choose your answer from below options: A.play with baby, B.to give her food, C.play, D.support the baby, E.fall and pounce on the boy.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "7508439506_4",
+        "uid": "7508439506",
+        "qid": 4,
+        "q_type": "DL",
+        "question": "where is this video taken",
+        "optionA": "swimming pool",
+        "optionB": "outdoor",
+        "optionC": "field",
+        "optionD": "desert",
+        "optionE": "bed room",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1201/7508439506.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the video is taken in a bedroom."
+        ],
+        "question_w_options": "Where is this video taken? Choose your answer from below options: A.swimming pool, B.outdoor, C.field, D.desert, E.bed room.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "6136926089_8",
+        "uid": "6136926089",
+        "qid": 8,
+        "q_type": "TN",
+        "question": "what does the baby do after letting go of the cart",
+        "optionA": "open her eyes",
+        "optionB": "move toward the slides",
+        "optionC": "touch the toy",
+        "optionD": "turn to his back",
+        "optionE": "lean forward and put head down",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1005/6136926089.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, after letting go of the cart, the baby starts sliding down the yellow slide. The correct option is B. move toward the slides."
+        ],
+        "question_w_options": "What does the baby do after letting go of the cart? Choose your answer from below options: A.open her eyes, B.move toward the slides, C.touch the toy, D.turn to his back, E.lean forward and put head down.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "5987365500_1",
+        "uid": "5987365500",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why does the girl have her mouth close to the item",
+        "optionA": "eat",
+        "optionB": "looking around",
+        "optionC": "tries to sing",
+        "optionD": "smell",
+        "optionE": "record",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1106/5987365500.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the girl has her mouth close to the item because she is pretending to be a singer or performer. She is likely imitating the actions of a professional singer or a character from a TV show or movie. This playful behavior is common among children during imaginative play."
+        ],
+        "question_w_options": "Why does the girl have her mouth close to the item? Choose your answer from below options: A.eat, B.looking around, C.tries to sing, D.smell, E.record.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "6329077812_2",
+        "uid": "6329077812",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why is the lady holding the baby",
+        "optionA": "to protect the baby",
+        "optionB": "carry baby",
+        "optionC": "adjust bottle",
+        "optionD": "ease of carrying around",
+        "optionE": "feed baby",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0058/6329077812.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the lady is holding the baby to feed it with a bottle. The lady is providing nourishment to the baby through bottle-feeding, ensuring the baby receives the necessary nutrients for growth and development."
+        ],
+        "question_w_options": "Why is the lady holding the baby? Choose your answer from below options: A.to protect the baby, B.carry baby, C.adjust bottle, D.ease of carrying around, E.feed baby.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "6018490041_6",
+        "uid": "6018490041",
+        "qid": 6,
+        "q_type": "TN",
+        "question": "what does the man in white do after moving forward at the start",
+        "optionA": "sing",
+        "optionB": "walk forward and observe",
+        "optionC": "hit cans",
+        "optionD": "clicks the picture",
+        "optionE": "start dancing",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1006/6018490041.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, after moving forward at the start, the man in white goes to the table and sits down."
+        ],
+        "question_w_options": "What does the man in white do after moving forward at the start? Choose your answer from below options: A.sing, B.walk forward and observe, C.hit cans, D.clicks the picture, E.start dancing.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "6793786769_5",
+        "uid": "6793786769",
+        "qid": 5,
+        "q_type": "TC",
+        "question": "what is the person in black behind the boy doing as the boy plays with the train",
+        "optionA": "playing with ball",
+        "optionB": "watch",
+        "optionC": "watching television",
+        "optionD": "reading a book",
+        "optionE": "sleeping",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1005/6793786769.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the person in black behind the boy is watching the boy play with the train."
+        ],
+        "question_w_options": "What is the person in black behind the boy doing as the boy plays with the train? Choose your answer from below options: A.playing with ball, B.watch, C.watching television, D.reading a book, E.sleeping.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "3158022797_2",
+        "uid": "3158022797",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why are the people synchronizing their moves",
+        "optionA": "choreography",
+        "optionB": "part of game",
+        "optionC": "one direction only",
+        "optionD": "move with the rhythm",
+        "optionE": "moving to the rhythm",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1022/3158022797.mp4",
+        "answers": [
+            "The people are synchronizing their moves while playing a video game to enhance their gaming experience, communicate effectively, work together as a team, and create a more engaging and competitive atmosphere. This synchronization allows them to share the excitement and challenges of the game, making it a more social and interactive experience. The correct answer is: E. moving to the rhythm."
+        ],
+        "question_w_options": "Why are the people synchronizing their moves? Choose your answer from below options: A.choreography, B.part of game, C.one direction only, D.move with the rhythm, E.moving to the rhythm.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "6582763207_2",
+        "uid": "6582763207",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why is the lady standing in the middle tapping on the instrument in the beginning",
+        "optionA": "talking to girl",
+        "optionB": "to get the baby s attention",
+        "optionC": "talking to the crowd",
+        "optionD": "playing it",
+        "optionE": "dance move",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1028/6582763207.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the lady standing in the middle tapping on the instrument in the beginning is likely a musician or a performer demonstrating how to play the instrument to the child. This could be part of a lesson or a fun activity to engage the child in learning music. The presence of other people in the room, including a woman singing into a microphone, suggests that this could be a family gathering or a social event where the child is being introduced to music and instruments."
+        ],
+        "question_w_options": "Why is the lady standing in the middle tapping on the instrument in the beginning? Choose your answer from below options: A.talking to girl, B.to get the baby s attention, C.talking to the crowd, D.playing it, E.dance move.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "7416295940_7",
+        "uid": "7416295940",
+        "qid": 7,
+        "q_type": "TN",
+        "question": "what does the dog do after the baby touches and caresses the dog s back",
+        "optionA": "smile and wants to pet it",
+        "optionB": "backed away",
+        "optionC": "get up and sniff boy",
+        "optionD": "play with toy",
+        "optionE": "feeding",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1009/7416295940.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, after the baby touches and caresses the dog's back, the dog licks the baby's hand. The interaction between the baby and the dog demonstrates a positive and friendly relationship, with the dog showing affection towards the baby."
+        ],
+        "question_w_options": "What does the dog do after the baby touches and caresses the dog s back? Choose your answer from below options: A.smile and wants to pet it, B.backed away, C.get up and sniff boy, D.play with toy, E.feeding.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "3171006258_0",
+        "uid": "3171006258",
+        "qid": 0,
+        "q_type": "CW",
+        "question": "why did the man remove one of his skates before standing up",
+        "optionA": "counting beats",
+        "optionB": "hit sofa",
+        "optionC": "take something",
+        "optionD": "pick it up",
+        "optionE": "to get better balance",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1008/3171006258.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the man removed one of his skates before standing up to get better balance. This action was likely taken to improve stability and distribute weight effectively while standing on the snowboard or skis."
+        ],
+        "question_w_options": "Why did the man remove one of his skates before standing up? Choose your answer from below options: A.counting beats, B.hit sofa, C.take something, D.pick it up, E.to get better balance.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "3943634344_4",
+        "uid": "3943634344",
+        "qid": 4,
+        "q_type": "TN",
+        "question": "what did the girl do after she finished reciting the pictures on the book",
+        "optionA": "hug the girl",
+        "optionB": "smile",
+        "optionC": "stand up",
+        "optionD": "continue tlaking",
+        "optionE": "nod",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1028/3943634344.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, after the girl finished reciting the pictures on the book, she started laughing and smiling. Therefore, the correct answer is B. smile."
+        ],
+        "question_w_options": "What did the girl do after she finished reciting the pictures on the book? Choose your answer from below options: A.hug the girl, B.smile, C.stand up, D.continue tlaking, E.nod.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "8547321641_7",
+        "uid": "8547321641",
+        "qid": 7,
+        "q_type": "DC",
+        "question": "how many babies are in the video",
+        "optionA": "kitchen",
+        "optionB": "four",
+        "optionC": "two",
+        "optionD": "three",
+        "optionE": "one",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1101/8547321641.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, there is **one baby** in the video. The answer is **E. one**."
+        ],
+        "question_w_options": "How many babies are in the video? Choose your answer from below options: A.kitchen, B.four, C.two, D.three, E.one.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "5840177726_3",
+        "uid": "5840177726",
+        "qid": 3,
+        "q_type": "DO",
+        "question": "how are the men positioned in the video",
+        "optionA": "riding the cycle",
+        "optionB": "half squat",
+        "optionC": "sit on the sofa",
+        "optionD": "skateboard",
+        "optionE": "stand closely",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0028/5840177726.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the men are positioned on their bicycles, riding down a dirt trail in the woods. So, the correct answer is A. riding the cycle."
+        ],
+        "question_w_options": "How are the men positioned in the video? Choose your answer from below options: A.riding the cycle, B.half squat, C.sit on the sofa, D.skateboard, E.stand closely.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "5833145209_5",
+        "uid": "5833145209",
+        "qid": 5,
+        "q_type": "CW",
+        "question": "why did the brown bird bend over into the water",
+        "optionA": "drink water",
+        "optionB": "look down",
+        "optionC": "resting",
+        "optionD": "to wet its head",
+        "optionE": "peck fishes",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1026/5833145209.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the brown bird bent over into the water to drink. It is a natural behavior for birds to drink water from sources like ponds, rivers, or bird baths."
+        ],
+        "question_w_options": "Why did the brown bird bend over into the water? Choose your answer from below options: A.drink water, B.look down, C.resting, D.to wet its head, E.peck fishes.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "5333075105_10",
+        "uid": "5333075105",
+        "qid": 10,
+        "q_type": "CW",
+        "question": "why is the man on all fours as he travelled through the thick snow",
+        "optionA": "look at the cameraman",
+        "optionB": "snow too thick",
+        "optionC": "trying to move forward",
+        "optionD": "snow mountain",
+        "optionE": "obstacles",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0084/5333075105.mp4",
+        "answers": [
+            "The reason the man is on all fours as he travels through the thick snow is because it is a more efficient and stable way to move through deep snow. By adopting a low center of gravity, the man can better distribute his weight, maintain balance, cover more ground with each step, and avoid sinking too deeply into the snow. Additionally, this position enables him to use his arms and legs effectively to push through the snow and maintain momentum."
+        ],
+        "question_w_options": "Why is the man on all fours as he travelled through the thick snow? Choose your answer from below options: A.look at the cameraman, B.snow too thick, C.trying to move forward, D.snow mountain, E.obstacles.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "3963997053_7",
+        "uid": "3963997053",
+        "qid": 7,
+        "q_type": "DL",
+        "question": "where is the performance taking place",
+        "optionA": "on a stage",
+        "optionB": "room",
+        "optionC": "bar",
+        "optionD": "restaurant",
+        "optionE": "road",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1103/3963997053.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the performance is taking place on a dirt road in a rural area."
+        ],
+        "question_w_options": "Where is the performance taking place? Choose your answer from below options: A.on a stage, B.room, C.bar, D.restaurant, E.road.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "9082180631_2",
+        "uid": "9082180631",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why does the woman in green pants skate behind everyone else",
+        "optionA": "supervise the children",
+        "optionB": "singing",
+        "optionC": "pass her something",
+        "optionD": "waiting for the man",
+        "optionE": "nervous",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1018/9082180631.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the woman in green pants skates behind everyone else most likely to follow the group's pace and direction. She is not supervising the children, singing, passing something, waiting for the man, or nervous."
+        ],
+        "question_w_options": "Why does the woman in green pants skate behind everyone else? Choose your answer from below options: A.supervise the children, B.singing, C.pass her something, D.waiting for the man, E.nervous.",
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "7533369046_5",
+        "uid": "7533369046",
+        "qid": 5,
+        "q_type": "DL",
+        "question": "where is this video taken",
+        "optionA": "dining table",
+        "optionB": "lake",
+        "optionC": "construction site",
+        "optionD": "house",
+        "optionE": "playground",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1007/7533369046.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the video is taken in a room, likely a living room or a playroom."
+        ],
+        "question_w_options": "Where is this video taken? Choose your answer from below options: A.dining table, B.lake, C.construction site, D.house, E.playground.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "5679866364_1",
+        "uid": "5679866364",
+        "qid": 1,
+        "q_type": "TC",
+        "question": "how does the old man respond when the old woman turns to him at the beginning",
+        "optionA": "walks away",
+        "optionB": "talk",
+        "optionC": "moves around",
+        "optionD": "goes back in line",
+        "optionE": "happy",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1023/5679866364.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the old man responds by not paying attention to the old woman when she turns to him at the beginning. He is focused on the waterfall and its surroundings, indicating that he is more interested in the waterfall than engaging in a conversation with the old woman."
+        ],
+        "question_w_options": "How does the old man respond when the old woman turns to him at the beginning? Choose your answer from below options: A.walks away, B.talk, C.moves around, D.goes back in line, E.happy.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "5116088152_1",
+        "uid": "5116088152",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why did the baby put his other hand on the fruit after awhile of putting the fruit in his mouth",
+        "optionA": "hold tight",
+        "optionB": "chocolate stuck on his fingers",
+        "optionC": "to be more comfortable",
+        "optionD": "pull fruit out",
+        "optionE": "to make it less messy",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1026/5116088152.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the baby might have put his other hand on the fruit after a while of putting the fruit in his mouth because he was feeling full or needed a break from eating. Babies often explore their surroundings and interact with objects by placing them in their mouths, which can lead to them feeling full or needing to rest. In this case, the baby might have decided to place his hand on the banana to take a break from eating or to explore the fruit further."
+        ],
+        "question_w_options": "Why did the baby put his other hand on the fruit after awhile of putting the fruit in his mouth? Choose your answer from below options: A.hold tight, B.chocolate stuck on his fingers, C.to be more comfortable, D.pull fruit out, E.to make it less messy.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "4094488636_4",
+        "uid": "4094488636",
+        "qid": 4,
+        "q_type": "TN",
+        "question": "what does the brown dog do after stepping over the red strap near the start",
+        "optionA": "mount the black dog",
+        "optionB": "look around",
+        "optionC": "looks at the camera",
+        "optionD": "walks away",
+        "optionE": "walk away",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1160/4094488636.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the brown dog continues to walk down the sidewalk with its black companion after stepping over the red strap near the start. The correct answer is: D. walks away."
+        ],
+        "question_w_options": "What does the brown dog do after stepping over the red strap near the start? Choose your answer from below options: A.mount the black dog, B.look around, C.looks at the camera, D.walks away, E.walk away.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "7149153537_0",
+        "uid": "7149153537",
+        "qid": 0,
+        "q_type": "CW",
+        "question": "why are the men holding the girls in the water",
+        "optionA": "boy can not go into water himself",
+        "optionB": "make sure baby do not drown",
+        "optionC": "protect them",
+        "optionD": "cooling",
+        "optionE": "preparing to go swimming",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1201/7149153537.mp4",
+        "answers": [
+            "The men are holding the girls in the water to provide them with support, ensure their safety, help them learn to swim, and create a fun and enjoyable swimming experience."
+        ],
+        "question_w_options": "Why are the men holding the girls in the water? Choose your answer from below options: A.boy can not go into water himself, B.make sure baby do not drown, C.protect them, D.cooling, E.preparing to go swimming.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "3562017845_7",
+        "uid": "3562017845",
+        "qid": 7,
+        "q_type": "CH",
+        "question": "how did the bird in the front get to the other side of the land",
+        "optionA": "put its hand out",
+        "optionB": "walking",
+        "optionC": "fly on lady s arm",
+        "optionD": "swim",
+        "optionE": "jump",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1102/3562017845.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the bird in the front likely used its long legs to walk or wade through the muddy water to reach the other side of the land. The most probable answer is B. walking."
+        ],
+        "question_w_options": "How did the bird in the front get to the other side of the land? Choose your answer from below options: A.put its hand out, B.walking, C.fly on lady s arm, D.swim, E.jump.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "6895608152_8",
+        "uid": "6895608152",
+        "qid": 8,
+        "q_type": "CW",
+        "question": "why is the lady in white moving around the stage",
+        "optionA": "performing for the crowd",
+        "optionB": "performing",
+        "optionC": "taking photos",
+        "optionD": "dancing",
+        "optionE": "visualize what she says",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1111/6895608152.mp4",
+        "answers": [
+            "Based on the information extracted from the sampled frames, the lady in white is moving around the stage because she is a professional ballet dancer performing in a show. She is likely executing a specific dance routine or showcasing her skills and artistry to the audience. Her movements are part of the overall performance to entertain the audience. The purpose of her movements is to convey the story, emotions, or artistic expression of the dance, captivating the audience and showcasing her skills as a performer. The most suitable answer from the options provided is D. dancing."
+        ],
+        "question_w_options": "Why is the lady in white moving around the stage? Choose your answer from below options: A.performing for the crowd, B.performing, C.taking photos, D.dancing, E.visualize what she says.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "6265968082_4",
+        "uid": "6265968082",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "why is the man in jeans wearing a pair of sunglasses",
+        "optionA": "prevent it from falling",
+        "optionB": "protect eyes from sun",
+        "optionC": "sunny",
+        "optionD": "celebrate birthday",
+        "optionE": "part of outfit",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1019/6265968082.mp4",
+        "answers": [
+            "The man in jeans is wearing a pair of sunglasses while playing the guitar on stage likely to protect his eyes from the bright stage lights or glare from the audience's flashes. Sunglasses can help reduce eye strain and maintain better visibility during performances, especially in darker environments or under intense lighting conditions."
+        ],
+        "question_w_options": "Why is the man in jeans wearing a pair of sunglasses? Choose your answer from below options: A.prevent it from falling, B.protect eyes from sun, C.sunny, D.celebrate birthday, E.part of outfit.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "2984974097_5",
+        "uid": "2984974097",
+        "qid": 5,
+        "q_type": "CH",
+        "question": "how does the girl move forward",
+        "optionA": "pushing the floor with her legs",
+        "optionB": "climb",
+        "optionC": "on scooter",
+        "optionD": "pedal her bike",
+        "optionE": "move handles",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1011/2984974097.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the girl moves forward by pedaling her bike."
+        ],
+        "question_w_options": "How does the girl move forward? Choose your answer from below options: A.pushing the floor with her legs, B.climb, C.on scooter, D.pedal her bike, E.move handles.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "3429509208_3",
+        "uid": "3429509208",
+        "qid": 3,
+        "q_type": "TN",
+        "question": "what did the baby do after he approached near the camera",
+        "optionA": "move his legs",
+        "optionB": "suck his thumb",
+        "optionC": "raised his hand to take the camera",
+        "optionD": "turn back to the toy",
+        "optionE": "bored",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0039/3429509208.mp4",
+        "answers": [
+            "After analyzing the additional frames extracted from the video, it is evident that after the baby approached near the camera, he started playing with a red vacuum cleaner. None of the provided answer choices match the actions observed in the frames. The baby did not perform any of the actions listed in the answer choices."
+        ],
+        "question_w_options": "What did the baby do after he approached near the camera? Choose your answer from below options: A.move his legs, B.suck his thumb, C.raised his hand to take the camera, D.turn back to the toy, E.bored.",
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "3550839192_5",
+        "uid": "3550839192",
+        "qid": 5,
+        "q_type": "DO",
+        "question": "what did the baby hold onto",
+        "optionA": "father",
+        "optionB": "apple",
+        "optionC": "toys",
+        "optionD": "lady",
+        "optionE": "pram table",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1011/3550839192.mp4",
+        "answers": [
+            "Based on the additional frames extracted and analyzed, the baby held onto a stroller, a metal fence, and a toy train. The options provided in the question were not seen in the extracted frames."
+        ],
+        "question_w_options": "What did the baby hold onto? Choose your answer from below options: A.father, B.apple, C.toys, D.lady, E.pram table.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "3477387686_2",
+        "uid": "3477387686",
+        "qid": 2,
+        "q_type": "TN",
+        "question": "what did the girl do after lifting the dog s ear in the middle of the video",
+        "optionA": "starts to draw",
+        "optionB": "look at the baby",
+        "optionC": "push cheeks up",
+        "optionD": "smile at the camera",
+        "optionE": "wet the cloth",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1017/3477387686.mp4",
+        "answers": [
+            "After lifting the dog's ear in the middle of the video, the girl is seen petting the dog."
+        ],
+        "question_w_options": "What did the girl do after lifting the dog s ear in the middle of the video? Choose your answer from below options: A.starts to draw, B.look at the baby, C.push cheeks up, D.smile at the camera, E.wet the cloth.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "6895608152_5",
+        "uid": "6895608152",
+        "qid": 5,
+        "q_type": "DO",
+        "question": "what type of performance is occuring",
+        "optionA": "ballet",
+        "optionB": "introducing the hall",
+        "optionC": "street performance",
+        "optionD": "wedding",
+        "optionE": "piano",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1111/6895608152.mp4",
+        "answers": [
+            "The type of performance occurring in the video is a ballet performance."
+        ],
+        "question_w_options": "What type of performance is occuring? Choose your answer from below options: A.ballet, B.introducing the hall, C.street performance, D.wedding, E.piano.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "2405940242_0",
+        "uid": "2405940242",
+        "qid": 0,
+        "q_type": "CW",
+        "question": "why is the lady in white wearing a helmet",
+        "optionA": "experimenting with chemicals",
+        "optionB": "safety",
+        "optionC": "skiing",
+        "optionD": "sunny",
+        "optionE": "take photo",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0043/2405940242.mp4",
+        "answers": [
+            "The lady in white is wearing a helmet for safety reasons. She is wearing the helmet while hiking through the forest as a safety precaution to protect her head from potential hazards like falling branches, rocks, or uneven terrain. Additionally, she is also wearing a helmet while riding a zip line to protect her head from injuries in case of falls or accidents during the high-speed activity."
+        ],
+        "question_w_options": "Why is the lady in white wearing a helmet? Choose your answer from below options: A.experimenting with chemicals, B.safety, C.skiing, D.sunny, E.take photo.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "7308042410_3",
+        "uid": "7308042410",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "why is the girl bending forward at the beginning of the video",
+        "optionA": "drag the red box",
+        "optionB": "move skateboard",
+        "optionC": "pick up toy",
+        "optionD": "making pottery",
+        "optionE": "singing to microphone",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1010/7308042410.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the girl is bending forward at the beginning of the video because she is making pottery. She is using a pottery wheel to shape the clay into a bowl, which requires her to focus on the task and maintain proper posture to ensure the pottery is formed correctly."
+        ],
+        "question_w_options": "Why is the girl bending forward at the beginning of the video? Choose your answer from below options: A.drag the red box, B.move skateboard, C.pick up toy, D.making pottery, E.singing to microphone.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "7499763064_5",
+        "uid": "7499763064",
+        "qid": 5,
+        "q_type": "CW",
+        "question": "why did the man stretch his arm out to touch the rope in the middle",
+        "optionA": "connect to boat",
+        "optionB": "doing tricks",
+        "optionC": "stabilise the rope",
+        "optionD": "exercise",
+        "optionE": "adjusting own harness",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1150/7499763064.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the man stretched his arm out to touch the rope in the middle to maintain balance, ensure he is securely attached to the rope, and stabilize himself while climbing the rocky mountain. Therefore, the correct answer is C. stabilise the rope."
+        ],
+        "question_w_options": "Why did the man stretch his arm out to touch the rope in the middle? Choose your answer from below options: A.connect to boat, B.doing tricks, C.stabilise the rope, D.exercise, E.adjusting own harness.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "8740703217_1",
+        "uid": "8740703217",
+        "qid": 1,
+        "q_type": "TN",
+        "question": "what does the baby do after she stops waving her arm up and down",
+        "optionA": "kiss baby cheeks",
+        "optionB": "walk through her legs",
+        "optionC": "smile",
+        "optionD": "eat the food",
+        "optionE": "bring book closer to baby",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1155/8740703217.mp4",
+        "answers": [
+            "After the baby stops waving her arm up and down, she starts eating food from her high chair. She is holding a piece of broccoli in her hand, suggesting that she is enjoying her meal."
+        ],
+        "question_w_options": "What does the baby do after she stops waving her arm up and down? Choose your answer from below options: A.kiss baby cheeks, B.walk through her legs, C.smile, D.eat the food, E.bring book closer to baby.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "3821781616_5",
+        "uid": "3821781616",
+        "qid": 5,
+        "q_type": "DL",
+        "question": "where is the man at",
+        "optionA": "classroom",
+        "optionB": "roadside",
+        "optionC": "mountain",
+        "optionD": "hallway",
+        "optionE": "living room",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1110/3821781616.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the man is in a living room."
+        ],
+        "question_w_options": "Where is the man at? Choose your answer from below options: A.classroom, B.roadside, C.mountain, D.hallway, E.living room.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "3943634344_8",
+        "uid": "3943634344",
+        "qid": 8,
+        "q_type": "CH",
+        "question": "how did the lady compliment the girl at the end of the video",
+        "optionA": "kissed her head",
+        "optionB": "pointing her finger",
+        "optionC": "puts hand on the baby s head",
+        "optionD": "claps",
+        "optionE": "stand facing the man",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1028/3943634344.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the lady complimented the girl at the end of the video by saying, \"You are so cute.\" This corresponds to option A: kissed her head."
+        ],
+        "question_w_options": "How did the lady compliment the girl at the end of the video? Choose your answer from below options: A.kissed her head, B.pointing her finger, C.puts hand on the baby s head, D.claps, E.stand facing the man.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "6329077812_7",
+        "uid": "6329077812",
+        "qid": 7,
+        "q_type": "TP",
+        "question": "what did the lady do before wipping the baby s mouth",
+        "optionA": "touch the baby again",
+        "optionB": "turn away",
+        "optionC": "adjusts the baby in grey",
+        "optionD": "smiling",
+        "optionE": "take napkin",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0058/6329077812.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, before wiping the baby's mouth, the lady was feeding the baby with a bottle."
+        ],
+        "question_w_options": "What did the lady do before wipping the baby s mouth? Choose your answer from below options: A.touch the baby again, B.turn away, C.adjusts the baby in grey, D.smiling, E.take napkin.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "4815534482_7",
+        "uid": "4815534482",
+        "qid": 7,
+        "q_type": "CW",
+        "question": "why did the boy shift around",
+        "optionA": "sitting on a swing",
+        "optionB": "looking for his toys",
+        "optionC": "dancing",
+        "optionD": "reaching for the horn",
+        "optionE": "play around",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1017/4815534482.mp4",
+        "answers": [
+            "The boy shifted around in the toy car because he was trying to find a comfortable and secure position to sit in while driving the toy vehicle. As a young child, he might not have the same level of experience or understanding of the car's controls as an adult, so he might have been adjusting his body position to ensure that he could operate the car effectively and safely. Additionally, the boy could have been trying to find a comfortable seating position or trying to reach the pedals or steering wheel more easily."
+        ],
+        "question_w_options": "Why did the boy shift around? Choose your answer from below options: A.sitting on a swing, B.looking for his toys, C.dancing, D.reaching for the horn, E.play around.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "4584426085_1",
+        "uid": "4584426085",
+        "qid": 1,
+        "q_type": "TN",
+        "question": "what did the lady do after grabbing the puppy the second time",
+        "optionA": "walk across",
+        "optionB": "dress the puppy",
+        "optionC": "no",
+        "optionD": "place paw on her palm",
+        "optionE": "shift her weight",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1014/4584426085.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, after grabbing the puppy the second time, the lady placed the puppy on the floor."
+        ],
+        "question_w_options": "What did the lady do after grabbing the puppy the second time? Choose your answer from below options: A.walk across, B.dress the puppy, C.no, D.place paw on her palm, E.shift her weight.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "answer full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    },
+    {
+        "quid": "4263096481_0",
+        "uid": "4263096481",
+        "qid": 0,
+        "q_type": "CH",
+        "question": "how does the man cut the fish first",
+        "optionA": "cut the tail",
+        "optionB": "cut the body",
+        "optionC": "remove the fins",
+        "optionD": "remove the scale",
+        "optionE": "cut off the head",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1015/4263096481.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the man cuts the fish by using a knife to slice through its body. The correct answer is B. cut the body."
+        ],
+        "question_w_options": "How does the man cut the fish first? Choose your answer from below options: A.cut the tail, B.cut the body, C.remove the fins, D.remove the scale, E.cut off the head.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "7533369046_6",
+        "uid": "7533369046",
+        "qid": 6,
+        "q_type": "TC",
+        "question": "what was the baby doing to the white box",
+        "optionA": "drop it",
+        "optionB": "sitting on the box",
+        "optionC": "hitting the box",
+        "optionD": "pulling the box",
+        "optionE": "carry it to the side",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1007/7533369046.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the baby was pulling the white box towards her."
+        ],
+        "question_w_options": "What was the baby doing to the white box? Choose your answer from below options: A.drop it, B.sitting on the box, C.hitting the box, D.pulling the box, E.carry it to the side.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "4273039295_4",
+        "uid": "4273039295",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "why does the baby bend down near the tree",
+        "optionA": "pick up snow ball",
+        "optionB": "to move the bicycle",
+        "optionC": "someone is calling her",
+        "optionD": "crawling",
+        "optionE": "play with ball",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1101/4273039295.mp4",
+        "answers": [
+            "Based on the analyzed frames, the baby bends down near the tree to pick up a snowball. The snowball provides a fun and engaging activity for the baby, allowing them to explore their surroundings and interact with the environment in the snowy field."
+        ],
+        "question_w_options": "Why does the baby bend down near the tree? Choose your answer from below options: A.pick up snow ball, B.to move the bicycle, C.someone is calling her, D.crawling, E.play with ball.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "5902452647_0",
+        "uid": "5902452647",
+        "qid": 0,
+        "q_type": "CW",
+        "question": "why did the baby hold the ball and moving forward",
+        "optionA": "give ball to lady",
+        "optionB": "kick off the ground",
+        "optionC": "to throw it",
+        "optionD": "wants to play with girl",
+        "optionE": "person inside is walking",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1051/5902452647.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the baby is holding the ball and moving forward because they are playing with the ball. It is likely that the baby is exploring, learning to walk, or interacting with their surroundings through play."
+        ],
+        "question_w_options": "Why did the baby hold the ball and moving forward? Choose your answer from below options: A.give ball to lady, B.kick off the ground, C.to throw it, D.wants to play with girl, E.person inside is walking.",
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "3711681535_1",
+        "uid": "3711681535",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why does the woman let go of the handle near the end",
+        "optionA": "play with the baby",
+        "optionB": "look at donkeys",
+        "optionC": "to come down",
+        "optionD": "play with the babies",
+        "optionE": "watch somewhere",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1025/3711681535.mp4",
+        "answers": [
+            "Based on the information extracted from the sampled frames, the woman let go of the handle near the end of the wire walk because she was about to complete her walk across the wire. This action was necessary for a smooth transition from the wire walk to the ground and to ensure a safe and controlled descent."
+        ],
+        "question_w_options": "Why does the woman let go of the handle near the end? Choose your answer from below options: A.play with the baby, B.look at donkeys, C.to come down, D.play with the babies, E.watch somewhere.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "3066064005_1",
+        "uid": "3066064005",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why is the woman in purple holding on to a bunch of cutlery",
+        "optionA": "distributing cutlery",
+        "optionB": "cut cake",
+        "optionC": "she just bought new cutlery",
+        "optionD": "demostrating a cooking class",
+        "optionE": "posing for camera",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1010/3066064005.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the woman in purple is holding onto a bunch of cutlery because she is in the process of setting the table for a meal. She is likely preparing to serve the food and ensure that the table is properly set for the guests."
+        ],
+        "question_w_options": "Why is the woman in purple holding on to a bunch of cutlery? Choose your answer from below options: A.distributing cutlery, B.cut cake, C.she just bought new cutlery, D.demostrating a cooking class, E.posing for camera.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "11871253306_4",
+        "uid": "11871253306",
+        "qid": 4,
+        "q_type": "CW",
+        "question": "how did the men squat down on the floor in the beginning",
+        "optionA": "hit floor with a toy",
+        "optionB": "tie shoelace",
+        "optionC": "passed ball to child",
+        "optionD": "stumble with hands",
+        "optionE": "kiss child",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1006/11871253306.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the men squatted down on the floor in the beginning to pick up a frisbee and play with the children. The most likely answer is A. hit floor with a toy. If more information is needed, the frame-extraction-tool will be used."
+        ],
+        "question_w_options": "How did the men squat down on the floor in the beginning? Choose your answer from below options: A.hit floor with a toy, B.tie shoelace, C.passed ball to child, D.stumble with hands, E.kiss child.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "8132842161_9",
+        "uid": "8132842161",
+        "qid": 9,
+        "q_type": "CW",
+        "question": "why did the man in white shirt moved his lips",
+        "optionA": "eating snacks",
+        "optionB": "drinking water",
+        "optionC": "performing",
+        "optionD": "biting straw",
+        "optionE": "talking",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1201/8132842161.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the man in the white shirt moved his lips because he was talking. He was likely engaged in conversation, explaining something, or interacting with the child he was holding."
+        ],
+        "question_w_options": "Why did the man in white shirt moved his lips? Choose your answer from below options: A.eating snacks, B.drinking water, C.performing, D.biting straw, E.talking.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "3851961428_11",
+        "uid": "3851961428",
+        "qid": 11,
+        "q_type": "TN",
+        "question": "how did the man on the most right reacted after the man in red showed him a hand gesture",
+        "optionA": "adjust the rein",
+        "optionB": "took off goggles",
+        "optionC": "performed",
+        "optionD": "grab his shoulders",
+        "optionE": "excited",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0058/3851961428.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the man on the most right reacted differently in each frame after the man in red showed him a hand gesture. In some frames, he took a picture of the hand gesture, sat down on the floor, put his hand on his head, put his hand on his face, put his hand up, laughed, and put his hand on his face again. Therefore, it seems that the man on the most right had varied reactions to the hand gesture, indicating surprise, confusion, amusement, and active participation in the moment."
+        ],
+        "question_w_options": "How did the man on the most right reacted after the man in red showed him a hand gesture? Choose your answer from below options: A.adjust the rein, B.took off goggles, C.performed, D.grab his shoulders, E.excited.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "5256928210_1",
+        "uid": "5256928210",
+        "qid": 1,
+        "q_type": "TC",
+        "question": "what does the man do as the dog stood in front of him",
+        "optionA": "walk towards the cameraman",
+        "optionB": "bends down to hug dog",
+        "optionC": "resting",
+        "optionD": "jump over dog",
+        "optionE": "pet its back",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1160/5256928210.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the man kneels down and pets the dog while it stands in front of him. Therefore, the correct answer is E. pet its back."
+        ],
+        "question_w_options": "What does the man do as the dog stood in front of him? Choose your answer from below options: A.walk towards the cameraman, B.bends down to hug dog, C.resting, D.jump over dog, E.pet its back.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "4984331176_1",
+        "uid": "4984331176",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why are the people running",
+        "optionA": "racing",
+        "optionB": "catch ball",
+        "optionC": "emergency escape",
+        "optionD": "want to pass quickly",
+        "optionE": "gate is closing",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1007/4984331176.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the people are running because they are playing a game of basketball and possibly engaging in a workout or exercise routine involving running and playing tennis to improve their fitness. The correct answer is B. catch ball."
+        ],
+        "question_w_options": "Why are the people running? Choose your answer from below options: A.racing, B.catch ball, C.emergency escape, D.want to pass quickly, E.gate is closing.",
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": false
+    },
+    {
+        "quid": "4822859674_2",
+        "uid": "4822859674",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why does the baby start climbing on the floor after walking for a while at the start of the video",
+        "optionA": "air from balloon",
+        "optionB": "to climb down the stairs",
+        "optionC": "hit toys",
+        "optionD": "fall over",
+        "optionE": "to drink",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1026/4822859674.mp4",
+        "answers": [
+            "Based on the information extracted from the sampled frames, the baby starts climbing on the floor after walking for a while at the start of the video because it is a natural part of the baby's development. Babies explore their environment and learn to interact with objects by crawling, standing, and eventually walking. As they become more confident and develop their motor skills, they may start climbing on furniture or other objects in the room. In this case, the baby is likely climbing on the floor out of curiosity and the desire to explore and interact with objects in their environment."
+        ],
+        "question_w_options": "Why does the baby start climbing on the floor after walking for a while at the start of the video? Choose your answer from below options: A.air from balloon, B.to climb down the stairs, C.hit toys, D.fall over, E.to drink.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "4978714491_2",
+        "uid": "4978714491",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why did both buses sudden start to drive off after they stopped for a while",
+        "optionA": "dog moves away",
+        "optionB": "people have gotten off bus",
+        "optionC": "finished the drill",
+        "optionD": "difference in ground levels",
+        "optionE": "traffic signal turned green",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1001/4978714491.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, it appears that the most likely reason both buses suddenly started to drive off after stopping for a while is that the traffic signal turned green. The buses may have stopped at a traffic light and proceeded to drive off once the light changed. This is a common occurrence in urban areas where traffic lights regulate the flow of vehicles at intersections."
+        ],
+        "question_w_options": "Why did both buses sudden start to drive off after they stopped for a while? Choose your answer from below options: A.dog moves away, B.people have gotten off bus, C.finished the drill, D.difference in ground levels, E.traffic signal turned green.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "9293415110_2",
+        "uid": "9293415110",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why are the people sitting behind while the girl is dancing",
+        "optionA": "playing music",
+        "optionB": "mimicking a dance",
+        "optionC": "dancing with the girl",
+        "optionD": "learn to dance",
+        "optionE": "striking a pose",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1104/9293415110.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the people sitting behind the girl while she is dancing are likely there to watch and appreciate her dance performance. They are part of the audience and have gathered to enjoy the show."
+        ],
+        "question_w_options": "Why are the people sitting behind while the girl is dancing? Choose your answer from below options: A.playing music, B.mimicking a dance, C.dancing with the girl, D.learn to dance, E.striking a pose.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "5445581571_2",
+        "uid": "5445581571",
+        "qid": 2,
+        "q_type": "TN",
+        "question": "what did the white dog do after he looked up",
+        "optionA": "hit cans",
+        "optionB": "yellow toy",
+        "optionC": "walking",
+        "optionD": "get up",
+        "optionE": "smells the black dog",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1107/5445581571.mp4",
+        "answers": [
+            "After analyzing the additional frames, it is evident that after the white dog looked up, he lay down on the floor. The action of the white dog does not match any of the provided options (A. hit cans, B. yellow toy, C. walking, D. get up, E. smells the black dog). The most accurate answer based on the frames is that the white dog lay down on the floor."
+        ],
+        "question_w_options": "What did the white dog do after he looked up? Choose your answer from below options: A.hit cans, B.yellow toy, C.walking, D.get up, E.smells the black dog.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "answer full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "3557498300_8",
+        "uid": "3557498300",
+        "qid": 8,
+        "q_type": "CH",
+        "question": "how does the boy in blue move around",
+        "optionA": "sitting on grass",
+        "optionB": "crawl forward",
+        "optionC": "roll around",
+        "optionD": "run",
+        "optionE": "in his pram",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1007/3557498300.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the boy in blue is **running** around."
+        ],
+        "question_w_options": "How does the boy in blue move around? Choose your answer from below options: A.sitting on grass, B.crawl forward, C.roll around, D.run, E.in his pram.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "6624174621_0",
+        "uid": "6624174621",
+        "qid": 0,
+        "q_type": "TC",
+        "question": "what does the girl do as the lady is sitting in front of the cake",
+        "optionA": "observing the baby",
+        "optionB": "take it away",
+        "optionC": "click the picture",
+        "optionD": "feed baby with spoon",
+        "optionE": "sit next to lady",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1015/6624174621.mp4",
+        "answers": [
+            "Based on the additional information from the extracted frames, the girl is sitting in front of the cake, looking at the lit candles on the cake, and likely waiting for the lady to blow out the candles. The options provided in the question do not directly match the actions observed in the frames."
+        ],
+        "question_w_options": "What does the girl do as the lady is sitting in front of the cake? Choose your answer from below options: A.observing the baby, B.take it away, C.click the picture, D.feed baby with spoon, E.sit next to lady.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "4942054721_7",
+        "uid": "4942054721",
+        "qid": 7,
+        "q_type": "DC",
+        "question": "how many goats can be spotted",
+        "optionA": "eight",
+        "optionB": "two",
+        "optionC": "one",
+        "optionD": "three",
+        "optionE": "four",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1002/4942054721.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames:\n- Frame 0: 2 goats\n- Frame 299: 3 goats\n- Frame 598: Several goats\n\nConsidering the information from the frames, it seems there are at least 3 goats visible in the video. So, the answer is D. three."
+        ],
+        "question_w_options": "How many goats can be spotted? Choose your answer from below options: A.eight, B.two, C.one, D.three, E.four.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "9213637099_6",
+        "uid": "9213637099",
+        "qid": 6,
+        "q_type": "DC",
+        "question": "how many people are involved",
+        "optionA": "six",
+        "optionB": "two",
+        "optionC": "five",
+        "optionD": "seven",
+        "optionE": "one",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1002/9213637099.mp4",
+        "answers": [
+            "Based on the additional analysis of the extracted frames, the number of people involved ranges from three to six. Since there is still some variation in the answers, it seems that the exact number of people involved is not consistently clear."
+        ],
+        "question_w_options": "How many people are involved? Choose your answer from below options: A.six, B.two, C.five, D.seven, E.one.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "9088819598_5",
+        "uid": "9088819598",
+        "qid": 5,
+        "q_type": "TN",
+        "question": "what does the baby do after the ball rolls to the crook of his arm",
+        "optionA": "swings with the man",
+        "optionB": "watch the ball",
+        "optionC": "stretches his arms",
+        "optionD": "throws it",
+        "optionE": "move his body",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1200/9088819598.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, after the ball rolls to the crook of the baby's arm, the baby reaches out and grabs the ball with his hand, demonstrating curiosity and interest in exploring and interacting with the ball. The correct answer is not explicitly provided in the options given. If more information is needed, I will proceed with using the frame-extraction-tool to extract additional frames from the video."
+        ],
+        "question_w_options": "What does the baby do after the ball rolls to the crook of his arm? Choose your answer from below options: A.swings with the man, B.watch the ball, C.stretches his arms, D.throws it, E.move his body.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "8464056582_5",
+        "uid": "8464056582",
+        "qid": 5,
+        "q_type": "TC",
+        "question": "what does the baby do as the dog walks away at the start",
+        "optionA": "crawl to the dog",
+        "optionB": "on the right",
+        "optionC": "go towards the man",
+        "optionD": "looking left and right",
+        "optionE": "look at baby",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1015/8464056582.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the baby crawls towards the dog as it walks away at the start."
+        ],
+        "question_w_options": "What does the baby do as the dog walks away at the start? Choose your answer from below options: A.crawl to the dog, B.on the right, C.go towards the man, D.looking left and right, E.look at baby.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "9565310990_7",
+        "uid": "9565310990",
+        "qid": 7,
+        "q_type": "TN",
+        "question": "what does the baby do after reaching the corner of the cloth",
+        "optionA": "swing it around",
+        "optionB": "touch the cloth",
+        "optionC": "turn to his back",
+        "optionD": "looks at the other side",
+        "optionE": "walking",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1021/9565310990.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, after reaching the corner of the cloth, the baby crawls out of the grass and onto the blanket. The correct answer is E. walking."
+        ],
+        "question_w_options": "What does the baby do after reaching the corner of the cloth? Choose your answer from below options: A.swing it around, B.touch the cloth, C.turn to his back, D.looks at the other side, E.walking.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "5635265624_2",
+        "uid": "5635265624",
+        "qid": 2,
+        "q_type": "CH",
+        "question": "how does the lady show affection to the baby",
+        "optionA": "pat head",
+        "optionB": "move it towards the baby",
+        "optionC": "kiss the baby",
+        "optionD": "put baby on her lap",
+        "optionE": "caress baby head",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1202/5635265624.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the lady shows affection to the baby by putting the baby on her lap and caressing the baby's head while interacting closely with the child."
+        ],
+        "question_w_options": "How does the lady show affection to the baby? Choose your answer from below options: A.pat head, B.move it towards the baby, C.kiss the baby, D.put baby on her lap, E.caress baby head.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "5833145209_2",
+        "uid": "5833145209",
+        "qid": 2,
+        "q_type": "CW",
+        "question": "why is there a puddle of water in the pot",
+        "optionA": "cooking noodles",
+        "optionB": "catch fishes",
+        "optionC": "displaced water when they jump",
+        "optionD": "for bird to drink",
+        "optionE": "the boy spilled water",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1026/5833145209.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the puddle of water in the pot is there for the bird to drink from. The birds are seen standing in the water, indicating that they are using it for hydration."
+        ],
+        "question_w_options": "Why is there a puddle of water in the pot? Choose your answer from below options: A.cooking noodles, B.catch fishes, C.displaced water when they jump, D.for bird to drink, E.the boy spilled water.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "5561024834_5",
+        "uid": "5561024834",
+        "qid": 5,
+        "q_type": "DL",
+        "question": "where is the boy hanging out",
+        "optionA": "bedroom",
+        "optionB": "by a stream",
+        "optionC": "yard",
+        "optionD": "in his backyard",
+        "optionE": "coffee shop",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1007/5561024834.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the boy is hanging out in a bedroom."
+        ],
+        "question_w_options": "Where is the boy hanging out? Choose your answer from below options: A.bedroom, B.by a stream, C.yard, D.in his backyard, E.coffee shop.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "2830899473_1",
+        "uid": "2830899473",
+        "qid": 1,
+        "q_type": "CW",
+        "question": "why do the men have their hands around each other",
+        "optionA": "show affection",
+        "optionB": "uniform costume",
+        "optionC": "prevent camera drop",
+        "optionD": "coordinate their moves",
+        "optionE": "lure the dog to jump",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1017/2830899473.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the men have their hands around each other as a sign of camaraderie, friendship, or support. They are expressing their bond and connection through this gesture, showing affection and trust towards each other. The answer is A. show affection."
+        ],
+        "question_w_options": "Why do the men have their hands around each other? Choose your answer from below options: A.show affection, B.uniform costume, C.prevent camera drop, D.coordinate their moves, E.lure the dog to jump.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "4279106208_10",
+        "uid": "4279106208",
+        "qid": 10,
+        "q_type": "CW",
+        "question": "why did the lady hold onto the child when going down the slide together",
+        "optionA": "he slipped down",
+        "optionB": "ensure child s safety",
+        "optionC": "in case baby fall down",
+        "optionD": "playing",
+        "optionE": "keep baby afloat",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1102/4279106208.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the lady held onto the child when going down the slide together to ensure the child's safety and provide support. This action was taken to prevent the child from falling or losing control on the slide, especially considering the child's small size and potential lack of strength or balance."
+        ],
+        "question_w_options": "Why did the lady hold onto the child when going down the slide together? Choose your answer from below options: A.he slipped down, B.ensure child s safety, C.in case baby fall down, D.playing, E.keep baby afloat.",
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "8464056582_4",
+        "uid": "8464056582",
+        "qid": 4,
+        "q_type": "TN",
+        "question": "what does the dog do after the baby sits down at the start",
+        "optionA": "play with dog",
+        "optionB": "sniff the babys head",
+        "optionC": "love",
+        "optionD": "move to the other side",
+        "optionE": "happy",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1015/8464056582.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, after the baby sits down at the start, the dog walks past or passes the baby."
+        ],
+        "question_w_options": "What does the dog do after the baby sits down at the start? Choose your answer from below options: A.play with dog, B.sniff the babys head, C.love, D.move to the other side, E.happy.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "3711681535_3",
+        "uid": "3711681535",
+        "qid": 3,
+        "q_type": "CW",
+        "question": "why does the woman swing her legs while swinging on the handle",
+        "optionA": "very happy",
+        "optionB": "seeking encouragement",
+        "optionC": "move it backwards and forwards",
+        "optionD": "singing",
+        "optionE": "way of swinging",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1025/3711681535.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the woman swings her legs while swinging on the handle to maintain balance and control during her aerial activity. This helps her adjust her center of gravity, create a more stable position in the air, and perform the activity more effectively."
+        ],
+        "question_w_options": "Why does the woman swing her legs while swinging on the handle? Choose your answer from below options: A.very happy, B.seeking encouragement, C.move it backwards and forwards, D.singing, E.way of swinging.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "3121571439_3",
+        "uid": "3121571439",
+        "qid": 3,
+        "q_type": "TN",
+        "question": "how does the man in black feel after the dance",
+        "optionA": "happy",
+        "optionB": "pick something up",
+        "optionC": "look at the man in white",
+        "optionD": "raise his eyebrows",
+        "optionE": "continued",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0092/3121571439.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the man in black feels happy after the dance. He is seen smiling in multiple frames, indicating that he is enjoying himself and having a good time."
+        ],
+        "question_w_options": "How does the man in black feel after the dance? Choose your answer from below options: A.happy, B.pick something up, C.look at the man in white, D.raise his eyebrows, E.continued.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    },
+    {
+        "quid": "9473479950_1",
+        "uid": "9473479950",
+        "qid": 1,
+        "q_type": "CH",
+        "question": "how did the lady ensure she does not dirty the floor while eating watermelon",
+        "optionA": "tie it up",
+        "optionB": "wear bib",
+        "optionC": "bowl",
+        "optionD": "wear vest",
+        "optionE": "tie hair up",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1022/9473479950.mp4",
+        "answers": [
+            "The lady ensured she does not dirty the floor while eating watermelon by placing a towel underneath her. This acted as a barrier between her and the floor, preventing any juice or seeds from the watermelon from falling onto the floor and making it dirty."
+        ],
+        "question_w_options": "How did the lady ensure she does not dirty the floor while eating watermelon? Choose your answer from below options: A.tie it up, B.wear bib, C.bowl, D.wear vest, E.tie hair up.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "2821968703_5",
+        "uid": "2821968703",
+        "qid": 5,
+        "q_type": "CW",
+        "question": "why is the man leaning towards the back",
+        "optionA": "supervising boy",
+        "optionB": "play the piano",
+        "optionC": "playing piano",
+        "optionD": "it s sunny",
+        "optionE": "balance better",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1104/2821968703.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the man is leaning towards the back while water skiing to maintain balance and control as he glides across the water. Leaning back helps him maintain a proper stance, distribute his weight effectively, and adjust his center of gravity to ensure stability and speed while water skiing. The correct answer is E. balance better."
+        ],
+        "question_w_options": "Why is the man leaning towards the back? Choose your answer from below options: A.supervising boy, B.play the piano, C.playing piano, D.it s sunny, E.balance better.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "7786283208_5",
+        "uid": "7786283208",
+        "qid": 5,
+        "q_type": "CH",
+        "question": "how does the girl in white move her legs in the middle",
+        "optionA": "put the table",
+        "optionB": "play with string",
+        "optionC": "kick the boy",
+        "optionD": "kick up in the air",
+        "optionE": "kick away toy",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1026/7786283208.mp4",
+        "answers": [
+            "Based on the analysis of sampled frames, the girl in white moves her legs in the middle by **kicking up in the air**. This action creates a visually striking effect with the scattered white powder around her."
+        ],
+        "question_w_options": "How does the girl in white move her legs in the middle? Choose your answer from below options: A.put the table, B.play with string, C.kick the boy, D.kick up in the air, E.kick away toy.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "8064178441_7",
+        "uid": "8064178441",
+        "qid": 7,
+        "q_type": "TN",
+        "question": "what does the baby do after moving the penguin toy nearer to him near the end of the video",
+        "optionA": "toy",
+        "optionB": "poke dough",
+        "optionC": "toss it away",
+        "optionD": "moves it around",
+        "optionE": "look at the camera",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1051/8064178441.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, after moving the penguin toy nearer to him near the end of the video, the baby starts playing with the toy. The baby engages in playful activities, such as crawling under the alphabet mat and exploring the features of the toy. This indicates that the baby is curious and actively interacting with the toy, which is typical behavior for young children."
+        ],
+        "question_w_options": "What does the baby do after moving the penguin toy nearer to him near the end of the video? Choose your answer from below options: A.toy, B.poke dough, C.toss it away, D.moves it around, E.look at the camera.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "4217422838_4",
+        "uid": "4217422838",
+        "qid": 4,
+        "q_type": "TN",
+        "question": "what did the lady do after she closed the box in front of her at the beginning of the video",
+        "optionA": "stand up",
+        "optionB": "go to the adult",
+        "optionC": "put the box aside",
+        "optionD": "point at something",
+        "optionE": "touch the child s head",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0087/4217422838.mp4",
+        "answers": [
+            "After the lady closed the box in front of her at the beginning of the video, she sat down on a chair and watched the young boy open his Christmas presents."
+        ],
+        "question_w_options": "What did the lady do after she closed the box in front of her at the beginning of the video? Choose your answer from below options: A.stand up, B.go to the adult, C.put the box aside, D.point at something, E.touch the child s head.",
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "2793806282_12",
+        "uid": "2793806282",
+        "qid": 12,
+        "q_type": "TC",
+        "question": "what did the lady in blue do when she reached the stairs",
+        "optionA": "put head on table",
+        "optionB": "sit on stairs",
+        "optionC": "goes to get food",
+        "optionD": "move hands around",
+        "optionE": "jump down stairs",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0001/2793806282.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the lady in blue, who is holding a dog, stopped at the stairs and decided to go into the pool. She did not put her head on the table, sit on the stairs, go to get food, move her hands around, or jump down the stairs."
+        ],
+        "question_w_options": "What did the lady in blue do when she reached the stairs? Choose your answer from below options: A.put head on table, B.sit on stairs, C.goes to get food, D.move hands around, E.jump down stairs.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "3524939594_2",
+        "uid": "3524939594",
+        "qid": 2,
+        "q_type": "TC",
+        "question": "how do the two men feel when they were moved backwards very quickly",
+        "optionA": "sleepy",
+        "optionB": "adorable",
+        "optionC": "calmer and happier",
+        "optionD": "thrilled",
+        "optionE": "curious and happy",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1013/3524939594.mp4",
+        "answers": [
+            "Based on the analysis of the newly extracted frames, the two men feel a sense of surprise, excitement, amusement, and a bit of disorientation when they were moved backwards very quickly. Their reactions include surprise, excitement, amusement, and a brief moment of disorientation. Therefore, the most suitable answer to the question is D. thrilled."
+        ],
+        "question_w_options": "How do the two men feel when they were moved backwards very quickly? Choose your answer from below options: A.sleepy, B.adorable, C.calmer and happier, D.thrilled, E.curious and happy.",
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "4138579400_6",
+        "uid": "4138579400",
+        "qid": 6,
+        "q_type": "TN",
+        "question": "what did the boy do after touching his spectacles",
+        "optionA": "look into camera",
+        "optionB": "touch the cat",
+        "optionC": "touch his hair",
+        "optionD": "starts running with the trolley",
+        "optionE": "play with toy",
+        "truth": 2,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1016/4138579400.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, after touching his spectacles, the boy continued to work on his project, which involves building a bridge out of marshmallows and toothpicks. He was focused on his task at the table. There is no indication of him performing any of the actions listed in the options provided."
+        ],
+        "question_w_options": "What did the boy do after touching his spectacles? Choose your answer from below options: A.look into camera, B.touch the cat, C.touch his hair, D.starts running with the trolley, E.play with toy.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": false
+    },
+    {
+        "quid": "4273039295_8",
+        "uid": "4273039295",
+        "qid": 8,
+        "q_type": "TN",
+        "question": "what does the woman in green beanie do after the child runs away for a while",
+        "optionA": "follow girl",
+        "optionB": "run and catch him",
+        "optionC": "walk around",
+        "optionD": "put hand on table",
+        "optionE": "push the board away",
+        "truth": 1,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1101/4273039295.mp4",
+        "answers": [
+            "Based on the information from the sampled frames, the woman in the green beanie follows the child after he runs away for a while. The answer is A. follow girl."
+        ],
+        "question_w_options": "What does the woman in green beanie do after the child runs away for a while? Choose your answer from below options: A.follow girl, B.run and catch him, C.walk around, D.put hand on table, E.push the board away.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "2793260225_4",
+        "uid": "2793260225",
+        "qid": 4,
+        "q_type": "DO",
+        "question": "what were there two men wearing on their heads",
+        "optionA": "flowers",
+        "optionB": "streamers",
+        "optionC": "bandages",
+        "optionD": "ribbons",
+        "optionE": "caps",
+        "truth": 4,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0066/2793260225.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the two men were wearing hats on their heads."
+        ],
+        "question_w_options": "What were there two men wearing on their heads? Choose your answer from below options: A.flowers, B.streamers, C.bandages, D.ribbons, E.caps.",
+        "predicted_options": [
+            4
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 4,
+        "is_correct": true
+    },
+    {
+        "quid": "5328004991_9",
+        "uid": "5328004991",
+        "qid": 9,
+        "q_type": "TN",
+        "question": "how does the child react after the woman takes over the stirrer",
+        "optionA": "turns around",
+        "optionB": "push food back in the mouth",
+        "optionC": "moves forward",
+        "optionD": "wants it back",
+        "optionE": "stand beside the car",
+        "truth": 3,
+        "video_path": "/share_data/NExT-QA/NExTVideo/0024/5328004991.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the child reacts positively after the woman takes over the stirrer. The child appears relieved, happy, and content with the woman's assistance. The child is smiling, indicating satisfaction and enjoyment of the situation."
+        ],
+        "question_w_options": "How does the child react after the woman takes over the stirrer? Choose your answer from below options: A.turns around, B.push food back in the mouth, C.moves forward, D.wants it back, E.stand beside the car.",
+        "predicted_options": [
+            -1
+        ],
+        "match_methods": [
+            "none"
+        ],
+        "final_predicted_option": null,
+        "is_correct": false
+    },
+    {
+        "quid": "6160414832_7",
+        "uid": "6160414832",
+        "qid": 7,
+        "q_type": "CW",
+        "question": "why is there a green mat on table",
+        "optionA": "playing board game",
+        "optionB": "cooking",
+        "optionC": "cutting paper",
+        "optionD": "cover food",
+        "optionE": "eating",
+        "truth": 0,
+        "video_path": "/share_data/NExT-QA/NExTVideo/1014/6160414832.mp4",
+        "answers": [
+            "Based on the analysis of the sampled frames, the green mat on the table is likely being used as a playing board game surface for the board game being played by the individuals in the video."
+        ],
+        "question_w_options": "Why is there a green mat on table? Choose your answer from below options: A.playing board game, B.cooking, C.cutting paper, D.cover food, E.eating.",
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": true
+    }
+]

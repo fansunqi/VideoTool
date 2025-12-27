@@ -1,0 +1,39 @@
+Creating LLM cache: cache/gpt35_cache_new_tool_8.pkl...
+
+
+Initializing Patch Zoomer Tool with model: gpt-4o, sys_prompt: None
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-QA Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-Select Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Summarizer Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing Frame Selection Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing eval-LLM for rephrase, model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Building videomme dataset...
+
+Processing: 109-1
+What is the man at the table doing while others speak to him? Choose your answer from below options: A.Writing, B.Eating, C.Drinking, D.Sleeping.
+
+Visible Frames: add 16 frames to visible frames: [0, 77, 154, 230, 307, 384, 461, 538, 614, 691, 768, 845, 922, 998, 1075, 1152]
+
+image_grid_qa_output: Based on the image sequence, the man at the table is writing while others speak to him.
+
+ToolChainOutput: Based on the image sequence, the man at the table is writing while others speak to him.
+
+1 results saved

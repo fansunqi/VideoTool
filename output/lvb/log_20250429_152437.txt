@@ -1,0 +1,74 @@
+
+Building lvb dataset...
+
+
+Processing: 86CxyhFV9MI
+/mnt/Shared_03/fsq/LongVideoBench/videos/86CxyhFV9MI.mp4
+190.15663333333333
+Input prompt:  Which subtitles appear at the same time? Choose your answer from below options: A.promisc has come to an end, in and run away countless times, i was just scared, i still, B.run away countless times, i was just scared, i still and front of our crown, like a world of souls,, C.promisc has come to an end, in and front of our crown, like a world of souls,, D.promisc has come to an end, in and captain of the godson, three three three three three three.
+Output Answer:  C
+
+
+Processing: 86CxyhFV9MI
+/mnt/Shared_03/fsq/LongVideoBench/videos/86CxyhFV9MI.mp4
+190.15663333333333
+Input prompt:  Which subtitles appear simultaneously? Choose your answer from below options: A.[applause] and Seye Seye Seye Seye Seye, B.[applause] and my love that I made on the ke is, C.captain of the godson, three three three three three three and my love that I made on the ke is, D.[applause] and captain of the godson, three three three three three three.
+Output Answer:  D. [applause] and captain of the godson, three three three three three three.
+
+
+Processing: 9PD3ciudpIE
+/mnt/Shared_03/fsq/LongVideoBench/videos/9PD3ciudpIE.mp4
+467.92
+Input prompt:  In front of an ancient building, a woman walks by holding something. when the subtitle says 'temples scattered throughout the', what color is the woman's clothing at that moment? Choose your answer from below options: A.yellow, B.green, C.blue, D.red.
+Output Answer:  A. yellow
+
+
+Processing: 9PD3ciudpIE
+/mnt/Shared_03/fsq/LongVideoBench/videos/9PD3ciudpIE.mp4
+467.92
+Input prompt:  What is the woman with the pink hat wearing? Choose your answer from below options: A.red short sleeves, B.red long sleeves, C.black long sleeves, D.pink short sleeves.
+Output Answer:  D
+
+
+Processing: 5qMcDQd17Y4
+/mnt/Shared_03/fsq/LongVideoBench/videos/5qMcDQd17Y4.mp4
+584.64
+Input prompt:  What is behind the man to his right? Choose your answer from below options: A.cell phone, B.car, C.computer, D.street light.
+Output Answer:  C.computer
+
+
+Processing: 5qMcDQd17Y4
+/mnt/Shared_03/fsq/LongVideoBench/videos/5qMcDQd17Y4.mp4
+584.64
+Input prompt:  What is behind this woman on the right? Choose your answer from below options: A.door, B.computer, C.lamp, D.phone.
+Output Answer:  A. door
+
+
+Processing: 7F9IrtSHmc0
+/mnt/Shared_03/fsq/LongVideoBench/videos/7F9IrtSHmc0.mp4
+422.6555666666667
+Input prompt:  What is he doing? Choose your answer from below options: A.drinking water, B.playing with a cell phone, C.speaking, D.dancing.
+Output Answer:  C.speaking
+
+
+Processing: 7F9IrtSHmc0
+/mnt/Shared_03/fsq/LongVideoBench/videos/7F9IrtSHmc0.mp4
+422.6555666666667
+Input prompt:  What are these people in the colorful outfits doing? Choose your answer from below options: A.Drinking water, B.Playing piano, C.Sitting, D.Dancing.
+Output Answer:  D
+
+
+Processing: QJ6sjg7SXOQ
+/mnt/Shared_03/fsq/LongVideoBench/videos/QJ6sjg7SXOQ.mp4
+468.48
+Input prompt:  What is he doing? Choose your answer from below options: A.Walking the horse, B.Punching towards the camera, C.Riding the horse, D.Kneeling down.
+Output Answer:  B
+
+
+Processing: QJ6sjg7SXOQ
+/mnt/Shared_03/fsq/LongVideoBench/videos/QJ6sjg7SXOQ.mp4
+468.48
+Input prompt:  What is this man doing? Choose your answer from below options: A.Throwing the metal bucket into the sea, B.Burning the metal bucket, C.Throwing the metal bucket on the ground, D.Dumping garbage into the metal bucket.
+Output Answer:  The man in the video is holding a metal bucket while standing under a blue sky, possibly near a coastal area given the presence of water. However, the specific actions he might be taking with the bucket, such as throwing, burning, or dumping garbage, are not shown or explicitly stated. The context leans more towards the environment and the coastal area rather than any specific action involving the bucket.
+
+10 results saved

@@ -1,0 +1,22 @@
+
+Building videomme dataset...
+
+
+Processing: 001-1
+/mnt/Shared_03/fsq/VideoMME/unzipped/data/fFjv93ACGo8.mp4
+74.30756666666667
+Input prompt:  When demonstrating the germany modern christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number? Choose your answer from below options: A.Apples, B.Candles, C.Berries, D.The three kinds are of the same number.
+Output Answer:  A.Apples
+
+
+Processing: 001-2
+/mnt/Shared_03/fsq/VideoMME/unzipped/data/fFjv93ACGo8.mp4
+74.30756666666667
+Input prompt:  What is the genre of this video? Choose your answer from below options: A.It is a news report that introduces the history behind Christmas decorations, B.It is a documentary on the evolution of Christmas holiday recipes, C.It is a travel vlog exploring Christmas markets around the world, D.It is a tutorial on DIY Christmas ornament crafting.
+Output Answer:  A
+
+
+Processing: 001-3
+/mnt/Shared_03/fsq/VideoMME/unzipped/data/fFjv93ACGo8.mp4
+74.30756666666667
+Input prompt:  How many red socks are above the fireplace at the end of this video? Choose your answer from below options: A.1, B.4, C.2, D.3.

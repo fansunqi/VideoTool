@@ -1,0 +1,22 @@
+Creating LLM cache: cache/gpt35_cache_new_tool_8.pkl...
+
+
+Initializing Patch Zoomer Tool with model: gpt-4o, sys_prompt: None
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-QA Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-Select Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Summarizer Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing Frame Selection Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini

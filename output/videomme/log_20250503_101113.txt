@@ -1,0 +1,39 @@
+Creating LLM cache: cache/gpt35_cache_new_tool_8.pkl...
+
+
+Initializing Patch Zoomer Tool with model: gpt-4o, sys_prompt: None
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-QA Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Image-Grid-Select Tool with model: gpt-4o
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o
+
+Initializing Summarizer Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing Frame Selection Tool with model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Initializing eval-LLM for rephrase, model: gpt-4o-mini
+!! OpenAI base_url set as https://api.juheai.top/v1/
+!! Cache enabled for model: gpt-4o-mini
+
+Building videomme dataset...
+
+Processing: 001-1
+
+Video path: /mnt/Shared_03/fsq/VideoMME/unzipped/data/fFjv93ACGo8.mp4
+Video duration: 74.31 seconds
+Question: When demonstrating the germany modern christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number? Choose your answer from below options: A.Apples, B.Candles, C.Berries, D.The three kinds are of the same number.
+
+Visible Frames: add 16 frames to visible frames: [0, 148, 297, 445, 594, 742, 890, 1039, 1187, 1336, 1484, 1632, 1781, 1929, 2078, 2226]
+Error in generate method: Error code: 403 - {'error': {'message': 'token quota is not enough, token remain quota: ＄0.003662, need quota: ＄0.045860 (request id: 20250503101115681565159SoXrcQwY)', 'type': 'new_api_error', 'param': '', 'code': 'pre_consume_token_quota_failed'}}
+Error type: PermissionDeniedError
+Error details: ("Error code: 403 - {'error': {'message': 'token quota is not enough, token remain quota: ＄0.003662, need quota: ＄0.045860 (request id: 20250503101115681565159SoXrcQwY)', 'type': 'new_api_error', 'param': '', 'code': 'pre_consume_token_quota_failed'}}",)

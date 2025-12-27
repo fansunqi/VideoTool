@@ -1,0 +1,32 @@
+[
+    {
+        "quid": "151-1",
+        "uid": "151",
+        "qid": "151-1",
+        "q_type": "Counting Problem",
+        "question": "How many players are in the beach volleyball game shown in the video?",
+        "optionA": "4",
+        "optionB": "5",
+        "optionC": "6",
+        "optionD": "3",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "question_w_options": "How many players are in the beach volleyball game shown in the video? Choose your answer from below options: A.4, B.5, C.6, D.3.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/JP67IM1LX-M.mp4",
+        "answers": [
+            "Based on the image sequence, particularly frames 14 and 15, there are 4 players in the beach volleyball game. So, the answer is A. 4."
+        ],
+        "video_info": {
+            "total_frames": 1228,
+            "fps": 25.0,
+            "duration": 49.12
+        },
+        "visible_frames_num": 15.0,
+        "visible_frames_fps": 0.30537459283387625
+    }
+]

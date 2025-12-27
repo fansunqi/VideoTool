@@ -1,0 +1,382 @@
+[
+    {
+        "quid": "001-1",
+        "uid": "001",
+        "qid": "001-1",
+        "q_type": "Counting Problem",
+        "question": "When demonstrating the germany modern christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number?",
+        "optionA": "Apples",
+        "optionB": "Candles",
+        "optionC": "Berries",
+        "optionD": "The three kinds are of the same number",
+        "options": [
+            "Apples",
+            "Candles",
+            "Berries",
+            "The three kinds are of the same number"
+        ],
+        "question_w_options": "When demonstrating the germany modern christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number?? Choose your answer from below options: A.Apples, B.Candles, C.Berries, D.The three kinds are of the same number.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/fFjv93ACGo8.mp4",
+        "answers": [
+            "D.The three kinds are of the same number."
+        ],
+        "video_info": {
+            "total_frames": 2227,
+            "fps": 29.97002997002997,
+            "duration": 74.30756666666667
+        },
+        "visible_frames_num": 9.0,
+        "visible_frames_fps": 0.12111821721161639,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "001-2",
+        "uid": "001",
+        "qid": "001-2",
+        "q_type": "Information Synopsis",
+        "question": "What is the genre of this video?",
+        "optionA": "It is a news report that introduces the history behind Christmas decorations",
+        "optionB": "It is a documentary on the evolution of Christmas holiday recipes",
+        "optionC": "It is a travel vlog exploring Christmas markets around the world",
+        "optionD": "It is a tutorial on DIY Christmas ornament crafting",
+        "options": [
+            "It is a news report that introduces the history behind Christmas decorations",
+            "It is a documentary on the evolution of Christmas holiday recipes",
+            "It is a travel vlog exploring Christmas markets around the world",
+            "It is a tutorial on DIY Christmas ornament crafting"
+        ],
+        "question_w_options": "What is the genre of this video?? Choose your answer from below options: A.It is a news report that introduces the history behind Christmas decorations, B.It is a documentary on the evolution of Christmas holiday recipes, C.It is a travel vlog exploring Christmas markets around the world, D.It is a tutorial on DIY Christmas ornament crafting.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/fFjv93ACGo8.mp4",
+        "answers": [
+            "D.It is a tutorial on DIY Christmas ornament crafting."
+        ],
+        "video_info": {
+            "total_frames": 2227,
+            "fps": 29.97002997002997,
+            "duration": 74.30756666666667
+        },
+        "visible_frames_num": 4.0,
+        "visible_frames_fps": 0.0538303187607184,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": false
+    },
+    {
+        "quid": "001-3",
+        "uid": "001",
+        "qid": "001-3",
+        "q_type": "Counting Problem",
+        "question": "How many red socks are above the fireplace at the end of this video?",
+        "optionA": "1",
+        "optionB": "4",
+        "optionC": "2",
+        "optionD": "3",
+        "options": [
+            "1",
+            "4",
+            "2",
+            "3"
+        ],
+        "question_w_options": "How many red socks are above the fireplace at the end of this video?? Choose your answer from below options: A.1, B.4, C.2, D.3.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/fFjv93ACGo8.mp4",
+        "answers": [
+            "C.2"
+        ],
+        "video_info": {
+            "total_frames": 2227,
+            "fps": 29.97002997002997,
+            "duration": 74.30756666666667
+        },
+        "visible_frames_num": 5.0,
+        "visible_frames_fps": 0.067287898450898,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "002-1",
+        "uid": "002",
+        "qid": "002-1",
+        "q_type": "Object Recognition",
+        "question": "Which of the following features/items is not discussed in the video in relation to the tomb?",
+        "optionA": "Inkstone",
+        "optionB": "Niche",
+        "optionC": "Jade",
+        "optionD": "Sacrificial table",
+        "options": [
+            "Inkstone",
+            "Niche",
+            "Jade",
+            "Sacrificial table"
+        ],
+        "question_w_options": "Which of the following features/items is not discussed in the video in relation to the tomb?? Choose your answer from below options: A.Inkstone, B.Niche, C.Jade, D.Sacrificial table.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/N1cdUjctpG8.mp4",
+        "answers": [
+            "C.Jade"
+        ],
+        "video_info": {
+            "total_frames": 2590,
+            "fps": 30.0,
+            "duration": 86.33333333333333
+        },
+        "visible_frames_num": 10.0,
+        "visible_frames_fps": 0.11583011583011583,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "002-2",
+        "uid": "002",
+        "qid": "002-2",
+        "q_type": "Action Reasoning",
+        "question": "Which of the following reasons motivated the archaeologists to excavate the tomb?",
+        "optionA": "Because it's from Ming Dynasty and of specific archaeological significance",
+        "optionB": "Because a new railway line will be built nearby",
+        "optionC": "Because there were treasures inside the tomb",
+        "optionD": "Highway realignment",
+        "options": [
+            "Because it's from Ming Dynasty and of specific archaeological significance",
+            "Because a new railway line will be built nearby",
+            "Because there were treasures inside the tomb",
+            "Highway realignment"
+        ],
+        "question_w_options": "Which of the following reasons motivated the archaeologists to excavate the tomb?? Choose your answer from below options: A.Because it's from Ming Dynasty and of specific archaeological significance, B.Because a new railway line will be built nearby, C.Because there were treasures inside the tomb, D.Highway realignment.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/N1cdUjctpG8.mp4",
+        "answers": [
+            "C.Because there were treasures inside the tomb,"
+        ],
+        "video_info": {
+            "total_frames": 2590,
+            "fps": 30.0,
+            "duration": 86.33333333333333
+        },
+        "visible_frames_num": 10.0,
+        "visible_frames_fps": 0.11583011583011583,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "002-3",
+        "uid": "002",
+        "qid": "002-3",
+        "q_type": "Counting Problem",
+        "question": "How many porcelain jars were discovered in the niches located in the primary chamber of the tomb?",
+        "optionA": "4",
+        "optionB": "9",
+        "optionC": "5",
+        "optionD": "13",
+        "options": [
+            "4",
+            "9",
+            "5",
+            "13"
+        ],
+        "question_w_options": "How many porcelain jars were discovered in the niches located in the primary chamber of the tomb?? Choose your answer from below options: A.4, B.9, C.5, D.13.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/N1cdUjctpG8.mp4",
+        "answers": [
+            "A.4"
+        ],
+        "video_info": {
+            "total_frames": 2590,
+            "fps": 30.0,
+            "duration": 86.33333333333333
+        },
+        "visible_frames_num": 11.0,
+        "visible_frames_fps": 0.1274131274131274,
+        "predicted_options": [
+            0
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 0,
+        "is_correct": false
+    },
+    {
+        "quid": "003-1",
+        "uid": "003",
+        "qid": "003-1",
+        "q_type": "Counting Problem",
+        "question": "How many national flags appear in the video?",
+        "optionA": "3",
+        "optionB": "4",
+        "optionC": "2",
+        "optionD": "5",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+        ],
+        "question_w_options": "How many national flags appear in the video?? Choose your answer from below options: A.3, B.4, C.2, D.5.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/HIjX8OPuf-w.mp4",
+        "answers": [
+            "C.2"
+        ],
+        "video_info": {
+            "total_frames": 2712,
+            "fps": 23.976023976023978,
+            "duration": 113.11299999999999
+        },
+        "visible_frames_num": 3.0,
+        "visible_frames_fps": 0.02652215041595573,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": false
+    },
+    {
+        "quid": "003-2",
+        "uid": "003",
+        "qid": "003-2",
+        "q_type": "Object Recognition",
+        "question": "What is the video telling when the burger placed in the upper right corner at the end of the video first appears?",
+        "optionA": "Beef with spices came from Russia to Germany",
+        "optionB": "The steak began to be sandwiched between two pieces of bread",
+        "optionC": "Steak burgers spread throughout the United States",
+        "optionD": "The standardization of hamburgers",
+        "options": [
+            "Beef with spices came from Russia to Germany",
+            "The steak began to be sandwiched between two pieces of bread",
+            "Steak burgers spread throughout the United States",
+            "The standardization of hamburgers"
+        ],
+        "question_w_options": "What is the video telling when the burger placed in the upper right corner at the end of the video first appears?? Choose your answer from below options: A.Beef with spices came from Russia to Germany, B.The steak began to be sandwiched between two pieces of bread, C.Steak burgers spread throughout the United States, D.The standardization of hamburgers.",
+        "truth": 2,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/HIjX8OPuf-w.mp4",
+        "answers": [
+            "C.Steak burgers spread throughout the United States."
+        ],
+        "video_info": {
+            "total_frames": 2712,
+            "fps": 23.976023976023978,
+            "duration": 113.11299999999999
+        },
+        "visible_frames_num": 2.0,
+        "visible_frames_fps": 0.017681433610637152,
+        "predicted_options": [
+            2
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 2,
+        "is_correct": true
+    },
+    {
+        "quid": "003-3",
+        "uid": "003",
+        "qid": "003-3",
+        "q_type": "Object Reasoning",
+        "question": "In which country is the food featured in the video recognized worldwide?",
+        "optionA": "Mongolia",
+        "optionB": "Russia",
+        "optionC": "Germany",
+        "optionD": "United States",
+        "options": [
+            "Mongolia",
+            "Russia",
+            "Germany",
+            "United States"
+        ],
+        "question_w_options": "In which country is the food featured in the video recognized worldwide?? Choose your answer from below options: A.Mongolia, B.Russia, C.Germany, D.United States.",
+        "truth": 3,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/HIjX8OPuf-w.mp4",
+        "answers": [
+            "D.United States."
+        ],
+        "video_info": {
+            "total_frames": 2712,
+            "fps": 23.976023976023978,
+            "duration": 113.11299999999999
+        },
+        "visible_frames_num": 4.0,
+        "visible_frames_fps": 0.035362867221274304,
+        "predicted_options": [
+            3
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 3,
+        "is_correct": true
+    },
+    {
+        "quid": "004-1",
+        "uid": "004",
+        "qid": "004-1",
+        "q_type": "Temporal Perception",
+        "question": "According to the video, which of the following is considered the earliest stage of human evolution?",
+        "optionA": "Ramapithecus",
+        "optionB": "Dryopithecus",
+        "optionC": "Ardipithecus Ramidus",
+        "optionD": "Homo Sapiens",
+        "options": [
+            "Ramapithecus",
+            "Dryopithecus",
+            "Ardipithecus Ramidus",
+            "Homo Sapiens"
+        ],
+        "question_w_options": "According to the video, which of the following is considered the earliest stage of human evolution?? Choose your answer from below options: A.Ramapithecus, B.Dryopithecus, C.Ardipithecus Ramidus, D.Homo Sapiens.",
+        "truth": 1,
+        "video_path": "/mnt/Shared_05_disk/fsq/VideoMME/data/HwnB8aCn8yE.mp4",
+        "answers": [
+            "B.Dryopithecus"
+        ],
+        "video_info": {
+            "total_frames": 2428,
+            "fps": 25.0,
+            "duration": 97.12
+        },
+        "visible_frames_num": 6.0,
+        "visible_frames_fps": 0.06177924217462932,
+        "predicted_options": [
+            1
+        ],
+        "match_methods": [
+            "option full matching"
+        ],
+        "final_predicted_option": 1,
+        "is_correct": true
+    }
+]

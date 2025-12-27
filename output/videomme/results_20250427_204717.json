@@ -1,0 +1,32 @@
+[
+    {
+        "quid": "109-1",
+        "uid": "109",
+        "qid": "109-1",
+        "q_type": "Action Recognition",
+        "question": "What is the man at the table doing while others speak to him?",
+        "optionA": "Writing",
+        "optionB": "Eating",
+        "optionC": "Drinking",
+        "optionD": "Sleeping",
+        "options": [
+            "Writing",
+            "Eating",
+            "Drinking",
+            "Sleeping"
+        ],
+        "question_w_options": "What is the man at the table doing while others speak to him? Choose your answer from below options: A.Writing, B.Eating, C.Drinking, D.Sleeping.",
+        "truth": 0,
+        "video_path": "/mnt/Shared_03/fsq/VideoMME/unzipped/data/qu9ImFMLYxw.mp4",
+        "answers": [
+            "Based on the image sequence, the man at the table is writing while others speak to him."
+        ],
+        "video_info": {
+            "total_frames": 1153,
+            "fps": 23.976023976023978,
+            "duration": 48.08970833333333
+        },
+        "visible_frames_num": 16.0,
+        "visible_frames_fps": 0.3327115209162044
+    }
+]
