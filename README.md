@@ -19,7 +19,7 @@ This repository is the official implementation of [Tool-Augmented Spatiotemporal
 
 In this work, we equip MLLM with a comprehensive and extensible **Video Toolkit**, to enhance MLLM's spatiotemporal reasoning capabilities and ensure the harmony between the quantity and diversity of tools. To better control the tool invocation sequence and avoid toolchain shortcut issues, we propose a **Spatiotemporal Reasoning Framework (STAR)** that strategically schedules temporal and spatial tools, thereby progressively localizing the key area in the video. Our STAR framework enhances GPT-4o using lightweight tools, achieving an 8.2% gain on VideoMME and 4.6% on LongVideoBench. 
 
-<img src="assets/teaser.pdf" style="zoom:100%;" />
+<img src="assets/teaser.png" style="zoom:100%;" />
 
 
 ## Setup and Configuration 🛠️
