@@ -1,0 +1,1 @@
+python -m tools.image_grid_qa 

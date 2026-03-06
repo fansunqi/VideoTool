@@ -153,11 +153,11 @@ if __name__ == "__main__":
     model = BlipForQuestionAnswering.from_pretrained("Salesforce/blip-vqa-base").to("cuda" if torch.cuda.is_available() else "cpu")
     
     # 加载图像
-    image_path = "/home/fsq/video_agent/ToolChainVideo/misc/car.jpg"
+    image_path = "/assets/teaser.png"
     image = Image.open(image_path).convert("RGB")
 
     # 定义问题
-    question = "What is the color of the car?"
+    question = "What is the picture about?"
     
     
     # 处理输入
