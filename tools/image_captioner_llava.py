@@ -148,25 +148,28 @@ class ImageCaptionerLLaVA:
 
 
 if __name__ == "__main__":
-    # 加载预训练的处理器和模型
-    processor = BlipProcessor.from_pretrained("Salesforce/blip-vqa-base")
-    model = BlipForQuestionAnswering.from_pretrained("Salesforce/blip-vqa-base").to("cuda" if torch.cuda.is_available() else "cpu")
-    
-    # 加载图像
-    image_path = "/assets/teaser.png"
-    image = Image.open(image_path).convert("RGB")
+    import json
+    from omegaconf import OmegaConf
+    from visible_frames import VisibleFrames
 
-    # 定义问题
-    question = "What is the picture about?"
-    
-    
-    # 处理输入
-    inputs = processor(image, question, return_tensors="pt").to("cuda" if torch.cuda.is_available() else "cpu")
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
 
-    # 推理
-    output = model.generate(**inputs)
+    video_path = tc["video_path"]
 
-    # 解码答案
-    answer = processor.decode(output[0], skip_special_tokens=True)
-    print(f"Question: {question}")
-    print(f"Answer: {answer}")
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=4,  # 少量帧加速测试
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+    print(f"Initial visible frames: {visible_frames.get_frame_count()}")
+
+    captioner = ImageCaptionerLLaVA(conf)
+    captioner.set_frames(visible_frames)
+    captioner.set_video_path(video_path)
+
+    result = captioner.inference(input="placeholder")
+    print(f"Result:\n{result}")
+
+# python -m tools.image_captioner_llava

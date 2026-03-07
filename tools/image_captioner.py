@@ -74,3 +74,30 @@ class ImageCaptioner:
 
         return result       
 
+
+if __name__ == "__main__":
+    import json
+    from omegaconf import OmegaConf
+    from visible_frames import VisibleFrames
+
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=4,  # 少量帧加速测试
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+    print(f"Initial visible frames: {visible_frames.get_frame_count()}")
+
+    captioner = ImageCaptioner(conf)
+    captioner.set_frames(visible_frames)
+
+    result = captioner.inference(input="placeholder")
+    print(f"Result:\n{result}")
+
+# python -m tools.image_captioner
+

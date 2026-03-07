@@ -115,23 +115,27 @@ class YOLOTracker:
     
 
 if __name__ == "__main__":
-    # 初始化 YOLO 模型
-    model_path = "checkpoints/yoloe-11l-seg.pt"
-    
-    # e.g.1
-    video_path = "/share_data/NExT-QA/NExTVideo/1164/3238737531.mp4"
-    question_w_options = "How many children are in the video? Choose your answer from below selections: A.one, B.three, C.seven, D.two, E.five."
-    object_to_track = "children"
+    import json
+    from omegaconf import OmegaConf
+    from visible_frames import VisibleFrames
 
-    # Frame-level
-    yolo_tracker = YOLOTracker(model_path=model_path)
-    
-    video_stride = 30  # 设置视频 stride，跳过的帧数
-    from frame_selector import *
-    frames = select_frames(video_path=video_path, video_stride=video_stride)
-    yolo_tracker.set_frames(frames)
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
 
-    result_message = yolo_tracker.inference(object_to_track)
-    print(result_message)
+    video_path = tc["video_path"]
 
-    
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=8,  # 少量帧加速测试
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+    print(f"Initial visible frames: {visible_frames.get_frame_count()}")
+
+    yolo_tracker = YOLOTracker(conf=conf)
+    yolo_tracker.set_frames(visible_frames)
+
+    result = yolo_tracker.inference(input="person")
+    print(f"Result:\n{result}")
+
+# python -m tools.yolo_tracker

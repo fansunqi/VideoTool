@@ -304,20 +304,30 @@ class ImageGridQA:
 
 
 if __name__ == "__main__":
+    import json
+    from omegaconf import OmegaConf
+    from visible_frames import VisibleFrames
 
-    conf = OmegaConf.load("/home/fsq/video_agent/ToolChainVideo/config/videomme.yaml")
-    conf.tool.image_grid_qa.mode = "by_video_path"
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+    question = tc["question_w_options"]
+
+    # 测试 by_visible_frames 模式
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=conf.visible_frames.init_interval_num,
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+    print(f"Initial visible frames: {visible_frames.get_frame_count()}")
+
     image_grid_qa = ImageGridQA(conf)
-
-    video_path = "/share_data/NExT-QA/NExTVideo/1106/4010069381.mp4"
-    question_w_options = "How do the two man play the instrument? Choose your answer from below options: A.roll the handle, B.tap their feet, C.strum the string, D.hit with sticks, E.pat with hand."
-    
-
+    image_grid_qa.set_frames(visible_frames)
     image_grid_qa.set_video_path(video_path)
-    
-    result = image_grid_qa.inference(input=question_w_options)
-    print(f"Result: {result}")
-    
-    print("main done")
 
-# python -m tools.image_grid_qa 
+    result = image_grid_qa.inference(input=question)
+    print(f"Result: {result}")
+
+# python -m tools.image_grid_qa

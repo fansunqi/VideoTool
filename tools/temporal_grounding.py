@@ -203,23 +203,37 @@ class TemporalGrounding:
         
         
 if __name__ == "__main__":
-    conf = OmegaConf.load("/home/fsq/video_agent/ToolChainVideo/config/nextqa_st.yaml")
-    temporal_grounding = TemporalGrounding(conf)
-    
+    import json
+    from visible_frames import VisibleFrames
     from util import load_temporal_model
+
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+    question = tc["question"]
+
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=conf.visible_frames.init_interval_num,
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+    print(f"Initial visible frames: {visible_frames.get_frame_count()}")
+
+    temporal_grounding = TemporalGrounding(conf)
+    temporal_grounding.set_frames(visible_frames)
+    temporal_grounding.set_video_path(video_path)
+
     temporal_model = load_temporal_model(
         weight_path=conf.tool.temporal_model.weight_path,
         device=conf.tool.temporal_model.device,
-        llm_type=conf.tool.temporal_model.llm_type
+        llm_type=conf.tool.temporal_model.llm_type,
     )
     temporal_grounding.set_model(temporal_model)
 
-    # e.g.1
-    video_path = "/home/fsq/video_agent/ToolChainVideo/projects/Grounded-Video-LLM/experiments/_3klvlS4W7A.mp4"
-    input_question = "The female host wearing purple clothes is reporting news in the studio"
-    
-    temporal_grounding.set_video_path(video_path)
-    result = temporal_grounding.inference(input=input_question)
+    result = temporal_grounding.inference(input=question)
     print(f"Result: {result}")
-    
-    print("main done") 
+    print(f"Visible frames after grounding: {visible_frames.get_frame_count()}")
+
+# python -m tools.temporal_grounding

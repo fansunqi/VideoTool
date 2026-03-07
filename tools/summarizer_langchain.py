@@ -58,3 +58,12 @@ class Summarizer:
         print("\nSummarizer Output Answer: ", output.content)
 
         return output.content
+
+
+if __name__ == "__main__":
+    # NOTE: 此工具依赖 conf.openai.* 配置（GPT_API_KEY, GPT_MODEL_NAME, PROXY），
+    # 与当前 star_single_video.yaml 配置结构不同，属于 langchain 旧版 Summarizer。
+    # 如需测试，需提供包含 openai 配置段的 yaml 文件。
+    print("summarizer_langchain: skipped (requires conf.openai.* config)")
+
+# python -m tools.summarizer_langchain

@@ -61,3 +61,35 @@ class Summarizer:
         print("\nSummarizer Output Answer: ", output)
 
         return output
+
+
+if __name__ == "__main__":
+    import json
+    from omegaconf import OmegaConf
+    from visible_frames import VisibleFrames
+
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+    question = tc["question"]
+
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=conf.visible_frames.init_interval_num,
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+
+    # 模拟一些 qa_info 数据，否则 Summarizer 没有信息可汇总
+    for frame in visible_frames.frames:
+        frame.qa_info[question] = "This frame shows a scene related to human evolution."
+
+    summarizer = Summarizer(conf)
+    summarizer.set_frames(visible_frames)
+    summarizer.set_video_path(video_path)
+
+    result = summarizer.inference(input=question)
+    print(f"Result: {result}")
+
+# python -m tools.summarizer

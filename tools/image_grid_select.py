@@ -273,20 +273,30 @@ class ImageGridSelect:
 
 
 if __name__ == "__main__":
+    import json
+    from omegaconf import OmegaConf
+    from visible_frames import VisibleFrames
 
-    conf = OmegaConf.load("/home/fsq/video_agent/ToolChainVideo/config/videomme.yaml")
-    conf.tool.image_grid_qa.mode = "by_video_path"
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+    question = tc["question_w_options"]
+
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=conf.visible_frames.init_interval_num,
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+    print(f"Initial visible frames: {visible_frames.get_frame_count()}")
+
     image_grid_select = ImageGridSelect(conf)
-
-    video_path = "/share_data/NExT-QA/NExTVideo/1106/4010069381.mp4"
-    question_w_options = "How do the two man play the instrument? Choose your answer from below options: A.roll the handle, B.tap their feet, C.strum the string, D.hit with sticks, E.pat with hand."
-    
-
+    image_grid_select.set_frames(visible_frames)
     image_grid_select.set_video_path(video_path)
-    
-    result = image_grid_select.inference(input=question_w_options)
-    print(f"Result: {result}")
-    
-    print("main done")
 
-# python -m tools.image_grid_select 
+    result = image_grid_select.inference(input=question)
+    print(f"Result: {result}")
+    print(f"Visible frames after selection: {visible_frames.get_frame_count()}")
+
+# python -m tools.image_grid_select

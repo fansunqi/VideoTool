@@ -170,17 +170,27 @@ class TemporalReferring:
         
 
 if __name__ == "__main__":
-    conf = OmegaConf.load("/home/fsq/video_agent/ToolChainVideo/config/nextqa_new_tool.yaml")
+    import json
+    from visible_frames import VisibleFrames
+
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=conf.visible_frames.init_interval_num,
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+
     temporal_referring = TemporalReferring(conf)
-    
-    
-    video_path = "/home/fsq/video_agent/ToolChainVideo/projects/Grounded-Video-LLM/experiments/_3klvlS4W7A.mp4"
-    # prompt_videoqa = "Question: What does this TV news report about?\nOptions:\n(A) thievery\n(B) community violence incidents\n(C) fashion show\n(D) aging population"
-    # prompt_videoqa = "What does this TV news report about?"
-    prompt_referring = "What is happening from 70 seconds to 80 seconds?"
+    temporal_referring.set_frames(visible_frames)
     temporal_referring.set_video_path(video_path)
-    
+
+    prompt_referring = "What is happening from 10 seconds to 30 seconds?"
     result = temporal_referring.inference(input=prompt_referring)
     print(f"Result: {result}")
-    
-    print("main done") 
+
+# python -m tools.temporal_referring

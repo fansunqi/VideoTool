@@ -91,6 +91,7 @@ class TemporalQA:
         video_processor = frame_transform(image_size=224, mean=INTERNVIDEO_MEAN, std=INTERNVIDEO_STD)
         image_processor = frame_transform(image_size=336, mean=OPENAI_DATASET_MEAN, std=OPENAI_DATASET_STD)
         
+        args = _get_temporal_args()
         if self.mode == "by_video_path":
             pixel_values, frame_indices, fps, total_frame_num, duration = self.read_frames_decord(video_path)
         elif self.mode == "by_visible_frames":
@@ -157,24 +158,36 @@ class TemporalQA:
         
 
 if __name__ == "__main__":
-    conf = OmegaConf.load("/home/fsq/video_agent/ToolChainVideo/config/nextqa_st.yaml")
-    temporal_qa = TemporalQA(conf)
-
+    import json
+    from visible_frames import VisibleFrames
     from util import load_temporal_model
+
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+    question = tc["question"]
+
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=conf.visible_frames.init_interval_num,
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+    print(f"Initial visible frames: {visible_frames.get_frame_count()}")
+
+    temporal_qa = TemporalQA(conf)
+    temporal_qa.set_frames(visible_frames)
+    temporal_qa.set_video_path(video_path)
+
     temporal_model = load_temporal_model(
         weight_path=conf.tool.temporal_model.weight_path,
         device=conf.tool.temporal_model.device,
-        llm_type=conf.tool.temporal_model.llm_type
+        llm_type=conf.tool.temporal_model.llm_type,
     )
     temporal_qa.set_model(temporal_model)
-    
-    
-    video_path = "/home/fsq/video_agent/ToolChainVideo/projects/Grounded-Video-LLM/experiments/_3klvlS4W7A.mp4"
-    # prompt_videoqa = "Question: What does this TV news report about?\nOptions:\n(A) thievery\n(B) community violence incidents\n(C) fashion show\n(D) aging population"
-    prompt_videoqa = "What does this TV news report about?"
-    temporal_qa.set_video_path(video_path)
-    
-    result = temporal_qa.inference(input=prompt_videoqa)
+
+    result = temporal_qa.inference(input=question)
     print(f"Result: {result}")
-    
-    print("main done") 
+
+# python -m tools.temporal_qa

@@ -124,15 +124,27 @@ class VideoQA:
 
 
 if __name__ == "__main__":
-    conf = OmegaConf.load("/home/fsq/video_agent/ToolChainVideo/config/nextqa.yaml")
+    import json
+    from visible_frames import VisibleFrames
+
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+    question = tc["question_w_options"]
+
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=conf.visible_frames.init_interval_num,
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+
     video_qa = VideoQA(conf)
-    
-    video_path = "/home/fsq/video_agent/ToolChainVideo/projects/Grounded-Video-LLM/experiments/_3klvlS4W7A.mp4"
-    prompt_videoqa = "Question: What does this TV news report about?\nOptions:\n(A) thievery\n(B) community violence incidents\n(C) fashion show\n(D) aging population"
-    # prompt_videoqa = "What does this TV news report about?"
+    video_qa.set_frames(visible_frames)
     video_qa.set_video_path(video_path)
-    
-    result = video_qa.inference(input=prompt_videoqa)
+
+    result = video_qa.inference(input=question)
     print(f"Result: {result}")
-    
-    print("main done")
+
+# python -m tools.video_qa

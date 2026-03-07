@@ -210,14 +210,29 @@ class PatchZoomer:
 
 
 if __name__ == "__main__":
+    import json
+    from omegaconf import OmegaConf
+    from visible_frames import VisibleFrames
 
-    conf = OmegaConf.load("/home/fsq/video_agent/ToolChainVideo/config/nextqa_st.yaml")
+    conf = OmegaConf.load("config/star_single_video.yaml")
+    with open("testcases/testcase.json") as f:
+        tc = json.load(f)
+
+    video_path = tc["video_path"]
+    question = tc["question"]
+
+    visible_frames = VisibleFrames(
+        video_path=video_path,
+        init_interval_num=4,  # 少量帧加速测试
+        min_sec_interval=conf.visible_frames.min_sec_interval,
+    )
+    print(f"Initial visible frames: {visible_frames.get_frame_count()}")
+
     patch_zoomer = PatchZoomer(conf)
+    patch_zoomer.set_frames(visible_frames)
+    patch_zoomer.set_video_path(video_path)
 
-    image_path = "/home/fsq/video_agent/Octotools-Video/src/tools/relevant_patch_zoomer/examples/car.png"
-    question = "What is the color of the car?"
-    save_path = "/home/fsq/video_agent/ToolChainVideo/misc/patch_zoomer_results"
-
-    result = patch_zoomer.patch_zoom_qa(image_path=image_path, question=question, save_path=save_path)
+    result = patch_zoomer.inference(input=question)
+    print(f"Result: {result}")
 
 # python -m tools.patch_zoomer
