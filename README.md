@@ -7,7 +7,7 @@ This repository is the official implementation of [Tool-Augmented Spatiotemporal
 
 ## News and Todo 🗓️
 
-- [ ] Release tools and test scripts
+- [x] Release tools and test scripts
 
 - [x] Release toolchain algorithm (STAR)
 
@@ -98,6 +98,7 @@ Generalist Tools:
     + Image Grid QA driven by GPT-4o, adapted from https://github.com/microsoft/VLM-Video-Action-Localization
 - Video QA
     + Qwen-VL-2.5-7B: https://github.com/QwenLM/Qwen2.5-VL
+    + InternVL3-8B: https://github.com/OpenGVLab/InternVL
 - Summarizer
     + Summarize all currect information, driven by LLM.
 
