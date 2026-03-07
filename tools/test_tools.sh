@@ -42,10 +42,6 @@ if [ "$TOOL" == "summarizer" ] || [ "$TOOL" == "all_light" ]; then
     run_test "Summarizer" "tools.summarizer"
 fi
 
-if [ "$TOOL" == "summarizer_langchain" ]; then
-    run_test "Summarizer (langchain)" "tools.summarizer_langchain"
-fi
-
 # ---- 需要 GPU / 重量级模型工具 ----
 if [ "$TOOL" == "image_captioner" ]; then
     run_test "ImageCaptioner (BLIP)" "tools.image_captioner"
@@ -92,13 +88,11 @@ if [ "$TOOL" == "" ]; then
     echo ""
     echo "可测试的工具列表:"
     echo "  --- 轻量级 (仅需 OpenAI API) ---"
-    echo "  common              - 图像缩放工具函数 (无GPU)"
     echo "  frame_selector      - 帧选择工具 (LLM)"
     echo "  image_grid_qa       - 网格图问答 (VLM API)"
     echo "  image_grid_select   - 网格图片段选择 (VLM API)"
     echo "  patch_zoomer        - 区域放大 (VLM API)"
     echo "  summarizer          - 信息汇总 (LLM)"
-    echo "  summarizer_langchain - Langchain 版汇总 (需 conf.openai 配置)"
     echo "  all_light           - 运行以上所有轻量级工具测试"
     echo ""
     echo "  --- 需要 GPU 模型 ---"

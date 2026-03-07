@@ -71,6 +71,7 @@ Thanks to the authors of these open-source projects for providing excellent proj
 Temporal Tools:
 - Frame Selector
     + Select frames of interest based on current information, driven by LLM.
+    + Select frames of interest by image grid, driven by VLM.
 - Temporal Grounding
     + Grounded-Video-LLM-7B: https://github.com/WHB139426/Grounded-Video-LLM
 - Temporal Refering
@@ -88,6 +89,8 @@ Spatial Tools:
 - Image QA
     + BLIP: https://huggingface.co/docs/transformers/model_doc/blip
     + LLaVA: https://github.com/haotian-liu/LLaVA
++ Patch Zooming
+    + Zoom to the key area in the images, driven by VLM. 
 
 Generalist Tools:
 - Image Grid QA
