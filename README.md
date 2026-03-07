@@ -1,7 +1,5 @@
 # VideoTool
 
-Keep Updating...
-
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg?logo=github)](https://lbesson.mit-license.org/)
 [![Arxiv](https://img.shields.io/badge/arXiv-2512.10359-B31B1B.svg?logo=arxiv)](https://arxiv.org/abs/2512.10359)
 
@@ -93,7 +91,7 @@ Spatial Tools:
 
 Generalist Solution:
 - Image Grid QA
-    + Image Grid QA driven by GPT-4o: https://github.com/microsoft/VLM-Video-Action-Localization
+    + Image Grid QA driven by GPT-4o, adapted from https://github.com/microsoft/VLM-Video-Action-Localization
 - Video QA
     + Qwen-VL-2.5-7B: https://github.com/QwenLM/Qwen2.5-VL
 - Summarizer
@@ -132,3 +130,26 @@ Run testcases:
 bash run.sh
 ```
 Testcases can be found in ```testcases``` directory.
+
+
+
+## Evaluation
+
+
+## Acknowledgments
+We thank the developers of [OctoTools](https://octotools.github.io/) and all authors and developers of the open-source projects we used. 
+
+## Citation
+
+If you find our repo useful, please kindly consider citing:
+
+```
+@inproceedings{
+    fan2025toolaugmented,
+    title={Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task},
+    author={Sunqi Fan and Jiashuo Cui and Meng-Hao Guo and Shuojin Yang},
+    booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+    year={2025},
+    url={https://openreview.net/forum?id=OFz4VDn0SO}
+}
+```
