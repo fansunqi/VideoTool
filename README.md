@@ -2,6 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg?logo=github)](https://lbesson.mit-license.org/)
 [![Arxiv](https://img.shields.io/badge/arXiv-2512.10359-B31B1B.svg?logo=arxiv)](https://arxiv.org/abs/2512.10359)
+[![Huggingface](https://img.shields.io/badge/Huggingface-Demo-FFD21E.svg?logo=huggingface)](https://huggingface.co/papers/2512.10359)
 
 This repository is the official implementation of [Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task](https://arxiv.org/abs/2512.10359) (NeurIPS 2025 main track).
 
@@ -89,7 +90,7 @@ Spatial Tools:
     + BLIP: https://huggingface.co/docs/transformers/model_doc/blip
     + LLaVA: https://github.com/haotian-liu/LLaVA
 
-Generalist Solution:
+Generalist Tools:
 - Image Grid QA
     + Image Grid QA driven by GPT-4o, adapted from https://github.com/microsoft/VLM-Video-Action-Localization
 - Video QA
@@ -107,17 +108,16 @@ Generalist Solution:
 
 
 ## Usage
-
+Run with single video:
 ```
-cd /home/fsq/video_agent/VideoTool
-
-# reason with single video
 python run_single_video.py \
     --config config/star_single_video.yaml \
     --video_path /path/to/video.mp4 \
     --question "What is happening in the video?"
+```
 
-# reason with single video and options
+Run with single video and options
+```
 python run_single_video.py \
     --config config/star_single_video.yaml \
     --video_path /path/to/video.mp4 \
@@ -125,12 +125,10 @@ python run_single_video.py \
     --options "A. Running" "B. Swimming" "C. Cooking"
 ```
 
-Run testcases:
+Run testcases (testcases can be found in ```testcases``` directory.):
 ```
-bash run.sh
+bash run_testcases.sh
 ```
-Testcases can be found in ```testcases``` directory.
-
 
 
 ## Evaluation
@@ -140,7 +138,6 @@ Testcases can be found in ```testcases``` directory.
 We thank the developers of [OctoTools](https://octotools.github.io/) and all authors and developers of the open-source projects we used. 
 
 ## Citation
-
 If you find our repo useful, please kindly consider citing:
 
 ```
