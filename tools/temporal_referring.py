@@ -19,7 +19,10 @@ _temporal_args = None
 def _get_temporal_args():
     global _temporal_args
     if _temporal_args is None:
+        original_argv = sys.argv
+        sys.argv = sys.argv[:1]
         _temporal_args = parse_args()
+        sys.argv = original_argv
     return _temporal_args
 
 class TemporalReferring:
@@ -31,16 +34,16 @@ class TemporalReferring:
         self.visible_frames = None
         self.video_path = None
         
-        self.llm_type = conf.tool.temporal_grounding.llm
+        self.llm_type = conf.tool.temporal_model.llm_type
         
-        weight_path = conf.tool.temporal_grounding.weight_path
+        weight_path = conf.tool.temporal_model.weight_path
         config_path = f"{weight_path}/Phi-3.5-vision-instruct"
         tokenizer_path = f"{weight_path}/Phi-3.5-mini-instruct"
         pretrained_video_path = f"{weight_path}/internvideo/vision-encoder-InternVideo2-stage2_1b-224p-f4.pt"
         pretrained_vision_proj_llm_path = f"{weight_path}/Phi-3.5-vision-instruct-seperated"
         ckpt_path = f"{weight_path}/ckpt/sft_llava_next_video_phi3.5_mix_sft_multi_modal_projector_video_projecter_language_model.pth"
         
-        self.device = conf.tool.temporal_grounding.device
+        self.device = conf.tool.temporal_model.device
         
         args = _get_temporal_args()
         print("Start loading Temporal-Referring-Tool model...\n")

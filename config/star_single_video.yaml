@@ -23,7 +23,7 @@ tool:
   tool_list:
     - "FrameSelector"         # 时序：智能帧选择
     # - "TemporalGrounding"   # 时序：时间定位（需要 Grounded-Video-LLM）
-    # - "TemporalQA"          # 时序：时序问答（需要 Grounded-Video-LLM）
+    - "TemporalQA"          # 时序：时序问答（需要 Grounded-Video-LLM）
     - "ImageGridSelect"       # 时序：网格图片段选择
     - "ImageQA"               # 空间：逐帧问答
     - "ImageGridQA"           # 空间：网格图问答
@@ -33,9 +33,12 @@ tool:
     # - "YOLOTracker"         # 空间：目标跟踪
     # - "ImageCaptionerLLaVA" # 空间：LLaVA 图像描述
 
+
+    # 注意： 同一个模型的 tool 是否共用模型
+
   temporal_model:
     llm_type: "phi3.5"
-    weight_path: "/hf_home/Grounded-Video-LLM/"
+    weight_path: "/hf_home/Grounded-Video-LLM"
     device: "cuda:7"
 
   image_qa:
@@ -77,11 +80,13 @@ tool:
     device: "cuda:1"
 
   video_qa:
-    model_path: "Qwen/Qwen2.5-VL-7B-Instruct"
+    # model_path: "Qwen/Qwen2.5-VL-7B-Instruct"
+    model_path: "/hf_home/hub/models--Qwen--Qwen2.5-VL-7B-Instruct/snapshots/cc594898137f460bfe9f0759e9844b3ce807cfb5"
 
   video_qa_internvl:
-    model_path: "OpenGVLab/InternVL3-8B"
-    num_segments: 256
+    # model_path: "OpenGVLab/InternVL3-8B"
+    model_path: "/hf_home/hub/models--OpenGVLab--InternVL3-8B/snapshots/26dcadeb50cde4369918519c760feb2946814e10"
+    num_segments: 32    # 4090 24G 约支持 32~48 帧，256 会 OOM
 
 # 缓存
 mannual_cache_file: "cache/star_cache.pkl"

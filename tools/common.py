@@ -14,7 +14,10 @@ _temporal_args = None
 def _get_temporal_args():
     global _temporal_args
     if _temporal_args is None:
+        original_argv = sys.argv
+        sys.argv = sys.argv[:1]
         _temporal_args = parse_args()
+        sys.argv = original_argv
     return _temporal_args
 
 # Resize the image while keeping aspect ratio

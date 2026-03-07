@@ -54,6 +54,9 @@ In this work, we equip MLLM with a comprehensive and extensible **Video Toolkit*
         ```python
         git clone git@github.com:WHB139426/Grounded-Video-LLM.git
         ```
+
+        Download the [checkpoint](https://huggingface.co/WHB139426/Grounded-Video-LLM/tree/main) and specify the path in `config/*.yaml`.
+
    - **Build [LLaVA](https://github.com/haotian-liu/LLaVA) for image QA**
 
      ```python
