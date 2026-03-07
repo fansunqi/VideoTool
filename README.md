@@ -2,7 +2,6 @@
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg?logo=github)](https://lbesson.mit-license.org/)
 [![Arxiv](https://img.shields.io/badge/arXiv-2512.10359-B31B1B.svg?logo=arxiv)](https://arxiv.org/abs/2512.10359)
-[![Huggingface](https://img.shields.io/badge/Huggingface-Demo-FFD21E.svg?logo=huggingface)](https://huggingface.co/papers/2512.10359)
 
 This repository is the official implementation of [Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task](https://arxiv.org/abs/2512.10359) (NeurIPS 2025 main track).
 
@@ -135,7 +134,7 @@ bash run_testcases.sh
 
 
 ## Acknowledgments
-We thank the developers of [OctoTools](https://octotools.github.io/) and all authors and developers of the open-source projects we used. 
+We thank the developers of [OctoTools](https://octotools.github.io/) and all developers of the open-source projects we used. 
 
 ## Citation
 If you find our repo useful, please kindly consider citing:
