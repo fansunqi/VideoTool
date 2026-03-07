@@ -7,7 +7,7 @@ This repository is the official implementation of [Tool-Augmented Spatiotemporal
 
 ## News and Todo 🗓️
 
-- [ ] Release all video tools and test scripts
+- [ ] Release tools and test scripts
 
 - [x] Release toolchain algorithm (STAR)
 
@@ -80,10 +80,8 @@ Temporal Tools:
     + Grounded-Video-LLM-7B: https://github.com/WHB139426/Grounded-Video-LLM
 
 Spatial Tools:
-- Object Tracking 
+- Object Detection and Tracking 
     + YOLO by ultralytics: https://github.com/ultralytics/ultralytics
-- Object Detection
-    + TODO
 - Image Captioning
     + BLIP: https://huggingface.co/docs/transformers/model_doc/blip
 - Image QA
@@ -101,13 +99,8 @@ Generalist Tools:
     + Summarize all currect information, driven by LLM.
 
 
-## Download Datasets
-- NeXT-QA：
-  ```
-  git clone git@github.com:doc-doc/NExT-QA.git
-  ```
-  specify your data path in ```config/nextqa.yaml```
-
+## Tools Testing
+See [```tools/test_tools.sh```](https://github.com/fansunqi/VideoTool/blob/main/tools/test_tools.sh)
 
 ## Usage
 Run with single video:
@@ -131,6 +124,14 @@ Run testcases (testcases can be found in ```testcases``` directory.):
 ```
 bash run_testcases.sh
 ```
+
+
+## Download Datasets
+- NeXT-QA：
+  ```
+  git clone git@github.com:doc-doc/NExT-QA.git
+  ```
+  specify your data path in ```config/nextqa.yaml```
 
 
 ## Evaluation
