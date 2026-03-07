@@ -14,7 +14,13 @@ from models.llava_next_video import LLAVA_NEXT_VIDEO
 from inference import parse_args, parse_time_interval
 
 
-args = parse_args()
+_temporal_args = None
+
+def _get_temporal_args():
+    global _temporal_args
+    if _temporal_args is None:
+        _temporal_args = parse_args()
+    return _temporal_args
 
 
 def save_to_json(output_data, output_file):
@@ -102,6 +108,7 @@ def load_temporal_model(weight_path, device, llm_type):
     print("Start loading temporal model...\n")
     
     # TODO 查看一下这里各个参数的含义
+    args = _get_temporal_args()
     model = LLAVA_NEXT_VIDEO(
         dtype=args.dtype, 
         stage=args.stage, 

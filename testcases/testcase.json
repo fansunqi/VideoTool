@@ -1,0 +1,25 @@
+{
+  "video_id": "004",
+  "videoID": "HwnB8aCn8yE",
+  "question_id": "004-1",
+  "task_type": "Temporal Perception",
+  "duration": "short",
+  "domain": "Knowledge",
+  "sub_category": "Humanity & History",
+  "question": "According to the video, which of the following is considered the earliest stage of human evolution?",
+  "options_raw": [
+    "A. Ramapithecus.",
+    "B. Dryopithecus.",
+    "C. Ardipithecus Ramidus.",
+    "D. Homo Sapiens."
+  ],
+  "options": [
+    "Ramapithecus",
+    "Dryopithecus",
+    "Ardipithecus Ramidus",
+    "Homo Sapiens"
+  ],
+  "answer": "B",
+  "question_w_options": "According to the video, which of the following is considered the earliest stage of human evolution? Choose your answer from below options: A.Ramapithecus, B.Dryopithecus, C.Ardipithecus Ramidus, D.Homo Sapiens.",
+  "video_path": "/home/fsq/video_agent/VideoTool/testcases/HwnB8aCn8yE.mp4"
+}

@@ -14,7 +14,13 @@ from mm_utils.video_utils import get_frame_indices
 from mm_utils.utils import *
 from datasets.chat.base_template import LLaMA3_Template, Vicuna_Template, Phi_3_5_Template, DEFAULT_IMAGE_TOKEN, GROUNDING_TOKEN
 
-args = parse_args()
+_temporal_args = None
+
+def _get_temporal_args():
+    global _temporal_args
+    if _temporal_args is None:
+        _temporal_args = parse_args()
+    return _temporal_args
 
 class TemporalReferring:
     def __init__(
@@ -36,6 +42,7 @@ class TemporalReferring:
         
         self.device = conf.tool.temporal_grounding.device
         
+        args = _get_temporal_args()
         print("Start loading Temporal-Referring-Tool model...\n")
         self.model = LLAVA_NEXT_VIDEO(
             dtype=args.dtype, 
@@ -110,6 +117,7 @@ class TemporalReferring:
         temporal_pixel_values = torch.tensor(np.array(temporal_pixel_values)) # [num_frames, 3, 224, 224]
         temporal_pixel_values = temporal_pixel_values.unsqueeze(0)
 
+        args = _get_temporal_args()
         num_frames_per_seg = int(args.num_frames // args.num_segs)
         indices_spatial = [(i*num_frames_per_seg) + int(num_frames_per_seg/2) for i in range(args.num_segs)]
         spatial_pixel_values = []
@@ -120,7 +128,7 @@ class TemporalReferring:
         
         chat_template = {'phi3.5': Phi_3_5_Template(), 'llama3': LLaMA3_Template(), 'vicuna': Vicuna_Template()}[self.llm_type]
 
-        query = re.sub(r'(\d+) seconds', lambda m: f"<{int(float(m.group(1))/duration*args.num_temporal_tokens)}>", query)
+        query = re.sub(r'(\d+) seconds', lambda m: f"<{int(float(m.group(1))/duration*_get_temporal_args().num_temporal_tokens)}>", query)
         conv = [
             {"from": "human", "value": DEFAULT_IMAGE_TOKEN + '\n'+ query},
             {"from": "gpt", "value": ''}                
@@ -143,6 +151,7 @@ class TemporalReferring:
     def inference(self, input):
         samples_referring, duration_referring = self.create_inputs(self.video_path, input)
         
+        args = _get_temporal_args()
         generate_kwargs = {
             "do_sample": args.do_sample,
             "num_beams": args.num_beams,

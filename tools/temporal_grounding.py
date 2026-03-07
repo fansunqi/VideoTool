@@ -14,7 +14,13 @@ from mm_utils.video_utils import get_frame_indices
 from mm_utils.utils import *
 from datasets.chat.base_template import LLaMA3_Template, Vicuna_Template, Phi_3_5_Template, DEFAULT_IMAGE_TOKEN, GROUNDING_TOKEN
 
-args = parse_args()
+_temporal_args = None
+
+def _get_temporal_args():
+    global _temporal_args
+    if _temporal_args is None:
+        _temporal_args = parse_args()
+    return _temporal_args
 
 
 def prompts(name, description):
@@ -114,6 +120,7 @@ class TemporalGrounding:
         temporal_pixel_values = torch.tensor(np.array(temporal_pixel_values)) # [num_frames, 3, 224, 224]
         temporal_pixel_values = temporal_pixel_values.unsqueeze(0)
 
+        args = _get_temporal_args()
         num_frames_per_seg = int(args.num_frames // args.num_segs)
         indices_spatial = [(i*num_frames_per_seg) + int(num_frames_per_seg/2) for i in range(args.num_segs)]
         spatial_pixel_values = []
@@ -155,6 +162,7 @@ class TemporalGrounding:
         
         samples_grounding, duration_grounding = self.create_inputs(self.video_path, prompt_grounding)
         
+        args = _get_temporal_args()
         generate_kwargs = {
             "do_sample": args.do_sample,
             "num_beams": args.num_beams,

@@ -1,0 +1,12 @@
+{
+  "video_path": "testcases/HwnB8aCn8yE.mp4",
+  "question": "According to the video, which of the following is considered the earliest stage of human evolution?",
+  "question_w_options": "According to the video, which of the following is considered the earliest stage of human evolution?\nA. Ramapithecus\nB.Dryopithecus\nC.Ardipithecus Ramidus\nD.Homo Sapiens",
+  "answer": "Based on the options provided, the earliest stage of human evolution is considered to be:\n\nC. Ardipithecus Ramidus\n\nArdipithecus ramidus is one of the oldest known species in the human lineage, dating back to about 4.4 million years ago.",
+  "video_info": {
+    "total_frames": 2428,
+    "fps": 25.0,
+    "duration": 97.12
+  },
+  "visible_frames_num": 86
+}

@@ -14,7 +14,13 @@ from mm_utils.video_utils import get_frame_indices
 from mm_utils.utils import *
 from datasets.chat.base_template import LLaMA3_Template, Vicuna_Template, Phi_3_5_Template, DEFAULT_IMAGE_TOKEN, GROUNDING_TOKEN
 
-args = parse_args()
+_temporal_args = None
+
+def _get_temporal_args():
+    global _temporal_args
+    if _temporal_args is None:
+        _temporal_args = parse_args()
+    return _temporal_args
 
 
 def prompts(name, description):
@@ -132,6 +138,7 @@ class TemporalQA:
     def inference(self, input):
         samples_videoqa = self.create_inputs(self.video_path, input)
         
+        args = _get_temporal_args()
         generate_kwargs = {
             "do_sample": args.do_sample,
             "num_beams": args.num_beams,

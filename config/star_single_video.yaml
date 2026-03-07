@@ -1,0 +1,95 @@
+# STAR (SpatioTemporal Alternating Reasoning) 单视频推理配置
+# 用法: python run_single_video.py --config config/star_single_video.yaml --video_path /path/to/video.mp4 --question "What happens in the video?"
+
+EVAL_MODEL_NAME: "gpt-4o-mini"
+
+reasoning_mode: "star"
+
+# STAR 推理参数
+star:
+  max_iterations: 6           # 最大迭代次数（时序+空间交替）
+  planner_model: "gpt-4o-mini"    # Planner LLM
+  generalist_model: "gpt-4o-mini" # 最终回答 LLM（作为 Summarizer 的 fallback）
+
+# 可见帧初始化
+visible_frames:
+  init_sec_interval: null
+  init_interval_num: 16       # 初始均匀抽 16 帧
+  min_interval: null
+  min_sec_interval: 1
+
+# 工具配置
+tool:
+  tool_list:
+    - "FrameSelector"         # 时序：智能帧选择
+    # - "TemporalGrounding"   # 时序：时间定位（需要 Grounded-Video-LLM）
+    # - "TemporalQA"          # 时序：时序问答（需要 Grounded-Video-LLM）
+    - "ImageGridSelect"       # 时序：网格图片段选择
+    - "ImageQA"               # 空间：逐帧问答
+    - "ImageGridQA"           # 空间：网格图问答
+    - "PatchZoomer"           # 空间：区域放大
+    - "Summarizer"            # 通用：信息汇总生成答案
+    # - "VideoQA"             # 通用：端到端视频问答（需要 Qwen2.5-VL）
+    # - "YOLOTracker"         # 空间：目标跟踪
+    # - "ImageCaptionerLLaVA" # 空间：LLaVA 图像描述
+
+  temporal_model:
+    llm_type: "phi3.5"
+    weight_path: "/hf_home/Grounded-Video-LLM/"
+    device: "cuda:7"
+
+  image_qa:
+    model_path: "liuhaotian/llava-v1.5-7b"
+    batch_size: 10
+    device: "cuda:6"
+
+  image_grid_qa:
+    vlm_gpt_model_name: "gpt-4o"
+    init_grid_size: 4
+    save_path: null
+    mode: "by_visible_frames"
+    with_analysis: true
+    with_subtitle: false
+
+  temporal_grounding:
+    min_sec_interval: 1
+
+  temporal_qa:
+    mode: "by_visible_frames"
+
+  patch_zoomer:
+    vlm_gpt_model_name: "gpt-4o"
+    use_cache: true
+    concurrent: true
+    concurrent_thread_num: 16
+    image_resize: false
+    sys_prompt: null
+
+  summarizer:
+    llm_model_name: "gpt-4o-mini"
+    use_cache: true
+    mode: "by_qa"
+
+  frame_selector:
+    llm_model_name: "gpt-4o-mini"
+
+  image_captioner:
+    device: "cuda:1"
+
+  video_qa:
+    model_path: "Qwen/Qwen2.5-VL-7B-Instruct"
+
+  video_qa_internvl:
+    model_path: "OpenGVLab/InternVL3-8B"
+    num_segments: 256
+
+# 缓存
+mannual_cache_file: "cache/star_cache.pkl"
+use_cache: false
+
+# 输出
+output_path: "output/star/"
+
+try_num: 1
+try_except_mode: false
+to_txt: false

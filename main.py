@@ -58,6 +58,7 @@ from reasoning import (
     spatiotemporal_reasoning_nextqa,
     spatiotemporal_reasoning_videomme
 )
+from star_reasoning import star_reasoning
 
 timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 
@@ -206,6 +207,14 @@ if __name__ == "__main__":
                             frames_count=frames_count,
                             eval_llm=eval_llm,
                         )
+                    elif conf.reasoning_mode == "star":
+                        tool_chain_output = star_reasoning(
+                            question=question,
+                            question_w_options=question_w_options,
+                            tool_instances=tool_instances,
+                            visible_frames=visible_frames,
+                            conf=conf,
+                        )
                     else:
                         raise KeyError("conf.reasoning_mode error")
                 except Exception as e:
@@ -230,6 +239,14 @@ if __name__ == "__main__":
                         tools=tool_instances,
                         frames_count=frames_count,
                         eval_llm=eval_llm,
+                    )
+                elif conf.reasoning_mode == "star":
+                    tool_chain_output = star_reasoning(
+                        question=question,
+                        question_w_options=question_w_options,
+                        tool_instances=tool_instances,
+                        visible_frames=visible_frames,
+                        conf=conf,
                     )
                 else:
                     raise KeyError("conf.reasoning_mode error")
