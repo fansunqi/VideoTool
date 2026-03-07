@@ -15,6 +15,8 @@ This repository is the official implementation of [Tool-Augmented Spatiotemporal
 
 - [ ] Release evaluating scripts
 
+- [ ] Clean requirements.txt
+
 - [ ] Add more tools, e.g., audio-to-text models
 
 ## Introduction 
@@ -70,7 +72,7 @@ Thanks to the authors of these open-source projects for providing excellent proj
 
 Temporal Tools:
 - Frame Selector
-    + select frames of interest based on current information, driven by LLM.
+    + Select frames of interest based on current information, driven by LLM.
 - Temporal Grounding
     + Grounded-Video-LLM-7B: https://github.com/WHB139426/Grounded-Video-LLM
 - Temporal Refering
@@ -81,6 +83,8 @@ Temporal Tools:
 Spatial Tools:
 - Object Tracking 
     + YOLO by ultralytics: https://github.com/ultralytics/ultralytics
+- Object Detection
+    + TODO
 - Image Captioning
     + BLIP: https://huggingface.co/docs/transformers/model_doc/blip
 - Image QA
@@ -92,6 +96,8 @@ Generalist Solution:
     + Image Grid QA driven by GPT-4o: https://github.com/microsoft/VLM-Video-Action-Localization
 - Video QA
     + Qwen-VL-2.5-7B: https://github.com/QwenLM/Qwen2.5-VL
+- Summarizer
+    + Summarize all currect information, driven by LLM.
 
 
 ## Download Datasets
