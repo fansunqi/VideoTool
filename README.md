@@ -11,7 +11,7 @@ This repository is the official implementation of [Tool-Augmented Spatiotemporal
 
 - [ ] Release all video tools and test scripts
 
-- [ ] Release toolchain algorithm (STAR)
+- [x] Release toolchain algorithm (STAR)
 
 - [ ] Release evaluating scripts
 
@@ -98,3 +98,29 @@ Generalist Solution:
   git clone git@github.com:doc-doc/NExT-QA.git
   ```
   specify your data path in ```config/nextqa.yaml```
+
+
+## Usage
+
+```
+cd /home/fsq/video_agent/VideoTool
+
+# reason with single video
+python run_single_video.py \
+    --config config/star_single_video.yaml \
+    --video_path /path/to/video.mp4 \
+    --question "What is happening in the video?"
+
+# reason with single video and options
+python run_single_video.py \
+    --config config/star_single_video.yaml \
+    --video_path /path/to/video.mp4 \
+    --question "What is the person doing?" \
+    --options "A. Running" "B. Swimming" "C. Cooking"
+```
+
+Run testcases:
+```
+bash run.sh
+```
+Testcases can be found in ```testcases``` directory.
