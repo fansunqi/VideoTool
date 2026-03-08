@@ -90,12 +90,12 @@ Spatial Tools:
 - Image QA
     + BLIP: https://huggingface.co/docs/transformers/model_doc/blip
     + LLaVA: https://github.com/haotian-liu/LLaVA
-+ Patch Zooming
+- Patch Zooming
     + Zoom to the key area in the images, driven by VLM. 
-
-Generalist Tools:
 - Image Grid QA
     + Image Grid QA driven by GPT-4o, adapted from https://github.com/microsoft/VLM-Video-Action-Localization
+
+Generalist Tools:
 - Video QA
     + Qwen-VL-2.5-7B: https://github.com/QwenLM/Qwen2.5-VL
     + InternVL3-8B: https://github.com/OpenGVLab/InternVL

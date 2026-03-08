@@ -22,10 +22,20 @@ class YOLOTracker:
                 save: bool = False, 
                 output_id: bool = False):
         
+        # 从 conf 读取配置（如有）
+        if conf is not None and hasattr(conf, 'tool') and hasattr(conf.tool, 'yolo_tracker'):
+            yolo_conf = conf.tool.yolo_tracker
+            model_path = getattr(yolo_conf, 'model_path', model_path)
+            persist = getattr(yolo_conf, 'persist', persist)
+            stream = getattr(yolo_conf, 'stream', stream)
+            save = getattr(yolo_conf, 'save', save)
+            output_id = getattr(yolo_conf, 'output_id', output_id)
+
         self.model = YOLOE(model_path)
         print("Model loaded successfully.")
 
         self.visible_frames = None
+        self.video_path = None
 
         self.persist = persist
         self.stream = stream
@@ -34,6 +44,9 @@ class YOLOTracker:
 
     def set_frames(self, visible_frames):
         self.visible_frames = visible_frames
+
+    def set_video_path(self, video_path):
+        self.video_path = video_path
 
     def track_frames(self, 
               open_vocabulary: List[str]):
