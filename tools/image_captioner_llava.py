@@ -50,27 +50,30 @@ class ImageCaptionerLLaVA:
         conf = None, 
     ):
         self.conf = conf
-        self.device = conf.tool.image_qa.device
+        self.device = conf.tool.image_captioner_llava.device
         self.torch_dtype = torch.float16 if "cuda" in self.device else torch.float32
         
-        self.model_path = conf.tool.image_qa.model_path
-        print(f"Loading {self.model_path} for Image QA...\n")
-        self.llava_tokenizer, self.llava_model, self.llava_image_processor, context_len = load_pretrained_model(
-            model_path=self.model_path,
-            model_base=None,
-            model_name=get_model_name_from_path(self.model_path)
-        )
+        self.model_path = conf.tool.image_captioner_llava.model_path
+        
+        self.llava_tokenizer = None
+        self.llava_model = None
+        self.llava_image_processor = None
         
         self.visible_frames = None
         self.video_path = None
         
-        self.batch_size = conf.tool.image_qa.batch_size
+        self.batch_size = conf.tool.image_captioner_llava.batch_size
 
     def set_frames(self, visible_frames):
         self.visible_frames = visible_frames
     
     def set_video_path(self, video_path):
         self.video_path = video_path  
+
+    def set_model(self, tokenizer, model, image_processor):
+        self.llava_tokenizer = tokenizer
+        self.llava_model = model
+        self.llava_image_processor = image_processor
 
     def image_qa(
         self,
@@ -151,6 +154,7 @@ if __name__ == "__main__":
     import json
     from omegaconf import OmegaConf
     from visible_frames import VisibleFrames
+    from util import load_llava_model
 
     conf = OmegaConf.load("config/star_single_video.yaml")
     with open("testcases/testcase.json") as f:
@@ -166,6 +170,11 @@ if __name__ == "__main__":
     print(f"Initial visible frames: {visible_frames.get_frame_count()}")
 
     captioner = ImageCaptionerLLaVA(conf)
+    tokenizer, model, image_processor = load_llava_model(
+        model_path=conf.tool.image_captioner_llava.model_path,
+        device=conf.tool.image_captioner_llava.device,
+    )
+    captioner.set_model(tokenizer, model, image_processor)
     captioner.set_frames(visible_frames)
     captioner.set_video_path(video_path)
 

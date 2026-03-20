@@ -22,8 +22,9 @@ visible_frames:
 tool:
   tool_list:
     - "FrameSelector"         # 时序：智能帧选择
-    # - "TemporalGrounding"   # 时序：时间定位（需要 Grounded-Video-LLM）
-    - "TemporalQA"          # 时序：时序问答（需要 Grounded-Video-LLM）
+    - "TemporalGrounding"     # 时序：时间定位（需要 Grounded-Video-LLM）
+    - "TemporalQA"            # 时序：时序问答（需要 Grounded-Video-LLM）
+    - "TemporalReferring"     # 时序：时序描述
     - "ImageGridSelect"       # 时序：网格图片段选择
     - "ImageQA"               # 空间：逐帧问答
     - "ImageGridQA"           # 空间：网格图问答
@@ -31,10 +32,7 @@ tool:
     - "Summarizer"            # 通用：信息汇总生成答案
     # - "VideoQA"             # 通用：端到端视频问答（需要 Qwen2.5-VL）
     - "YOLOTracker"         # 空间：目标跟踪
-    # - "ImageCaptionerLLaVA" # 空间：LLaVA 图像描述
-
-
-    # 注意： 同一个模型的 tool 是否共用模型
+    - "ImageCaptionerLLaVA" # 空间：LLaVA 图像描述
 
   temporal_model:
     llm_type: "phi3.5"
@@ -82,6 +80,11 @@ tool:
   video_qa:
     # model_path: "Qwen/Qwen2.5-VL-7B-Instruct"
     model_path: "/hf_home/hub/models--Qwen--Qwen2.5-VL-7B-Instruct/snapshots/cc594898137f460bfe9f0759e9844b3ce807cfb5"
+
+  image_captioner_llava:
+    model_path: "liuhaotian/llava-v1.5-7b"
+    batch_size: 10
+    device: "cuda:6"
 
   yolo_tracker:
     model_path: "checkpoints/yoloe-11l-seg.pt"

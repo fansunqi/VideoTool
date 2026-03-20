@@ -29,7 +29,8 @@ from util import (
     adjust_video_resolution,
     backup_file,
     load_cache,
-    load_temporal_model, 
+    load_temporal_model,
+    load_llava_model,
 )
 
 
@@ -49,6 +50,7 @@ from tools.temporal_qa import TemporalQA
 from tools.video_qa import VideoQA
 from tools.image_captioner_llava import ImageCaptionerLLaVA
 from tools.image_grid_select import ImageGridSelect
+from tools.temporal_referring import TemporalReferring
 
 from visible_frames import get_video_info, VisibleFrames
 
@@ -101,15 +103,40 @@ if __name__ == "__main__":
 
     tool_instances, tools = get_tools(conf)
     
-    if any(isinstance(tool_instance, (TemporalGrounding, TemporalQA)) for tool_instance in tool_instances):
+    if any(isinstance(tool_instance, (TemporalGrounding, TemporalQA, TemporalReferring)) for tool_instance in tool_instances):
         temporal_model = load_temporal_model(
             weight_path=conf.tool.temporal_model.weight_path,
             device=conf.tool.temporal_model.device,
             llm_type=conf.tool.temporal_model.llm_type
         )
         for tool_instance in tool_instances:
-            if isinstance(tool_instance, (TemporalGrounding, TemporalQA)):
+            if isinstance(tool_instance, (TemporalGrounding, TemporalQA, TemporalReferring)):
                 tool_instance.set_model(temporal_model)
+
+    # 加载 LLaVA 模型（如果需要，ImageQA 和 ImageCaptionerLLaVA model_path 相同则共用）
+    has_image_qa = any(isinstance(t, ImageQA) for t in tool_instances)
+    has_captioner_llava = any(isinstance(t, ImageCaptionerLLaVA) for t in tool_instances)
+    if has_image_qa or has_captioner_llava:
+        qa_model_path = conf.tool.image_qa.model_path
+        qa_device = conf.tool.image_qa.device
+        cap_model_path = conf.tool.image_captioner_llava.model_path
+        cap_device = conf.tool.image_captioner_llava.device
+        llava_tok, llava_mdl, llava_proc = None, None, None
+        if has_image_qa:
+            llava_tok, llava_mdl, llava_proc = load_llava_model(qa_model_path, qa_device)
+            for t in tool_instances:
+                if isinstance(t, ImageQA):
+                    t.set_model(llava_tok, llava_mdl, llava_proc)
+        if has_captioner_llava:
+            if has_image_qa and cap_model_path == qa_model_path:
+                for t in tool_instances:
+                    if isinstance(t, ImageCaptionerLLaVA):
+                        t.set_model(llava_tok, llava_mdl, llava_proc)
+            else:
+                cap_tok, cap_mdl, cap_proc = load_llava_model(cap_model_path, cap_device)
+                for t in tool_instances:
+                    if isinstance(t, ImageCaptionerLLaVA):
+                        t.set_model(cap_tok, cap_mdl, cap_proc)
 
     tool_planner_llm = None
 

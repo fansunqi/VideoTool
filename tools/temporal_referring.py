@@ -34,50 +34,19 @@ class TemporalReferring:
         self.visible_frames = None
         self.video_path = None
         
+        self.model = None
+
         self.llm_type = conf.tool.temporal_model.llm_type
-        
-        weight_path = conf.tool.temporal_model.weight_path
-        config_path = f"{weight_path}/Phi-3.5-vision-instruct"
-        tokenizer_path = f"{weight_path}/Phi-3.5-mini-instruct"
-        pretrained_video_path = f"{weight_path}/internvideo/vision-encoder-InternVideo2-stage2_1b-224p-f4.pt"
-        pretrained_vision_proj_llm_path = f"{weight_path}/Phi-3.5-vision-instruct-seperated"
-        ckpt_path = f"{weight_path}/ckpt/sft_llava_next_video_phi3.5_mix_sft_multi_modal_projector_video_projecter_language_model.pth"
-        
         self.device = conf.tool.temporal_model.device
-        
-        args = _get_temporal_args()
-        print("Start loading Temporal-Referring-Tool model...\n")
-        self.model = LLAVA_NEXT_VIDEO(
-            dtype=args.dtype, 
-            stage=args.stage, 
-            max_txt_len=args.max_txt_len, 
-            num_frames=args.num_frames,
-            num_segs=args.num_segs,
-            num_temporal_tokens=args.num_temporal_tokens,
-            lora=args.lora,
-            llm=self.llm_type,
-            attn_implementation=args.attn_implementation,
-            config_path=config_path,
-            tokenizer_path=tokenizer_path,
-            pretrained_video_path=pretrained_video_path,
-            pretrained_vision_proj_llm_path=pretrained_vision_proj_llm_path, 
-        )
-        ckpt = torch.load(ckpt_path, map_location='cpu')['model']
-        if 'multi_modal_projector' in ckpt.keys():
-            self.model.multi_modal_projector.load_state_dict(ckpt['multi_modal_projector'])
-        if 'video_projecter' in ckpt.keys():
-            self.model.video_projecter.load_state_dict(ckpt['video_projecter'])
-        if 'language_model' in ckpt.keys():
-            self.model.language_model.load_state_dict(ckpt['language_model'])  
-        self.model.eval()
-        self.model.to(self.device)
-        print("Finish loading Temporal-Referring-Tool model.\n")
     
     def set_frames(self, visible_frames):
         self.visible_frames = visible_frames  
     
     def set_video_path(self, video_path):
         self.video_path = video_path  
+
+    def set_model(self, model):
+        self.model = model
      
     def read_frames_decord(self, video_path):
         video_reader = VideoReader(video_path, num_threads=1)
@@ -175,6 +144,7 @@ class TemporalReferring:
 if __name__ == "__main__":
     import json
     from visible_frames import VisibleFrames
+    from util import load_temporal_model
 
     conf = OmegaConf.load("config/star_single_video.yaml")
     with open("testcases/testcase.json") as f:
@@ -189,6 +159,12 @@ if __name__ == "__main__":
     )
 
     temporal_referring = TemporalReferring(conf)
+    temporal_model = load_temporal_model(
+        weight_path=conf.tool.temporal_model.weight_path,
+        device=conf.tool.temporal_model.device,
+        llm_type=conf.tool.temporal_model.llm_type,
+    )
+    temporal_referring.set_model(temporal_model)
     temporal_referring.set_frames(visible_frames)
     temporal_referring.set_video_path(video_path)
 

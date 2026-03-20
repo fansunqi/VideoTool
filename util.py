@@ -141,6 +141,22 @@ def load_temporal_model(weight_path, device, llm_type):
     return model
 
 
+def load_llava_model(model_path, device):
+    """共享加载 LLaVA 模型，供 ImageQA 和 ImageCaptionerLLaVA 共用。"""
+    from llava.model.builder import load_pretrained_model
+    from llava.mm_utils import get_model_name_from_path
+
+    torch_dtype = torch.float16 if "cuda" in device else torch.float32
+    print(f"Loading LLaVA model: {model_path} ...\n")
+    tokenizer, model, image_processor, context_len = load_pretrained_model(
+        model_path=model_path,
+        model_base=None,
+        model_name=get_model_name_from_path(model_path),
+    )
+    print("Finish loading LLaVA model.\n")
+    return tokenizer, model, image_processor
+
+
 def read_lvb_subtitles(subtitles):
     # with open(subtitle_path, 'r', encoding='utf-8') as f:
     #     subtitles = json.load(f)

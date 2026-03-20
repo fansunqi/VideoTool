@@ -27,7 +27,7 @@ torch.cuda.manual_seed(12345)
 from omegaconf import OmegaConf
 
 from visible_frames import get_video_info, VisibleFrames
-from util import adjust_video_resolution, load_temporal_model
+from util import adjust_video_resolution, load_temporal_model, load_llava_model
 from star_reasoning import star_reasoning
 
 # 工具导入（与 main.py 一致，用于 globals() 动态实例化）
@@ -43,6 +43,7 @@ from tools.temporal_qa import TemporalQA
 from tools.video_qa import VideoQA
 from tools.image_captioner_llava import ImageCaptionerLLaVA
 from tools.image_grid_select import ImageGridSelect
+from tools.temporal_referring import TemporalReferring
 
 
 def get_tool_instances(conf):
@@ -129,15 +130,42 @@ def main():
     tool_instances = get_tool_instances(conf)
     
     # 加载时序模型（如果需要）
-    if any(isinstance(t, (TemporalGrounding, TemporalQA)) for t in tool_instances):
+    if any(isinstance(t, (TemporalGrounding, TemporalQA, TemporalReferring)) for t in tool_instances):
         temporal_model = load_temporal_model(
             weight_path=conf.tool.temporal_model.weight_path,
             device=conf.tool.temporal_model.device,
             llm_type=conf.tool.temporal_model.llm_type
         )
         for t in tool_instances:
-            if isinstance(t, (TemporalGrounding, TemporalQA)):
+            if isinstance(t, (TemporalGrounding, TemporalQA, TemporalReferring)):
                 t.set_model(temporal_model)
+    
+    # 加载 LLaVA 模型（如果需要，ImageQA 和 ImageCaptionerLLaVA model_path 相同则共用）
+    has_image_qa = any(isinstance(t, ImageQA) for t in tool_instances)
+    has_captioner_llava = any(isinstance(t, ImageCaptionerLLaVA) for t in tool_instances)
+    if has_image_qa or has_captioner_llava:
+        qa_model_path = conf.tool.image_qa.model_path
+        qa_device = conf.tool.image_qa.device
+        cap_model_path = conf.tool.image_captioner_llava.model_path
+        cap_device = conf.tool.image_captioner_llava.device
+        # 加载 ImageQA 的模型
+        llava_tok, llava_mdl, llava_proc = None, None, None
+        if has_image_qa:
+            llava_tok, llava_mdl, llava_proc = load_llava_model(qa_model_path, qa_device)
+            for t in tool_instances:
+                if isinstance(t, ImageQA):
+                    t.set_model(llava_tok, llava_mdl, llava_proc)
+        # ImageCaptionerLLaVA：model_path 相同则共用，否则单独加载
+        if has_captioner_llava:
+            if has_image_qa and cap_model_path == qa_model_path:
+                for t in tool_instances:
+                    if isinstance(t, ImageCaptionerLLaVA):
+                        t.set_model(llava_tok, llava_mdl, llava_proc)
+            else:
+                cap_tok, cap_mdl, cap_proc = load_llava_model(cap_model_path, cap_device)
+                for t in tool_instances:
+                    if isinstance(t, ImageCaptionerLLaVA):
+                        t.set_model(cap_tok, cap_mdl, cap_proc)
     
     # 给所有工具设置 visible_frames 和 video_path
     for tool_instance in tool_instances:

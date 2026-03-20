@@ -9,9 +9,9 @@ This repository is the official implementation of [Tool-Augmented Spatiotemporal
 
 - [x] Release tools and test scripts
 
-- [x] Release toolchain algorithm (STAR)
+- [x] Release toolchain algorithm (STAR) and test cases
 
-- [ ] Release evaluating scripts
+- [ ] Release benchmark evaluating scripts
 
 - [ ] Clean requirements.txt
 
