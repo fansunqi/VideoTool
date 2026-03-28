@@ -25,6 +25,17 @@ def _get_temporal_args():
         sys.argv = original_argv
     return _temporal_args
 
+
+def prompts(name, description):
+    
+    def decorator(func):
+        func.name = name
+        func.description = description
+        return func
+
+    return decorator
+
+
 class TemporalReferring:
     def __init__(
         self,
@@ -118,8 +129,12 @@ class TemporalReferring:
         }
     
         return samples, duration
-    
-    
+
+    @prompts(
+        name = "temporal-referring-tool",
+        description = "Useful when you want to describe or understand what happens during a specific time segment of the video."
+        "The input to this tool must be a question about a specific time range, such as 'What is happening from 10 seconds to 30 seconds?'."
+    )
     def inference(self, input):
         samples_referring, duration_referring = self.create_inputs(self.video_path, input)
         
