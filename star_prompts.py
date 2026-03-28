@@ -64,6 +64,21 @@ Key principles:
 3. Choose the tool that will provide the most useful additional information.
 4. If the collected information is sufficient to answer the question, set info_sufficient=True.
 5. Provide a clear, specific input for the selected tool (usually the question or a relevant sub-question).
+
+CRITICAL RULES:
+6. After a temporal tool (e.g., frame extraction) has been used, newly extracted frames have NOT been analyzed yet. You MUST use a spatial tool to analyze these new frames BEFORE concluding that information is sufficient. NEVER set info_sufficient=True immediately after a temporal tool.
+7. Frame indices reflect temporal order in the video: lower frame indices correspond to earlier moments, higher frame indices correspond to later moments. When the question asks about "earliest", "first", or "beginning", pay special attention to information from frames with the LOWEST indices.
+
+IMPORTANT STRATEGY FOR SPATIAL TOOLS (ImageQA, ImageCaptioner, etc.):
+8. When using spatial tools like ImageQA, ask **descriptive/factual questions** about what is visible in each frame, NOT the overall question directly. Spatial tools analyze each frame independently — a single frame cannot determine global/comparative answers (e.g., "what is the earliest/latest", "how many total", "what happens most often").
+   - BAD example: "What is the earliest stage of human evolution in the video?" (each frame will claim its own content is the answer)
+   - GOOD example: "What species name, text, or label is displayed in this frame?" or "What event or action is shown in this frame?"
+   - GOOD example: "What time period or date is mentioned in this frame?" or "What numbers or statistics are visible?"
+9. Break the overall question into descriptive sub-questions that extract factual information from each frame. The Summarizer will later synthesize all frame-level facts to answer the original question.
+
+AVOIDING REDUNDANT QUERIES:
+10. Do NOT repeatedly use the same tool_input across iterations. If you have already asked a question to ImageQA, use a DIFFERENT sub-question next time to gather complementary information (e.g., first ask about text/labels, then about time periods, then about visual details).
+11. Review the "QA Information" section carefully — if frames already have answers for a particular question, asking the same question again will yield no new information.
 """
 
 
@@ -88,6 +103,9 @@ STAR_PLANNER_USER_PROMPT = """## Question
 ### QA Information
 {qa_descriptions}
 
+## Previous Tool Calls
+{tool_history_description}
+
 ## Iteration Status
 - Current iteration: {current_iteration} / {max_iterations}
 - Previous tool type: {last_tool_type}
@@ -99,6 +117,7 @@ STAR_PLANNER_USER_PROMPT = """## Question
 Based on the question and the information collected so far, select the best tool to gather more information, or indicate that the information is sufficient.
 - If this is iteration {current_iteration} of {max_iterations} and you still need more info, prioritize the most impactful tool.
 - If the collected information is clearly sufficient to answer the question, set info_sufficient to True.
+- IMPORTANT: Do NOT reuse the same tool_input as any previous call. If you need to use the same tool again, formulate a DIFFERENT sub-question to extract complementary information.
 """
 
 
@@ -106,10 +125,17 @@ Based on the question and the information collected so far, select the best tool
 # Generalist（最终回答）System Prompt
 # ============================================================
 
-STAR_GENERALIST_SYSTEM_PROMPT = """You are an expert AI assistant for video question answering. Based on the collected frame information from a video, provide an accurate and concise answer to the question."""
+STAR_GENERALIST_SYSTEM_PROMPT = """You are an expert AI assistant for video question answering. Based on the collected frame information from a video, provide an accurate and concise answer to the question.
+
+IMPORTANT: Each frame was analyzed independently, so individual frame answers may contain incorrect global claims (e.g., each frame might claim its content is "the earliest" or "the most important"). You must reason across ALL frames to determine the correct answer, using frame indices as temporal ordering (lower index = earlier in video)."""
 
 
 STAR_GENERALIST_USER_PROMPT = """Regarding a given video, based on the frame information to answer the following question as best you can.
+
+IMPORTANT TEMPORAL REASONING RULES:
+1. Frame indices indicate temporal position — lower indices appear EARLIER, higher indices appear LATER in the video.
+2. Each frame's answer describes ONLY what is visible in that single frame. Do NOT trust individual frame claims about global properties (e.g., "this is the earliest"). Instead, compare information across ALL frames.
+3. When different frames mention different time periods, compare the actual values to determine temporal order.
 
 Frame Information: 
 {frame_information}

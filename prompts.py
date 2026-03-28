@@ -52,6 +52,13 @@ Question:
 
 QUERY_PREFIX_INFO = """Regarding a given video, based on the frame information to answer the following question as best you can.
 
+IMPORTANT TEMPORAL REASONING RULES:
+1. The frames are listed in chronological order. Frame indices indicate temporal position in the video — lower frame indices appear EARLIER in the video and higher frame indices appear LATER.
+2. When answering questions about "earliest", "first", or "beginning", focus on the information from frames with the LOWEST indices. When answering questions about "latest", "last", or "end", focus on frames with the HIGHEST indices.
+3. CRITICAL: Each frame's answer describes ONLY what is visible in that single frame. If multiple frames each claim to show "the earliest/first/most important" thing, do NOT trust those claims at face value. Instead, use the FRAME INDEX to determine temporal order — the content shown in the lowest-indexed frames genuinely appears first in the video.
+4. When different frames mention different time periods (e.g., "15 million years ago" vs "7 million years ago"), compare the actual time values to determine which is truly earliest/latest, rather than relying on each frame's self-assessment.
+5. Synthesize information across ALL frames before drawing conclusions. Look for patterns, timelines, and progressions rather than taking any single frame's answer as definitive.
+
 Frame Information: 
 {frame_information}
 

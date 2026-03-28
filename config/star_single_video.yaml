@@ -37,12 +37,12 @@ tool:
   temporal_model:
     llm_type: "phi3.5"
     weight_path: "/hf_home/Grounded-Video-LLM"
-    device: "cuda:7"
+    device: "cuda:0"
 
   image_qa:
     model_path: "liuhaotian/llava-v1.5-7b"
     batch_size: 10
-    device: "cuda:6"
+    device: "cuda:1"
 
   image_grid_qa:
     vlm_gpt_model_name: "gpt-4o"
@@ -75,7 +75,7 @@ tool:
     llm_model_name: "gpt-4o-mini"
 
   image_captioner:
-    device: "cuda:1"
+    device: "cuda:0"
 
   video_qa:
     # model_path: "Qwen/Qwen2.5-VL-7B-Instruct"
@@ -84,7 +84,7 @@ tool:
   image_captioner_llava:
     model_path: "liuhaotian/llava-v1.5-7b"
     batch_size: 10
-    device: "cuda:6"
+    device: "cuda:1"
 
   yolo_tracker:
     model_path: "checkpoints/yoloe-11l-seg.pt"

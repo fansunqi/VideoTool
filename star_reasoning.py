@@ -181,6 +181,19 @@ def build_star_graph(
         qa_descriptions = visible_frames.get_qa_descriptions()
         video_info = visible_frames.video_info
         
+        # 构造工具调用历史描述
+        tool_history = state.get("tool_history", [])
+        if tool_history:
+            history_lines = []
+            for h in tool_history:
+                history_lines.append(
+                    f"- Iteration {h['iteration']}: {h['tool_name']} (type: {h['tool_type']}), "
+                    f"input: \"{h['tool_input']}\""
+                )
+            tool_history_description = "\n".join(history_lines)
+        else:
+            tool_history_description = "No tools have been called yet."
+        
         # 构造 Planner Prompt
         user_prompt = STAR_PLANNER_USER_PROMPT.format(
             question=question,
@@ -190,6 +203,7 @@ def build_star_graph(
             num_visible_frames=visible_frames.get_frame_count(),
             frame_descriptions=frame_descriptions,
             qa_descriptions=qa_descriptions,
+            tool_history_description=tool_history_description,
             current_iteration=iteration_count + 1,
             max_iterations=max_iterations,
             last_tool_type=last_tool_type,
@@ -215,8 +229,15 @@ def build_star_graph(
             print(f"[STAR Planner] Tool input: {decision.tool_input}")
             
             # 如果 LLM 判断信息已充足
+            # 安全检查：如果上一步是 temporal 工具，新提取的帧尚未被空间工具分析，
+            # 不能直接结束，必须继续用 spatial 工具处理新帧
             if decision.info_sufficient:
-                return {"should_end": True}
+                if last_tool_type == "temporal":
+                    print(f"[STAR Planner] Override: info_sufficient=True rejected because last tool was temporal. "
+                          f"New frames must be analyzed by a spatial tool first.")
+                    decision.info_sufficient = False
+                else:
+                    return {"should_end": True}
             
             # 验证选择的工具是否在可用列表中
             available_names = [inst.inference.name for inst in available_tools]

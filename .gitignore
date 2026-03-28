@@ -28,3 +28,4 @@ misc/IG*/
 src/detectron2
 misc/*.webm
 output/
+log*.txt
