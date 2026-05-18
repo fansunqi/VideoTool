@@ -5,18 +5,6 @@
 
 This repository is the official implementation of [Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task](https://arxiv.org/abs/2512.10359) (NeurIPS 2025 main track).
 
-## News and Todo 🗓️
-
-- [x] Release tools and test scripts
-
-- [x] Release toolchain algorithm (STAR) and test cases
-
-- [ ] Release benchmark evaluating scripts
-
-- [ ] Clean requirements.txt
-
-- [ ] Add more tools, e.g., audio-to-text models
-
 ## Introduction 
 
 In this work, we equip MLLM with a comprehensive and extensible **Video Toolkit**, to enhance MLLM's spatiotemporal reasoning capabilities and ensure the harmony between the quantity and diversity of tools. To better control the tool invocation sequence and avoid toolchain shortcut issues, we propose a **Spatiotemporal Reasoning Framework (STAR)** that strategically schedules temporal and spatial tools, thereby progressively localizing the key area in the video. Our STAR framework enhances GPT-4o using lightweight tools, achieving an 8.2% gain on VideoMME and 4.6% on LongVideoBench. 
@@ -128,18 +116,6 @@ Run testcases (testcases can be found in ```testcases``` directory.):
 ```
 bash run_testcases.sh
 ```
-
-
-## Download Datasets
-- NeXT-QA：
-  ```
-  git clone git@github.com:doc-doc/NExT-QA.git
-  ```
-  specify your data path in ```config/nextqa.yaml```
-
-
-## Evaluation
-
 
 ## Acknowledgments
 We thank the developers of [OctoTools](https://octotools.github.io/) and all developers of the open-source projects we used. 
