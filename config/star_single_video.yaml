@@ -31,6 +31,7 @@ tool:
     - "PatchZoomer"           # 空间：区域放大
     - "Summarizer"            # 通用：信息汇总生成答案
     # - "VideoQA"             # 通用：端到端视频问答（需要 Qwen2.5-VL）
+    # - "VideoQAInternVL"     # 通用：端到端视频问答（InternVL3，用于最终回答阶段）
     - "YOLOTracker"         # 空间：目标跟踪
     - "ImageCaptionerLLaVA" # 空间：LLaVA 图像描述
 

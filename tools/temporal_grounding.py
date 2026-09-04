@@ -9,21 +9,12 @@ import decord
 from decord import VideoReader
 
 from models.llava_next_video import LLAVA_NEXT_VIDEO
-from inference import parse_args
+from inference import parse_time_interval
 from mm_utils.video_utils import get_frame_indices
 from mm_utils.utils import *
 from datasets.chat.base_template import LLaMA3_Template, Vicuna_Template, Phi_3_5_Template, DEFAULT_IMAGE_TOKEN, GROUNDING_TOKEN
 
-_temporal_args = None
-
-def _get_temporal_args():
-    global _temporal_args
-    if _temporal_args is None:
-        original_argv = sys.argv
-        sys.argv = sys.argv[:1]
-        _temporal_args = parse_args()
-        sys.argv = original_argv
-    return _temporal_args
+from util import _get_temporal_args
 
 
 def prompts(name, description):
@@ -34,25 +25,6 @@ def prompts(name, description):
         return func
 
     return decorator
-
-
-def parse_time_interval(text, duration, num_temporal_tokens=300, llm='phi3.5'):
-    pattern = r"<(\d+)>"
-    replaced_xs = []
-
-    def replace_func(match):
-        x = int(match.group(1))
-        replaced_xs.append(x)
-        m = duration * x / num_temporal_tokens
-        if llm == 'phi3.5':
-            return f" {m:.2f} seconds"
-        elif llm == 'llama3':
-            return f"{m:.2f} seconds"
-        else:
-            return f"{m:.2f} sec"  # fallback
-
-    new_text = re.sub(pattern, replace_func, text)
-    return new_text, replaced_xs
 
 
 

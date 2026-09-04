@@ -310,7 +310,7 @@ def build_star_graph(
     # Generalist Node (最终回答)
     # ----------------------------------------------------------
     def generalist_node(state: STARState) -> dict:
-        """使用 Summarizer 或 LLM 生成最终答案"""
+        """使用 Summarizer 和/或 VideoQAInternVL 生成最终答案"""
         
         question = state.get("question_w_options", state["question"])
         
@@ -319,35 +319,97 @@ def build_star_graph(
         print(f"[STAR Generalist] Total iterations: {state['iteration_count']}")
         print(f"[STAR Generalist] Tool history: {[h['tool_name'] for h in state.get('tool_history', [])]}")
         
-        # 优先尝试使用 Summarizer 工具实例
-        summarizer = _get_tool_instance_by_name(tool_instances, "summarization-tool")
+        # 收集各 generalist 工具的答案
+        candidate_answers = {}
         
+        # 1. 尝试 Summarizer（基于逐帧分析信息汇总）
+        summarizer = _get_tool_instance_by_name(tool_instances, "summarization-tool")
         if summarizer is not None:
             print("[STAR Generalist] Using Summarizer tool")
             try:
-                answer = summarizer.inference(input=question)
-                return {"final_answer": answer}
+                summarizer_answer = summarizer.inference(input=question)
+                candidate_answers["summarizer"] = summarizer_answer
+                print(f"[STAR Generalist] Summarizer answer: {summarizer_answer}")
             except Exception as e:
-                print(f"[STAR Generalist] Summarizer failed: {e}, falling back to LLM")
+                print(f"[STAR Generalist] Summarizer failed: {e}")
         
-        # Fallback: 直接用 LLM 汇总
-        # 获取帧信息
-        frame_info = visible_frames.get_qa_descriptions()
-        if frame_info == "No QA information available.":
-            frame_info = visible_frames.get_frame_descriptions()
+        # 2. 尝试 VideoQAInternVL（端到端视频问答）
+        video_qa_internvl = _get_tool_instance_by_name(tool_instances, "video-qa-internvl-tool")
+        if video_qa_internvl is not None:
+            print("[STAR Generalist] Using VideoQAInternVL tool")
+            try:
+                internvl_answer = video_qa_internvl.inference(input=question)
+                candidate_answers["video_qa_internvl"] = internvl_answer
+                print(f"[STAR Generalist] VideoQAInternVL answer: {internvl_answer}")
+            except Exception as e:
+                print(f"[STAR Generalist] VideoQAInternVL failed: {e}")
         
-        user_prompt = STAR_GENERALIST_USER_PROMPT.format(
-            frame_information=frame_info,
-            question=question,
-        )
+        # 3. 尝试 VideoQA / Qwen（端到端视频问答）
+        video_qa = _get_tool_instance_by_name(tool_instances, "video-qa-tool")
+        if video_qa is not None:
+            print("[STAR Generalist] Using VideoQA tool")
+            try:
+                video_qa_answer = video_qa.inference(input=question)
+                candidate_answers["video_qa"] = video_qa_answer
+                print(f"[STAR Generalist] VideoQA answer: {video_qa_answer}")
+            except Exception as e:
+                print(f"[STAR Generalist] VideoQA failed: {e}")
         
-        answer = generalist_llm.generate(
-            user_prompt,
-            system_prompt=STAR_GENERALIST_SYSTEM_PROMPT,
-        )
+        # 根据候选答案数量决定策略
+        if len(candidate_answers) == 0:
+            # 没有任何 generalist 工具可用，用 LLM 直接汇总
+            print("[STAR Generalist] No generalist tools available, falling back to LLM")
+            frame_info = visible_frames.get_qa_descriptions()
+            if frame_info == "No QA information available.":
+                frame_info = visible_frames.get_frame_descriptions()
+            
+            user_prompt = STAR_GENERALIST_USER_PROMPT.format(
+                frame_information=frame_info,
+                question=question,
+            )
+            answer = generalist_llm.generate(
+                user_prompt,
+                system_prompt=STAR_GENERALIST_SYSTEM_PROMPT,
+            )
+            print(f"[STAR Generalist] LLM Fallback answer: {answer}")
+            return {"final_answer": str(answer)}
         
-        print(f"[STAR Generalist] Answer: {answer}")
-        return {"final_answer": str(answer)}
+        elif len(candidate_answers) == 1:
+            # 只有一个候选，直接返回
+            answer = list(candidate_answers.values())[0]
+            return {"final_answer": str(answer)}
+        
+        else:
+            # 多个候选答案，用 LLM 综合判断
+            print(f"[STAR Generalist] Synthesizing {len(candidate_answers)} candidate answers")
+            
+            # 获取帧分析信息作为参考
+            frame_info = visible_frames.get_qa_descriptions()
+            if frame_info == "No QA information available.":
+                frame_info = visible_frames.get_frame_descriptions()
+            
+            answers_text = "\n\n".join([
+                f"### Answer from {source}:\n{ans}" 
+                for source, ans in candidate_answers.items()
+            ])
+            
+            synthesis_prompt = (
+                f"You are given a question about a video and multiple candidate answers from different tools. "
+                f"Synthesize the best final answer by considering all candidates and the frame-level evidence.\n\n"
+                f"## Frame-level evidence:\n{frame_info}\n\n"
+                f"## Candidate answers:\n{answers_text}\n\n"
+                f"## Question:\n{question}\n\n"
+                f"Based on the above, provide the best final answer. "
+                f"If candidates agree, confirm their answer. "
+                f"If they disagree, use the frame-level evidence to determine the most accurate answer."
+            )
+            
+            answer = generalist_llm.generate(
+                synthesis_prompt,
+                system_prompt=STAR_GENERALIST_SYSTEM_PROMPT,
+            )
+            print(f"[STAR Generalist] Synthesized answer: {answer}")
+            return {"final_answer": str(answer)}
 
     # ----------------------------------------------------------
     # 条件路由

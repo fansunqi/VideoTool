@@ -51,6 +51,7 @@ from tools.video_qa import VideoQA
 from tools.image_captioner_llava import ImageCaptionerLLaVA
 from tools.image_grid_select import ImageGridSelect
 from tools.temporal_referring import TemporalReferring
+from tools.video_qa_internvl import VideoQAInternVL
 
 from visible_frames import get_video_info, VisibleFrames
 

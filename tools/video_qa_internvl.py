@@ -12,6 +12,16 @@ import pdb
 IMAGENET_MEAN = (0.485, 0.456, 0.406)
 IMAGENET_STD = (0.229, 0.224, 0.225)
 
+
+def prompts(name, description):
+    
+    def decorator(func):
+        func.name = name
+        func.description = description
+        return func
+
+    return decorator
+
 def build_transform(input_size):
     MEAN, STD = IMAGENET_MEAN, IMAGENET_STD
     transform = T.Compose([
@@ -165,6 +175,13 @@ class VideoQAInternVL:
                                     num_patches_list=num_patches_list, history=None, return_history=True)
         return response
 
+    @prompts(
+        name = "video-qa-internvl-tool",
+        description = "An end-to-end video question answering tool powered by InternVL3. "
+        "It takes the entire video and a question as input, and directly generates an answer. "
+        "Useful for holistic video understanding questions. "
+        "The input should be a clear question about the video."
+    )
     def inference(self, input):
         result = self.video_qa(prompt_videoqa=input)
         return result
